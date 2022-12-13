@@ -1,0 +1,1 @@
+All releases of Common Sans font family will be placed at [Local Fonts](https://localfonts.eu/). Please follow the link.

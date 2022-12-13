@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043D.loclBGR" format="2">
+  <advance width="602"/>
+  <anchor x="310.333" y="500" name="t.uni0302"/>
+  <outline>
+    <contour>
+      <point x="33" y="-2" type="curve"/>
+      <point x="72" y="-1"/>
+      <point x="113" y="0"/>
+      <point x="161.667" y="0" type="curve"/>
+      <point x="205.14" y="-0.44"/>
+      <point x="249.193" y="-1"/>
+      <point x="290.333" y="-2" type="curve"/>
+      <point x="296.333" y="4.16667"/>
+      <point x="296.333" y="25.4167"/>
+      <point x="290.333" y="31.6667" type="curve"/>
+      <point x="229.333" y="35"/>
+      <point x="218.333" y="39.3333"/>
+      <point x="218.333" y="122" type="curve"/>
+      <point x="105" y="122" type="line"/>
+      <point x="105" y="39.3333"/>
+      <point x="94" y="35"/>
+      <point x="33" y="31.6667" type="curve"/>
+      <point x="27" y="25.4167"/>
+      <point x="27" y="4.16667"/>
+    </contour>
+    <contour>
+      <point x="203" y="211" type="line"/>
+      <point x="414.333" y="211" type="line" name=".hr01"/>
+      <point x="414.333" y="248" type="line"/>
+      <point x="203" y="248" type="line"/>
+    </contour>
+    <contour>
+      <point x="327.333" y="-2" type="curve"/>
+      <point x="366.333" y="-1" name=".hr02"/>
+      <point x="407.333" y="0"/>
+      <point x="456" y="0" type="curve"/>
+      <point x="499.473" y="-0.44"/>
+      <point x="543.527" y="-1"/>
+      <point x="584.667" y="-2" type="curve"/>
+      <point x="590.667" y="4.16667"/>
+      <point x="590.667" y="25.4167"/>
+      <point x="584.667" y="31.6667" type="curve"/>
+      <point x="523.667" y="35"/>
+      <point x="512.667" y="39.3333"/>
+      <point x="512.667" y="122" type="curve"/>
+      <point x="399.333" y="122" type="line"/>
+      <point x="399.333" y="39.3333"/>
+      <point x="388.333" y="35"/>
+      <point x="327.333" y="31.6667" type="curve"/>
+      <point x="321.333" y="25.4167"/>
+      <point x="321.333" y="4.16667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=dotlessi</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5fe71fa0e5f69bafa3fc08829a77fc69177911f4d8579715767420c4381422964924b7862a7880872d100196ce8db2ed8fc6bfbf3d629bbebd3e1f66ce94e419</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 250</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 211 37</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 250</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
