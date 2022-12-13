@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kappa" format="2">
-  <advance width="736"/>
-  <unicode hex="039A"/>
-  <anchor x="330" y="850" name="m.uni0302"/>
-  <anchor x="336" y="-110" name="m.uni0316_2"/>
-  <anchor x="643" y="732" name="m.uni031A_3"/>
-  <anchor x="354" y="740" name="t.uni0302"/>
-  <outline>
-    <component base="K"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>K</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="039A"/>
+	<advance width="736"/>
+	<outline>
+		<component base="K"/>
+	</outline>
+	<anchor name="m.uni0302" x="330" y="850"/>
+	<anchor name="m.uni0316_2" x="336" y="-110"/>
+	<anchor name="m.uni031A_3" x="643" y="732"/>
+	<anchor name="t.uni0302" x="354" y="740"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>K</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

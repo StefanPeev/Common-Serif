@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02ED" format="2">
-  <advance width="486"/>
-  <unicode hex="02ED"/>
-  <outline>
-    <contour>
-      <point x="482" y="714" type="line"/>
-      <point x="482" y="768" type="line"/>
-      <point x="5" y="768" type="line"/>
-      <point x="5" y="714" type="line"/>
-    </contour>
-    <contour>
-      <point x="482" y="577" type="line"/>
-      <point x="482" y="631" type="line"/>
-      <point x="5" y="631" type="line"/>
-      <point x="5" y="577" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w486m482,714l482,768l5,768l5,714m482,577l482,631l5,631l5,577</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 714 54</string>
-          <string>vstem 5 477</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="02ED"/>
+	<advance width="486"/>
+	<outline>
+		<contour>
+			<point x="482" y="714" type="line"/>
+			<point x="482" y="768" type="line"/>
+			<point x="5" y="768" type="line"/>
+			<point x="5" y="714" type="line"/>
+		</contour>
+		<contour>
+			<point x="482" y="577" type="line"/>
+			<point x="482" y="631" type="line"/>
+			<point x="5" y="631" type="line"/>
+			<point x="5" y="577" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 714 54</string>
+							<string>vstem 5 477</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w486m482,714l482,768l5,768l5,714m482,577l482,631l5,631l5,577</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>
