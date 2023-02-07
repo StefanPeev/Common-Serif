@@ -4,25 +4,6 @@
 	<advance width="479"/>
 	<outline>
 		<contour>
-			<point x="146" y="429" type="curve" smooth="yes"/>
-			<point x="103" y="429"/>
-			<point x="68" y="430"/>
-			<point x="35" y="431" type="curve"/>
-			<point x="29" y="425"/>
-			<point x="29" y="404"/>
-			<point x="35" y="398" type="curve"/>
-			<point x="96" y="394"/>
-			<point x="107" y="390"/>
-			<point x="107" y="307" type="curve" smooth="yes"/>
-			<point x="107" y="122" type="line" smooth="yes"/>
-			<point x="107" y="39"/>
-			<point x="96" y="36"/>
-			<point x="35" y="31" type="curve"/>
-			<point x="29" y="25"/>
-			<point x="29" y="4"/>
-			<point x="35" y="-2" type="curve"/>
-			<point x="68" y="-1"/>
-			<point x="103" y="0"/>
 			<point x="147" y="0" type="curve" smooth="yes"/>
 			<point x="184" y="0"/>
 			<point x="217" y="-2"/>
@@ -42,6 +23,25 @@
 			<point x="256" y="431" type="curve" smooth="yes"/>
 			<point x="215" y="431"/>
 			<point x="189" y="429"/>
+			<point x="146" y="429" type="curve" smooth="yes"/>
+			<point x="103" y="429"/>
+			<point x="68" y="430"/>
+			<point x="35" y="431" type="curve"/>
+			<point x="29" y="425"/>
+			<point x="29" y="404"/>
+			<point x="35" y="398" type="curve"/>
+			<point x="96" y="394"/>
+			<point x="107" y="390"/>
+			<point x="107" y="307" type="curve" smooth="yes"/>
+			<point x="107" y="122" type="line" smooth="yes"/>
+			<point x="107" y="39"/>
+			<point x="96" y="36"/>
+			<point x="35" y="31" type="curve"/>
+			<point x="29" y="25"/>
+			<point x="29" y="4"/>
+			<point x="35" y="-2" type="curve"/>
+			<point x="68" y="-1"/>
+			<point x="103" y="0"/>
 		</contour>
 		<contour>
 			<point x="186" y="217" type="line"/>
@@ -81,11 +81,11 @@
 					<dict>
 						<key>stems</key>
 						<array>
-							<string>hstem 398 33</string>
-							<string>vstem 107 79</string>
 							<string>hstem -2 33</string>
 							<string>vstem 349 86</string>
 							<string>hstem 217 29</string>
+							<string>hstem 398 33</string>
+							<string>vstem 107 79</string>
 						</array>
 					</dict>
 					<dict>
@@ -95,9 +95,9 @@
 						<array>
 							<string>vstem 340 80</string>
 							<string>hstem 398 33</string>
-							<string>hstem 217 29</string>
 							<string>vstem 107 79</string>
 							<string>hstem -2 33</string>
+							<string>hstem 217 29</string>
 						</array>
 					</dict>
 					<dict>
@@ -126,7 +126,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>3ee2bd36808926b98113c032c514eee4e6830b13f8b5bb52c7df298473ccf21810644dc81f4304b82779a81f4f4621e026aff70cff872ca928abb7ffd7ed1157</string>
+				<string>2ebe25cebe7c09c172e8c9a240db5593cfdc55f8a555f804c3791d00c53efd2533a906625450dcba3061248b708b973456549bff1137152d7c503651a7471566</string>
 			</dict>
 		</dict>
 	</lib>

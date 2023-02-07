@@ -4,10 +4,10 @@
 	<advance width="577"/>
 	<outline>
 		<contour>
-			<point x="396.667" y="77.3333" type="line"/>
-			<point x="450.667" y="77.3333" type="line"/>
-			<point x="450.667" y="388" type="line"/>
-			<point x="396.667" y="388" type="line"/>
+			<point x="370.667" y="-232.667" type="line"/>
+			<point x="476.667" y="-232.667" type="line"/>
+			<point x="476.667" y="698" type="line"/>
+			<point x="370.667" y="698" type="line"/>
 		</contour>
 		<contour>
 			<point x="253.333" y="-232.667" type="line"/>
@@ -18,7 +18,7 @@
 		<contour>
 			<point x="192.667" y="60" type="curve" smooth="yes"/>
 			<point x="192.667" y="95.6667"/>
-			<point name=".hr01" x="162" y="125"/>
+			<point x="162" y="125"/>
 			<point x="125.667" y="125" type="curve" smooth="yes"/>
 			<point x="89.3333" y="125"/>
 			<point x="60" y="97"/>
@@ -55,28 +55,19 @@
 					<dict>
 						<key>stems</key>
 						<array>
-							<string>hstem 77.33 -20</string>
-							<string>vstem 396.67 54</string>
-							<string>hstem 409 -21</string>
-							<string>vstem 253.33 54.67</string>
-							<string>vstem 60 132.67</string>
-						</array>
-					</dict>
-					<dict>
-						<key>pointTag</key>
-						<string>.hr01</string>
-						<key>stems</key>
-						<array>
+							<string>hstem -211.67 -21</string>
 							<string>hstem -3 128</string>
-							<string>vstem 60 132.67</string>
 							<string>hstem 295 128</string>
+							<string>hstem 698 -20</string>
+							<string>vstem 60 132.67</string>
+							<string>vstem 60 248</string>
 							<string>vstem 253.33 54.67</string>
-							<string>vstem 396.67 54</string>
+							<string>vstem 370.67 106</string>
 						</array>
 					</dict>
 				</array>
 				<key>id</key>
-				<string>cfe8f681e77557d54e88591090bdf5b0e30ea12b4906913ede0848d2836bf29ef6c65a9aac1d3df2013230eb0d4ce73bbe8d590022df935c3ce7f28ed7ab9089</string>
+				<string>96196a6756cfa0b70bd520bdb1864bff011df3fbf59fbe4303e14c9c23f72aff2c8b02d50bc74ac3bbe500930d161edb1e33f62b33b50df84d71c5c6414ff0a7</string>
 			</dict>
 		</dict>
 	</lib>

@@ -4,9 +4,6 @@
 	<advance width="390"/>
 	<outline>
 		<contour>
-			<point x="48" y="138" type="curve"/>
-			<point x="52" y="89"/>
-			<point x="55" y="42"/>
 			<point x="55" y="0" type="curve"/>
 			<point x="65" y="2"/>
 			<point x="75" y="3"/>
@@ -61,6 +58,9 @@
 			<point name=".hr02" x="79" y="139" type="curve"/>
 			<point x="73" y="145"/>
 			<point x="54" y="144"/>
+			<point x="48" y="138" type="curve"/>
+			<point x="52" y="89"/>
+			<point x="55" y="42"/>
 		</contour>
 		<contour>
 			<point x="140" y="-156" type="curve" smooth="yes"/>
@@ -102,8 +102,8 @@
 					<dict>
 						<key>stems</key>
 						<array>
-							<string>vstem 55 24</string>
 							<string>hstem 21 -21</string>
+							<string>vstem 55 24</string>
 							<string>hstem -208 100</string>
 							<string>hstem 406 33</string>
 							<string>hstem 547 100</string>
@@ -131,9 +131,9 @@
 						<key>stems</key>
 						<array>
 							<string>vstem 55 24</string>
+							<string>hstem 21 -21</string>
 							<string>vstem 140 100</string>
 							<string>hstem -208 100</string>
-							<string>hstem -10 33</string>
 							<string>hstem 406 33</string>
 							<string>hstem 547 100</string>
 							<string>vstem 274 76</string>
@@ -155,7 +155,7 @@
 					</dict>
 				</array>
 				<key>id</key>
-				<string>a9487da5b627740d0c2c51f7e443842a54b991c073a39d2d2afb52f9a626107e8fc45e72a3139ef198a4b9b8385476b6151ca54af948e5b8b236c337a1668632</string>
+				<string>6e4d1412428a57c4d888ede14478d6520825887d7b350ddaf1f783d9f92ddeb66a7e72a3e093fb45d027f4ca05f2b307bc42db2a9f911d578f595868f055ead3</string>
 			</dict>
 		</dict>
 	</lib>
