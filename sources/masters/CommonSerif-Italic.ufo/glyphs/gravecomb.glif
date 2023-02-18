@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="-3" y="683" name="_m.uni0302"/>
+  <anchor x="-24" y="500" name="_t.uni0302"/>
+  <anchor x="-18" y="500" name="_top"/>
+  <outline>
+    <component base="grave" xOffset="-338"/>
+  </outline>
+  <guideline angle="78" x="-169" y="11"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 547 163</string>
+          <string>vstem -100 135</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

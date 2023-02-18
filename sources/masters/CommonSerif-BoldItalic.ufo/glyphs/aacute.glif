@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aacute" format="2">
+  <advance width="518"/>
+  <unicode hex="00E1"/>
+  <anchor x="174" y="-108" name="b.uni0316_3"/>
+  <anchor x="413" y="16" name="b.uni0321_5"/>
+  <anchor x="179" y="-3" name="b.uni0327_6"/>
+  <anchor x="301" y="557" name="t.acutedot"/>
+  <outline>
+    <component base="a"/>
+    <component base="acutecomb" xOffset="410"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

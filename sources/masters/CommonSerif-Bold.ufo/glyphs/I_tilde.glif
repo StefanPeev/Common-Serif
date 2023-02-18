@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="2">
+  <advance width="367"/>
+  <unicode hex="0128"/>
+  <anchor x="147" y="-110" name="m.uni0316_2"/>
+  <anchor x="147" y="1" name="b.uni0327_5"/>
+  <anchor x="148" y="325" name="b.uni0334_6"/>
+  <outline>
+    <component base="I"/>
+    <component base="tildecomb" xOffset="323" yOffset="210"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

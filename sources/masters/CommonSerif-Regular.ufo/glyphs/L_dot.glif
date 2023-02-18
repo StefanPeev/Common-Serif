@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="528"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="289" y="335" type="curve" smooth="yes"/>
+      <point x="289" y="307"/>
+      <point x="313" y="283"/>
+      <point x="341" y="283" type="curve" smooth="yes"/>
+      <point x="369" y="283"/>
+      <point x="393" y="307"/>
+      <point x="393" y="335" type="curve" smooth="yes"/>
+      <point x="393" y="363"/>
+      <point x="369" y="387"/>
+      <point x="341" y="387" type="curve" smooth="yes"/>
+      <point x="313" y="387"/>
+      <point x="289" y="363"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w528m289,335c289,307 313,283 341,283c369,283 393,307 393,335c393,363 369,387 341,387c313,387 289,363 289,335</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 39</string>
+          <string>hstem 283 104</string>
+          <string>hstem 647 -20</string>
+          <string>vstem 106 85</string>
+          <string>vstem 289 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

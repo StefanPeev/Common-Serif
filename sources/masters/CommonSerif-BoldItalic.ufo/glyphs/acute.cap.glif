@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="2">
+  <anchor x="12" y="740" name="_t.uni0302"/>
+  <anchor x="-35" y="784" name="t.acutedot"/>
+  <anchor x="2" y="740" name="_top"/>
+  <outline>
+    <component base="acute" xOffset="-212" yOffset="240"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 701 132</string>
+          <string>vstem -301 211</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

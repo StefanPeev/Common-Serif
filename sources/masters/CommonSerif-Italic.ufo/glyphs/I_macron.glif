@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+  <advance width="280"/>
+  <unicode hex="012A"/>
+  <anchor x="296" y="740" name="t.uni0302"/>
+  <anchor x="127" y="-109" name="m.uni0316_2"/>
+  <anchor x="145" y="1" name="b.uni0327_5"/>
+  <outline>
+    <component base="I"/>
+    <component base="macron" xOffset="7" yOffset="216"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+macron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>
