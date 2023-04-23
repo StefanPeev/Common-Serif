@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o" format="2">
-	<unicode hex="006F"/>
-	<advance width="520"/>
-	<outline>
-		<contour>
-			<point x="39.6667" y="205.667" type="curve" smooth="yes"/>
-			<point x="39.6667" y="92.9378"/>
-			<point x="113.215" y="-10"/>
-			<point x="253.6" y="-10" type="curve" smooth="yes"/>
-			<point x="389.95" y="-10"/>
-			<point x="480" y="85.6113"/>
-			<point x="480" y="213.728" type="curve" smooth="yes"/>
-			<point x="480" y="331.071"/>
-			<point x="413.815" y="440.667"/>
-			<point x="265.041" y="440.667" type="curve" smooth="yes"/>
-			<point x="125.774" y="440.667"/>
-			<point x="39.6667" y="337.272"/>
-		</contour>
-		<contour>
-			<point x="248.024" y="403.333" type="curve" smooth="yes"/>
-			<point x="328.289" y="403.333"/>
-			<point x="376" y="323.173"/>
-			<point x="376" y="182.667" type="curve" smooth="yes"/>
-			<point x="376" y="67.6787"/>
-			<point x="320.122" y="27.3333"/>
-			<point x="271.868" y="27.3333" type="curve" smooth="yes"/>
-			<point x="181.731" y="27.3333"/>
-			<point x="143.667" y="141.05"/>
-			<point x="143.667" y="228.333" type="curve" smooth="yes"/>
-			<point x="143.667" y="324.942"/>
-			<point x="180.029" y="403.333"/>
-		</contour>
-	</outline>
-	<anchor name="t.uni0302" x="245.333" y="500"/>
-	<anchor name="t.uni0315_1" x="420" y="396"/>
-	<anchor name="m.uni0316_2" x="243" y="-110"/>
-	<anchor name="b.uni0321_4" x="372" y="44"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -10 37.33</string>
-							<string>hstem 403.33 37.33</string>
-							<string>vstem 39.67 104</string>
-							<string>vstem 376 104</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>20e4e0c732cce9eeab82dbb4e88bc7a19217e2c85b66e664be9d01d2b843f5cb18cccf17d8bb0c45bbbac7969874f66ece3e189f4be2ce1e88af579b3f1ce614</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="520"/>
+  <unicode hex="006F"/>
+  <anchor x="245.333" y="500" name="t.uni0302"/>
+  <anchor x="420" y="396" name="t.uni0315_1"/>
+  <anchor x="243" y="-110" name="m.uni0316_2"/>
+  <anchor x="372" y="44" name="b.uni0321_4"/>
+  <outline>
+    <contour>
+      <point x="39.6667" y="205.667" type="curve" smooth="yes"/>
+      <point x="39.6667" y="92.9378"/>
+      <point x="113.215" y="-10"/>
+      <point x="253.6" y="-10" type="curve" smooth="yes"/>
+      <point x="389.95" y="-10"/>
+      <point x="480" y="85.6113"/>
+      <point x="480" y="213.728" type="curve" smooth="yes"/>
+      <point x="480" y="331.071"/>
+      <point x="413.815" y="440.667"/>
+      <point x="265.041" y="440.667" type="curve" smooth="yes"/>
+      <point x="125.774" y="440.667"/>
+      <point x="39.6667" y="337.272"/>
+    </contour>
+    <contour>
+      <point x="248.024" y="403.333" type="curve" smooth="yes"/>
+      <point x="328.289" y="403.333"/>
+      <point x="376" y="323.173"/>
+      <point x="376" y="182.667" type="curve" smooth="yes"/>
+      <point x="376" y="67.6787"/>
+      <point x="320.122" y="27.3333"/>
+      <point x="271.868" y="27.3333" type="curve" smooth="yes"/>
+      <point x="181.731" y="27.3333"/>
+      <point x="143.667" y="141.05"/>
+      <point x="143.667" y="228.333" type="curve" smooth="yes"/>
+      <point x="143.667" y="324.942"/>
+      <point x="180.029" y="403.333"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>20e4e0c732cce9eeab82dbb4e88bc7a19217e2c85b66e664be9d01d2b843f5cb18cccf17d8bb0c45bbbac7969874f66ece3e189f4be2ce1e88af579b3f1ce614</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 37.33</string>
+          <string>hstem 403.33 37.33</string>
+          <string>vstem 39.67 104</string>
+          <string>vstem 376 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

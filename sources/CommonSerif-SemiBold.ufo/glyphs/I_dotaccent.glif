@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idotaccent" format="2">
-	<unicode hex="0130"/>
-	<advance width="344"/>
-	<outline>
-		<component base="I"/>
-		<contour>
-			<point x="113" y="765" type="curve" smooth="yes"/>
-			<point x="113" y="733"/>
-			<point x="139.667" y="706.333"/>
-			<point x="171.667" y="706.333" type="curve" smooth="yes"/>
-			<point x="203.667" y="706.333"/>
-			<point x="230.333" y="733"/>
-			<point x="230.333" y="765" type="curve" smooth="yes"/>
-			<point x="230.333" y="797"/>
-			<point x="203.667" y="823.667"/>
-			<point x="171.667" y="823.667" type="curve" smooth="yes"/>
-			<point x="139.667" y="823.667"/>
-			<point x="113" y="797"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 706.33 117.33</string>
-							<string>vstem 113 117.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>55b2023b31cf577542b5eed5b85d5ef22cc4951e1715d6b5ff112dfbde3be2d8c9b53bd7c2473d98f3c9a05235f3afd097ac98d6751bbc7d90aec1d8100aaf31</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="344"/>
+  <unicode hex="0130"/>
+  <outline>
+    <component base="I"/>
+    <contour>
+      <point x="113" y="765" type="curve" smooth="yes"/>
+      <point x="113" y="733"/>
+      <point x="139.667" y="706.333"/>
+      <point x="171.667" y="706.333" type="curve" smooth="yes"/>
+      <point x="203.667" y="706.333"/>
+      <point x="230.333" y="733"/>
+      <point x="230.333" y="765" type="curve" smooth="yes"/>
+      <point x="230.333" y="797"/>
+      <point x="203.667" y="823.667"/>
+      <point x="171.667" y="823.667" type="curve" smooth="yes"/>
+      <point x="139.667" y="823.667"/>
+      <point x="113" y="797"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>55b2023b31cf577542b5eed5b85d5ef22cc4951e1715d6b5ff112dfbde3be2d8c9b53bd7c2473d98f3c9a05235f3afd097ac98d6751bbc7d90aec1d8100aaf31</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 706.33 117.33</string>
+          <string>vstem 113 117.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

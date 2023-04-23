@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="2">
-	<unicode hex="013F"/>
-	<advance width="561"/>
-	<outline>
-		<component base="L"/>
-		<contour>
-			<point x="343.667" y="368.333" type="curve" smooth="yes"/>
-			<point x="343.667" y="337"/>
-			<point x="367.667" y="307"/>
-			<point x="403.667" y="307" type="curve" smooth="yes"/>
-			<point x="443" y="307"/>
-			<point x="468.333" y="339"/>
-			<point x="468.333" y="365.667" type="curve" smooth="yes"/>
-			<point x="468.333" y="395"/>
-			<point x="445" y="427"/>
-			<point x="407.667" y="427" type="curve" smooth="yes"/>
-			<point x="367" y="427"/>
-			<point x="343.667" y="397.667"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 307 120</string>
-							<string>vstem 343.67 124.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>f6dea623fa9b48b871a0fdaa55c06fb447e83a3865ed536f0bb4d5949c3d299bde598e179c2a7606bb427924dc738ab37a9c520ce11ca46c40297af0d37fe68c</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="561"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="343.667" y="368.333" type="curve" smooth="yes"/>
+      <point x="343.667" y="337"/>
+      <point x="367.667" y="307"/>
+      <point x="403.667" y="307" type="curve" smooth="yes"/>
+      <point x="443" y="307"/>
+      <point x="468.333" y="339"/>
+      <point x="468.333" y="365.667" type="curve" smooth="yes"/>
+      <point x="468.333" y="395"/>
+      <point x="445" y="427"/>
+      <point x="407.667" y="427" type="curve" smooth="yes"/>
+      <point x="367" y="427"/>
+      <point x="343.667" y="397.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f6dea623fa9b48b871a0fdaa55c06fb447e83a3865ed536f0bb4d5949c3d299bde598e179c2a7606bb427924dc738ab37a9c520ce11ca46c40297af0d37fe68c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 307 120</string>
+          <string>vstem 343.67 124.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

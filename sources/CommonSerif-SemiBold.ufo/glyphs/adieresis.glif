@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis" format="2">
-	<unicode hex="00E4"/>
-	<advance width="490"/>
-	<outline>
-		<component base="a"/>
-		<component base="uni0308" xyScale="0" xOffset="435" yOffset="-23.3333"/>
-	</outline>
-	<anchor name="m.uni0316_2" x="196" y="-110"/>
-	<anchor name="b.uni0321_4" x="410" y="16"/>
-	<anchor name="t.ring" x="226.015" y="500"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>a+uni0308</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="490"/>
+  <unicode hex="00E4"/>
+  <anchor x="196" y="-110" name="m.uni0316_2"/>
+  <anchor x="410" y="16" name="b.uni0321_4"/>
+  <anchor x="226.015" y="500" name="t.ring"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni0308" xyScale="-8.28967e-19" xOffset="435" yOffset="-23.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01B6" format="2">
-	<unicode hex="01B6"/>
-	<advance width="433"/>
-	<outline>
-		<component base="z"/>
-		<contour>
-			<point x="232.542" y="235.333" type="line"/>
-			<point x="70.3333" y="235.333" type="line"/>
-			<point x="70.3333" y="198" type="line"/>
-			<point x="172.333" y="198" type="line"/>
-		</contour>
-		<contour>
-			<point x="223.75" y="198" type="line"/>
-			<point x="341.667" y="198" type="line"/>
-			<point x="341.667" y="235.333" type="line"/>
-			<point x="270.333" y="235.333" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 198 37.33</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w433m232.54,235.33l70.33,235.33l70.33,198l172.33,198m223.75,198l341.67,198l341.67,235.33l270.33,235.33</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="433"/>
+  <unicode hex="01B6"/>
+  <outline>
+    <component base="z"/>
+    <contour>
+      <point x="232.542" y="235.333" type="line"/>
+      <point x="70.3333" y="235.333" type="line"/>
+      <point x="70.3333" y="198" type="line"/>
+      <point x="172.333" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.75" y="198" type="line"/>
+      <point x="341.667" y="198" type="line"/>
+      <point x="341.667" y="235.333" type="line"/>
+      <point x="270.333" y="235.333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w433m232.54,235.33l70.33,235.33l70.33,198l172.33,198m223.75,198l341.67,198l341.67,235.33l270.33,235.33</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 198 37.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

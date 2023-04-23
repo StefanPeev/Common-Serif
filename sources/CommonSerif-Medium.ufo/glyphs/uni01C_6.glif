@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C6" format="2">
-	<unicode hex="01C6"/>
-	<advance width="958"/>
-	<outline>
-		<component base="d"/>
-		<component base="zcaron" xOffset="524.333"/>
-	</outline>
-	<anchor name="m.uni0302" x="218" y="645"/>
-	<anchor name="t.uni0315_1" x="500" y="466"/>
-	<anchor name="m.uni0316_2" x="731.333" y="-110"/>
-	<anchor name="m.uni031A_3" x="923.333" y="580"/>
-	<anchor name="b.uni0321_4" x="312" y="20"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>d_zcaron</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="958"/>
+  <unicode hex="01C6"/>
+  <anchor x="218" y="645" name="m.uni0302"/>
+  <anchor x="500" y="466" name="t.uni0315_1"/>
+  <anchor x="731.333" y="-110" name="m.uni0316_2"/>
+  <anchor x="923.333" y="580" name="m.uni031A_3"/>
+  <anchor x="312" y="20" name="b.uni0321_4"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xScale="1" xOffset="524.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d_zcaron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

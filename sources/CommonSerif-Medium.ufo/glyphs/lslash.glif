@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-	<unicode hex="0142"/>
-	<advance width="284"/>
-	<outline>
-		<component base="l"/>
-		<contour>
-			<point x="26.3333" y="263.333" type="line"/>
-			<point x="109.836" y="314.119" type="line"/>
-			<point x="109.959" y="356.986" type="line"/>
-			<point x="9" y="298.667" type="line"/>
-		</contour>
-		<contour>
-			<point x="179.529" y="356.342" type="line"/>
-			<point x="278" y="413.333" type="line"/>
-			<point x="260.667" y="449.333" type="line"/>
-			<point x="179.703" y="399.877" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 449.33 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w284m26.33,263.33l109.84,314.12l109.96,356.99l9,298.67m179.53,356.34l278,413.33l260.67,449.33l179.7,399.88</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="284"/>
+  <unicode hex="0142"/>
+  <outline>
+    <component base="l"/>
+    <contour>
+      <point x="26.3333" y="263.333" type="line"/>
+      <point x="109.836" y="314.119" type="line"/>
+      <point x="109.959" y="356.986" type="line"/>
+      <point x="9" y="298.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="179.529" y="356.342" type="line"/>
+      <point x="278" y="413.333" type="line"/>
+      <point x="260.667" y="449.333" type="line"/>
+      <point x="179.703" y="399.877" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w284m26.33,263.33l109.84,314.12l109.96,356.99l9,298.67m179.53,356.34l278,413.33l260.67,449.33l179.7,399.88</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 449.33 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

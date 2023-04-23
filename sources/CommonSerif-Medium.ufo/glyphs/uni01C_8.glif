@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C8" format="2">
-	<unicode hex="01C8"/>
-	<advance width="830"/>
-	<outline>
-		<component base="L"/>
-		<component base="j" xOffset="544.333"/>
-	</outline>
-	<anchor name="m.uni0302" x="150.333" y="850"/>
-	<anchor name="m.uni0316_2" x="653.333" y="-319"/>
-	<anchor name="m.uni031A_3" x="470.333" y="732"/>
-	<anchor name="t.uni0302" x="159.667" y="740"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>L_j</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="830"/>
+  <unicode hex="01C8"/>
+  <anchor x="150.333" y="850" name="m.uni0302"/>
+  <anchor x="653.333" y="-319" name="m.uni0316_2"/>
+  <anchor x="470.333" y="732" name="m.uni031A_3"/>
+  <anchor x="159.667" y="740" name="t.uni0302"/>
+  <outline>
+    <component base="L"/>
+    <component base="j" xScale="1" xOffset="544.333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L_j</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01B6" format="2">
-	<unicode hex="01B6"/>
-	<advance width="443"/>
-	<outline>
-		<component base="z"/>
-		<contour>
-			<point x="223.333" y="234.667" type="line"/>
-			<point x="69.6667" y="234.667" type="line"/>
-			<point x="69.6667" y="199" type="line"/>
-			<point x="165.667" y="199" type="line"/>
-		</contour>
-		<contour>
-			<point x="240.375" y="199" type="line"/>
-			<point x="342.833" y="199" type="line"/>
-			<point x="342.833" y="234.667" type="line"/>
-			<point x="282.667" y="234.667" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 199 35.67</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w443m223.33,234.67l69.67,234.67l69.67,199l165.67,199m240.38,199l342.83,199l342.83,234.67l282.67,234.67</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="443"/>
+  <unicode hex="01B6"/>
+  <outline>
+    <component base="z"/>
+    <contour>
+      <point x="223.333" y="234.667" type="line"/>
+      <point x="69.6667" y="234.667" type="line"/>
+      <point x="69.6667" y="199" type="line"/>
+      <point x="165.667" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="240.375" y="199" type="line"/>
+      <point x="342.833" y="199" type="line"/>
+      <point x="342.833" y="234.667" type="line"/>
+      <point x="282.667" y="234.667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w443m223.33,234.67l69.67,234.67l69.67,199l165.67,199m240.38,199l342.83,199l342.83,234.67l282.67,234.67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 199 35.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

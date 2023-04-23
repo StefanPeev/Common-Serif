@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="2">
-	<unicode hex="013D"/>
-	<advance width="561"/>
-	<outline>
-		<component base="L"/>
-		<contour>
-			<point x="420" y="698" type="curve" smooth="yes"/>
-			<point x="386" y="698"/>
-			<point x="374" y="680"/>
-			<point x="374" y="664" type="curve" smooth="yes"/>
-			<point x="374" y="648"/>
-			<point x="379" y="624"/>
-			<point x="420" y="624" type="curve" smooth="yes"/>
-			<point x="427.333" y="624"/>
-			<point x="432" y="616"/>
-			<point x="432" y="605" type="curve" smooth="yes"/>
-			<point x="432" y="582"/>
-			<point x="413" y="545"/>
-			<point x="371" y="536" type="curve"/>
-			<point x="375.333" y="519" type="line"/>
-			<point x="459.333" y="525"/>
-			<point x="480" y="595.667"/>
-			<point x="480" y="625" type="curve" smooth="yes"/>
-			<point x="480" y="661"/>
-			<point x="458" y="698"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 624 74</string>
-							<string>vstem 432 48</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>1e6ad431cd997fcb7294dcc55df10c01ce5b5a5a0c3f3a41e45e8296bae998b7382e11cbb45e968dd4bc5baac4ee858f9003b76a1af9338b587e458c334b2349</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="561"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="L"/>
+    <contour>
+      <point x="420" y="698" type="curve" smooth="yes"/>
+      <point x="386" y="698"/>
+      <point x="374" y="680"/>
+      <point x="374" y="664" type="curve" smooth="yes"/>
+      <point x="374" y="648"/>
+      <point x="379" y="624"/>
+      <point x="420" y="624" type="curve" smooth="yes"/>
+      <point x="427.333" y="624"/>
+      <point x="432" y="616"/>
+      <point x="432" y="605" type="curve" smooth="yes"/>
+      <point x="432" y="582"/>
+      <point x="413" y="545"/>
+      <point x="371" y="536" type="curve"/>
+      <point x="375.333" y="519" type="line"/>
+      <point x="459.333" y="525"/>
+      <point x="480" y="595.667"/>
+      <point x="480" y="625" type="curve" smooth="yes"/>
+      <point x="480" y="661"/>
+      <point x="458" y="698"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1e6ad431cd997fcb7294dcc55df10c01ce5b5a5a0c3f3a41e45e8296bae998b7382e11cbb45e968dd4bc5baac4ee858f9003b76a1af9338b587e458c334b2349</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 624 74</string>
+          <string>vstem 432 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>
