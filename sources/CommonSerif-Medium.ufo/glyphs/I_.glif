@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="320"/>
+  <advance width="321"/>
   <unicode hex="0049"/>
   <anchor x="161.333" y="740" name="t.uni0302"/>
   <anchor x="147" y="-110" name="m.uni0316_2"/>
@@ -16,11 +16,25 @@
       <point x="305" y="4"/>
       <point x="305" y="25.3333"/>
       <point x="297.667" y="31.3333" type="curve"/>
-      <point x="232.667" y="34.3333"/>
-      <point x="212" y="39"/>
-      <point x="212" y="122" type="curve" smooth="yes"/>
-      <point x="212" y="523" type="line" smooth="yes"/>
-      <point x="212" y="606"/>
+      <point x="232.667" y="34.335"/>
+      <point x="212" y="39.0039"/>
+      <point x="212" y="122.051" type="curve"/>
+      <point x="108.667" y="122.051" type="line"/>
+      <point x="108.667" y="39.0039"/>
+      <point x="88" y="34.335"/>
+      <point x="23" y="31.3333" type="curve"/>
+      <point x="15.6667" y="25.3333"/>
+      <point x="15.6667" y="4"/>
+    </contour>
+    <contour>
+      <point x="108.667" y="122" type="line"/>
+      <point x="212" y="122" type="line"/>
+      <point x="212" y="523" type="line"/>
+      <point x="108.667" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="523" type="line"/>
+      <point x="212" y="595.05"/>
       <point x="232.667" y="610.667"/>
       <point x="297.667" y="613.667" type="curve"/>
       <point x="305" y="619.667"/>
@@ -36,14 +50,8 @@
       <point x="15.6667" y="619.667"/>
       <point x="23" y="613.667" type="curve"/>
       <point x="88" y="610.667"/>
-      <point x="108.667" y="606"/>
-      <point x="108.667" y="523" type="curve" smooth="yes"/>
-      <point x="108.667" y="122" type="line" smooth="yes"/>
-      <point x="108.667" y="39"/>
-      <point x="88" y="34.3333"/>
-      <point x="23" y="31.3333" type="curve"/>
-      <point x="15.6667" y="25.3333"/>
-      <point x="15.6667" y="4"/>
+      <point x="108.775" y="595.05"/>
+      <point x="108.667" y="523" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +61,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>914369a934209d51dc582e841d6ef0deab5251fe52bd9726523ac8f627d6a4cff44c75a96080d0e8def51313965c34f69920f888b6028145b989c902e64a557d</string>
+    <string>62c1dd1e4a7501065d6ec925d2c9771cb70e258d32355d682e1ee6be6de9f71d189bba54516c8d2d00787214cf5025058f9d104e831e6bf5e2b5c1baba206e98</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="367"/>
+  <advance width="368"/>
   <unicode hex="0049"/>
   <anchor x="184" y="740" name="t.uni0302"/>
   <anchor x="147" y="-110" name="m.uni0316_2"/>
   <anchor x="147" y="1" name="b.uni0327_5"/>
   <anchor x="148" y="325" name="b.uni0334_6"/>
   <outline>
+    <contour>
+      <point x="114" y="122" type="line"/>
+      <point x="254" y="122" type="line"/>
+      <point x="254" y="523" type="line"/>
+      <point x="114" y="523" type="line"/>
+    </contour>
     <contour>
       <point x="31" y="-2" type="curve"/>
       <point x="71" y="-1"/>
@@ -18,11 +24,19 @@
       <point x="347" y="4"/>
       <point x="347" y="26"/>
       <point x="337" y="32" type="curve"/>
-      <point x="282" y="35"/>
-      <point x="254" y="39"/>
-      <point x="254" y="122" type="curve" smooth="yes"/>
-      <point x="254" y="523" type="line" smooth="yes"/>
-      <point x="254" y="606"/>
+      <point x="282" y="35.0051"/>
+      <point x="254" y="39.0118"/>
+      <point x="254" y="122.152" type="curve"/>
+      <point x="114" y="122.152" type="line"/>
+      <point x="114" y="39.0118"/>
+      <point x="86" y="35.0051"/>
+      <point x="31" y="32" type="curve"/>
+      <point x="21" y="26"/>
+      <point x="21" y="4"/>
+    </contour>
+    <contour>
+      <point x="254" y="523" type="line"/>
+      <point x="254" y="573.15"/>
       <point x="282" y="610"/>
       <point x="337" y="613" type="curve"/>
       <point x="347" y="619"/>
@@ -38,14 +52,8 @@
       <point x="21" y="619"/>
       <point x="31" y="613" type="curve"/>
       <point x="86" y="610"/>
-      <point x="114" y="606"/>
-      <point x="114" y="523" type="curve" smooth="yes"/>
-      <point x="114" y="122" type="line" smooth="yes"/>
-      <point x="114" y="39"/>
-      <point x="86" y="35"/>
-      <point x="31" y="32" type="curve"/>
-      <point x="21" y="26"/>
-      <point x="21" y="4"/>
+      <point x="114.324" y="573.15"/>
+      <point x="114" y="523" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +63,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ae9e42540364bd17336804510a92e8f6040290f83cf53430a1fdc3711e626242b333042fbf9e740aa0cb30f27956a54c23dc9dbaf7603535d1e6c7064c8ddbc5</string>
+    <string>dba9ce252c072bedf76dffec0610691e40e4c8c1366858d07c45e05024623ce71a85a46e143f5ab9e1f599ca7fd1898201cbd7a2957400810c7d40fc749c38ad</string>
     <key>hintSetList</key>
     <array>
       <dict>

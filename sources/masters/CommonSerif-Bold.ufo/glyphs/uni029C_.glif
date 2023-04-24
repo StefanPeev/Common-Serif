@@ -14,7 +14,7 @@
       <point x="291" y="402" type="curve"/>
       <point x="297" y="408"/>
       <point x="297" y="430"/>
-      <point x="291" y="436" type="curve"/>
+      <point x="291" y="436" type="curve" name=".hr01"/>
       <point x="269" y="435"/>
       <point x="217" y="434"/>
       <point x="169" y="434" type="curve" smooth="yes"/>
@@ -33,7 +33,7 @@
       <point x="27" y="32" type="curve"/>
       <point x="21" y="26"/>
       <point x="21" y="4"/>
-      <point x="27" y="-2" type="curve"/>
+      <point x="27" y="-2" type="curve" name=".hr02"/>
       <point x="69" y="-1"/>
       <point x="114" y="0"/>
       <point x="169" y="0" type="curve" smooth="yes"/>
@@ -46,7 +46,7 @@
       <point x="250" y="35"/>
       <point x="234" y="44"/>
       <point x="234" y="127" type="curve" smooth="yes"/>
-      <point x="234" y="212" type="line"/>
+      <point x="234" y="212" type="line" name=".hr03"/>
       <point x="399" y="212" type="line"/>
       <point x="399" y="127" type="line" smooth="yes"/>
       <point x="399" y="44"/>
@@ -54,7 +54,7 @@
       <point x="342" y="32" type="curve"/>
       <point x="336" y="26"/>
       <point x="336" y="4"/>
-      <point x="342" y="-2" type="curve"/>
+      <point x="342" y="-2" type="curve" name=".hr04"/>
       <point x="365" y="-1"/>
       <point x="416" y="0"/>
       <point x="464" y="0" type="curve" smooth="yes"/>
@@ -73,7 +73,7 @@
       <point x="606" y="402" type="curve"/>
       <point x="612" y="408"/>
       <point x="612" y="430"/>
-      <point x="606" y="436" type="curve"/>
+      <point x="606" y="436" type="curve" name=".hr05"/>
       <point x="563" y="435"/>
       <point x="519" y="434"/>
       <point x="464" y="434" type="curve" smooth="yes"/>
@@ -100,12 +100,60 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>vstem 399 130</string>
           <string>hstem -2 253</string>
-          <string>hstem 212 39</string>
+          <string>vstem 104 130</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem 212 224</string>
           <string>vstem 104 130</string>
           <string>vstem 399 130</string>
         </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 253</string>
+          <string>vstem 104 130</string>
+          <string>vstem 399 130</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 212 39</string>
+          <string>vstem 104 130</string>
+          <string>vstem 399 130</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 253</string>
+          <string>vstem 399 130</string>
+          <string>vstem 104 130</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr04</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 212 224</string>
+          <string>vstem 399 130</string>
+          <string>vstem 104 130</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr05</string>
       </dict>
     </array>
   </dict>

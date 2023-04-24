@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="2">
-	<unicode hex="00D1"/>
-	<advance width="695"/>
-	<outline>
-		<component base="N"/>
-		<component base="tildecomb" xOffset="604.333" yOffset="195"/>
-	</outline>
-	<anchor name="t.uni0302" x="396" y="847.333"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>N+tildecomb</string>
-		</dict>
-	</lib>
+  <advance width="695"/>
+  <unicode hex="00D1"/>
+  <anchor x="396" y="847.333" name="t.uni0302"/>
+  <outline>
+    <component base="N"/>
+    <component base="tildecomb" xScale="1" xOffset="604.333" yOffset="195"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+tildecomb</string>
+  </dict>
+  </lib>
 </glyph>

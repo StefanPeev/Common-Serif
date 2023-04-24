@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E16" format="2">
-	<unicode hex="1E16"/>
-	<advance width="543"/>
-	<outline>
-		<component base="Emacron"/>
-		<component base="acute.cap" xyScale="0" xOffset="402.667" yOffset="68.6667"/>
-	</outline>
-	<anchor name="t.acutedot" x="388.338" y="868.667"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>Emacron+acute.cap</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="543"/>
+  <unicode hex="1E16"/>
+  <anchor x="388.338" y="868.667" name="t.acutedot"/>
+  <outline>
+    <component base="Emacron"/>
+    <component base="acute.cap" xScale="1" xyScale="2.92744e-18" yScale="1" xOffset="402.667" yOffset="68.6667"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Emacron+acute.cap</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>
