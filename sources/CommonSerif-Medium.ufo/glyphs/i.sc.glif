@@ -1,59 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc" format="2">
-  <advance width="329"/>
-  <anchor x="166.333" y="671.667" name="m.uni0302"/>
-  <anchor x="163.333" y="-110" name="m.uni0316_2"/>
-  <anchor x="245.667" y="18.6667" name="b.uni0321_4"/>
+  <advance width="288"/>
+  <anchor x="67" y="671.667" name="m.uni0302"/>
+  <anchor x="64" y="-110" name="m.uni0316_2"/>
+  <anchor x="146.333" y="18.6667" name="b.uni0321_4"/>
   <outline>
     <contour>
-      <point x="116.333" y="336.333" type="curve" smooth="yes"/>
-      <point x="116.333" y="123.667" type="line" smooth="yes"/>
-      <point x="116.333" y="40.6667"/>
-      <point x="103.667" y="35.6667"/>
-      <point x="42.6667" y="31.3333" type="curve"/>
-      <point x="36.6667" y="25.3333"/>
-      <point x="36.6667" y="4"/>
-      <point x="42.6667" y="-2" type="curve"/>
-      <point x="81.3333" y="-1"/>
-      <point x="123.667" y="0"/>
-      <point x="164.667" y="0" type="curve" smooth="yes"/>
-      <point x="204.333" y="0"/>
-      <point x="248.333" y="-1"/>
-      <point x="286" y="-2" type="curve"/>
-      <point x="292" y="4"/>
-      <point x="292" y="25.3333"/>
-      <point x="286" y="31.3333" type="curve"/>
-      <point x="225" y="35"/>
-      <point x="212.333" y="40.6667"/>
-      <point x="212.333" y="123.667" type="curve" smooth="yes"/>
-      <point x="212.333" y="336.333" type="line" smooth="yes"/>
-      <point x="212.333" y="419.333"/>
-      <point x="225" y="424.333"/>
-      <point x="286" y="428.667" type="curve"/>
-      <point x="292" y="434.667"/>
-      <point x="292" y="456"/>
-      <point x="286" y="462" type="curve"/>
-      <point x="246.667" y="461"/>
-      <point x="203" y="460"/>
-      <point x="164" y="460" type="curve" smooth="yes"/>
-      <point x="125.667" y="460"/>
-      <point x="83" y="461"/>
-      <point x="42.6667" y="462" type="curve"/>
-      <point x="36.6667" y="456"/>
-      <point x="36.6667" y="434.667"/>
-      <point x="42.6667" y="428.667" type="curve"/>
-      <point x="103.667" y="425"/>
-      <point x="116.333" y="419.333"/>
+      <point x="22" y="-2" type="curve"/>
+      <point x="60.6667" y="-1"/>
+      <point x="103" y="0"/>
+      <point x="144" y="0" type="curve" smooth="yes"/>
+      <point x="183.667" y="0"/>
+      <point x="228.333" y="-1"/>
+      <point x="266" y="-2" type="curve"/>
+      <point x="272" y="4"/>
+      <point x="272" y="25.3333"/>
+      <point x="266" y="31.3333" type="curve"/>
+      <point x="205" y="35"/>
+      <point x="192.333" y="40.6667"/>
+      <point x="192.333" y="123.667" type="curve"/>
+      <point x="95.6667" y="123.667" type="line"/>
+      <point x="95.6667" y="40.6667"/>
+      <point x="83" y="35.6667"/>
+      <point x="22" y="31.3333" type="curve"/>
+      <point x="16" y="25.3333"/>
+      <point x="16" y="4"/>
+    </contour>
+    <contour>
+      <point x="95.6667" y="336.333" type="curve"/>
+      <point x="192.333" y="336.333" type="line"/>
+      <point x="192.333" y="419.333"/>
+      <point x="205" y="424.333"/>
+      <point x="266" y="428.667" type="curve"/>
+      <point x="272" y="434.667"/>
+      <point x="272" y="456"/>
+      <point x="266" y="462" type="curve"/>
+      <point x="226.667" y="461"/>
+      <point x="183" y="460"/>
+      <point x="144" y="460" type="curve" smooth="yes"/>
+      <point x="105.667" y="460"/>
+      <point x="62.3333" y="461"/>
+      <point x="22" y="462" type="curve"/>
+      <point x="16" y="456"/>
+      <point x="16" y="434.667"/>
+      <point x="22" y="428.667" type="curve"/>
+      <point x="83" y="425"/>
+      <point x="95.6667" y="419.333"/>
+    </contour>
+    <contour>
+      <point x="95.6667" y="123.667" type="line"/>
+      <point x="192.333" y="123.667" type="line"/>
+      <point x="192.333" y="336.333" type="line"/>
+      <point x="95.6667" y="336.333" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="131" y="0"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dbb398e83169d40ba358d14e86b641d1899b4cb17d7f1ade1018a4b9ae573e69c1d189dc948d9b57ce25252850e1ff80d19a47f2341238c7be7df441691ccecd</string>
+    <string>62fb8e03283874a545d86e48819563e978a18a7ac8a42e6573703090b1b577610d1b71da9ef388f9813f011d5b41f8403a5065341dc72df5c7fedba566850b5b</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -61,7 +74,6 @@
         <array>
           <string>hstem 19 -21</string>
           <string>hstem 462 -20</string>
-          <string>vstem 116.33 96.</string>
         </array>
       </dict>
     </array>

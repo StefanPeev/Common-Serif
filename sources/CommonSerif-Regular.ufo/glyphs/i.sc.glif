@@ -1,59 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc" format="2">
-  <advance width="311"/>
-  <anchor x="157" y="685" name="m.uni0302"/>
-  <anchor x="150" y="-110" name="m.uni0316_2"/>
-  <anchor x="214" y="16" name="b.uni0321_4"/>
+  <advance width="262"/>
+  <anchor x="55" y="685" name="m.uni0302"/>
+  <anchor x="48" y="-110" name="m.uni0316_2"/>
+  <anchor x="112" y="16" name="b.uni0321_4"/>
   <outline>
     <contour>
-      <point x="116" y="338" type="curve" smooth="yes"/>
-      <point x="116" y="122" type="line" smooth="yes"/>
-      <point x="116" y="39"/>
-      <point x="105" y="36"/>
-      <point x="44" y="31" type="curve"/>
-      <point x="38" y="25"/>
-      <point x="38" y="4"/>
-      <point x="44" y="-2" type="curve"/>
-      <point x="81" y="-1"/>
-      <point x="122" y="0"/>
-      <point x="156" y="0" type="curve" smooth="yes"/>
-      <point x="188" y="0"/>
-      <point x="232" y="-1"/>
-      <point x="267" y="-2" type="curve"/>
-      <point x="273" y="4"/>
-      <point x="273" y="25"/>
-      <point x="267" y="31" type="curve"/>
-      <point x="206" y="35"/>
-      <point x="195" y="39"/>
-      <point x="195" y="122" type="curve" smooth="yes"/>
-      <point x="195" y="338" type="line" smooth="yes"/>
-      <point x="195" y="421"/>
-      <point x="206" y="424"/>
-      <point x="267" y="429" type="curve"/>
-      <point x="273" y="435"/>
-      <point x="273" y="456"/>
-      <point x="267" y="462" type="curve"/>
-      <point x="229" y="461"/>
-      <point x="186" y="460"/>
-      <point x="155" y="460" type="curve" smooth="yes"/>
-      <point x="125" y="460"/>
-      <point x="83" y="461"/>
-      <point x="44" y="462" type="curve"/>
-      <point x="38" y="456"/>
-      <point x="38" y="435"/>
-      <point x="44" y="429" type="curve"/>
-      <point x="105" y="425"/>
-      <point x="116" y="421"/>
+      <point x="19" y="-2" type="curve"/>
+      <point x="56" y="-1"/>
+      <point x="97" y="0"/>
+      <point x="131" y="0" type="curve" smooth="yes"/>
+      <point x="163" y="0"/>
+      <point x="208" y="-1"/>
+      <point x="243" y="-2" type="curve"/>
+      <point x="249" y="4"/>
+      <point x="249" y="25"/>
+      <point x="243" y="31" type="curve"/>
+      <point x="182" y="35"/>
+      <point x="171" y="39"/>
+      <point x="171" y="122" type="curve"/>
+      <point x="91" y="122" type="line"/>
+      <point x="91" y="39"/>
+      <point x="80" y="36"/>
+      <point x="19" y="31" type="curve"/>
+      <point x="13" y="25"/>
+      <point x="13" y="4"/>
+    </contour>
+    <contour>
+      <point x="91" y="338" type="curve"/>
+      <point x="171" y="338" type="line"/>
+      <point x="171" y="421"/>
+      <point x="182" y="424"/>
+      <point x="243" y="429" type="curve"/>
+      <point x="249" y="435"/>
+      <point x="249" y="456"/>
+      <point x="243" y="462" type="curve"/>
+      <point x="205" y="461"/>
+      <point x="162" y="460"/>
+      <point x="131" y="460" type="curve" smooth="yes"/>
+      <point x="101" y="460"/>
+      <point x="58" y="461"/>
+      <point x="19" y="462" type="curve"/>
+      <point x="13" y="456"/>
+      <point x="13" y="435"/>
+      <point x="19" y="429" type="curve"/>
+      <point x="80" y="425"/>
+      <point x="91" y="421"/>
+    </contour>
+    <contour>
+      <point x="91" y="122" type="line"/>
+      <point x="171" y="122" type="line"/>
+      <point x="171" y="338" type="line"/>
+      <point x="91" y="338" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="131" y="0"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>17758e58c8edcb7c6f8428510bfb089e35e7a5e5f6965276dfb67f5cc07cf866613c6e1db2974370f0622e8bfa7534e51a875ab2c6576f9e88f1a9b9cf24f748</string>
+    <string>16c91d6dbd0787e21f41c9e944391123f78b7cfa86694a8f7acd8e8d402bd119261b014ee02761d30dd81a4d25220451e2ca548051feebdd6de256a76344947e</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -61,7 +74,6 @@
         <array>
           <string>hstem 19 -21</string>
           <string>hstem 462 -20</string>
-          <string>vstem 116 79</string>
         </array>
       </dict>
     </array>
