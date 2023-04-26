@@ -7,14 +7,6 @@
   <anchor x="312" y="20" name="b.uni0321_5"/>
   <outline>
     <contour>
-      <point x="446" y="563" type="curve" smooth="yes"/>
-      <point x="405" y="381" type="line"/>
-      <point x="404" y="381" type="line"/>
-      <point x="392" y="411"/>
-      <point x="364" y="439"/>
-      <point x="326" y="439" type="curve" smooth="yes"/>
-      <point x="171" y="439"/>
-      <point x="58" y="265"/>
       <point x="58" y="125" type="curve" smooth="yes"/>
       <point x="58" y="51"/>
       <point x="90" y="-10"/>
@@ -63,11 +55,16 @@
       <point x="452" y="602" type="curve" smooth="yes"/>
       <point x="452" y="592"/>
       <point x="450" y="579"/>
+      <point x="446" y="563" type="curve" smooth="yes"/>
+      <point x="405" y="381" type="line"/>
+      <point x="404" y="381" type="line"/>
+      <point x="392" y="411"/>
+      <point x="364" y="439"/>
+      <point x="326" y="439" type="curve" smooth="yes"/>
+      <point x="171" y="439"/>
+      <point x="58" y="265"/>
     </contour>
     <contour>
-      <point x="225" y="56" type="curve" smooth="yes"/>
-      <point x="192" y="56"/>
-      <point x="180" y="94"/>
       <point x="180" y="143" type="curve" smooth="yes"/>
       <point x="180" y="255"/>
       <point x="243" y="392"/>
@@ -77,6 +74,9 @@
       <point x="389" y="310" type="curve"/>
       <point x="373" y="240"/>
       <point x="297" y="56"/>
+      <point x="225" y="56" type="curve" smooth="yes"/>
+      <point x="192" y="56"/>
+      <point x="180" y="94"/>
     </contour>
   </outline>
   <lib>
@@ -86,16 +86,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>904d140d2d30d2a96950887862d245813745139e8870c3730ef8bd9a1e95da85b38c7e8705559b20c4f0092f732d4ffe0820d3bcb8eb8ff77024356917fa5d16</string>
+    <string>7d506b57eafe2592e84765cf0f028cb740da9ef0981b0606764dd68b3f523267be185b87f2148466b6aca79866d940c8c30b62314c626a98168490ceba14f52f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 451 133</string>
-          <string>hstem 393 46</string>
           <string>vstem 58 121</string>
+          <string>vstem 451 133</string>
           <string>hstem -10 66</string>
+          <string>hstem 393 46</string>
           <string>hstem 698 -20</string>
         </array>
       </dict>
@@ -104,9 +104,9 @@
         <array>
           <string>vstem 334 127</string>
           <string>hstem 698 -20</string>
-          <string>hstem -10 66</string>
           <string>hstem 393 46</string>
           <string>vstem 58 121</string>
+          <string>hstem -10 66</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>

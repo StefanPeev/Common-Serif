@@ -4,6 +4,16 @@
   <unicode hex="03B3"/>
   <outline>
     <contour>
+      <point x="154" y="-194" type="curve" smooth="yes"/>
+      <point x="154" y="-218"/>
+      <point x="166" y="-238"/>
+      <point x="206" y="-238" type="curve" smooth="yes"/>
+      <point x="308" y="-238"/>
+      <point x="359" y="-85"/>
+      <point x="366" y="5" type="curve" smooth="yes"/>
+      <point x="368" y="31" type="line"/>
+      <point x="435" y="98"/>
+      <point x="585" y="277"/>
       <point x="585" y="383" type="curve" smooth="yes"/>
       <point x="585" y="418"/>
       <point x="562" y="444"/>
@@ -35,35 +45,21 @@
       <point x="251" y="238"/>
       <point x="270" y="156"/>
       <point x="270" y="12" type="curve"/>
-      <point x="268.722" y="10.4378"/>
-      <point x="263.162" y="3.64264"/>
-      <point x="261" y="1" type="curve" smooth="yes"/>
-      <point x="200" y="-74"/>
-      <point x="165" y="-130"/>
-      <point x="156" y="-174" type="curve" smooth="yes"/>
-      <point x="149" y="-205"/>
-      <point x="155" y="-238"/>
-      <point x="206" y="-238" type="curve" smooth="yes"/>
-      <point x="308" y="-238"/>
-      <point x="359" y="-85"/>
-      <point x="366" y="5" type="curve" smooth="yes" name=".hr01"/>
-      <point x="366.388" y="10.0435"/>
-      <point x="367.647" y="26.415"/>
-      <point x="368" y="31" type="curve"/>
-      <point x="435" y="98"/>
-      <point x="585" y="277" name=".hr02"/>
+      <point x="248" y="-8" type="line" smooth="yes"/>
+      <point x="192" y="-58"/>
+      <point x="154" y="-137"/>
     </contour>
     <contour>
-      <point x="234" y="-196" type="curve" smooth="yes"/>
-      <point x="226" y="-196"/>
-      <point x="222" y="-187"/>
-      <point x="222" y="-171" type="curve" smooth="yes" name=".hr03"/>
+      <point x="222" y="-171" type="curve" smooth="yes"/>
       <point x="222" y="-127"/>
       <point x="243" y="-82"/>
       <point x="272" y="-29" type="curve"/>
-      <point x="272" y="-38" type="line" smooth="yes" name=".hr04"/>
+      <point x="272" y="-38" type="line" smooth="yes" name=".hr01"/>
       <point x="272" y="-99"/>
       <point x="265" y="-196"/>
+      <point x="234" y="-196" type="curve" smooth="yes"/>
+      <point x="226" y="-196"/>
+      <point x="222" y="-187"/>
     </contour>
   </outline>
   <lib>
@@ -75,51 +71,26 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>341ef6bebc1dec21514c1c10e9de4fca32688dc4665e670fc10a865dab6185415fcb7fac66dba7b72bc274ed189bd1b835150cfedda0dbc85b733e84453e4a6f</string>
+    <string>d36d008774aa5a7aba03ab7a00a4465ce358430d1d23a1c910d9cc41f688a1a0cbbdd39cbbc1e3bced9b20885388d00f1a0c25b329df51958ecfe5d71a62d404</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 156 429</string>
-          <string>hstem -196 227</string>
+          <string>vstem 154 68</string>
+          <string>hstem -238 42</string>
+          <string>vstem 270 96</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 222 144</string>
-          <string>hstem -196 227</string>
+          <string>vstem 272 94</string>
+          <string>hstem -238 42</string>
+          <string>vstem 154 68</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 156 429</string>
-          <string>hstem -196 227</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 222 144</string>
-          <string>hstem -196 227</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 272 313</string>
-          <string>hstem -196 227</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
       </dict>
     </array>
   </dict>
