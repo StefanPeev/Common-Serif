@@ -3,24 +3,20 @@
   <unicode hex="035E"/>
   <outline>
     <contour>
-      <point x="102" y="1464.33" type="curve" smooth="yes"/>
-      <point x="7.33333" y="1464.33"/>
-      <point x="-99" y="1417.67"/>
-      <point x="-179" y="1332.33" type="curve"/>
-      <point x="-178.333" y="1327.67"/>
-      <point x="-172.333" y="1317.33"/>
-      <point x="-166.667" y="1314.67" type="curve"/>
-      <point x="-88" y="1356"/>
-      <point x="143.333" y="1409.33"/>
-      <point x="331.667" y="1409.33" type="curve" smooth="yes"/>
-      <point x="464" y="1409.33"/>
-      <point x="525" y="1366"/>
-      <point x="557" y="1325.33" type="curve"/>
-      <point x="560.333" y="1330.33"/>
-      <point x="568" y="1340.33"/>
-      <point x="567.667" y="1343" type="curve"/>
-      <point x="486.667" y="1424.33"/>
-      <point x="248" y="1464.33"/>
+      <point x="-248" y="789" type="line" smooth="yes"/>
+      <point x="-260" y="789"/>
+      <point x="-279" y="769"/>
+      <point x="-281" y="757" type="curve"/>
+      <point x="-283" y="749"/>
+      <point x="-281" y="740"/>
+      <point x="-270" y="740" type="curve" smooth="yes"/>
+      <point x="465" y="740" type="line" smooth="yes"/>
+      <point x="478" y="740"/>
+      <point x="495" y="760"/>
+      <point x="497" y="772" type="curve"/>
+      <point x="499" y="781"/>
+      <point x="498" y="789"/>
+      <point x="487" y="789" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -30,13 +26,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c73806bfd6a6d03de50f07d8c030c1bbfc1c104f127d93720311a404792ef74f984c6a58789be81411df404dbe54b391ea927e25f2410ff908db9b88ffa57dbf</string>
+    <string>w0m-248,789c-260,789 -279,769 -281,757c-283,749 -281,740 -270,740l465,740c478,740 495,760 497,772c499,781 498,789 487,789</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 1314.67 149.67</string>
+          <string>hstem 740 49</string>
         </array>
       </dict>
     </array>
