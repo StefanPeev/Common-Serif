@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcircumflex" format="2">
-  <advance width="620"/>
+  <advance width="610"/>
   <unicode hex="0125"/>
   <outline>
     <contour>
@@ -35,18 +35,18 @@
       <point x="535" y="63"/>
       <point x="525" y="63" type="curve" smooth="yes"/>
       <point x="517" y="63"/>
-      <point x="514" y="72"/>
+      <point x="514" y="72" name=".hr01"/>
       <point x="514" y="84" type="curve"/>
       <point x="515" y="96"/>
       <point x="518" y="111"/>
       <point x="521" y="124" type="curve" smooth="yes"/>
       <point x="559" y="283" type="line" smooth="yes"/>
       <point x="567" y="318"/>
-      <point x="572" y="341"/>
+      <point x="572" y="341" name=".hr02"/>
       <point x="572" y="359" type="curve" smooth="yes"/>
       <point x="572" y="412"/>
       <point x="534" y="433"/>
-      <point x="498" y="438" type="curve" smooth="yes"/>
+      <point x="498" y="438" type="curve"/>
       <point x="493" y="439"/>
       <point x="488" y="439"/>
       <point x="483" y="439" type="curve" smooth="yes"/>
@@ -59,10 +59,10 @@
       <point x="353" y="665" type="curve" smooth="yes"/>
       <point x="353" y="676"/>
       <point x="351" y="684"/>
-      <point x="347" y="689" type="curve" smooth="yes"/>
+      <point x="347" y="689" type="curve"/>
       <point x="344" y="692"/>
       <point x="341" y="694"/>
-      <point x="337" y="696" type="curve" smooth="yes"/>
+      <point x="337" y="696" type="curve"/>
       <point x="334" y="697"/>
       <point x="329" y="698"/>
       <point x="323" y="698" type="curve" smooth="yes"/>
@@ -116,7 +116,7 @@
       <point x="457" y="732"/>
       <point x="490" y="754" type="curve"/>
       <point x="514" y="733"/>
-      <point x="569" y="710"/>
+      <point x="569" y="710" name=".hr03"/>
       <point x="606" y="698" type="curve"/>
       <point x="616" y="702"/>
       <point x="625" y="714"/>
@@ -124,26 +124,61 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>00c9022d50a6cf5c05e50d6d38ea3f11a8a72b035d84c85de0ddc72c69d674222ccd08f9c279c4646c9aefc135fc3ac8af6eeec92c7f946376a75f699a7a373c</string>
+    <string>c71a788ecdf95f9b06987745ab63cfb09faec6a848c2f99051fe949e40606f53943ab5e7c832ee211146976fd1002e02e19b8fd1ca89a26d8e90c82551dd6cc1</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10 73</string>
-          <string>hstem 11 -21</string>
           <string>hstem 369 70</string>
-          <string>hstem 439 -20</string>
+          <string>vstem 443 129</string>
+          <string>hstem -10 73</string>
           <string>hstem 698 -20</string>
           <string>vstem 220 133</string>
-          <string>vstem 387 127</string>
-          <string>vstem 443 129</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 387 127</string>
+          <string>hstem -10 73</string>
+          <string>hstem 369 70</string>
+          <string>hstem 698 -20</string>
+          <string>vstem 220 133</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 443 129</string>
+          <string>hstem 369 70</string>
+          <string>vstem 220 133</string>
+          <string>hstem 698 -20</string>
+          <string>hstem -10 73</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 387 127</string>
+          <string>hstem 698 -20</string>
+          <string>hstem -10 73</string>
+          <string>hstem 369 70</string>
+          <string>vstem 220 133</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
       </dict>
     </array>
   </dict>

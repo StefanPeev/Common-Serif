@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni210F" format="2">
-  <advance width="539"/>
+  <advance width="488"/>
   <unicode hex="210F"/>
   <outline>
     <contour>
@@ -9,7 +9,7 @@
       <point x="292" y="698" type="line"/>
       <point x="270" y="689"/>
       <point x="253" y="685"/>
-      <point x="234" y="681" type="curve" smooth="yes"/>
+      <point x="234" y="681" type="curve"/>
       <point x="216" y="678"/>
       <point x="178" y="672"/>
       <point x="162" y="672" type="curve"/>
@@ -20,7 +20,7 @@
       <point x="195" y="646" type="line"/>
       <point x="208" y="646"/>
       <point x="214" y="636"/>
-      <point x="213" y="617" type="curve" smooth="yes"/>
+      <point x="213" y="617" type="curve"/>
       <point x="212" y="607"/>
       <point x="210" y="594"/>
       <point x="205" y="578" type="curve" smooth="yes"/>
@@ -78,12 +78,14 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3211891de6d3d5d12cee27f65b6b6cf0bdbb1978ecf590242d391f3c3c6d33f05e4cc3fdc16747a582721e33b5dcff31490de08116c843f98f02e8acb98ff690</string>
+    <string>06c90cdd830d2bb64ebf7cf64bac224b6e8c2455f418d363fec8768d171bdb5f281b28e2eae3df08f95dd9a69f2364df4e159e7340b2f4f83d9023fae7b7abc4</string>
     <key>hintSetList</key>
     <array>
       <dict>
