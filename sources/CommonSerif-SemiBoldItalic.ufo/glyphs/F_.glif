@@ -4,7 +4,8 @@
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="230.333" y="106" type="curve" smooth="yes"/>
+      <point x="118" y="120" type="line"/>
+      <point x="233" y="120" type="line"/>
       <point x="269" y="305.667" type="line"/>
       <point x="352.667" y="305.667" type="line" smooth="yes"/>
       <point x="367" y="305.667"/>
@@ -112,27 +113,8 @@
       <point x="201" y="553.333"/>
       <point x="198.667" y="540"/>
       <point x="195.667" y="523.667" type="curve" smooth="yes"/>
-      <point x="118" y="120.667" type="line" smooth="yes"/>
-      <point x="115" y="104.333"/>
-      <point x="111.333" y="91"/>
-      <point x="107.667" y="78.6667" type="curve"/>
-      <point x="97.3333" y="47.3333"/>
-      <point x="80.6667" y="36"/>
-      <point x="49.6667" y="33" type="curve"/>
-      <point x="44" y="32"/>
-      <point x="38" y="31.3333"/>
-      <point x="31.6667" y="31" type="curve"/>
-      <point x="27.6667" y="31"/>
-      <point x="23.6667" y="30"/>
-      <point x="19.6667" y="29.6667" type="curve"/>
-      <point x="16.6667" y="28"/>
-      <point x="14.3333" y="24.6667"/>
-      <point x="13.3333" y="21" type="curve"/>
-      <point x="11.6667" y="15.6667"/>
-      <point x="10.3333" y="10.6667"/>
-      <point x="10" y="5.33333" type="curve"/>
-      <point x="10.3333" y="2.33333"/>
-      <point x="11" y="-0.333333"/>
+    </contour>
+    <contour>
       <point x="13.3333" y="-2" type="curve"/>
       <point x="51.6667" y="-1"/>
       <point x="105.333" y="0"/>
@@ -141,28 +123,24 @@
       <point x="193.667" y="0"/>
       <point x="258" y="-1"/>
       <point x="296.667" y="-2" type="curve"/>
-      <point x="299.667" y="-0.333333"/>
-      <point x="301.667" y="2.33333"/>
-      <point x="302.667" y="5.33333" type="curve" smooth="yes"/>
-      <point x="304.333" y="10.6667"/>
-      <point x="305.667" y="15.6667"/>
-      <point x="306" y="21" type="curve"/>
-      <point x="306.333" y="24.6667"/>
-      <point x="305.333" y="28"/>
+      <point x="304.333" y="2.33333"/>
+      <point x="309.667" y="25.6667"/>
       <point x="303" y="29.6667" type="curve"/>
-      <point x="298.667" y="30"/>
-      <point x="294.667" y="31"/>
-      <point x="289.667" y="31" type="curve"/>
-      <point x="280.333" y="32"/>
-      <point x="271" y="32.6667"/>
-      <point x="263" y="35" type="curve"/>
-      <point x="241" y="40"/>
-      <point x="229.333" y="50"/>
-      <point x="228" y="72.3333" type="curve"/>
-      <point x="226.667" y="81"/>
-      <point x="227.333" y="92.3333"/>
+      <point x="250" y="31.3333"/>
+      <point x="228" y="46"/>
+      <point x="228" y="83.3333" type="curve" smooth="yes"/>
+      <point x="228" y="93.3333"/>
+      <point x="230.333" y="105.333"/>
+      <point x="233" y="120" type="curve"/>
+      <point x="118" y="120" type="line"/>
+      <point x="106" y="57.6667"/>
+      <point x="79.6667" y="31"/>
+      <point x="19.6667" y="29.6667" type="curve"/>
+      <point x="13" y="25.6667"/>
+      <point x="9.66667" y="11"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="120"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -170,7 +148,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3e3546e0a90cbb1f4b1dd67d3871f3d016b5f0db04fa9e8135c67571f31dc08475d3dc29cb21d947e010c225c2e89970d2ce08c67e280e45771b959020e6f4e4</string>
+    <string>b41a15e35af9b3162f153994c30977d55db1f9249e3749b4c96a73da5f32b77592ef6c3a0d22c2a36614eb4463b0903167d67180557c6eebaa717ca01ea37681</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -183,14 +161,12 @@
           <string>hstem 601.67 43.33</string>
           <string>vstem 547 52</string>
           <string>hstem 649 -20</string>
-          <string>hstem -2 33</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 614 25.67</string>
-          <string>hstem -2 33</string>
           <string>hstem 305.67 46</string>
           <string>hstem 416.67 -20</string>
           <string>hstem 418 -20</string>

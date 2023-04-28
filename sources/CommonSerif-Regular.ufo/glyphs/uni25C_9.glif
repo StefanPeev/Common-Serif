@@ -4,6 +4,9 @@
   <unicode hex="25C9"/>
   <outline>
     <contour>
+      <point x="49" y="219" type="curve" smooth="yes"/>
+      <point x="49" y="90"/>
+      <point x="153" y="-15"/>
       <point x="282" y="-15" type="curve" smooth="yes"/>
       <point x="411" y="-15"/>
       <point x="516" y="90"/>
@@ -13,11 +16,11 @@
       <point x="282" y="452" type="curve" smooth="yes"/>
       <point x="153" y="452"/>
       <point x="49" y="348"/>
-      <point x="49" y="219" type="curve" smooth="yes"/>
-      <point x="49" y="90"/>
-      <point x="153" y="-15"/>
     </contour>
     <contour>
+      <point x="75" y="219" type="curve" smooth="yes"/>
+      <point x="75" y="333"/>
+      <point x="167" y="426"/>
       <point x="282" y="426" type="curve" smooth="yes"/>
       <point x="397" y="426"/>
       <point x="490" y="334"/>
@@ -27,9 +30,6 @@
       <point x="282" y="11" type="curve" smooth="yes"/>
       <point x="167" y="11"/>
       <point x="75" y="104"/>
-      <point x="75" y="219" type="curve" smooth="yes"/>
-      <point x="75" y="333"/>
-      <point x="167" y="426"/>
     </contour>
     <contour>
       <point x="178" y="220" type="curve" smooth="yes"/>
@@ -46,6 +46,8 @@
       <point x="178" y="277"/>
     </contour>
   </outline>
+  <guideline angle="90" x="282" y="0"/>
+  <guideline angle="0" x="0" y="219"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -53,7 +55,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>20b904ede40b875a6a9392cbefeacf34e421ce2fd0f878729c03cbfdc2fcfc80a57cbda8f946fdf02e0c56dfc94f850d1044eb0b9de75c518ad3f59299190542</string>
+    <string>1ec4dbdd8973b220299a8508d7ebb915e67344823a976f755c7f6a8280a0da49cf5fb611d6c48fc09c454f3d0f5380a2a3682547ad26636b0cd1160342a84da7</string>
     <key>hintSetList</key>
     <array>
       <dict>
