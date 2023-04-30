@@ -3,6 +3,8 @@
   <advance width="504"/>
   <unicode hex="0133"/>
   <outline>
+    <component base="dotaccent" xOffset="249" yOffset="-30"/>
+    <component base="dotaccent" xOffset="-1" yOffset="-30"/>
     <contour>
       <point x="170" y="321" type="curve" smooth="yes"/>
       <point x="132" y="154" type="line" smooth="yes"/>
@@ -107,34 +109,6 @@
       <point x="177" y="355"/>
       <point x="175" y="342"/>
     </contour>
-    <contour>
-      <point x="205" y="570" type="curve" smooth="yes"/>
-      <point x="205" y="544"/>
-      <point x="227" y="522"/>
-      <point x="253" y="522" type="curve" smooth="yes"/>
-      <point x="279" y="522"/>
-      <point x="301" y="544"/>
-      <point x="301" y="570" type="curve" smooth="yes"/>
-      <point x="301" y="596"/>
-      <point x="279" y="618"/>
-      <point x="253" y="618" type="curve" smooth="yes"/>
-      <point x="227" y="618"/>
-      <point x="205" y="596"/>
-    </contour>
-    <contour>
-      <point x="456" y="570" type="curve" smooth="yes"/>
-      <point x="456" y="544"/>
-      <point x="478" y="522"/>
-      <point x="504" y="522" type="curve" smooth="yes"/>
-      <point x="530" y="522"/>
-      <point x="552" y="544"/>
-      <point x="552" y="570" type="curve" smooth="yes"/>
-      <point x="552" y="596"/>
-      <point x="530" y="618"/>
-      <point x="504" y="618" type="curve" smooth="yes"/>
-      <point x="478" y="618"/>
-      <point x="456" y="596"/>
-    </contour>
   </outline>
   <lib>
   <dict>
@@ -143,7 +117,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9b88352f652ae8705449cf1c757326780fd810c15b53f72b0bdf51dcca16a00b4d8bc54d7d6c8fe0e4f6c5b072075163ce9f82ed96f3891454f127ed466d04fd</string>
+    <string>0013cad5f02e2e16b01ed1a093e66ee656627b53fd429e292b95913fddb8d6dcc23c82bb3fafce2e04518f7f25867868ce1be143e202586445395954bc788473</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -152,9 +126,6 @@
           <string>hstem -196 36</string>
           <string>hstem -10 52</string>
           <string>hstem 436 -20</string>
-          <string>hstem 522 96</string>
-          <string>vstem 205 96</string>
-          <string>vstem 456 96</string>
         </array>
       </dict>
     </array>

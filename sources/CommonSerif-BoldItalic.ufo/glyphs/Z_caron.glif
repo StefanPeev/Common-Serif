@@ -2,12 +2,15 @@
 <glyph name="Zcaron" format="2">
   <advance width="598"/>
   <unicode hex="017D"/>
+  <anchor x="271" y="-60" name="b.minus-60"/>
   <outline>
     <component base="Z"/>
-    <component base="uni030C" xOffset="533" yOffset="191"/>
+    <component base="uni030C" xOffset="537" yOffset="240"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>Z+uni030C</string>
   <key>public.markColor</key>

@@ -2,12 +2,13 @@
 <glyph name="edieresis" format="2">
   <advance width="401"/>
   <unicode hex="00EB"/>
-  <anchor x="158" y="-108" name="m.uni0316_2"/>
-  <anchor x="344" y="41" name="b.uni0321_4"/>
-  <anchor x="351" y="610" name="top"/>
+  <anchor x="279" y="10" name="b.ogonek"/>
+  <anchor x="222" y="10" name="b.cedilla"/>
+  <anchor x="195" y="-60" name="b.minus-60"/>
+  <anchor x="329" y="609" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="uni0308" xOffset="429"/>
+    <component base="uni0308" xOffset="410" yOffset="-30"/>
   </outline>
   <lib>
   <dict>

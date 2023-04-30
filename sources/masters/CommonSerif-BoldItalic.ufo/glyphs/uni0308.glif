@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0308" format="2">
   <unicode hex="0308"/>
-  <anchor x="-103" y="500" name="_t.uni0302"/>
-  <anchor x="-87" y="640" name="top"/>
+  <anchor x="-81" y="520" name="_t.uni0302"/>
+  <anchor x="-81" y="640" name="top"/>
   <outline>
-    <component base="uni0307" xOffset="-184"/>
-    <component base="uni0307" xOffset="12"/>
+    <contour>
+      <point x="-215" y="576" type="curve" smooth="yes"/>
+      <point x="-215" y="546"/>
+      <point x="-190" y="521"/>
+      <point x="-160" y="521" type="curve" smooth="yes"/>
+      <point x="-129" y="521"/>
+      <point x="-105" y="546"/>
+      <point x="-105" y="576" type="curve" smooth="yes"/>
+      <point x="-105" y="607"/>
+      <point x="-129" y="631"/>
+      <point x="-160" y="631" type="curve" smooth="yes"/>
+      <point x="-190" y="631"/>
+      <point x="-215" y="607"/>
+    </contour>
+    <contour>
+      <point x="-37" y="576" type="curve" smooth="yes"/>
+      <point x="-37" y="546"/>
+      <point x="-12" y="521"/>
+      <point x="18" y="521" type="curve" smooth="yes"/>
+      <point x="49" y="521"/>
+      <point x="73" y="546"/>
+      <point x="73" y="576" type="curve" smooth="yes"/>
+      <point x="73" y="607"/>
+      <point x="49" y="631"/>
+      <point x="18" y="631" type="curve" smooth="yes"/>
+      <point x="-12" y="631"/>
+      <point x="-37" y="607"/>
+    </contour>
   </outline>
+  <guideline angle="90" x="-81" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -14,13 +41,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0</string>
+    <string>436bb6b4710ad3607751b7918b47321f7ba92fdfc8314fb2feacd5067dd8ec096034f7a917c2824c87ea638600d1e399807ce45b6a265555eb5a84ec84039443</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 519 109</string>
+          <string>hstem 520 109</string>
           <string>vstem -257 110</string>
         </array>
       </dict>

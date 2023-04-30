@@ -2,32 +2,19 @@
 <glyph name="Wgrave" format="2">
   <advance width="935"/>
   <unicode hex="1E80"/>
+  <anchor x="464.333" y="-60" name="b.minus-60"/>
   <outline>
     <component base="W"/>
-    <contour>
-      <point x="472" y="864.333" type="curve"/>
-      <point x="444" y="850.333"/>
-      <point x="414.667" y="833"/>
-      <point x="390" y="816" type="curve"/>
-      <point x="395.667" y="809.333" type="line"/>
-      <point x="529.667" y="750.667" type="line" smooth="yes"/>
-      <point x="542.667" y="744.667"/>
-      <point x="554" y="741.667"/>
-      <point x="563.667" y="741" type="curve"/>
-      <point x="565.667" y="740.333"/>
-      <point x="568" y="740.333"/>
-      <point x="570" y="740.667" type="curve"/>
-      <point x="582.333" y="741.667"/>
-      <point x="587.333" y="752"/>
-      <point x="587.667" y="758" type="curve" smooth="yes"/>
-      <point x="588" y="762.333"/>
-      <point x="587" y="767"/>
-      <point x="582" y="772.333" type="curve"/>
-      <point x="580.333" y="774"/>
-      <point x="578.667" y="775.667"/>
-      <point x="576.667" y="777.333" type="curve" smooth="yes"/>
-      <point x="546.667" y="803"/>
-      <point x="506" y="837"/>
-    </contour>
+    <component base="grave.cap" xOffset="607"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+~grave.case</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

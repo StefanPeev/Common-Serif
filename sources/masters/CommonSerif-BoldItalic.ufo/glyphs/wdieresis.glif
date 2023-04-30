@@ -2,79 +2,20 @@
 <glyph name="wdieresis" format="2">
   <advance width="729"/>
   <unicode hex="1E85"/>
+  <anchor x="375" y="-60" name="b.minus-60"/>
+  <anchor x="472" y="620" name="top"/>
   <outline>
     <component base="w"/>
-    <contour>
-      <point x="368" y="571" type="curve" smooth="yes"/>
-      <point x="366" y="544"/>
-      <point x="384" y="522"/>
-      <point x="408" y="518" type="curve"/>
-      <point x="410" y="517"/>
-      <point x="413" y="517"/>
-      <point x="416" y="517" type="curve" smooth="yes"/>
-      <point x="445" y="517"/>
-      <point x="469" y="541"/>
-      <point x="471" y="571" type="curve"/>
-      <point x="471" y="574"/>
-      <point x="471" y="577"/>
-      <point x="471" y="580" type="curve"/>
-      <point x="469" y="604"/>
-      <point x="454" y="622"/>
-      <point x="432" y="625" type="curve"/>
-      <point x="430" y="626"/>
-      <point x="427" y="626"/>
-      <point x="424" y="626" type="curve" smooth="yes"/>
-      <point x="395" y="626"/>
-      <point x="370" y="602"/>
-    </contour>
-    <contour>
-      <point x="543" y="571" type="curve" smooth="yes"/>
-      <point x="541" y="544"/>
-      <point x="557" y="522"/>
-      <point x="582" y="518" type="curve"/>
-      <point x="585" y="517"/>
-      <point x="588" y="517"/>
-      <point x="591" y="517" type="curve" smooth="yes"/>
-      <point x="619" y="517"/>
-      <point x="644" y="541"/>
-      <point x="646" y="571" type="curve"/>
-      <point x="646" y="574"/>
-      <point x="646" y="577"/>
-      <point x="646" y="580" type="curve"/>
-      <point x="644" y="604"/>
-      <point x="628" y="622"/>
-      <point x="606" y="625" type="curve"/>
-      <point x="604" y="626"/>
-      <point x="601" y="626"/>
-      <point x="598" y="626" type="curve" smooth="yes"/>
-      <point x="569" y="626"/>
-      <point x="545" y="602"/>
-    </contour>
+    <component base="uni0308" xOffset="553" yOffset="-20"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>12c8632189f158394302eeb1d9332a32866a74399a2e93343a03c025e7ccc57f48eae2127c9d68505ab9dca0a223824e52d4412b6ab22d766320bbe0439658f3</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 9 -21</string>
-          <string>hstem 439 -20</string>
-          <string>hstem 517 109</string>
-          <string>vstem 368 103</string>
-          <string>vstem 543 103</string>
-          <string>vstem 656 120</string>
-          <string>vstem 682 94</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

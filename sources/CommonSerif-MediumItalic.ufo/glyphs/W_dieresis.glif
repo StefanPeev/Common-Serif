@@ -2,74 +2,20 @@
 <glyph name="Wdieresis" format="2">
   <advance width="935"/>
   <unicode hex="1E84"/>
+  <anchor x="464.333" y="-60" name="b.minus-60"/>
+  <anchor x="613.667" y="852.667" name="top"/>
   <outline>
     <component base="W"/>
-    <contour>
-      <point x="486.333" y="750.667" type="curve" smooth="yes"/>
-      <point x="485.667" y="727"/>
-      <point x="502.333" y="709"/>
-      <point x="525" y="707.667" type="curve"/>
-      <point x="527" y="707.333"/>
-      <point x="529.333" y="707.333"/>
-      <point x="532.333" y="708" type="curve"/>
-      <point x="555.333" y="710"/>
-      <point x="578" y="729.333"/>
-      <point x="581.333" y="756" type="curve"/>
-      <point x="582" y="758.333"/>
-      <point x="582" y="761.333"/>
-      <point x="582" y="764.333" type="curve"/>
-      <point x="581.333" y="786.333"/>
-      <point x="565.667" y="803"/>
-      <point x="543.667" y="804" type="curve"/>
-      <point x="541.667" y="804.333"/>
-      <point x="538.667" y="804.333"/>
-      <point x="536.333" y="803.667" type="curve"/>
-      <point x="511.333" y="801.667"/>
-      <point x="487" y="779.667"/>
-    </contour>
-    <contour>
-      <point x="652" y="750.667" type="curve" smooth="yes"/>
-      <point x="651.333" y="727.667"/>
-      <point x="667.333" y="709.667"/>
-      <point x="690.333" y="708.333" type="curve"/>
-      <point x="692.667" y="708"/>
-      <point x="695.667" y="708"/>
-      <point x="698" y="708.667" type="curve"/>
-      <point x="721.333" y="710.667"/>
-      <point x="743.667" y="730"/>
-      <point x="747" y="756" type="curve"/>
-      <point x="747.667" y="758.333"/>
-      <point x="747.667" y="761.333"/>
-      <point x="747.667" y="764.333" type="curve"/>
-      <point x="747" y="786.333"/>
-      <point x="731" y="803.667"/>
-      <point x="709" y="804.667" type="curve"/>
-      <point x="707" y="805"/>
-      <point x="704" y="805"/>
-      <point x="701.667" y="804.333" type="curve"/>
-      <point x="676.667" y="802.333"/>
-      <point x="652.667" y="780.333"/>
-    </contour>
+    <component base="uni0308" xScale="1" xyScale="-6.0633e-18" yScale="1" xOffset="694.667" yOffset="213.333"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>004fd261515a9eece55a902ed9e3031bd92d9003cd6035b2045875cb1cf8bac844c29f6a8c3c234f6055bce610ee63bdd4b2665d02996aa54ad5ea42b645b176</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 486.33 95.67</string>
-          <string>vstem 652 95.67</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>W+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

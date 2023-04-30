@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni033B" format="2">
   <unicode hex="033B"/>
+  <anchor x="-269" y="-60" name="_b.minus-60"/>
   <outline>
     <contour>
-      <point x="-358" y="-72" type="line"/>
-      <point x="-391" y="-238" type="line"/>
-      <point x="-209" y="-238" type="line"/>
-      <point x="-176" y="-72" type="line"/>
+      <point x="-358" y="-60" type="line"/>
+      <point x="-391" y="-226" type="line"/>
+      <point x="-209" y="-226" type="line"/>
+      <point x="-176" y="-60" type="line"/>
     </contour>
     <contour>
-      <point x="-327" y="-104" type="line"/>
-      <point x="-219" y="-104" type="line"/>
-      <point x="-240" y="-206" type="line"/>
-      <point x="-348" y="-206" type="line"/>
+      <point x="-327" y="-92" type="line"/>
+      <point x="-219" y="-92" type="line"/>
+      <point x="-240" y="-194" type="line"/>
+      <point x="-348" y="-194" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,14 +23,12 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-358,-72l-391,-238l-209,-238l-176,-72m-327,-104l-219,-104l-240,-206l-348,-206</string>
+    <string>w0m-358,-60l-391,-226l-209,-226l-176,-60m-327,-92l-219,-92l-240,-194l-348,-194</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -238 32</string>
-          <string>hstem -104 32</string>
           <string>vstem -391 215</string>
         </array>
       </dict>

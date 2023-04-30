@@ -4,18 +4,18 @@
   <unicode hex="0298"/>
   <outline>
     <contour>
-      <point x="257" y="321" type="curve" smooth="yes"/>
-      <point x="257" y="286"/>
-      <point x="284" y="254"/>
-      <point x="325" y="254" type="curve" smooth="yes"/>
-      <point x="361.847" y="254"/>
-      <point x="393" y="284.037"/>
-      <point x="393" y="321" type="curve" smooth="yes"/>
-      <point x="393" y="359"/>
-      <point x="359" y="388"/>
-      <point x="325" y="388" type="curve" smooth="yes"/>
-      <point x="288" y="388"/>
-      <point x="257" y="356"/>
+      <point x="276.5" y="321" type="curve" smooth="yes"/>
+      <point x="276.5" y="286"/>
+      <point x="303.5" y="254"/>
+      <point x="344.5" y="254" type="curve" smooth="yes"/>
+      <point x="381.347" y="254"/>
+      <point x="412.5" y="284.037"/>
+      <point x="412.5" y="321" type="curve" smooth="yes"/>
+      <point x="412.5" y="359"/>
+      <point x="378.5" y="388"/>
+      <point x="344.5" y="388" type="curve" smooth="yes"/>
+      <point x="307.5" y="388"/>
+      <point x="276.5" y="356"/>
     </contour>
     <contour>
       <point x="180" y="329" type="curve" smooth="yes"/>
@@ -36,7 +36,7 @@
       <point x="39" y="111"/>
       <point x="185" y="-10"/>
       <point x="344" y="-10" type="curve" smooth="yes"/>
-      <point x="542.012" y="-10"/>
+      <point x="542.012" y="-10" name=".hr01"/>
       <point x="650" y="142.769"/>
       <point x="650" y="329" type="curve" smooth="yes"/>
       <point x="650" y="528"/>
@@ -46,6 +46,7 @@
       <point x="39" y="486.9"/>
     </contour>
   </outline>
+  <guideline angle="90" x="349" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -53,19 +54,27 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>297b90652f584f514c40ab83c15f200bc7955394d67531c0eda2448182dd3f44019ec1196ff4a7464a2e343c3a61b5496aa644106602834f87c0653b79002bdd</string>
+    <string>3a12b1b41fc9e2744780e679b9b1d6feae9713761977bbfd4b0d41e4be50f7a1bb3f8f32d11213ce27f94ccf806b78c9cf4c15be8eb5c2dee123240c4712e797</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10 42</string>
-          <string>hstem 254 134</string>
-          <string>hstem 616 42</string>
-          <string>vstem 39 141</string>
-          <string>vstem 257 136</string>
-          <string>vstem 510 140</string>
+          <string>vstem 180 96.5</string>
+          <string>hstem 32 222</string>
+          <string>vstem 412.5 97.5</string>
+          <string>hstem 388 228</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 668</string>
+          <string>vstem 180 96.5</string>
+          <string>vstem 412.5 97.5</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

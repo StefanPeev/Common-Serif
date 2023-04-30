@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0349" format="2">
   <unicode hex="0349"/>
+  <anchor x="-214" y="-60" name="_b.minus-60"/>
   <outline>
     <contour>
-      <point x="-263" y="-65" type="line"/>
-      <point x="-273" y="-70"/>
-      <point x="-279" y="-79"/>
-      <point x="-280" y="-84" type="curve"/>
+      <point x="-263" y="-60" type="line"/>
+      <point x="-273" y="-65"/>
+      <point x="-279" y="-74"/>
+      <point x="-280" y="-79" type="curve"/>
+      <point x="-281" y="-85"/>
       <point x="-281" y="-90"/>
-      <point x="-281" y="-95"/>
-      <point x="-275" y="-104" type="curve"/>
-      <point x="-178" y="-104" type="line"/>
-      <point x="-192" y="-174" type="line"/>
-      <point x="-189" y="-184"/>
-      <point x="-182" y="-186"/>
-      <point x="-177" y="-186" type="curve" smooth="yes"/>
-      <point x="-172" y="-186"/>
-      <point x="-161" y="-181"/>
-      <point x="-151" y="-167" type="curve"/>
-      <point x="-132" y="-76" type="line" name=".hr01"/>
-      <point x="-142" y="-65" type="line"/>
+      <point x="-275" y="-99" type="curve"/>
+      <point x="-178" y="-99" type="line"/>
+      <point x="-192" y="-169" type="line"/>
+      <point x="-189" y="-179"/>
+      <point x="-182" y="-181"/>
+      <point x="-177" y="-181" type="curve" smooth="yes"/>
+      <point x="-172" y="-181"/>
+      <point x="-161" y="-176"/>
+      <point x="-151" y="-162" type="curve"/>
+      <point x="-132" y="-71" type="line"/>
+      <point x="-142" y="-60" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,24 +30,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c2bce07421912ec9c8617f1eb11431b103185d51b733a975612ee959f2ca1efe17f894daa409c67f8a1dd90697b20314302197efb497f4f53d5fccc569394979</string>
+    <string>6db662b88d41053268b5430f2392e8c58f859f8e6ccc90c5698aac35bc2cfdd02370d424567ad8121e29c73ddc8bdb6405b8a66e83aa2debfb1a240ec4929696</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -104 39</string>
           <string>vstem -280 148</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -104 39</string>
-          <string>vstem -280 148</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

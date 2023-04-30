@@ -2,36 +2,19 @@
 <glyph name="wgrave" format="2">
   <advance width="702"/>
   <unicode hex="1E81"/>
+  <anchor x="379.667" y="-60" name="b.minus-60"/>
   <outline>
     <component base="w"/>
-    <contour>
-      <point x="426.667" y="659.667" type="line"/>
-      <point x="423" y="660.667"/>
-      <point x="418" y="661.333"/>
-      <point x="413" y="661.667" type="curve"/>
-      <point x="412" y="661.667"/>
-      <point x="411.333" y="661.667"/>
-      <point x="410.667" y="661.667" type="curve"/>
-      <point x="376" y="661.667"/>
-      <point x="347.333" y="642.667"/>
-      <point x="338" y="635.667" type="curve"/>
-      <point x="334.333" y="624.667" type="line"/>
-      <point x="430.333" y="517" type="line" smooth="yes"/>
-      <point x="444" y="502"/>
-      <point x="451" y="497"/>
-      <point x="457.667" y="497" type="curve" smooth="yes"/>
-      <point x="465.333" y="497"/>
-      <point x="473.667" y="502.333"/>
-      <point x="475.333" y="507.667" type="curve"/>
-      <point x="475.667" y="509.667"/>
-      <point x="476" y="511.667"/>
-      <point x="476.667" y="513" type="curve"/>
-      <point x="477" y="518.667"/>
-      <point x="476" y="525"/>
-      <point x="474" y="531.667" type="curve"/>
-      <point x="473" y="534"/>
-      <point x="472" y="537"/>
-      <point x="471" y="539" type="curve"/>
-    </contour>
+    <component base="gravecomb" xOffset="505"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

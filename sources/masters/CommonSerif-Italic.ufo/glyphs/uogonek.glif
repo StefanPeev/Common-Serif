@@ -3,16 +3,19 @@
   <advance width="521"/>
   <unicode hex="0173"/>
   <anchor x="376" y="500" name="t.uni0302"/>
-  <anchor x="226" y="-111" name="m.uni0316_2"/>
-  <anchor x="213" y="0" name="b.uni0327_5"/>
+  <anchor x="253" y="-60" name="b.minus-60"/>
   <outline>
     <component base="u"/>
-    <component base="uni0328" xOffset="656" yOffset="4"/>
+    <component base="uni0328" xOffset="626" yOffset="-4"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+>~uni0328</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

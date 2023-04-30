@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0307" format="2">
   <unicode hex="0307"/>
-  <anchor x="-37" y="500" name="_t.uni0302"/>
-  <anchor x="46" y="540" name="_t.acutedot"/>
+  <anchor x="-38" y="520" name="_t.uni0302"/>
   <outline>
-    <contour>
-      <point x="-86" y="550" type="curve" smooth="yes"/>
-      <point x="-86" y="521"/>
-      <point x="-65" y="500"/>
-      <point x="-33" y="500" type="curve" smooth="yes"/>
-      <point x="9" y="500"/>
-      <point x="46" y="537"/>
-      <point x="46" y="578" type="curve" smooth="yes"/>
-      <point x="46" y="608"/>
-      <point x="26" y="628"/>
-      <point x="-5" y="628" type="curve" smooth="yes"/>
-      <point x="-46" y="628"/>
-      <point x="-86" y="591"/>
-    </contour>
+    <component base="dotaccent" xOffset="-248"/>
   </outline>
-  <guideline angle="90" x="-41" y="0"/>
+  <guideline angle="90" x="-38" y="0"/>
   <guideline angle="0" x="0" y="594"/>
   <lib>
   <dict>
@@ -28,13 +14,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-86,550c-86,521 -65,500 -33,500c9,500 46,537 46,578c46,608 26,628 -5,628c-46,628 -86,591 -86,550</string>
+    <string>w0</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 530 128</string>
+          <string>hstem 520 128</string>
           <string>vstem -105 135</string>
         </array>
       </dict>

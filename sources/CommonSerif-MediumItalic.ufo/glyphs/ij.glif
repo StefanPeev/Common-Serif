@@ -3,6 +3,8 @@
   <advance width="544"/>
   <unicode hex="0133"/>
   <outline>
+    <component base="dotaccent" xyScale="1.04213e-18" xOffset="186.667" yOffset="-26.6667"/>
+    <component base="dotaccent" xScale="1" xyScale="1.04213e-18" xOffset="106.667" yOffset="-26.6667"/>
     <contour>
       <point x="177.333" y="321" type="curve" smooth="yes"/>
       <point x="138.667" y="152.667" type="line" smooth="yes"/>
@@ -107,34 +109,6 @@
       <point x="184" y="354"/>
       <point x="182.667" y="343.667"/>
     </contour>
-    <contour>
-      <point x="214" y="578.667" type="curve" smooth="yes"/>
-      <point x="214" y="550.333"/>
-      <point x="236.667" y="524.667"/>
-      <point x="267.333" y="524.667" type="curve" smooth="yes"/>
-      <point x="299.667" y="524.667"/>
-      <point x="323" y="551.333"/>
-      <point x="323" y="577.333" type="curve" smooth="yes"/>
-      <point x="323" y="604.667"/>
-      <point x="300.667" y="631.333"/>
-      <point x="269.333" y="631.333" type="curve" smooth="yes"/>
-      <point x="236.333" y="631.333"/>
-      <point x="214" y="606"/>
-    </contour>
-    <contour>
-      <point x="469.667" y="578.667" type="curve" smooth="yes"/>
-      <point x="469.667" y="550.333"/>
-      <point x="492.333" y="524.667"/>
-      <point x="523" y="524.667" type="curve" smooth="yes"/>
-      <point x="555.333" y="524.667"/>
-      <point x="578.667" y="551.333"/>
-      <point x="578.667" y="577.333" type="curve" smooth="yes"/>
-      <point x="578.667" y="604.667"/>
-      <point x="556.333" y="631.333"/>
-      <point x="525" y="631.333" type="curve" smooth="yes"/>
-      <point x="492" y="631.333"/>
-      <point x="469.667" y="606"/>
-    </contour>
   </outline>
   <lib>
   <dict>
@@ -143,7 +117,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9c05e895a802409e50b9826238f5d7fe5ed05fce190610eccfd034439118d660e0b5a427fa5bf30c16b1c8ec1b83d0531050d09b7fd6d1cdbcc28efa5cda5b2b</string>
+    <string>24e69d14d5ab3e690f966cff0591402dcc892d687354d7520a50ede4951e45fc8d7f4f7dde1303b40885a4b9ba069c634426ab6b9cb168eee1fcdfdafc8f3668</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -152,9 +126,6 @@
           <string>hstem -199.67 36.67</string>
           <string>hstem -8.33 61.67</string>
           <string>hstem 436 -20</string>
-          <string>hstem 524.67 106.67</string>
-          <string>vstem 214 109</string>
-          <string>vstem 469.67 109</string>
         </array>
       </dict>
     </array>

@@ -4,57 +4,17 @@
   <unicode hex="00A8"/>
   <anchor x="200" y="523.333" name="_t.uni0302"/>
   <outline>
-    <contour>
-      <point x="57.3333" y="575" type="curve" smooth="yes"/>
-      <point x="57.3333" y="546.333"/>
-      <point x="81" y="523.333"/>
-      <point x="109.667" y="523.333" type="curve" smooth="yes"/>
-      <point x="139" y="523.333"/>
-      <point x="162" y="546.333"/>
-      <point x="162" y="575" type="curve" smooth="yes"/>
-      <point x="162" y="604.333"/>
-      <point x="139" y="627.667"/>
-      <point x="109.667" y="627.667" type="curve" smooth="yes"/>
-      <point x="81" y="627.667"/>
-      <point x="57.3333" y="604.333"/>
-    </contour>
-    <contour>
-      <point x="238" y="575" type="curve" smooth="yes"/>
-      <point x="238" y="546.333"/>
-      <point x="261" y="523.333"/>
-      <point x="290.333" y="523.333" type="curve" smooth="yes"/>
-      <point x="319" y="523.333"/>
-      <point x="342.667" y="546.333"/>
-      <point x="342.667" y="575" type="curve" smooth="yes"/>
-      <point x="342.667" y="604.333"/>
-      <point x="319" y="627.667"/>
-      <point x="290.333" y="627.667" type="curve" smooth="yes"/>
-      <point x="261" y="627.667"/>
-      <point x="238" y="604.333"/>
-    </contour>
+    <component base="dotaccent" xOffset="10.6667"/>
+    <component base="dotaccent" xyScale="-2.87215e-33" xOffset="191.583" yOffset="-7.57912e-14"/>
   </outline>
   <guideline angle="90" x="190" y="0"/>
   <guideline angle="0" x="0" y="530"/>
+  <guideline angle="90" x="105" y="0"/>
+  <guideline angle="0" x="0" y="577"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>=400</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a273e4a09ee93cccefc3a73b15006093952e7549ecb0803a8ddc597b4ddf23eebb0bb39fd6b62c587ef8bd68d2d61c5d87c1c5dc21c6b02a5eb5ccd302a71f3a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 57.33 104.67</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

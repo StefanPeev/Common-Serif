@@ -2,20 +2,22 @@
 <glyph name="i" format="2">
   <advance width="342"/>
   <unicode hex="0069"/>
+  <anchor x="252" y="10" name="b.ogonek"/>
+  <anchor x="173" y="-60" name="b.minus-60"/>
   <outline>
     <contour>
-      <point x="199" y="596" type="curve" smooth="yes"/>
-      <point x="199" y="563"/>
-      <point x="223" y="530"/>
-      <point x="263" y="530" type="curve" smooth="yes"/>
-      <point x="308" y="530"/>
-      <point x="334" y="566"/>
-      <point x="334" y="592" type="curve" smooth="yes"/>
-      <point x="334" y="622"/>
+      <point x="206" y="594" type="curve" smooth="yes"/>
+      <point x="206" y="557"/>
+      <point x="232" y="530"/>
+      <point x="270" y="530" type="curve" smooth="yes"/>
+      <point x="311" y="530"/>
+      <point x="334" y="557"/>
+      <point x="334" y="594" type="curve" smooth="yes"/>
+      <point x="334" y="632"/>
       <point x="311" y="658"/>
-      <point x="269" y="658" type="curve" smooth="yes"/>
-      <point x="222" y="658"/>
-      <point x="199" y="626"/>
+      <point x="270" y="658" type="curve" smooth="yes"/>
+      <point x="232" y="658"/>
+      <point x="206" y="632"/>
     </contour>
     <contour>
       <point x="156" y="249" type="line"/>
@@ -75,7 +77,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b1410300a6a02dafb5c0095f6d3f05620a718bd523baaeb818acbfbf3367ca441f032264809845e7b8ced4af04ec3d219a5cb5e8ec880c6339c0900a4082036e</string>
+    <string>c8fe9ebc134a9b9406238d0b1d75dc47528bb92c32241c20f79d453c9dd4b28907146255162c26f157bc0dc2b4e9b3dda11708a29a006e70d7d8e26dcc637007</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -85,7 +87,7 @@
           <string>hstem 10 -21</string>
           <string>hstem 436 -20</string>
           <string>hstem 530 128</string>
-          <string>vstem 199 135</string>
+          <string>vstem 206 128</string>
         </array>
       </dict>
     </array>
