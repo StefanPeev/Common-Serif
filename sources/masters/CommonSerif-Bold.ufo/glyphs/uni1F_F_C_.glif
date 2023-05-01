@@ -7,7 +7,7 @@
       <point x="172" y="81" type="line" smooth="yes"/>
       <point x="157" y="81"/>
       <point x="144" y="84"/>
-      <point x="132" y="91" type="curve"/>
+      <point x="132" y="91" type="curve" smooth="yes"/>
       <point x="108" y="104"/>
       <point x="91" y="131"/>
       <point x="76" y="176" type="curve"/>
@@ -48,7 +48,7 @@
       <point x="668" y="176" type="curve"/>
       <point x="653" y="131"/>
       <point x="636" y="104"/>
-      <point x="612" y="91" type="curve"/>
+      <point x="612" y="91" type="curve" smooth="yes"/>
       <point x="600" y="84"/>
       <point x="587" y="81"/>
       <point x="572" y="81" type="curve" smooth="yes"/>
@@ -75,7 +75,7 @@
       <point x="751" y="77"/>
       <point x="752" y="70" type="curve" smooth="yes"/>
       <point x="759" y="11"/>
-      <point x="797" y="-10" name=".hr01"/>
+      <point x="797" y="-10"/>
       <point x="837" y="-10" type="curve" smooth="yes"/>
       <point x="841" y="-10"/>
       <point x="846" y="-10"/>
@@ -109,29 +109,16 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 81</string>
-          <string>vstem 269 54</string>
-          <string>vstem 432 48</string>
-          <string>vstem 54 151</string>
-          <string>hstem 616 42</string>
-          <string>vstem 544 151</string>
-          <string>vstem 750 121</string>
-          <string>hstem 11 -21</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem -10 68</string>
-          <string>vstem 269 54</string>
-          <string>vstem 432 48</string>
-          <string>vstem 750 121</string>
+          <string>hstem 0 81</string>
+          <string>hstem 11 -21</string>
           <string>hstem 616 42</string>
           <string>vstem 54 151</string>
+          <string>vstem 269 54</string>
+          <string>vstem 432 48</string>
           <string>vstem 544 151</string>
+          <string>vstem 750 121</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>
