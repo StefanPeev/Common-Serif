@@ -3,8 +3,28 @@
   <unicode hex="0300"/>
   <anchor x="-102" y="500" name="_t.uni0302"/>
   <outline>
-    <component base="grave" xOffset="-340"/>
+    <contour>
+      <point x="-142" y="666" type="line"/>
+      <point x="-146" y="667"/>
+      <point x="-157" y="668"/>
+      <point x="-162" y="668" type="curve" smooth="yes"/>
+      <point x="-198" y="668"/>
+      <point x="-227" y="645"/>
+      <point x="-235" y="636" type="curve"/>
+      <point x="-237" y="625" type="line"/>
+      <point x="-116" y="520" type="line" smooth="yes"/>
+      <point x="-99" y="505"/>
+      <point x="-89" y="500"/>
+      <point x="-81" y="500" type="curve" smooth="yes"/>
+      <point x="-72" y="500"/>
+      <point x="-64" y="507"/>
+      <point x="-64" y="516" type="curve" smooth="yes"/>
+      <point x="-64" y="524"/>
+      <point x="-69" y="535"/>
+      <point x="-73" y="542" type="curve" smooth="yes"/>
+    </contour>
   </outline>
+  <guideline angle="0" x="0" y="500"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -12,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0</string>
+    <string>577e91e92bac8f30ac7c5aaf882c98303879d85feed4ea4440cc87e31e5830e62ec5f4117e8223b0bd4412decf92b6d3bfc311e86c4830b3619a8787efc84e01</string>
     <key>hintSetList</key>
     <array>
       <dict>

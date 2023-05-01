@@ -196,6 +196,10 @@ lookup calt_2 {
 
 
 
+
+
+
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 3
@@ -283,6 +287,10 @@ feature locl {
 
 
 
+
+
+
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -291,6 +299,10 @@ feature frac {
   sub @frac' lookup frac_3 @frac3;
 
 } frac;
+
+
+
+
 
 
 
@@ -324,6 +336,10 @@ feature sups {
 
 
 
+
+
+
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -344,6 +360,10 @@ feature subs {
 
 
 
+
+
+
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -351,6 +371,10 @@ feature case {
   sub @case by @case2;
 
 } case;
+
+
+
+
 
 
 
@@ -620,6 +644,10 @@ feature smcp {
 
 
 
+
+
+
+
 feature c2sc {
 # GSUB feature: Small Capitals From Capitals
 # Lookups: 1
@@ -863,6 +891,10 @@ feature c2sc {
 
 
 
+
+
+
+
 feature hlig {
 # GSUB feature: Historical Ligatures
 # Lookups: 1
@@ -871,6 +903,10 @@ feature hlig {
   sub s t by s_t;
 
 } hlig;
+
+
+
+
 
 
 
@@ -908,6 +944,10 @@ feature dlig {
 
 
 
+
+
+
+
 feature onum {
 # GSUB feature: Oldstyle Figures
 # Lookups: 1
@@ -915,6 +955,10 @@ feature onum {
   sub @frac_lnum_onum by @lnum_onum;
 
 } onum;
+
+
+
+
 
 
 
@@ -948,6 +992,10 @@ feature lnum {
 
 
 
+
+
+
+
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -955,6 +1003,10 @@ feature pnum {
   sub @pnum by @pnum2;
 
 } pnum;
+
+
+
+
 
 
 
@@ -988,6 +1040,10 @@ feature tnum {
 
 
 
+
+
+
+
 feature zero {
 # GSUB feature: Slashed Zero
 # Lookups: 1
@@ -995,6 +1051,10 @@ feature zero {
   sub [zero zero.fitted zero.cap zero.cap.fitted] by [zero.slash zero.slash.fitted zero.slash.cap zero.slash.cap.fitted];
 
 } zero;
+
+
+
+
 
 
 
@@ -1031,6 +1091,10 @@ feature salt {
 
 
 
+
+
+
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -1039,6 +1103,10 @@ feature ccmp {
   sub @ccmp2 @ccmp' lookup ccmp_2;
 
 } ccmp;
+
+
+
+
 
 
 
@@ -1076,6 +1144,10 @@ feature ss01 {
 
 
 
+
+
+
+
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -1087,6 +1159,10 @@ feature ss02 {
   sub [J.alt K R] by [J K.alt R.alt];
 
 } ss02;
+
+
+
+
 
 
 
@@ -1124,6 +1200,10 @@ feature ss03 {
 
 
 
+
+
+
+
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -1135,6 +1215,10 @@ feature ss04 {
   sub [uni1E9E germandbls.sc] by [uni1E9E.alt germandbls.scalt];
 
 } ss04;
+
+
+
+
 
 
 
@@ -1172,6 +1256,10 @@ feature ss05 {
 
 
 
+
+
+
+
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -1196,6 +1284,10 @@ feature ss06 {
 
 
 
+
+
+
+
 feature ss07 {
 # GSUB feature: Stylistic Set 7
 # Lookups: 1
@@ -1207,6 +1299,10 @@ feature ss07 {
   sub [Eng eng.sc Eng.UCStyle.sc Eng.UCStyle] by [Eng.UCStyle Eng.UCStyle.sc eng.sc Eng];
 
 } ss07;
+
+
+
+
 
 
 
@@ -1267,6 +1363,10 @@ feature liga {
 
 
 
+
+
+
+
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -1283,6 +1383,10 @@ feature calt {
 	sub uni0457.calt uni0457' by uni0457.calt;
 
 } calt;
+
+
+
+
 
 
 
@@ -1317,6 +1421,10 @@ feature cpsp {
 
 
 
+
+
+
+
 feature mark {
 #> feature
 # GPOS feature : Mark Positioning
@@ -1326,12 +1434,12 @@ feature mark {
     markClass acutecomb <anchor -25 500> @t.uni0302;
     markClass acutecomb <anchor -56 500> @top;
     markClass uni0302 <anchor -188 500> @t.uni0302;
-    markClass tildecomb <anchor -137 577> @t.uni0302;
+    markClass tildecomb <anchor -137 500> @t.uni0302;
     markClass uni0304 <anchor -204 500> @t.uni0302;
     markClass uni0304 <anchor -199 500> @top;
     markClass uni0306 <anchor -201 500> @t.uni0302;
-    markClass uni0307 <anchor -38 520> @t.uni0302;
-    markClass uni0308 <anchor -81 520> @t.uni0302;
+    markClass uni0307 <anchor -37 500> @t.uni0302;
+    markClass uni0308 <anchor -85 500> @t.uni0302;
     markClass hookabovecomb <anchor -95 500> @t.uni0302;
     markClass uni030A <anchor -75 500> @t.uni0302;
     markClass uni030B <anchor -180 733> @t.uni0302;
@@ -1420,6 +1528,7 @@ feature mark {
     markClass uni036E <anchor -104 645> @t.uni0302;
     markClass uni036F <anchor -97 644> @t.uni0302;
     markClass dieresistonos <anchor 306 500> @t.uni0302;
+    markClass quoteleft <anchor 260 500> @t.uni0302;
     markClass grave.cap <anchor 12 740> @t.uni0302;
     markClass grave.cap <anchor 12 740> @top;
     markClass acute.cap <anchor 12 740> @t.uni0302;
@@ -1431,9 +1540,22 @@ feature mark {
     markClass uni03020309 <anchor -248 500> @t.uni0302;
     markClass uni03020303 <anchor -248 500> @t.uni0302;
     markClass uni03060300 <anchor -187 500> @t.uni0302;
-    markClass uni03060301 <anchor -187 500> @t.uni0302;
+    markClass uni03060301 <anchor -197 500> @t.uni0302;
     markClass uni03060309 <anchor -87 500> @t.uni0302;
     markClass uni03060303 <anchor -87 500> @t.uni0302;
+    markClass uni03040300 <anchor -273 500> @t.uni0302;
+    markClass uni03040301 <anchor -273 500> @t.uni0302;
+    markClass uni03080300 <anchor -190 500> @t.uni0302;
+    markClass uni03080301 <anchor -194 500> @t.uni0302;
+    markClass uni03080304 <anchor -128 500> @t.uni0302;
+    markClass uni0308030C <anchor -128 500> @t.uni0302;
+    markClass uni030C0307 <anchor -150 500> @t.uni0302;
+    markClass uni03070301 <anchor -66 500> @t.uni0302;
+    markClass uni03030301 <anchor -81 500> @t.uni0302;
+    markClass uni03040308 <anchor -128 500> @t.uni0302;
+    markClass uni03070304 <anchor -130 500> @t.uni0302;
+    markClass uni03030304 <anchor -132 500> @t.uni0302;
+    markClass uni03030308 <anchor -132 500> @t.uni0302;
 
   lookup markLTR1 {
       pos base A
@@ -1844,8 +1966,6 @@ feature mark {
           <anchor 366 -60> mark @b.minus-60;
       pos base uni0122
           <anchor 520 740> mark @t.uni0302;
-      pos base uni0123
-          <anchor 309 500> mark @t.uni0302;
       pos base Hcircumflex
           <anchor 169 10> mark @b.cedilla
           <anchor 343 -60> mark @b.minus-60;
@@ -2263,6 +2383,14 @@ feature mark {
           <anchor 450 740> mark @t.uni0302;
       pos base uni1E13
           <anchor 426 740> mark @t.uni0302;
+      pos base uni1E14
+          <anchor 299 10> mark @b.cedilla
+          <anchor 255 -60> mark @b.minus-60
+          <anchor 351 10> mark @b.ogonek;
+      pos base uni1E15
+          <anchor 222 10> mark @b.cedilla
+          <anchor 176 -60> mark @b.minus-60
+          <anchor 272 10> mark @b.ogonek;
       pos base uni1E16
           <anchor 299 10> mark @b.cedilla
           <anchor 255 -60> mark @b.minus-60
@@ -2332,6 +2460,9 @@ feature mark {
           <anchor 294 740> mark @t.uni0302;
       pos base uni1E2D
           <anchor 252 10> mark @b.ogonek;
+      pos base uni1E2E
+          <anchor 150 -60> mark @b.minus-60
+          <anchor 222 10> mark @b.ogonek;
       pos base uni1E30
           <anchor 323 -60> mark @b.minus-60;
       pos base uni1E31
@@ -2384,6 +2515,30 @@ feature mark {
           <anchor 464 740> mark @t.uni0302;
       pos base uni1E4B
           <anchor 394 500> mark @t.uni0302;
+      pos base uni1E4C
+          <anchor 356 -60> mark @b.minus-60
+          <anchor 394 10> mark @b.ogonek;
+      pos base uni1E4D
+          <anchor 224 -60> mark @b.minus-60
+          <anchor 303 10> mark @b.ogonek;
+      pos base uni1E4E
+          <anchor 356 -60> mark @b.minus-60
+          <anchor 394 10> mark @b.ogonek;
+      pos base uni1E4F
+          <anchor 224 -60> mark @b.minus-60
+          <anchor 303 10> mark @b.ogonek;
+      pos base uni1E50
+          <anchor 356 -60> mark @b.minus-60
+          <anchor 394 10> mark @b.ogonek;
+      pos base uni1E51
+          <anchor 224 -60> mark @b.minus-60
+          <anchor 303 10> mark @b.ogonek;
+      pos base uni1E52
+          <anchor 356 -60> mark @b.minus-60
+          <anchor 394 10> mark @b.ogonek;
+      pos base uni1E53
+          <anchor 224 -60> mark @b.minus-60
+          <anchor 303 10> mark @b.ogonek;
       pos base uni1E54
           <anchor 145 -60> mark @b.minus-60;
       pos base uni1E55
@@ -2474,6 +2629,18 @@ feature mark {
       pos base uni1E77
           <anchor 518 10> mark @b.ogonek
           <anchor 393 500> mark @t.uni0302;
+      pos base uni1E78
+          <anchor 335 -60> mark @b.minus-60
+          <anchor 435 0> mark @b.ogonek;
+      pos base uni1E79
+          <anchor 277 -60> mark @b.minus-60
+          <anchor 518 10> mark @b.ogonek;
+      pos base uni1E7A
+          <anchor 335 -60> mark @b.minus-60
+          <anchor 435 0> mark @b.ogonek;
+      pos base uni1E7B
+          <anchor 277 -60> mark @b.minus-60
+          <anchor 518 10> mark @b.ogonek;
       pos base uni1E7C
           <anchor 324 -60> mark @b.minus-60;
       pos base uni1E7D
@@ -2538,6 +2705,12 @@ feature mark {
       pos base uni1EA1
           <anchor 445 10> mark @b.ogonek
           <anchor 385 500> mark @t.uni0302;
+      pos base uni1EA2
+          <anchor 310 -60> mark @b.minus-60
+          <anchor 631 10> mark @b.ogonek;
+      pos base uni1EA3
+          <anchor 222 -60> mark @b.minus-60
+          <anchor 445 10> mark @b.ogonek;
       pos base uni1EA4
           <anchor 310 -60> mark @b.minus-60
           <anchor 631 10> mark @b.ogonek;
@@ -2753,11 +2926,11 @@ feature mark {
       pos base uni2C74
           <anchor 252 646> mark @t.uni0302;
       pos base a.sc
-          <anchor 308 645> mark @t.uni0302;
+          <anchor 387 530> mark @t.uni0302;
       pos base b.sc
           <anchor 308 645> mark @t.uni0302;
       pos base c.sc
-          <anchor 288 645> mark @t.uni0302;
+          <anchor 390 530> mark @t.uni0302;
       pos base d.sc
           <anchor 298 645> mark @t.uni0302;
       pos base e.sc
@@ -2806,6 +2979,8 @@ feature mark {
           <anchor 238 645> mark @t.uni0302;
       pos base ae.sc
           <anchor 570 645> mark @t.uni0302;
+      pos base ccedilla.sc
+          <anchor 390 530> mark @t.uni0302;
       pos base odieresis.sc
           <anchor 288 645> mark @t.uni0302;
       pos base oe.sc
@@ -2911,6 +3086,18 @@ feature mark {
       pos base uni01DC
           <anchor 277 -60> mark @b.minus-60
           <anchor 518 10> mark @b.ogonek;
+      pos base uni01DE
+          <anchor 310 -60> mark @b.minus-60
+          <anchor 631 10> mark @b.ogonek;
+      pos base uni01DF
+          <anchor 222 -60> mark @b.minus-60
+          <anchor 445 10> mark @b.ogonek;
+      pos base uni01E0
+          <anchor 310 -60> mark @b.minus-60
+          <anchor 631 10> mark @b.ogonek;
+      pos base uni01E1
+          <anchor 222 -60> mark @b.minus-60
+          <anchor 445 10> mark @b.ogonek;
       pos base Gcaron
           <anchor 366 -60> mark @b.minus-60;
       pos base uni01E8
@@ -2984,7 +3171,25 @@ feature mark {
       pos base uni0227
           <anchor 222 -60> mark @b.minus-60
           <anchor 445 10> mark @b.ogonek;
+      pos base uni022A
+          <anchor 356 -60> mark @b.minus-60
+          <anchor 394 10> mark @b.ogonek;
+      pos base uni022B
+          <anchor 224 -60> mark @b.minus-60
+          <anchor 303 10> mark @b.ogonek;
+      pos base uni022C
+          <anchor 356 -60> mark @b.minus-60
+          <anchor 394 10> mark @b.ogonek;
+      pos base uni022D
+          <anchor 224 -60> mark @b.minus-60
+          <anchor 303 10> mark @b.ogonek;
       pos base uni022F
+          <anchor 224 -60> mark @b.minus-60
+          <anchor 303 10> mark @b.ogonek;
+      pos base uni0230
+          <anchor 356 -60> mark @b.minus-60
+          <anchor 394 10> mark @b.ogonek;
+      pos base uni0231
           <anchor 224 -60> mark @b.minus-60
           <anchor 303 10> mark @b.ogonek;
       pos base uni0232
@@ -3048,97 +3253,101 @@ feature mark {
 
   lookup markLTR2 {
       pos base Adieresis
-          <anchor 480 860> mark @top;
+          <anchor 484 880> mark @top;
       pos base Edieresis
-          <anchor 409 860> mark @top;
+          <anchor 413 880> mark @top;
       pos base Idieresis
-          <anchor 294 860> mark @top;
+          <anchor 298 880> mark @top;
       pos base Odieresis
-          <anchor 486 860> mark @top;
+          <anchor 490 880> mark @top;
       pos base Udieresis
-          <anchor 504 860> mark @top;
+          <anchor 508 880> mark @top;
       pos base adieresis
-          <anchor 385 620> mark @top;
+          <anchor 389 640> mark @top;
       pos base edieresis
-          <anchor 335 620> mark @top;
+          <anchor 339 640> mark @top;
       pos base idieresis
-          <anchor 267 620> mark @top;
+          <anchor 271 640> mark @top;
       pos base odieresis
-          <anchor 334 620> mark @top;
+          <anchor 338 640> mark @top;
       pos base udieresis
-          <anchor 393 620> mark @top;
+          <anchor 397 640> mark @top;
       pos base ydieresis
-          <anchor 366 620> mark @top;
+          <anchor 370 640> mark @top;
       pos base Ydieresis
-          <anchor 475 860> mark @top;
+          <anchor 479 880> mark @top;
       pos base upsilondieresis
-          <anchor 374 620> mark @top;
+          <anchor 378 640> mark @top;
       pos base uni0401
-          <anchor 409 860> mark @top;
+          <anchor 413 880> mark @top;
       pos base uni0407
-          <anchor 294 860> mark @top;
+          <anchor 298 880> mark @top;
       pos base uni1E26
-          <anchor 497 860> mark @top;
+          <anchor 501 880> mark @top;
       pos base uni1E27
-          <anchor 426 860> mark @top;
+          <anchor 430 880> mark @top;
       pos base Wdieresis
-          <anchor 639 860> mark @top;
+          <anchor 643 880> mark @top;
       pos base wdieresis
-          <anchor 472 620> mark @top;
+          <anchor 476 640> mark @top;
       pos base uni1E8C
-          <anchor 472 860> mark @top;
+          <anchor 476 880> mark @top;
       pos base uni1E8D
-          <anchor 376 620> mark @top;
+          <anchor 380 640> mark @top;
       pos base uni1E97
-          <anchor 300 740> mark @top;
+          <anchor 304 760> mark @top;
       pos base uni04D2
-          <anchor 480 860> mark @top;
+          <anchor 484 880> mark @top;
       pos base uni04D3
-          <anchor 385 620> mark @top;
+          <anchor 389 640> mark @top;
       pos base uni04DA
-          <anchor 473 860> mark @top;
+          <anchor 477 880> mark @top;
       pos base uni04DB
-          <anchor 334 620> mark @top;
+          <anchor 338 640> mark @top;
       pos base uni04DC
-          <anchor 564 860> mark @top;
+          <anchor 568 880> mark @top;
       pos base uni04DD
-          <anchor 500 620> mark @top;
+          <anchor 504 640> mark @top;
       pos base uni04DE
-          <anchor 369 860> mark @top;
+          <anchor 373 880> mark @top;
       pos base uni04DF
-          <anchor 301 620> mark @top;
+          <anchor 305 640> mark @top;
       pos base uni04E4
-          <anchor 530 860> mark @top;
+          <anchor 534 880> mark @top;
       pos base uni04E5
-          <anchor 393 620> mark @top;
+          <anchor 397 640> mark @top;
       pos base uni04E6
-          <anchor 486 860> mark @top;
+          <anchor 490 880> mark @top;
       pos base uni04E7
-          <anchor 334 620> mark @top;
+          <anchor 338 640> mark @top;
       pos base uni04EA
-          <anchor 482 860> mark @top;
+          <anchor 486 880> mark @top;
       pos base uni04EC
-          <anchor 401 860> mark @top;
+          <anchor 405 880> mark @top;
       pos base uni04ED
-          <anchor 314 620> mark @top;
+          <anchor 318 640> mark @top;
       pos base uni04F0
           <anchor 465 856> mark @top;
       pos base uni04F1
-          <anchor 366 620> mark @top;
+          <anchor 370 640> mark @top;
       pos base uni04F4
-          <anchor 431 860> mark @top;
+          <anchor 435 880> mark @top;
       pos base uni04F5
-          <anchor 364 620> mark @top;
+          <anchor 368 640> mark @top;
       pos base uni04F8
-          <anchor 628 860> mark @top;
+          <anchor 632 880> mark @top;
       pos base uni04F9
-          <anchor 468 620> mark @top;
+          <anchor 472 640> mark @top;
   } markLTR2;
 
   lookup markLTR1;
   lookup markLTR2;
 #< feature
 } mark;
+
+
+
+
 
 
 
@@ -3164,6 +3373,10 @@ feature mkmk {
 
 
 
+
+
+
+
 feature cv01 {
 # Character Variant 01—99
 
@@ -3172,3 +3385,7 @@ sub p by p.alt;
 sub J by J.alt;
 #< feature
 } cv01;
+
+
+
+

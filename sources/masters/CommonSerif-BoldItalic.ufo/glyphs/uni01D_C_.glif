@@ -5,15 +5,15 @@
   <anchor x="518" y="10" name="b.ogonek"/>
   <anchor x="277" y="-60" name="b.minus-60"/>
   <outline>
-    <component base="udieresis"/>
-    <component base="gravecomb" xOffset="461" yOffset="120"/>
+    <component base="u"/>
+    <component base="uni03080300" xOffset="583"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>udieresis+gravecomb</string>
+  <string>u+uni03080300</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

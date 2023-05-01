@@ -2,30 +2,20 @@
 <glyph name="uni1E71" format="2">
   <advance width="316"/>
   <unicode hex="1E71"/>
+  <anchor x="137" y="630" name="t.uni0302"/>
+  <anchor x="175" y="0" name="b.cedilla"/>
   <outline>
     <component base="t"/>
-    <contour>
-      <point x="189" y="-43" type="curve"/>
-      <point x="178" y="-40"/>
-      <point x="168" y="-41"/>
-      <point x="157" y="-43" type="curve"/>
-      <point x="128" y="-89"/>
-      <point x="82" y="-143"/>
-      <point x="46" y="-183" type="curve"/>
-      <point x="52" y="-192"/>
-      <point x="59" y="-198"/>
-      <point x="68" y="-200" type="curve"/>
-      <point x="107" y="-178"/>
-      <point x="140" y="-149"/>
-      <point x="172" y="-117" type="curve"/>
-      <point x="202" y="-148"/>
-      <point x="237" y="-176"/>
-      <point x="275" y="-200" type="curve"/>
-      <point x="284" y="-198"/>
-      <point x="293" y="-190"/>
-      <point x="298" y="-183" type="curve"/>
-      <point x="262" y="-143"/>
-      <point x="218" y="-90"/>
-    </contour>
+    <component base="uni032D" xOffset="363"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>t+uni032D</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

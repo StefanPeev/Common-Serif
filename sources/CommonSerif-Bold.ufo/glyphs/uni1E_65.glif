@@ -2,62 +2,20 @@
 <glyph name="uni1E65" format="2">
   <advance width="427"/>
   <unicode hex="1E65"/>
+  <anchor x="229" y="-60" name="b.minus-60"/>
+  <anchor x="212" y="0" name="b.cedilla"/>
   <outline>
     <component base="s"/>
-    <contour>
-      <point x="252" y="637" type="curve"/>
-      <point x="169" y="506" type="line" smooth="yes"/>
-      <point x="163" y="497"/>
-      <point x="161" y="488"/>
-      <point x="161" y="482" type="curve" smooth="yes"/>
-      <point x="161" y="476"/>
-      <point x="169" y="468"/>
-      <point x="177" y="468" type="curve" smooth="yes"/>
-      <point x="187" y="468"/>
-      <point x="201" y="472"/>
-      <point x="215" y="484" type="curve" smooth="yes"/>
-      <point x="335" y="592" type="line"/>
-      <point x="325" y="615" type="line"/>
-      <point x="317" y="625"/>
-      <point x="298" y="639"/>
-      <point x="268" y="639" type="curve" smooth="yes"/>
-      <point x="263" y="639"/>
-      <point x="255" y="638"/>
-    </contour>
-    <contour>
-      <point x="49" y="590" type="curve" smooth="yes"/>
-      <point x="49" y="561"/>
-      <point x="70" y="531"/>
-      <point x="106" y="531" type="curve" smooth="yes"/>
-      <point x="147" y="531"/>
-      <point x="170" y="563"/>
-      <point x="170" y="587" type="curve" smooth="yes"/>
-      <point x="170" y="614"/>
-      <point x="150" y="646"/>
-      <point x="112" y="646" type="curve" smooth="yes"/>
-      <point x="70" y="646"/>
-      <point x="49" y="617"/>
-    </contour>
+    <component base="uni03070301" xOffset="543"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3aa04e947eb0ebbe0cc6c578bbf6788e62aa039d7f3ef170f9c11e0a1031b7adbac244a3d3308b553619e241cd3abc3b7833c453f43ea13e8dfae60e5b172167</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 531 115</string>
-          <string>vstem 49 121</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+uni03070301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,16 +2,19 @@
 <glyph name="uni1E1F" format="2">
   <advance width="337"/>
   <unicode hex="1E1F"/>
-  <anchor x="132" y="-110" name="m.uni0316_2"/>
-  <anchor x="410" y="750" name="m.uni031A_3"/>
+  <anchor x="352.667" y="-60" name="b.minus-60"/>
   <outline>
     <component base="f"/>
-    <component base="uni0307" xOffset="426.159" yOffset="220"/>
+    <component base="uni0307" xOffset="411.667" yOffset="240"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>f+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni034D" format="2">
   <unicode hex="034D"/>
-  <anchor x="-222" y="-110" name="_m.uni0316_2"/>
+  <anchor x="-293" y="-60" name="_b.minus-60"/>
   <outline>
     <contour>
       <point x="-414" y="-127" type="curve"/>
@@ -12,11 +12,11 @@
       <point x="-275" y="-221" type="line"/>
       <point x="-290" y="-189"/>
       <point x="-311" y="-168"/>
-      <point x="-329" y="-149" type="curve"/>
+      <point x="-329" y="-149" type="curve" name=".hr01"/>
       <point x="-128" y="-149" type="line"/>
       <point x="-146" y="-169"/>
       <point x="-168" y="-189"/>
-      <point x="-182" y="-221" type="curve"/>
+      <point x="-182" y="-221" type="curve" name=".hr02"/>
       <point x="-147" y="-221" type="line"/>
       <point x="-119" y="-190"/>
       <point x="-81" y="-158"/>
@@ -51,10 +51,27 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>vstem -414 371</string>
           <string>hstem -221 102</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem -149 30</string>
           <string>vstem -414 371</string>
         </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -221 102</string>
+          <string>vstem -414 371</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E79" format="2">
-  <advance width="604"/>
+  <advance width="584"/>
   <unicode hex="1E79"/>
+  <anchor x="493" y="10" name="b.ogonek"/>
+  <anchor x="269" y="-60" name="b.minus-60"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xyScale="-1.75267e-18" xOffset="477.333" yOffset="-49.3333"/>
-    <contour>
-      <point x="481.667" y="746" type="curve"/>
-      <point x="404" y="634.333" type="line" smooth="yes"/>
-      <point x="398.667" y="626.333"/>
-      <point x="394.333" y="618.333"/>
-      <point x="393.667" y="611.667" type="curve"/>
-      <point x="393.667" y="606"/>
-      <point x="398.333" y="599.667"/>
-      <point x="404" y="599.667" type="curve" smooth="yes"/>
-      <point x="411" y="599.667"/>
-      <point x="420.667" y="603.667"/>
-      <point x="433.333" y="615.333" type="curve" smooth="yes"/>
-      <point x="537.667" y="710.667" type="line"/>
-      <point x="534.333" y="727.333" type="line"/>
-      <point x="526" y="739.667"/>
-      <point x="511" y="748"/>
-      <point x="494" y="748" type="curve" smooth="yes"/>
-      <point x="490" y="748"/>
-      <point x="484.333" y="747"/>
-    </contour>
+    <component base="uni03030301" xOffset="468.333"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni03030301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

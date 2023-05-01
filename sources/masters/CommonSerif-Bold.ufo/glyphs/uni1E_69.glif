@@ -2,60 +2,19 @@
 <glyph name="uni1E69" format="2">
   <advance width="427"/>
   <unicode hex="1E69"/>
+  <anchor x="212" y="0" name="b.cedilla"/>
   <outline>
-    <component base="s"/>
-    <contour>
-      <point x="136" y="-159" type="curve" smooth="yes"/>
-      <point x="136" y="-192"/>
-      <point x="160" y="-225"/>
-      <point x="200" y="-225" type="curve" smooth="yes"/>
-      <point x="245" y="-225"/>
-      <point x="271" y="-189"/>
-      <point x="271" y="-163" type="curve" smooth="yes"/>
-      <point x="271" y="-133"/>
-      <point x="248" y="-97"/>
-      <point x="206" y="-97" type="curve" smooth="yes"/>
-      <point x="159" y="-97"/>
-      <point x="136" y="-129"/>
-    </contour>
-    <contour>
-      <point x="136" y="527" type="curve" smooth="yes"/>
-      <point x="136" y="494"/>
-      <point x="160" y="461"/>
-      <point x="200" y="461" type="curve" smooth="yes"/>
-      <point x="245" y="461"/>
-      <point x="271" y="497"/>
-      <point x="271" y="523" type="curve" smooth="yes"/>
-      <point x="271" y="553"/>
-      <point x="248" y="589"/>
-      <point x="206" y="589" type="curve" smooth="yes"/>
-      <point x="159" y="589"/>
-      <point x="136" y="557"/>
-    </contour>
+    <component base="uni1E63"/>
+    <component base="uni0307" xOffset="430"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>eec615f1c4d71b641e0f7baf924756987fb66651f58be8d30b825097f95d6df05a2d84a3d746d0fed953b6acb9a2382801d7e1019caa2403330070c0f097957a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -225 128</string>
-          <string>hstem -10 39</string>
-          <string>hstem 402 42</string>
-          <string>hstem 461 128</string>
-          <string>vstem 63 113</string>
-          <string>vstem 261 116</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E63+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,51 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0136" format="2">
-  <advance width="703"/>
+  <advance width="706"/>
   <unicode hex="0136"/>
+  <anchor x="343.667" y="740" name="t.uni0302"/>
   <outline>
     <component base="K"/>
-    <contour>
-      <point x="364.667" y="-47.6667" type="curve" smooth="yes"/>
-      <point x="339.667" y="-47.6667"/>
-      <point x="314" y="-68"/>
-      <point x="314" y="-87.3333" type="curve" smooth="yes"/>
-      <point x="314" y="-113"/>
-      <point x="329.667" y="-126"/>
-      <point x="350" y="-130.333" type="curve"/>
-      <point x="361.333" y="-132.333"/>
-      <point x="379.667" y="-134.333"/>
-      <point x="379.667" y="-154.333" type="curve" smooth="yes"/>
-      <point x="379.667" y="-172.333"/>
-      <point x="354.333" y="-196.333"/>
-      <point x="311.333" y="-207.333" type="curve"/>
-      <point x="308.667" y="-218.333"/>
-      <point x="309.333" y="-228"/>
-      <point x="318" y="-234" type="curve"/>
-      <point x="382.333" y="-223"/>
-      <point x="433.333" y="-186.333"/>
-      <point x="433.333" y="-128.333" type="curve" smooth="yes"/>
-      <point x="433.333" y="-69"/>
-      <point x="398.667" y="-47.6667"/>
-    </contour>
+    <component base="uni0326" xOffset="596"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d65dc0a802631c29e6c18094b12e1ea59151a77a3b798b5fe2ec09fe10ce13f34312064d5663e7111758448e6068737e02903db5f41c5d197f8294464fb951c6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 379.67 53.67</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>K+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

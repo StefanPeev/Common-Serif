@@ -2,56 +2,20 @@
 <glyph name="uni1E71" format="2">
   <advance width="358"/>
   <unicode hex="1E71"/>
+  <anchor x="153" y="640" name="t.uni0302"/>
+  <anchor x="205" y="0" name="b.cedilla"/>
   <outline>
     <component base="t"/>
-    <contour>
-      <point x="211" y="-62" type="curve"/>
-      <point x="200.035" y="-59.3915"/>
-      <point x="168.709" y="-58.911"/>
-      <point x="159" y="-62" type="curve"/>
-      <point x="129" y="-110"/>
-      <point x="94.9435" y="-155.546"/>
-      <point x="53" y="-196" type="curve"/>
-      <point x="58" y="-203"/>
-      <point x="70.2645" y="-212.48"/>
-      <point x="78" y="-215" type="curve"/>
-      <point x="120.501" y="-188.922"/>
-      <point x="146" y="-171"/>
-      <point x="184" y="-132" type="curve"/>
-      <point x="219" y="-169"/>
-      <point x="248" y="-189"/>
-      <point x="291" y="-215" type="curve"/>
-      <point x="300.632" y="-211.459"/>
-      <point x="312.388" y="-203.321"/>
-      <point x="316" y="-196" type="curve"/>
-      <point x="279" y="-155"/>
-      <point x="241" y="-111"/>
-    </contour>
+    <component base="uni032D" xOffset="394"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>13e83c59e8caf094c83c1ae1cdae429a1fc376bd1d96b8fac0eaebfb5998ed0973c07b530db4cecce22147acbeda2e77247aa6978f463326cd054255ae8c50e2</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -194 -21</string>
-          <string>hstem -10 70</string>
-          <string>hstem 384 50</string>
-          <string>hstem 581 9</string>
-          <string>vstem 88 130</string>
-          <string>vstem 91 127</string>
-          <string>vstem 91 132</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>t+uni032D</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

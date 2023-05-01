@@ -133,6 +133,22 @@ lookup calt_2 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 3
@@ -218,6 +234,22 @@ feature locl {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -226,6 +258,22 @@ feature frac {
   sub @frac' lookup frac_3 @frac3;
 
 } frac;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -249,6 +297,22 @@ feature sups {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -264,6 +328,22 @@ feature subs {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -271,6 +351,22 @@ feature case {
   sub @case by @case2;
 
 } case;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -530,6 +626,22 @@ feature smcp {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature c2sc {
 # GSUB feature: Small Capitals From Capitals
 # Lookups: 1
@@ -768,6 +880,22 @@ feature c2sc {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature hlig {
 # GSUB feature: Historical Ligatures
 # Lookups: 1
@@ -776,6 +904,22 @@ feature hlig {
   sub s t by s_t;
 
 } hlig;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -803,6 +947,22 @@ feature dlig {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature onum {
 # GSUB feature: Oldstyle Figures
 # Lookups: 1
@@ -810,6 +970,22 @@ feature onum {
   sub @frac_onum by @onum;
 
 } onum;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -833,6 +1009,22 @@ feature lnum {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -840,6 +1032,22 @@ feature pnum {
   sub @pnum by @pnum2;
 
 } pnum;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -863,6 +1071,22 @@ feature tnum {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature zero {
 # GSUB feature: Slashed Zero
 # Lookups: 1
@@ -870,6 +1094,22 @@ feature zero {
   sub [zero zero.fitted zero.cap zero.cap.fitted] by [zero.slash zero.slash.fitted zero.slash.cap zero.slash.cap.fitted];
 
 } zero;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -896,6 +1136,22 @@ feature salt {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -904,6 +1160,22 @@ feature ccmp {
   sub @ccmp2 @ccmp' lookup ccmp_2;
 
 } ccmp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -931,6 +1203,22 @@ feature ss01 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -942,6 +1230,22 @@ feature ss02 {
   sub [J K R] by [J.alt K.alt R.alt];
 
 } ss02;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -969,6 +1273,22 @@ feature ss03 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -980,6 +1300,22 @@ feature ss04 {
   sub [uni1E9E germandbls.sc] by [uni1E9E.alt germandbls.scalt];
 
 } ss04;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1007,6 +1343,22 @@ feature ss05 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -1026,6 +1378,22 @@ feature ss06 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature ss07 {
 # GSUB feature: Stylistic Set 7
 # Lookups: 1
@@ -1037,6 +1405,22 @@ feature ss07 {
   sub [Eng eng.sc Eng.UCStyle Eng.UCStyle.sc] by [Eng.UCStyle Eng.UCStyle.sc Eng eng.sc];
 
 } ss07;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1087,6 +1471,22 @@ feature liga {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -1111,6 +1511,22 @@ feature calt {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -1119,6 +1535,22 @@ feature cpsp {
   pos I <2 0 6 0>;
 
 } cpsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5330,6 +5762,22 @@ feature mark {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feature mkmk {
 #> feature
 # GPOS feature : Mark to Mark Positioning
@@ -5388,3 +5836,19 @@ feature mkmk {
   lookup mkmkLTR;
 #< feature
 } mkmk;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

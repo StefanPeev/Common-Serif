@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030E" format="2">
   <unicode hex="030E"/>
-  <anchor x="-245" y="719" name="_t.uni0302"/>
+  <anchor x="-236.333" y="500" name="_t.uni0302"/>
   <outline>
     <contour>
-      <point x="-154.667" y="539" type="line"/>
-      <point x="-154.667" y="719" type="line"/>
-      <point x="-206" y="719" type="line"/>
-      <point x="-206" y="539" type="line"/>
+      <point x="-154.667" y="500" type="line"/>
+      <point x="-154.667" y="680" type="line"/>
+      <point x="-206" y="680" type="line"/>
+      <point x="-206" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="-266" y="540" type="line" name=".hr01"/>
-      <point x="-266" y="719" type="line"/>
-      <point x="-317.667" y="719" type="line"/>
-      <point x="-317.667" y="540" type="line"/>
+      <point x="-266" y="500" type="line"/>
+      <point x="-266" y="680" type="line"/>
+      <point x="-317.667" y="680" type="line"/>
+      <point x="-317.667" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,26 +23,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w0m-154.67,539l-154.67,719l-206,719l-206,539m-266,540l-266,719l-317.67,719l-317.67,540</string>
+    <string>w0m-154.67,500l-154.67,680l-206,680l-206,500m-266,500l-266,680l-317.67,680l-317.67,500</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 539 180</string>
-          <string>vstem -206 51.33</string>
-          <string>vstem -317.67 51.67</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 540 179</string>
           <string>vstem -317.67 51.67</string>
           <string>vstem -206 51.33</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

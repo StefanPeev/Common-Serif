@@ -6,15 +6,15 @@
   <anchor x="299" y="10" name="b.cedilla"/>
   <anchor x="351" y="10" name="b.ogonek"/>
   <outline>
-    <component base="Emacron"/>
-    <component base="acute.cap" xOffset="416"/>
+    <component base="E"/>
+    <component base="uni03040301" xOffset="682" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Emacron+acute.cap</string>
+  <string>E+uni03040301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

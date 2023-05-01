@@ -1,9 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03060303" format="2">
   <anchor x="-178.667" y="500" name="_t.uni0302"/>
+  <anchor x="-175.667" y="779.333" name="top"/>
   <outline>
-    <component base="breve" xOffset="-350.667"/>
-    <component base="tildecomb" xyScale="-3.81798e-18" yScale="1" xOffset="-27.6667" yOffset="134.333"/>
+    <contour>
+      <point x="-287.333" y="645.803" type="curve"/>
+      <point x="-318.333" y="635.56" type="line"/>
+      <point x="-309" y="556.232"/>
+      <point x="-256.667" y="500"/>
+      <point x="-179.333" y="500" type="curve" smooth="yes"/>
+      <point x="-125.667" y="500"/>
+      <point x="-52.3333" y="539.934"/>
+      <point x="-41.6667" y="635.56" type="curve"/>
+      <point x="-72" y="645.803" type="line"/>
+      <point x="-77.3333" y="585.853"/>
+      <point x="-130.667" y="566.318"/>
+      <point x="-179.333" y="566.318" type="curve" smooth="yes"/>
+      <point x="-239.333" y="566.318"/>
+      <point x="-282.333" y="594.01"/>
+    </contour>
+    <contour>
+      <point x="-119.902" y="717.663" type="curve" smooth="yes"/>
+      <point x="-172.992" y="717.663"/>
+      <point x="-176.876" y="758.948"/>
+      <point x="-230.873" y="758.948" type="curve" smooth="yes"/>
+      <point x="-263.54" y="758.948"/>
+      <point x="-288.947" y="717.288"/>
+      <point x="-302.333" y="666.798" type="curve"/>
+      <point x="-300.693" y="656.398"/>
+      <point x="-289.595" y="653.669"/>
+      <point x="-279.418" y="654.347" type="curve"/>
+      <point x="-270.112" y="688.248"/>
+      <point x="-257.819" y="691.199"/>
+      <point x="-237.567" y="691.199" type="curve" smooth="yes"/>
+      <point x="-192.57" y="691.199"/>
+      <point x="-174.299" y="651.191"/>
+      <point x="-131.82" y="651.191" type="curve" smooth="yes"/>
+      <point x="-97.1383" y="651.191"/>
+      <point x="-67.1041" y="688.668"/>
+      <point x="-53.6667" y="743.68" type="curve"/>
+      <point x="-55.307" y="752.206"/>
+      <point x="-66.4052" y="758.004"/>
+      <point x="-77.7769" y="757.665" type="curve"/>
+      <point x="-89.9687" y="721.905"/>
+      <point x="-105.523" y="717.663"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-160" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>84ace628f01a2767216a295d892ef8e065280f00170c80d7a62fa981352beb5a9bd398423223eaa177ed45b17b853ebc8b93ed1e12861ca5262115f35d10f790</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem -318.33 276.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -2,105 +2,21 @@
 <glyph name="uni1E50" format="2">
   <advance width="730"/>
   <unicode hex="1E50"/>
+  <anchor x="402" y="10" name="b.ogonek"/>
+  <anchor x="352" y="-60" name="b.minus-60"/>
+  <anchor x="350" y="840" name="top"/>
   <outline>
-    <contour>
-      <point x="694" y="329" type="curve" smooth="yes"/>
-      <point x="694" y="528"/>
-      <point x="546" y="658"/>
-      <point x="363" y="658" type="curve" smooth="yes"/>
-      <point x="263" y="658"/>
-      <point x="176" y="615"/>
-      <point x="118" y="546" type="curve" smooth="yes"/>
-      <point x="66" y="484"/>
-      <point x="37" y="401"/>
-      <point x="37" y="309" type="curve" smooth="yes"/>
-      <point x="37" y="111"/>
-      <point x="194" y="-10"/>
-      <point x="364" y="-10" type="curve" smooth="yes"/>
-      <point x="467" y="-10"/>
-      <point x="551" y="27"/>
-      <point x="608" y="89" type="curve" smooth="yes"/>
-      <point x="616" y="98"/>
-      <point x="623" y="107"/>
-      <point x="630" y="116" type="curve"/>
-      <point x="671" y="173"/>
-      <point x="694" y="245"/>
-    </contour>
-    <contour>
-      <point x="351" y="616" type="curve" smooth="yes"/>
-      <point x="458" y="616"/>
-      <point x="543" y="511"/>
-      <point x="543" y="308" type="curve" smooth="yes"/>
-      <point x="543" y="142"/>
-      <point x="485" y="32"/>
-      <point x="384" y="32" type="curve" smooth="yes"/>
-      <point x="274" y="32"/>
-      <point x="188" y="141"/>
-      <point x="188" y="329" type="curve" smooth="yes"/>
-      <point x="188" y="533"/>
-      <point x="262" y="616"/>
-    </contour>
-    <contour>
-      <point x="474" y="730" type="line" smooth="yes"/>
-      <point x="486" y="730"/>
-      <point x="496" y="750"/>
-      <point x="496" y="763" type="curve" smooth="yes"/>
-      <point x="496" y="771"/>
-      <point x="493" y="780"/>
-      <point x="484" y="780" type="curve" smooth="yes"/>
-      <point x="249" y="780" type="line" smooth="yes"/>
-      <point x="238" y="780"/>
-      <point x="228" y="760"/>
-      <point x="228" y="748" type="curve" smooth="yes"/>
-      <point x="228" y="739"/>
-      <point x="232" y="730"/>
-      <point x="241" y="730" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="274.166" y="919.487" type="curve"/>
-      <point x="255.166" y="909.487"/>
-      <point x="234.166" y="890.487"/>
-      <point x="224.166" y="871.487" type="curve"/>
-      <point x="226.166" y="860.487" type="line"/>
-      <point x="337.166" y="809.487" type="line" smooth="yes"/>
-      <point x="348.145" y="804.442"/>
-      <point x="357.166" y="803.487"/>
-      <point x="364.166" y="803.487" type="curve"/>
-      <point x="364.166" y="803.487"/>
-      <point x="364.166" y="803.487"/>
-      <point x="364.166" y="803.487" type="curve"/>
-      <point x="371.166" y="803.487"/>
-      <point x="379.166" y="809.487"/>
-      <point x="379.166" y="816.487" type="curve" smooth="yes"/>
-      <point x="379.166" y="823.487"/>
-      <point x="379.313" y="828.637"/>
-      <point x="372.166" y="835.487" type="curve" smooth="yes"/>
-      <point x="355.311" y="851.639"/>
-      <point x="305.166" y="895.487"/>
-    </contour>
+    <component base="O"/>
+    <component base="uni03040300" xOffset="553" yOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7c50780a99bd65cb5ac33b63d699da85652b77181c682a23d7c73d013e5065b49a9e2fa688b314898d2bdbed8c9ae6d21eb18c53222b1f900f408b1223fdca48</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 42</string>
-          <string>hstem 616 42</string>
-          <string>hstem 730 50</string>
-          <string>vstem 37 151</string>
-          <string>vstem 543 151</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+~uni03040300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,61 +2,25 @@
 <glyph name="uni01DE" format="2">
   <advance width="710"/>
   <unicode hex="01DE"/>
+  <anchor x="310" y="-60" name="b.minus-60"/>
+  <anchor x="581" y="5" name="b.uni0327_6"/>
+  <anchor x="631" y="10" name="b.ogonek"/>
   <outline>
     <component base="A"/>
-    <contour>
-      <point x="617" y="806" type="line" smooth="yes"/>
-      <point x="630" y="806"/>
-      <point x="644" y="824"/>
-      <point x="647" y="836" type="curve"/>
-      <point x="648" y="842"/>
-      <point x="645" y="850"/>
-      <point x="635" y="850" type="curve" smooth="yes"/>
-      <point x="390" y="850" type="line" smooth="yes"/>
-      <point x="379" y="850"/>
-      <point x="365" y="833"/>
-      <point x="363" y="821" type="curve"/>
-      <point x="361" y="814"/>
-      <point x="364" y="806"/>
-      <point x="373" y="806" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="313" y="706" type="curve" smooth="yes"/>
-      <point x="313" y="680"/>
-      <point x="335" y="658"/>
-      <point x="361" y="658" type="curve" smooth="yes"/>
-      <point x="387" y="658"/>
-      <point x="409" y="680"/>
-      <point x="409" y="706" type="curve" smooth="yes"/>
-      <point x="409" y="732"/>
-      <point x="387" y="754"/>
-      <point x="361" y="754" type="curve" smooth="yes"/>
-      <point x="335" y="754"/>
-      <point x="313" y="732"/>
-    </contour>
-    <contour>
-      <point x="550" y="706" type="curve" smooth="yes"/>
-      <point x="550" y="680"/>
-      <point x="572" y="658"/>
-      <point x="598" y="658" type="curve" smooth="yes"/>
-      <point x="624" y="658"/>
-      <point x="646" y="680"/>
-      <point x="646" y="706" type="curve" smooth="yes"/>
-      <point x="646" y="732"/>
-      <point x="624" y="754"/>
-      <point x="598" y="754" type="curve" smooth="yes"/>
-      <point x="572" y="754"/>
-      <point x="550" y="732"/>
-    </contour>
+    <component base="uni03080304" xOffset="608" yOffset="240"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=A</string>
   <key>com.fontlab.metricsRight</key>
   <string>=A</string>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni03080304</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

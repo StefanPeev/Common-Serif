@@ -2,63 +2,21 @@
 <glyph name="uni1E52" format="2">
   <advance width="711"/>
   <unicode hex="1E52"/>
+  <anchor x="390" y="10" name="b.ogonek"/>
+  <anchor x="346.667" y="-60" name="b.minus-60"/>
+  <anchor x="352.667" y="840" name="top"/>
   <outline>
     <component base="O"/>
-    <contour>
-      <point x="430.667" y="753.333" type="line" smooth="yes"/>
-      <point x="442" y="753.333"/>
-      <point x="452" y="774"/>
-      <point x="452" y="786.333" type="curve" smooth="yes"/>
-      <point x="452" y="793"/>
-      <point x="448.333" y="803.333"/>
-      <point x="440" y="803.333" type="curve" smooth="yes"/>
-      <point x="234.333" y="803.333" type="line" smooth="yes"/>
-      <point x="224" y="803.333"/>
-      <point x="214.667" y="783.333"/>
-      <point x="214.667" y="771.333" type="curve" smooth="yes"/>
-      <point x="214.667" y="763.667"/>
-      <point x="218" y="753.333"/>
-      <point x="226.333" y="753.333" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="395.515" y="940.198" type="curve"/>
-      <point x="364.515" y="915.531"/>
-      <point x="328.515" y="884.865"/>
-      <point x="300.515" y="862.531" type="curve"/>
-      <point x="299.515" y="861.531" type="line"/>
-      <point x="290.515" y="853.531"/>
-      <point x="289.181" y="849.198"/>
-      <point x="289.181" y="843.198" type="curve" smooth="yes"/>
-      <point x="289.181" y="836.198"/>
-      <point x="295.181" y="830.198"/>
-      <point x="302.181" y="830.198" type="curve" smooth="yes"/>
-      <point x="309.181" y="830.198"/>
-      <point x="318.188" y="831.85"/>
-      <point x="332.515" y="838.865" type="curve" smooth="yes"/>
-      <point x="438.848" y="887.865" type="line"/>
-      <point x="444.181" y="893.531" type="line"/>
-      <point x="434.181" y="912.198"/>
-      <point x="416.515" y="928.865"/>
-    </contour>
+    <component base="uni03040301" xOffset="553" yOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>96d73f55287e9f18b409d0c74cc48338e4c9d16cee36eddb1038b5d9fe5f8578d04711dd76ecb993ac4c33e143fc3bfac90a1fe0324fd06f788063d27316b309</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 753.33 50</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni03040301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

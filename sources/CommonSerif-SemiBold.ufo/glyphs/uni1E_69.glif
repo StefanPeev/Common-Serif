@@ -2,59 +2,19 @@
 <glyph name="uni1E69" format="2">
   <advance width="415"/>
   <unicode hex="1E69"/>
+  <anchor x="210.667" y="0" name="b.cedilla"/>
   <outline>
-    <component base="s"/>
-    <contour>
-      <point x="137.333" y="-158" type="curve" smooth="yes"/>
-      <point x="137.333" y="-188.667"/>
-      <point x="161.333" y="-219.333"/>
-      <point x="196" y="-219.333" type="curve" smooth="yes"/>
-      <point x="235.333" y="-219.333"/>
-      <point x="260.667" y="-186.333"/>
-      <point x="260.667" y="-162" type="curve" smooth="yes"/>
-      <point x="260.667" y="-134"/>
-      <point x="238.333" y="-100.667"/>
-      <point x="201.333" y="-100.667" type="curve" smooth="yes"/>
-      <point x="162" y="-100.667"/>
-      <point x="137.333" y="-130"/>
-    </contour>
-    <contour>
-      <point x="136.667" y="551" type="curve" smooth="yes"/>
-      <point x="136.667" y="520.333"/>
-      <point x="160.667" y="489.667"/>
-      <point x="195.333" y="489.667" type="curve" smooth="yes"/>
-      <point x="234.667" y="489.667"/>
-      <point x="260" y="522.667"/>
-      <point x="260" y="547" type="curve" smooth="yes"/>
-      <point x="260" y="575"/>
-      <point x="237.667" y="608.333"/>
-      <point x="200.667" y="608.333" type="curve" smooth="yes"/>
-      <point x="161.333" y="608.333"/>
-      <point x="136.667" y="579"/>
-    </contour>
+    <component base="uni1E63"/>
+    <component base="uni0307" xOffset="426"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>049832daac01c74edc0b7553ee777a020ed89052bef5efcb632c416095a3de86a6fd7d950c1918db62adce210714112d165f10dbd1fbcc1239415a3493b29d44</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -219.33 118.67</string>
-          <string>hstem 489.67 118.67</string>
-          <string>hstem 608.33 -20</string>
-          <string>vstem 136.67 123.33</string>
-          <string>vstem 137.33 123.33</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E63+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

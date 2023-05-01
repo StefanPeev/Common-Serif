@@ -2,119 +2,20 @@
 <glyph name="uni1E4C" format="2">
   <advance width="730"/>
   <unicode hex="1E4C"/>
+  <anchor x="402" y="10" name="b.ogonek"/>
+  <anchor x="352" y="-60" name="b.minus-60"/>
   <outline>
     <component base="O"/>
-    <contour>
-      <point x="423" y="773" type="curve" smooth="yes"/>
-      <point x="415" y="773"/>
-      <point x="398" y="773"/>
-      <point x="384" y="782" type="curve" smooth="yes"/>
-      <point x="381" y="784"/>
-      <point x="379" y="786"/>
-      <point x="377" y="788" type="curve"/>
-      <point x="360" y="806"/>
-      <point x="340" y="816" name=".hr01"/>
-      <point x="314" y="816" type="curve" smooth="yes"/>
-      <point x="284" y="816"/>
-      <point x="257" y="770"/>
-      <point x="243" y="714" type="curve"/>
-      <point x="243" y="714"/>
-      <point x="243" y="714"/>
-      <point x="243" y="714" type="curve"/>
-      <point x="243" y="698"/>
-      <point x="255" y="694"/>
-      <point x="265" y="694" type="curve"/>
-      <point x="275" y="736"/>
-      <point x="288" y="738"/>
-      <point x="307" y="738" type="curve" smooth="yes"/>
-      <point x="320" y="738"/>
-      <point x="334" y="734"/>
-      <point x="349" y="724" type="curve"/>
-      <point x="351" y="723"/>
-      <point x="354" y="721"/>
-      <point x="356" y="719" type="curve"/>
-      <point x="373" y="703"/>
-      <point x="392" y="696" name=".hr02"/>
-      <point x="412" y="696" type="curve" smooth="yes"/>
-      <point x="443" y="696"/>
-      <point x="474" y="734"/>
-      <point x="489" y="798" type="curve"/>
-      <point x="489" y="798"/>
-      <point x="489" y="798"/>
-      <point x="489" y="798" type="curve"/>
-      <point x="489" y="811"/>
-      <point x="477" y="820"/>
-      <point x="465" y="820" type="curve"/>
-      <point x="453" y="781"/>
-      <point x="435" y="773"/>
-    </contour>
-    <contour>
-      <point x="428.391" y="957.095" type="curve"/>
-      <point x="399.391" y="934.095"/>
-      <point x="353.391" y="893.095"/>
-      <point x="333.391" y="876.095" type="curve"/>
-      <point x="330.391" y="873.095" type="line"/>
-      <point x="323.391" y="865.095"/>
-      <point x="323.391" y="860.095"/>
-      <point x="323.391" y="854.095" type="curve" smooth="yes"/>
-      <point x="323.391" y="847.095"/>
-      <point x="331.391" y="841.095"/>
-      <point x="338.391" y="841.095" type="curve" smooth="yes"/>
-      <point x="345.391" y="841.095"/>
-      <point x="354.411" y="842.05"/>
-      <point x="365.391" y="847.095" type="curve" smooth="yes"/>
-      <point x="476.391" y="898.095" type="line"/>
-      <point x="478.391" y="909.095" type="line"/>
-      <point x="468.391" y="927.095"/>
-      <point x="447.391" y="947.095"/>
-    </contour>
+    <component base="uni03030301" xOffset="532" yOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>50d9b3800cc003fecdc9d5ff75cdd651493762620584a6bb2fcb944cbd669ec9947928e7dc0f9bb196df6e17f86829d9e8557cc77284b04bd38412a6d75a3451</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 696 77</string>
-          <string>hstem -10 42</string>
-          <string>hstem 616 42</string>
-          <string>vstem 37 151</string>
-          <string>vstem 543 151</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 738 78</string>
-          <string>hstem -10 42</string>
-          <string>hstem 616 42</string>
-          <string>vstem 37 151</string>
-          <string>vstem 543 151</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 696 77</string>
-          <string>hstem -10 42</string>
-          <string>hstem 616 42</string>
-          <string>vstem 37 151</string>
-          <string>vstem 543 151</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni03030301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

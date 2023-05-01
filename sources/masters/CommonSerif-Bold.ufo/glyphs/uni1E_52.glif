@@ -2,68 +2,21 @@
 <glyph name="uni1E52" format="2">
   <advance width="730"/>
   <unicode hex="1E52"/>
+  <anchor x="402" y="10" name="b.ogonek"/>
+  <anchor x="352" y="-60" name="b.minus-60"/>
+  <anchor x="350" y="840" name="top"/>
   <outline>
     <component base="O"/>
-    <contour>
-      <point x="452" y="770" type="line" smooth="yes"/>
-      <point x="464" y="770"/>
-      <point x="474" y="790"/>
-      <point x="474" y="803" type="curve" smooth="yes"/>
-      <point x="474" y="811"/>
-      <point x="471" y="820"/>
-      <point x="462" y="820" type="curve" smooth="yes"/>
-      <point x="227" y="820" type="line" smooth="yes"/>
-      <point x="216" y="820"/>
-      <point x="206" y="800"/>
-      <point x="206" y="788" type="curve" smooth="yes"/>
-      <point x="206" y="779"/>
-      <point x="210" y="770"/>
-      <point x="219" y="770" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="397" y="957.506" type="curve"/>
-      <point x="368" y="933.506"/>
-      <point x="322" y="893.506"/>
-      <point x="302" y="876.506" type="curve"/>
-      <point x="299" y="873.506" type="line"/>
-      <point x="292" y="865.506"/>
-      <point x="292" y="860.506"/>
-      <point x="292" y="854.506" type="curve" smooth="yes"/>
-      <point x="292" y="847.506"/>
-      <point x="300" y="841.506"/>
-      <point x="307" y="841.506" type="curve" smooth="yes"/>
-      <point x="314" y="841.506"/>
-      <point x="323.02" y="842.461"/>
-      <point x="334" y="847.506" type="curve" smooth="yes"/>
-      <point x="445" y="898.506" type="line"/>
-      <point x="447" y="909.506" type="line"/>
-      <point x="437" y="927.506"/>
-      <point x="416" y="947.506"/>
-    </contour>
+    <component base="uni03040301" xOffset="553" yOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>436352f40baa028ceedee5f393080a31d7e8a302fb133e01e37a1a8c3b0b49ac5a8e07d50609348e582c0b0759fc655448c75ce17da5a0e0080ce81b779fd641</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 42</string>
-          <string>hstem 616 42</string>
-          <string>hstem 770 50</string>
-          <string>hstem 812 8</string>
-          <string>vstem 37 151</string>
-          <string>vstem 543 151</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni03040301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

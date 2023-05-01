@@ -2,67 +2,19 @@
 <glyph name="uni1E69" format="2">
   <advance width="402"/>
   <unicode hex="1E69"/>
+  <anchor x="209.333" y="0" name="b.cedilla"/>
   <outline>
-    <component base="s"/>
-    <contour>
-      <point x="138.667" y="-157" type="curve" smooth="yes"/>
-      <point x="138.667" y="-185.333"/>
-      <point x="162.667" y="-213.667"/>
-      <point x="192" y="-213.667" type="curve" smooth="yes"/>
-      <point x="225.667" y="-213.667"/>
-      <point x="250.333" y="-183.667"/>
-      <point x="250.333" y="-161" type="curve" smooth="yes"/>
-      <point x="250.333" y="-135"/>
-      <point x="228.667" y="-104.333"/>
-      <point x="196.667" y="-104.333" type="curve" smooth="yes"/>
-      <point x="165" y="-104.333"/>
-      <point x="138.667" y="-131"/>
-    </contour>
-    <contour>
-      <point x="137.333" y="575" type="curve" smooth="yes"/>
-      <point x="137.333" y="546.667" name=".hr01"/>
-      <point x="161.333" y="518.333"/>
-      <point x="190.667" y="518.333" type="curve" smooth="yes"/>
-      <point x="224.333" y="518.333"/>
-      <point x="249" y="548.333"/>
-      <point x="249" y="571" type="curve" smooth="yes"/>
-      <point x="249" y="597"/>
-      <point x="227.333" y="627.667"/>
-      <point x="195.333" y="627.667" type="curve" smooth="yes"/>
-      <point x="163.667" y="627.667"/>
-      <point x="137.333" y="601"/>
-    </contour>
+    <component base="uni1E63"/>
+    <component base="uni0307" xOffset="422"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d43e47227b62b7501c2dab6be9975f737b75b06bd1502cbe8a217fd9d6860a3801abfa88870ca858fa09c042cbb1057289ecaa84e45d8b6fdec6692aaa5b61ee</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 138.67 111.67</string>
-          <string>hstem -213.67 109.33</string>
-          <string>hstem 518.33 109.33</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 137.33 111.67</string>
-          <string>hstem 518.33 109.33</string>
-          <string>hstem -213.67 109.33</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E63+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

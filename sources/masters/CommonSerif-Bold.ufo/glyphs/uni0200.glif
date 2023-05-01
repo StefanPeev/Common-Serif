@@ -15,7 +15,7 @@
       <point x="482" y="35"/>
       <point x="444" y="33" type="curve"/>
       <point x="438" y="33"/>
-      <point x="431" y="32"/>
+      <point x="431" y="32" name=".hr01"/>
       <point x="425" y="32" type="curve"/>
       <point x="419" y="26"/>
       <point x="419" y="4"/>
@@ -71,8 +71,8 @@
       <point x="213" y="790" type="curve" smooth="yes"/>
       <point x="213" y="781"/>
       <point x="216" y="774"/>
-      <point x="220" y="770" type="curve" smooth="yes"/>
-      <point x="319" y="686" type="line" smooth="yes"/>
+      <point x="220" y="770" type="curve"/>
+      <point x="319" y="686" type="line"/>
       <point x="321" y="684"/>
       <point x="323" y="684"/>
       <point x="326" y="684" type="curve" smooth="yes"/>
@@ -84,7 +84,7 @@
       <point x="339" y="702" type="curve"/>
       <point x="338" y="704"/>
       <point x="337" y="705"/>
-      <point x="336" y="707" type="curve" smooth="yes"/>
+      <point x="336" y="707" type="curve"/>
       <point x="277" y="816" type="line"/>
       <point x="272" y="824"/>
       <point x="265" y="828"/>
@@ -93,13 +93,13 @@
       <point x="237" y="827"/>
     </contour>
     <contour>
-      <point x="359" y="824" type="curve" smooth="yes"/>
+      <point x="359" y="824" type="curve"/>
       <point x="349" y="817"/>
       <point x="344" y="806"/>
       <point x="344" y="795" type="curve" smooth="yes"/>
       <point x="344" y="787"/>
       <point x="346" y="780"/>
-      <point x="351" y="776" type="curve" smooth="yes"/>
+      <point x="351" y="776" type="curve"/>
       <point x="438" y="697" type="line"/>
       <point x="440" y="694"/>
       <point x="443" y="692"/>
@@ -109,7 +109,7 @@
       <point x="453" y="688" type="curve" smooth="yes"/>
       <point x="456" y="688"/>
       <point x="459" y="690"/>
-      <point x="461" y="691" type="curve" smooth="yes"/>
+      <point x="461" y="691" type="curve"/>
       <point x="465" y="694"/>
       <point x="467" y="698"/>
       <point x="467" y="702" type="curve" smooth="yes"/>
@@ -138,13 +138,22 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -2 34</string>
-          <string>hstem -2 35</string>
-          <string>hstem 235 48</string>
-          <string>hstem 658 -20</string>
           <string>vstem 3 159</string>
-          <string>vstem 3 732</string>
+          <string>hstem 235 48</string>
+          <string>hstem -2 35</string>
+          <string>hstem 658 -20</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 34</string>
+          <string>vstem 3 159</string>
+          <string>hstem 658 -20</string>
+          <string>hstem 235 48</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

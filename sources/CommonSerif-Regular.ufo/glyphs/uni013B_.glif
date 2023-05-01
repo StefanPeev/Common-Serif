@@ -2,30 +2,19 @@
 <glyph name="uni013B" format="2">
   <advance width="528"/>
   <unicode hex="013B"/>
+  <anchor x="149" y="740" name="t.uni0302"/>
   <outline>
     <component base="L"/>
-    <contour>
-      <point x="262" y="-41" type="curve" smooth="yes"/>
-      <point x="233" y="-41"/>
-      <point x="212" y="-60"/>
-      <point x="212" y="-84" type="curve" smooth="yes"/>
-      <point x="212" y="-111"/>
-      <point x="237" y="-120"/>
-      <point x="254" y="-123" type="curve"/>
-      <point x="272" y="-125"/>
-      <point x="285" y="-129"/>
-      <point x="285" y="-149" type="curve" smooth="yes"/>
-      <point x="285" y="-167"/>
-      <point x="259" y="-191"/>
-      <point x="210" y="-202" type="curve"/>
-      <point x="210" y="-211"/>
-      <point x="212" y="-220"/>
-      <point x="218" y="-226" type="curve"/>
-      <point x="275" y="-217"/>
-      <point x="324" y="-187"/>
-      <point x="324" y="-127" type="curve" smooth="yes"/>
-      <point x="324" y="-75"/>
-      <point x="300" y="-41"/>
-    </contour>
+    <component base="uni0326" xOffset="504"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>L+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

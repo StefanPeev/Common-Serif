@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="730"/>
+  <advance width="724"/>
   <unicode hex="0048"/>
-  <anchor x="353" y="740" name="t.uni0302"/>
-  <anchor x="362" y="-110" name="m.uni0316_2"/>
-  <anchor x="729" y="732" name="m.uni031A_3"/>
-  <anchor x="150" y="0" name="m.uni0327_5"/>
-  <anchor x="356" y="485" name="m.uni0334_6"/>
+  <anchor x="362" y="740" name="t.uni0302"/>
+  <anchor x="362" y="-60" name="b.minus-60"/>
+  <anchor x="153" y="10" name="b.cedilla"/>
   <outline>
     <contour>
       <point x="19" y="-2" type="curve"/>
@@ -91,14 +89,19 @@
       <point x="13" y="4"/>
     </contour>
   </outline>
+  <guideline angle="90" x="362" y="0"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=14</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=14</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e598871647526b110062f99e4fad05c6922005569c391ba68e8c9d2816dbaa9cced69ca31c4d54cc220ded315e88501d4761048ff40e36d0a817b15c73836343</string>
+    <string>659cac9ffef307ada7935745e96a55575cb3fe0636caba005d8f090895ba2f8577011ba407f13495a9a2d87087ca983dbed23d6ec46388b044000ec0969377f4</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,47 +2,20 @@
 <glyph name="uni021B" format="2">
   <advance width="330"/>
   <unicode hex="021B"/>
+  <anchor x="142.333" y="633.333" name="t.uni0302"/>
+  <anchor x="185" y="0" name="b.cedilla"/>
   <outline>
     <component base="t"/>
-    <contour>
-      <point x="169.667" y="-51.3333" type="curve" smooth="yes"/>
-      <point x="140.97" y="-51.3333"/>
-      <point x="119.333" y="-69.6313"/>
-      <point x="119.333" y="-94.0614" type="curve" smooth="yes"/>
-      <point x="119.333" y="-151.502"/>
-      <point x="188.667" y="-118.309"/>
-      <point x="188.667" y="-158.667" type="curve" smooth="yes"/>
-      <point x="188.667" y="-176.667"/>
-      <point x="163" y="-200.667"/>
-      <point x="117" y="-211.667" type="curve"/>
-      <point x="115.667" y="-221.667"/>
-      <point x="117" y="-231"/>
-      <point x="124.333" y="-237" type="curve"/>
-      <point x="185" y="-227"/>
-      <point x="235" y="-193.667"/>
-      <point x="235" y="-134.667" type="curve" smooth="yes"/>
-      <point x="235" y="-79"/>
-      <point x="205.667" y="-51.3333"/>
-    </contour>
+    <component base="uni0326" xOffset="430.667"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a9542241970fe58220495013a86738d90decf93a04c08788f2f63b0469ee23ab95d19f0d05f31d356a4f8ebe9b04d98981c7bb97b65dc1f4375f06666b32ab53</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 188.67 46.33</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>t+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

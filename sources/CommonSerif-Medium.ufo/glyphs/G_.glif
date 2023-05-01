@@ -2,10 +2,8 @@
 <glyph name="G" format="2">
   <advance width="701"/>
   <unicode hex="0047"/>
-  <anchor x="365" y="740" name="t.uni0302"/>
-  <anchor x="606.667" y="606" name="t.uni0315_1"/>
-  <anchor x="367" y="-110" name="m.uni0316_2"/>
-  <anchor x="631" y="732" name="m.uni031A_3"/>
+  <anchor x="360" y="740" name="t.uni0302"/>
+  <anchor x="359.333" y="-60" name="b.minus-60"/>
   <outline>
     <contour>
       <point x="383" y="658" type="curve" smooth="yes"/>
@@ -63,6 +61,7 @@
       <point x="498.667" y="658"/>
     </contour>
   </outline>
+  <guideline angle="90" x="363" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -80,7 +79,6 @@
           <string>hstem 267 36.33</string>
           <string>hstem 620 38</string>
           <string>vstem 35.67 114.33</string>
-          <string>vstem 524.67 103.33</string>
         </array>
       </dict>
     </array>

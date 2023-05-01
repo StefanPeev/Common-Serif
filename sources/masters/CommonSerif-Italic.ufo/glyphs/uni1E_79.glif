@@ -2,54 +2,20 @@
 <glyph name="uni1E79" format="2">
   <advance width="521"/>
   <unicode hex="1E79"/>
+  <anchor x="443" y="10" name="b.ogonek"/>
+  <anchor x="253" y="-60" name="b.minus-60"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xOffset="378" yOffset="-88"/>
-    <contour>
-      <point x="453" y="720" type="curve"/>
-      <point x="376" y="615" type="line" smooth="yes"/>
-      <point x="370" y="607"/>
-      <point x="363" y="599"/>
-      <point x="363" y="589" type="curve" smooth="yes"/>
-      <point x="363" y="584"/>
-      <point x="367" y="579"/>
-      <point x="372" y="579" type="curve" smooth="yes"/>
-      <point x="377" y="579"/>
-      <point x="384" y="583"/>
-      <point x="398" y="596" type="curve" smooth="yes"/>
-      <point x="503" y="692" type="line"/>
-      <point x="503" y="702" type="line"/>
-      <point x="488" y="721"/>
-      <point x="469" y="722"/>
-      <point x="464" y="722" type="curve" smooth="yes"/>
-      <point x="460" y="722"/>
-      <point x="455" y="721"/>
-    </contour>
+    <component base="uni03030301" xOffset="457"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>14c575ccd30c061755efde1db241b33f19788645bec1bd86d9f61cee288a1a53e32e651c87393289686d8c0cac6719800cf06a456be304504c6edf55c59c1f99</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 60</string>
-          <string>hstem 379 60</string>
-          <string>hstem 439 -20</string>
-          <string>hstem 526 44</string>
-          <string>hstem 574 46</string>
-          <string>vstem 120 79</string>
-          <string>vstem 361 78</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni03030301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

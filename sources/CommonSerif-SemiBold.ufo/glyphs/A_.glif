@@ -3,8 +3,9 @@
   <advance width="725"/>
   <unicode hex="0041"/>
   <anchor x="354" y="740" name="t.uni0302"/>
-  <anchor x="308" y="-110" name="m.uni0316_2"/>
   <anchor x="373.333" y="600" name="t.ring"/>
+  <anchor x="352.333" y="-60" name="b.minus-60"/>
+  <anchor x="614.667" y="10" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="161.667" y="79" type="curve" smooth="yes"/>
@@ -66,6 +67,9 @@
     </contour>
   </outline>
   <guideline angle="0" x="0" y="740"/>
+  <guideline angle="0" x="0" y="-60"/>
+  <guideline angle="0" x="0" y="-60"/>
+  <guideline angle="90" x="352" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>

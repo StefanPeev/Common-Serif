@@ -2,123 +2,20 @@
 <glyph name="uni1E4C" format="2">
   <advance width="702"/>
   <unicode hex="1E4C"/>
+  <anchor x="384" y="10" name="b.ogonek"/>
+  <anchor x="344" y="-60" name="b.minus-60"/>
   <outline>
     <component base="O"/>
-    <contour>
-      <point x="401" y="748" type="curve" smooth="yes"/>
-      <point x="385" y="748"/>
-      <point x="370" y="756"/>
-      <point x="357" y="769" type="curve" smooth="yes"/>
-      <point x="355" y="771"/>
-      <point x="354" y="772"/>
-      <point x="352" y="774" type="curve"/>
-      <point x="336" y="788"/>
-      <point x="318" y="806" name=".hr01"/>
-      <point x="295" y="806" type="curve" smooth="yes"/>
-      <point x="261" y="806"/>
-      <point x="241" y="769"/>
-      <point x="229" y="710" type="curve"/>
-      <point x="228" y="706"/>
-      <point x="228" y="703"/>
-      <point x="227" y="699" type="curve"/>
-      <point x="232" y="692"/>
-      <point x="241" y="691"/>
-      <point x="250" y="693" type="curve"/>
-      <point x="259" y="729"/>
-      <point x="267" y="746"/>
-      <point x="289" y="746" type="curve" smooth="yes"/>
-      <point x="304" y="746"/>
-      <point x="320" y="737"/>
-      <point x="335" y="725" type="curve"/>
-      <point x="337" y="723"/>
-      <point x="339" y="722"/>
-      <point x="341" y="720" type="curve"/>
-      <point x="357" y="706"/>
-      <point x="373" y="690" name=".hr02"/>
-      <point x="390" y="690" type="curve" smooth="yes"/>
-      <point x="427" y="690"/>
-      <point x="450" y="728"/>
-      <point x="462" y="788" type="curve"/>
-      <point x="463" y="792"/>
-      <point x="463" y="795"/>
-      <point x="464" y="799" type="curve"/>
-      <point x="458" y="803"/>
-      <point x="450" y="806" name=".hr03"/>
-      <point x="441" y="805" type="curve"/>
-      <point x="429" y="759"/>
-      <point x="419" y="748" name=".hr04"/>
-    </contour>
-    <contour>
-      <point x="403.261" y="933.643" type="curve"/>
-      <point x="371.261" y="908.643"/>
-      <point x="340.261" y="882.643"/>
-      <point x="308.261" y="857.643" type="curve"/>
-      <point x="308.261" y="857.643" type="line"/>
-      <point x="298.261" y="849.643"/>
-      <point x="296.261" y="845.643"/>
-      <point x="296.261" y="839.643" type="curve" smooth="yes"/>
-      <point x="296.261" y="832.643"/>
-      <point x="301.261" y="826.643"/>
-      <point x="308.261" y="826.643" type="curve" smooth="yes"/>
-      <point x="315.261" y="826.643"/>
-      <point x="324.261" y="828.643"/>
-      <point x="340.261" y="836.643" type="curve"/>
-      <point x="444.261" y="884.643" type="line"/>
-      <point x="451.261" y="887.643" type="line"/>
-      <point x="441.261" y="906.643"/>
-      <point x="425.261" y="921.643"/>
-    </contour>
+    <component base="uni03030301" xOffset="504" yOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f2d563c7c7e08aae585e9a38bd1d5cb974207f91349d8b64488d3a9de41d16db9adcf89397c7451e52f30af12f7ba1b1ce1914bb0031d22c392d7b86b8d916de</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 690 58</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 746 60</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 690 58</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 746 60</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 690 58</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni03030301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

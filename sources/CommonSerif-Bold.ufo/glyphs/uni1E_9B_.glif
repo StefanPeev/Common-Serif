@@ -4,40 +4,16 @@
   <unicode hex="1E9B"/>
   <outline>
     <component base="longs"/>
-    <contour>
-      <point x="208" y="806" type="curve" smooth="yes"/>
-      <point x="208" y="773"/>
-      <point x="232" y="740"/>
-      <point x="272" y="740" type="curve" smooth="yes"/>
-      <point x="317" y="740"/>
-      <point x="343" y="776"/>
-      <point x="343" y="802" type="curve" smooth="yes"/>
-      <point x="343" y="832"/>
-      <point x="320" y="868"/>
-      <point x="278" y="868" type="curve" smooth="yes"/>
-      <point x="231" y="868"/>
-      <point x="208" y="836"/>
-    </contour>
+    <component base="uni0307" xOffset="432" yOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w334m208,806c208,773 232,740 272,740c317,740 343,776 343,802c343,832 320,868 278,868c231,868 208,836 208,806</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 740 128</string>
-          <string>vstem 208 135</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>longs+uni0307</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

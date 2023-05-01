@@ -2,63 +2,21 @@
 <glyph name="uni1E52" format="2">
   <advance width="702"/>
   <unicode hex="1E52"/>
+  <anchor x="384" y="10" name="b.ogonek"/>
+  <anchor x="344" y="-60" name="b.minus-60"/>
+  <anchor x="354" y="840" name="top"/>
   <outline>
     <component base="O"/>
-    <contour>
-      <point x="420" y="745" type="line" smooth="yes"/>
-      <point x="431" y="745"/>
-      <point x="441" y="766"/>
-      <point x="441" y="778" type="curve" smooth="yes"/>
-      <point x="441" y="784"/>
-      <point x="437" y="795"/>
-      <point x="429" y="795" type="curve" smooth="yes"/>
-      <point x="238" y="795" type="line" smooth="yes"/>
-      <point x="228" y="795"/>
-      <point x="219" y="775"/>
-      <point x="219" y="763" type="curve" smooth="yes"/>
-      <point x="219" y="756"/>
-      <point x="222" y="745"/>
-      <point x="230" y="745" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="394.772" y="931.544" type="curve"/>
-      <point x="362.772" y="906.544"/>
-      <point x="331.772" y="880.544"/>
-      <point x="299.772" y="855.544" type="curve"/>
-      <point x="299.772" y="855.544" type="line"/>
-      <point x="289.772" y="847.544"/>
-      <point x="287.772" y="843.544"/>
-      <point x="287.772" y="837.544" type="curve" smooth="yes"/>
-      <point x="287.772" y="830.544"/>
-      <point x="292.772" y="824.544"/>
-      <point x="299.772" y="824.544" type="curve" smooth="yes"/>
-      <point x="306.772" y="824.544"/>
-      <point x="315.772" y="826.544"/>
-      <point x="331.772" y="834.544" type="curve"/>
-      <point x="435.772" y="882.544" type="line"/>
-      <point x="442.772" y="885.544" type="line"/>
-      <point x="432.772" y="904.544"/>
-      <point x="416.772" y="919.544"/>
-    </contour>
+    <component base="uni03040301" xOffset="553" yOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8c6bf4ea878762b46d073ea32f26a74209e9b0eeb93ca5161da5bab9b4fdd8b73941e38cd3ee3fc2d56a8fd53587eb6ed9eb58cff7cec7ad57e2ed62503d11c6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 745 50</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni03040301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

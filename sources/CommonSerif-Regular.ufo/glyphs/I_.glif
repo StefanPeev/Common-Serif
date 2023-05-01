@@ -2,8 +2,9 @@
 <glyph name="I" format="2">
   <advance width="297"/>
   <unicode hex="0049"/>
-  <anchor x="150" y="740" name="t.uni0302"/>
-  <anchor x="147" y="-110" name="m.uni0316_2"/>
+  <anchor x="148" y="740" name="t.uni0302"/>
+  <anchor x="191" y="10" name="b.ogonek"/>
+  <anchor x="148" y="-60" name="b.minus-60"/>
   <outline>
     <contour>
       <point x="19" y="-2" type="curve"/>
@@ -17,24 +18,24 @@
       <point x="284" y="25"/>
       <point x="278" y="31" type="curve"/>
       <point x="208" y="34"/>
-      <point x="191" y="39"/>
-      <point x="191" y="122" type="curve"/>
-      <point x="106" y="122" type="line"/>
-      <point x="106" y="39"/>
+      <point x="191" y="37"/>
+      <point x="191" y="120" type="curve"/>
+      <point x="106" y="120" type="line"/>
+      <point x="106" y="37"/>
       <point x="89" y="34"/>
       <point x="19" y="31" type="curve"/>
       <point x="13" y="25"/>
       <point x="13" y="4"/>
     </contour>
     <contour>
-      <point x="106" y="122" type="line"/>
-      <point x="191" y="122" type="line"/>
-      <point x="191" y="523" type="line"/>
-      <point x="106" y="523" type="line"/>
+      <point x="106" y="120" type="line"/>
+      <point x="191" y="120" type="line"/>
+      <point x="191" y="527" type="line"/>
+      <point x="106" y="527" type="line"/>
     </contour>
     <contour>
-      <point x="191" y="523" type="line"/>
-      <point x="191" y="606"/>
+      <point x="191" y="527" type="line"/>
+      <point x="191" y="610"/>
       <point x="208" y="611"/>
       <point x="278" y="614" type="curve"/>
       <point x="284" y="620"/>
@@ -50,18 +51,23 @@
       <point x="13" y="620"/>
       <point x="19" y="614" type="curve"/>
       <point x="89" y="611"/>
-      <point x="106" y="606"/>
-      <point x="106" y="523" type="curve"/>
+      <point x="106" y="610"/>
+      <point x="106" y="527" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="90" x="148" y="0"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9249a7e7e99f69f9c4af1b88999c29216f57fda65bdc418b6ae9e4e28db35a466f32dce00e30e8200d0769643922d945e3be90bdb0fcaadd6ee7a539ac0063fb</string>
+    <string>b84a2be80218a3df6c8e7420e39172268bb6bc2434a0a74f93a0dacc6cbc1cd30d065a1cfb295c60b168ab4b463ba1f6890f19633315f526485a6ea9a56e5b50</string>
     <key>hintSetList</key>
     <array>
       <dict>
