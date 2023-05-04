@@ -91,13 +91,25 @@
         <key>stems</key>
         <array>
           <string>hstem -15 37</string>
-          <string>hstem 122 27</string>
+          <string>vstem 672 37</string>
           <string>hstem 609 36</string>
           <string>vstem 49 37</string>
+          <string>hstem 122 27</string>
           <string>vstem 293 63</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 122 27</string>
           <string>vstem 327 29</string>
+          <string>hstem -15 37</string>
+          <string>hstem 609 36</string>
+          <string>vstem 49 37</string>
           <string>vstem 672 37</string>
         </array>
+        <key>pointTag</key>
+        <string>lsb</string>
       </dict>
     </array>
   </dict>
