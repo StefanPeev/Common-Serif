@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="208"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="127.5" y="-232.167" type="curve"/>
+      <point x="127.5" y="698" type="line"/>
+      <point x="118.1" y="704"/>
+      <point x="90.2333" y="704"/>
+      <point x="80.8333" y="698" type="curve"/>
+      <point x="80.8333" y="-232.167" type="line"/>
+      <point x="90.2333" y="-238.167"/>
+      <point x="118.1" y="-238.167"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w208m127.5,-232.17l127.5,698c118.1,704 90.23,704 80.83,698l80.83,-232.17c90.23,-238.17 118.1,-238.17 127.5,-232.17</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -211.17 -21</string>
+          <string>hstem 698 -20</string>
+          <string>vstem 80.83 46.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

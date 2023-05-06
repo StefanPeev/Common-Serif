@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonmonetary" format="2">
+  <advance width="456"/>
+  <unicode hex="20A1"/>
+  <anchor x="233" y="500" name="t.uni0302"/>
+  <anchor x="239" y="-60" name="b.minus-60"/>
+  <anchor x="239" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="c"/>
+    <component base="bar" xOffset="131"/>
+  </outline>
+  <guideline angle="102" x="319.42" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>c+bar+bar%</string>
+  </dict>
+  </lib>
+</glyph>

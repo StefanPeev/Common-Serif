@@ -2,16 +2,18 @@
 <glyph name="Omicron" format="2">
   <advance width="689"/>
   <unicode hex="039F"/>
-  <anchor x="487.333" y="740" name="t.uni0302"/>
   <anchor x="392.333" y="10" name="b.ogonek"/>
   <anchor x="350" y="-60" name="b.minus-60"/>
+  <anchor x="168" y="724" name="t.gr"/>
   <outline>
     <component base="O"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>O</string>
   <key>public.markColor</key>

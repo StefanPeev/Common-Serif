@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2016" format="2">
+  <advance width="278"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="102.5" y="-201.5" type="line"/>
+      <point x="102.5" y="858" type="line"/>
+      <point x="60" y="858" type="line"/>
+      <point x="60" y="-201.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="204.5" y="-201.5" type="line"/>
+      <point x="204.5" y="858" type="line"/>
+      <point x="162" y="858" type="line"/>
+      <point x="162" y="-201.5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w278m102.5,-201.5l102.5,858l60,858l60,-201.5m204.5,-201.5l204.5,858l162,858l162,-201.5</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -201.5 1059.5</string>
+          <string>vstem 60 42.5</string>
+          <string>vstem 162 42.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

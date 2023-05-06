@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="2">
+  <advance width="224"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="55.6667" y="45.5" type="curve" smooth="yes"/>
+      <point x="55.6667" y="15"/>
+      <point x="81" y="-10"/>
+      <point x="111.833" y="-10" type="curve" smooth="yes"/>
+      <point x="142.667" y="-10"/>
+      <point x="168.333" y="15.3333"/>
+      <point x="168.333" y="45.8333" type="curve" smooth="yes"/>
+      <point x="168.333" y="76.5"/>
+      <point x="143" y="101.5"/>
+      <point x="112.167" y="101.5" type="curve" smooth="yes"/>
+      <point x="81.3333" y="101.5"/>
+      <point x="55.6667" y="76.1667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>862644c21033deb62d493ae02d94c9d6af93912e5ad035b2f1b7fbda1034850827f59b24c7db0c5567783b50de135e60ba98ea3e489e6a6ef3839e451ade6c01</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 111.5</string>
+          <string>vstem 55.67 112.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

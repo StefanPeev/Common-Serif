@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="371"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="t"/>
+    <contour>
+      <point x="272" y="698" type="curve" smooth="yes"/>
+      <point x="241" y="698"/>
+      <point x="227.5" y="680"/>
+      <point x="227.5" y="664" type="curve" smooth="yes"/>
+      <point x="227.5" y="648"/>
+      <point x="232.5" y="625.5"/>
+      <point x="273.5" y="625.5" type="curve" smooth="yes"/>
+      <point x="281.333" y="625.5"/>
+      <point x="287" y="617.5"/>
+      <point x="287" y="605" type="curve" smooth="yes"/>
+      <point x="287" y="582"/>
+      <point x="266.5" y="545"/>
+      <point x="224.5" y="536" type="curve"/>
+      <point x="229.333" y="519" type="line"/>
+      <point x="302.833" y="526.5"/>
+      <point x="332" y="590.667"/>
+      <point x="332" y="625" type="curve" smooth="yes"/>
+      <point x="332" y="661"/>
+      <point x="310" y="698"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f51f8617880d1d60b01e103ea1631cb43f84ddadb76731cc5bf6ad3b94868dbfebc1e029e96c77a8b252e639763292bf0534df5ff08f2a4252e08a8240910ead</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 625.5 72.5</string>
+          <string>vstem 287 45</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

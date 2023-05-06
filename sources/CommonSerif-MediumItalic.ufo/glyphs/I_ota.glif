@@ -2,16 +2,18 @@
 <glyph name="Iota" format="2">
   <advance width="294"/>
   <unicode hex="0399"/>
-  <anchor x="294" y="740" name="t.uni0302"/>
   <anchor x="202.667" y="10" name="b.ogonek"/>
   <anchor x="136" y="-60" name="b.minus-60"/>
+  <anchor x="128" y="724" name="t.gr"/>
   <outline>
     <component base="I"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
   <key>com.fontlab.recipe</key>
   <string>I</string>
   <key>public.markColor</key>

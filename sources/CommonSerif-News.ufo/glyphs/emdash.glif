@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="2">
+  <advance width="742"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="55.6667" y="287.833" type="line"/>
+      <point x="45.6667" y="284.5"/>
+      <point x="34" y="264.667"/>
+      <point x="34" y="251.333" type="curve"/>
+      <point x="40.3333" y="244.667"/>
+      <point x="49.1667" y="237.167"/>
+      <point x="64.6667" y="237.167" type="curve" smooth="yes"/>
+      <point x="679.667" y="237.167" type="line"/>
+      <point x="690.5" y="240.5"/>
+      <point x="701.333" y="260.333"/>
+      <point x="701.333" y="273.667" type="curve"/>
+      <point x="695" y="281.167"/>
+      <point x="686.167" y="287.833"/>
+      <point x="670.667" y="287.833" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7d5e5c722462b525e71d9bb8e3441e93e10f22ab165c22178fddf6e622b9890d3067b39405d5d77a30f53a607936ccbb0b5b309396680fd6ae2f78e1c68fa70b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 237.17 50.67</string>
+          <string>vstem 34 667.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

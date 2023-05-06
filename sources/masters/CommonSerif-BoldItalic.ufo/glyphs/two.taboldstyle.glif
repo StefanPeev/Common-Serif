@@ -9,7 +9,7 @@
       <point x="138" y="300" type="curve" smooth="yes"/>
       <point x="138" y="292"/>
       <point x="141" y="286"/>
-      <point x="147" y="280" type="curve"/>
+      <point x="147" y="280" type="curve" smooth="yes"/>
       <point x="163" y="265"/>
       <point x="179" y="289"/>
       <point x="186" y="301" type="curve" smooth="yes"/>
@@ -31,7 +31,7 @@
       <point x="169" y="81"/>
       <point x="122" y="54"/>
       <point x="73" y="23" type="curve"/>
-      <point x="69" y="14" name=".hr01"/>
+      <point x="69" y="14"/>
       <point x="67" y="5"/>
       <point x="73" y="-2" type="curve"/>
       <point x="73" y="-2"/>
@@ -63,13 +63,13 @@
       <point x="332" y="156" type="line" smooth="yes"/>
       <point x="346" y="166"/>
       <point x="359" y="176"/>
-      <point x="371" y="185" type="curve"/>
+      <point x="371" y="185" type="curve" smooth="yes"/>
       <point x="432" y="234"/>
       <point x="474" y="283"/>
-      <point x="476" y="337" type="curve" smooth="yes" name=".hr02"/>
+      <point x="476" y="337" type="curve" smooth="yes"/>
       <point x="478" y="383"/>
       <point x="457" y="436"/>
-      <point x="365" y="443" type="curve"/>
+      <point x="365" y="443" type="curve" smooth="yes"/>
       <point x="358" y="444"/>
       <point x="351" y="444"/>
       <point x="343" y="444" type="curve" smooth="yes"/>
@@ -90,30 +90,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 366 78</string>
-          <string>vstem 335 141</string>
           <string>hstem 0 90</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem 366 78</string>
           <string>vstem 69 427</string>
-          <string>hstem 0 90</string>
-          <string>hstem 366 78</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 335 141</string>
-          <string>hstem 366 78</string>
-          <string>hstem 0 90</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

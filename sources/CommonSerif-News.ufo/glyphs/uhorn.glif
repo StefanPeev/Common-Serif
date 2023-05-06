@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="2">
+  <advance width="531"/>
+  <unicode hex="01B0"/>
+  <anchor x="264.5" y="500" name="t.uni0302"/>
+  <anchor x="281" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="u"/>
+    <contour>
+      <point x="433.789" y="401.091" type="line" smooth="yes"/>
+      <point x="489.682" y="401.951"/>
+      <point x="516.431" y="443.362"/>
+      <point x="516.431" y="475.268" type="curve" smooth="yes"/>
+      <point x="516.431" y="513.939"/>
+      <point x="495.654" y="560.167"/>
+      <point x="451.668" y="560.167" type="curve" smooth="yes"/>
+      <point x="425.991" y="560.167"/>
+      <point x="404.764" y="547.159"/>
+      <point x="404.764" y="520.477" type="curve" smooth="yes"/>
+      <point x="404.764" y="500.477"/>
+      <point x="418.561" y="478.491"/>
+      <point x="451.513" y="477.567" type="curve" smooth="yes"/>
+      <point x="470.764" y="476.667"/>
+      <point x="478.597" y="467.5"/>
+      <point x="478.597" y="456.383" type="curve" smooth="yes"/>
+      <point x="478.597" y="439.086"/>
+      <point x="450.886" y="429.594"/>
+      <point x="412.939" y="429.599" type="curve"/>
+      <point x="412.939" y="400.833" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>39b898687ae3d62d6eb3bcad1cdd562880f06d6783420e2a3a843d6bf1ebbf3192ed37a7e5ea4a28d5f183175298f1b9a4a14fef3bdd03f3253cb8c1e73b03ea</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 477.57 82.6</string>
+          <string>vstem 478.6 37.83</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
