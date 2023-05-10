@@ -1,72 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni215F" format="2">
-  <advance width="352"/>
+  <advance width="330"/>
   <unicode hex="215F"/>
   <outline>
-    <contour>
-      <point x="125" y="575.333" type="curve" smooth="yes"/>
-      <point x="137" y="575.333"/>
-      <point x="139" y="566.333"/>
-      <point x="139" y="534.333" type="curve" smooth="yes"/>
-      <point x="139" y="401" type="line" smooth="yes"/>
-      <point x="139" y="350"/>
-      <point x="108" y="347"/>
-      <point x="68" y="345" type="curve"/>
-      <point x="63" y="337"/>
-      <point x="64" y="321.833"/>
-      <point x="68" y="315.833" type="curve"/>
-      <point x="98" y="316.833"/>
-      <point x="132.167" y="316.833"/>
-      <point x="167.167" y="316.833" type="curve" smooth="yes"/>
-      <point x="201.167" y="316.833"/>
-      <point x="223.667" y="316.833"/>
-      <point x="253.667" y="315.833" type="curve"/>
-      <point x="257.667" y="322.833"/>
-      <point x="257.667" y="337"/>
-      <point x="253.667" y="345" type="curve"/>
-      <point x="219.667" y="347"/>
-      <point x="198.667" y="350"/>
-      <point x="198.667" y="401" type="curve" smooth="yes"/>
-      <point x="198.667" y="644.333" type="line"/>
-      <point x="193.667" y="649.333"/>
-      <point x="183.333" y="647.333"/>
-      <point x="178.333" y="644.333" type="curve" smooth="yes"/>
-      <point x="134.167" y="618"/>
-      <point x="105" y="605.333"/>
-      <point x="58" y="588.333" type="curve"/>
-      <point x="58" y="576.333"/>
-      <point x="60" y="566.333"/>
-      <point x="68" y="560.333" type="curve"/>
-      <point x="93" y="569.333"/>
-      <point x="112" y="575.333"/>
-    </contour>
-    <contour>
-      <point x="532" y="601" type="line"/>
-      <point x="74" y="-54" type="line"/>
-      <point x="115" y="-62" type="line"/>
-      <point x="574" y="593" type="line"/>
-    </contour>
+    <component base="uni00B9" xyScale="1.39466e-18" yOffset="-39.2561"/>
+    <component base="fraction" xOffset="257.833"/>
   </outline>
+  <guideline angle="0" x="0" y="657"/>
+  <guideline angle="0" x="0" y="-10"/>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d2640e8bd2f4911669e9c55f4914a2c45722cbb8e3014718867e6542f3d5ef0a74376a937449612830c0833000634a7b6f2361f390ff1c8c6df4dd4453251655</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 315.83 29.17</string>
-          <string>hstem 601 -20</string>
-          <string>vstem 139 59.67</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni00B9</string>
   </dict>
   </lib>
 </glyph>

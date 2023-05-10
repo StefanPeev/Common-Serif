@@ -19,7 +19,7 @@
       <point x="297" y="284.272"/>
       <point x="297" y="158" type="curve" smooth="yes"/>
       <point x="297" y="65.5952"/>
-      <point x="336.885" y="25.7393"/>
+      <point x="336.885" y="25.7393" name=".hr01"/>
       <point x="408.837" y="25.7393" type="curve" smooth="yes"/>
       <point x="466.535" y="25.7393"/>
       <point x="523.555" y="47.9529"/>
@@ -29,7 +29,7 @@
       <point x="548.69" y="78.7559"/>
       <point x="548.691" y="68.4047" type="curve" smooth="yes"/>
       <point x="548.694" y="34.6436"/>
-      <point x="579.966" y="24.4736"/>
+      <point x="579.966" y="24.4736" name=".hr02"/>
       <point x="600.557" y="24.3663" type="curve" smooth="yes"/>
       <point x="763.705" y="23.5159"/>
       <point x="890" y="138.714"/>
@@ -97,15 +97,42 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -160 39</string>
+          <string>hstem 381 34</string>
+          <string>vstem 297 117</string>
           <string>hstem 24 42</string>
+          <string>hstem -160 39</string>
+          <string>hstem 584 37</string>
+          <string>vstem 92 94</string>
+          <string>vstem 805 85</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
           <string>hstem 26 46</string>
+          <string>hstem -160 39</string>
           <string>hstem 381 34</string>
           <string>hstem 584 37</string>
           <string>vstem 92 94</string>
           <string>vstem 297 117</string>
           <string>vstem 805 85</string>
         </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 24 42</string>
+          <string>vstem 805 85</string>
+          <string>hstem 584 37</string>
+          <string>vstem 92 94</string>
+          <string>hstem -160 39</string>
+          <string>vstem 297 117</string>
+          <string>hstem 381 34</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

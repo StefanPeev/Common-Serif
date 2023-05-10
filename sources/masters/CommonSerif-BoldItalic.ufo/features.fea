@@ -163,16 +163,6 @@ languagesystem hebr dflt; # Hebrew default
 # Lookup definitions
 #
 
-lookup frac_2 {
-# GSUB lookup 3, type 11 (Single)
-  sub @frac_subs by @frac_subs2;
-} frac_2;
-
-lookup frac_3 {
-# GSUB lookup 4, type 11 (Single)
-  sub @frac_sups by @frac_sups2;
-} frac_3;
-
 lookup ccmp_2 {
 # GSUB lookup 23, type 11 (Single)
   sub [gravecomb acutecomb uni0302 uni0306] by [grave.cap acute.cap circumflex.cap breve.cap];
@@ -192,6 +182,7 @@ lookup calt_2 {
 #
 # Feature definitions
 #
+
 
 
 
@@ -293,31 +284,6 @@ feature locl {
 
 
 
-feature frac {
-# GSUB feature: Fractions
-# Lookups: 1
-
-  sub @frac2 @frac_lnum_onum' lookup frac_2;
-  sub @frac' lookup frac_3 @frac3;
-
-} frac;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 feature sups {
 # GSUB feature: Superscript
@@ -326,6 +292,7 @@ feature sups {
   sub @frac_sups by @frac_sups2;
 
 } sups;
+
 
 
 
@@ -369,6 +336,7 @@ feature subs {
 
 
 
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -376,6 +344,7 @@ feature case {
   sub @case by @case2;
 
 } case;
+
 
 
 
@@ -655,6 +624,7 @@ feature smcp {
 
 
 
+
 feature c2sc {
 # GSUB feature: Small Capitals From Capitals
 # Lookups: 1
@@ -903,6 +873,7 @@ feature c2sc {
 
 
 
+
 feature hlig {
 # GSUB feature: Historical Ligatures
 # Lookups: 1
@@ -911,6 +882,7 @@ feature hlig {
   sub s t by s_t;
 
 } hlig;
+
 
 
 
@@ -958,6 +930,7 @@ feature dlig {
 
 
 
+
 feature onum {
 # GSUB feature: Oldstyle Figures
 # Lookups: 1
@@ -965,6 +938,7 @@ feature onum {
   sub @frac_lnum_onum by @lnum_onum;
 
 } onum;
+
 
 
 
@@ -1008,6 +982,7 @@ feature lnum {
 
 
 
+
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -1015,6 +990,7 @@ feature pnum {
   sub @pnum by @pnum2;
 
 } pnum;
+
 
 
 
@@ -1058,6 +1034,7 @@ feature tnum {
 
 
 
+
 feature zero {
 # GSUB feature: Slashed Zero
 # Lookups: 1
@@ -1065,6 +1042,7 @@ feature zero {
   sub [zero zero.fitted zero.cap zero.cap.fitted] by [zero.slash zero.slash.fitted zero.slash.cap zero.slash.cap.fitted];
 
 } zero;
+
 
 
 
@@ -1111,6 +1089,7 @@ feature salt {
 
 
 
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -1119,6 +1098,7 @@ feature ccmp {
   sub @ccmp2 @ccmp' lookup ccmp_2;
 
 } ccmp;
+
 
 
 
@@ -1166,6 +1146,7 @@ feature ss01 {
 
 
 
+
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -1177,6 +1158,7 @@ feature ss02 {
   sub [J.alt K R] by [J K.alt R.alt];
 
 } ss02;
+
 
 
 
@@ -1224,6 +1206,7 @@ feature ss03 {
 
 
 
+
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -1235,6 +1218,7 @@ feature ss04 {
   sub [uni1E9E germandbls.sc] by [uni1E9E.alt germandbls.scalt];
 
 } ss04;
+
 
 
 
@@ -1282,6 +1266,7 @@ feature ss05 {
 
 
 
+
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -1311,6 +1296,7 @@ feature ss06 {
 
 
 
+
 feature ss07 {
 # GSUB feature: Stylistic Set 7
 # Lookups: 1
@@ -1322,6 +1308,7 @@ feature ss07 {
   sub [Eng eng.sc Eng.UCStyle.sc Eng.UCStyle] by [Eng.UCStyle Eng.UCStyle.sc eng.sc Eng];
 
 } ss07;
+
 
 
 
@@ -1392,6 +1379,7 @@ feature liga {
 
 
 
+
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -1426,6 +1414,7 @@ feature calt {
 
 
 
+
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -1434,6 +1423,7 @@ feature cpsp {
   pos [AE Eng OE Udieresis.alt] <2 0 5 1>;
 
 } cpsp;
+
 
 
 
@@ -3379,6 +3369,7 @@ feature mark {
 
 
 
+
 feature mkmk {
 #> feature
 # GPOS feature : Mark to Mark Positioning
@@ -3406,6 +3397,7 @@ feature mkmk {
 
 
 
+
 feature cv01 {
 # Character Variant 01—99
 
@@ -3419,3 +3411,181 @@ sub J by J.alt;
 
 
 
+
+feature numr {
+# Numerator
+
+#> feature
+  sub eight by eight.numr;
+  sub five by five.numr;
+  sub four by four.numr;
+  sub nine by nine.numr;
+  sub one by one.numr;
+  sub seven by seven.numr;
+  sub six by six.numr;
+  sub three by three.numr;
+  sub two by two.numr;
+  sub zero by zero.numr;
+#< feature
+} numr;
+feature dnom {
+# Denominator
+
+#> feature
+  sub eight by eight.dnom;
+  sub five by five.dnom;
+  sub four by four.dnom;
+  sub nine by nine.dnom;
+  sub one by one.dnom;
+  sub seven by seven.dnom;
+  sub six by six.dnom;
+  sub three by three.dnom;
+  sub two by two.dnom;
+  sub zero by zero.dnom;
+#< feature
+} dnom;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by uni2116;
+#< feature
+} ordn;
+feature hist {
+# Historical Forms
+
+#> feature
+  sub s by longs;
+#< feature
+} hist;
+feature sinf {
+# Scientific Inferiors
+
+#> feature
+  sub b by b.inferior;
+  sub c by c.inferior;
+  sub d by d.inferior;
+  sub eight by uni2088;
+  sub equal by uni208C;
+  sub f by f.inferior;
+  sub five by uni2085;
+  sub four by uni2084;
+  sub g by g.inferior;
+  sub h by h.inferior;
+  sub i by i.inferior;
+  sub j by j.inferior;
+  sub k by k.inferior;
+  sub l by l.inferior;
+  sub m by m.inferior;
+  sub minus by uni208B;
+  sub n by n.inferior;
+  sub nine by uni2089;
+  sub one by uni2081;
+  sub p by p.inferior;
+  sub parenleft by uni208D;
+  sub parenright by uni208E;
+  sub plus by uni208A;
+  sub q by q.inferior;
+  sub r by r.inferior;
+  sub s by s.inferior;
+  sub seven by uni2087;
+  sub six by uni2086;
+  sub t by t.inferior;
+  sub three by uni2083;
+  sub two by uni2082;
+  sub u by u.inferior;
+  sub v by v.inferior;
+  sub w by w.inferior;
+  sub y by y.inferior;
+  sub z by z.inferior;
+  sub zero by uni2080;
+#< feature
+} sinf;
+feature frac {
+# Fractions
+
+#> feature
+
+# Arbitrary fractions (based on opentypecookbook.com)
+
+@frac_figs = [eight five four nine one seven six three two zero];
+@frac_numr = [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+@frac_dnom = [eight.dnom five.dnom four.dnom nine.dnom one.dnom seven.dnom six.dnom three.dnom two.dnom zero.dnom];
+
+lookup frac_bar {
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs @frac_figs slash';
+  ignore sub slash' @frac_figs @frac_figs slash;
+  ignore sub slash @frac_figs slash';
+  ignore sub slash' @frac_figs slash;
+  ignore sub slash slash';
+  ignore sub slash' slash;
+  sub @frac_figs slash' @frac_figs by fraction;
+} frac_bar;
+
+lookup frac_numr1 {
+  sub @frac_figs' fraction by @frac_numr;
+} frac_numr1;
+
+lookup frac_numr2 {
+  sub @frac_figs' @frac_numr fraction by @frac_numr;
+} frac_numr2;
+
+lookup frac_numr3 {
+  sub @frac_figs' @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr3;
+
+lookup frac_numr4 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr4;
+
+lookup frac_numr5 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr5;
+
+lookup frac_numr6 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr6;
+
+lookup frac_numr7 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr7;
+
+lookup frac_numr8 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr8;
+
+lookup frac_numr9 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr9;
+
+lookup frac_numr10 {
+  sub @frac_figs' @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr @frac_numr fraction by @frac_numr;
+} frac_numr10;
+
+lookup frac_dnom {
+  sub [fraction @frac_dnom] @frac_figs' by @frac_dnom;
+} frac_dnom;
+
+lookup frac_space {
+  sub @frac_figs space' @frac_numr by uni2009;
+} frac_space;
+#< feature
+} frac;

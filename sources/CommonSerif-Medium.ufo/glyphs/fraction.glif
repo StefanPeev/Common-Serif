@@ -1,34 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="2">
-  <advance width="44"/>
+  <advance width="80"/>
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="224" y="601" type="line"/>
-      <point x="-234" y="-54" type="line"/>
-      <point x="-193" y="-54" type="line"/>
-      <point x="266" y="601" type="line"/>
+      <point x="252.582" y="656.811" type="line"/>
+      <point x="-214.344" y="-10" type="line"/>
+      <point x="-173.344" y="-10" type="line"/>
+      <point x="294.582" y="656.811" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w44m224,601l-234,-54l-193,-54l266,601</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 601 -20</string>
-          <string>vstem -234 500</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+  <guideline angle="235.037" x="-214.398" y="-10"/>
+  <guideline angle="54.9786" x="-173.398" y="-10"/>
+  <guideline angle="0" x="0" y="-10"/>
+  <guideline angle="0" x="0" y="657"/>
 </glyph>

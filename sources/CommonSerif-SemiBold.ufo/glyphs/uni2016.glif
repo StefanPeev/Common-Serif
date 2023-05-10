@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2016" format="2">
-  <advance width="278"/>
+  <advance width="323"/>
   <unicode hex="2016"/>
   <outline>
-    <contour>
-      <point x="113" y="-194" type="line"/>
-      <point x="113" y="858" type="line"/>
-      <point x="60" y="858" type="line"/>
-      <point x="60" y="-194" type="line"/>
-    </contour>
-    <contour>
-      <point x="215" y="-194" type="line"/>
-      <point x="215" y="858" type="line"/>
-      <point x="162" y="858" type="line"/>
-      <point x="162" y="-194" type="line"/>
-    </contour>
+    <component base="bar"/>
+    <component base="bar" xScale="1" xOffset="134.667"/>
   </outline>
+  <guideline angle="0" x="0" y="860"/>
+  <guideline angle="0" x="0" y="-230"/>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w278m113,-194l113,858l60,858l60,-194m215,-194l215,858l162,858l162,-194</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -194 1052</string>
-          <string>vstem 60 53</string>
-          <string>vstem 162 53</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=bar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=bar</string>
   </dict>
   </lib>
 </glyph>

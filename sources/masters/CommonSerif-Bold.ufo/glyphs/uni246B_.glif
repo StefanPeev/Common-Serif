@@ -76,7 +76,7 @@
       <point x="675" y="228" type="curve"/>
       <point x="661" y="184"/>
       <point x="642" y="166"/>
-      <point x="612" y="166" type="curve" smooth="yes"/>
+      <point x="612" y="166" type="curve" smooth="yes" name=".hr01"/>
       <point x="528" y="166" type="line"/>
       <point x="530" y="187"/>
       <point x="537" y="205"/>
@@ -127,25 +127,40 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f8b675efb8f6a7dfa1ba3fb87dffb3f268f2c101c5016942c41c73a10449dfeacf3b8e97ae69b627df94143ba05c1d6d742988fe89fc1adc0d88795b000ef17a</string>
+    <string>1c0334d13fadfe3618ef9bedf389b436d6349f18ea83721fd6a44cea50e0776b4840c287747d448657bc728d4b821136bae52fe8a743bf8388580165ae5f9591</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -82 53</string>
-          <string>hstem 115 51</string>
-          <string>hstem 117 21</string>
           <string>hstem 447 -20</string>
           <string>hstem 485 27</string>
-          <string>hstem 503 11</string>
-          <string>hstem 661 51</string>
           <string>vstem 39 53</string>
           <string>vstem 279 85</string>
           <string>vstem 437 76</string>
           <string>vstem 615 84</string>
           <string>vstem 781 51</string>
+          <string>hstem 117 21</string>
+          <string>hstem -82 53</string>
+          <string>hstem 661 51</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 115 51</string>
+          <string>hstem 447 -20</string>
+          <string>hstem 485 27</string>
+          <string>vstem 39 53</string>
+          <string>vstem 279 85</string>
+          <string>vstem 437 76</string>
+          <string>vstem 615 84</string>
+          <string>vstem 781 51</string>
+          <string>hstem -82 53</string>
+          <string>hstem 661 51</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

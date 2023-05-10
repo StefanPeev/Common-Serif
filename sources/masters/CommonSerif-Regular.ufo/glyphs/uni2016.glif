@@ -1,37 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2016" format="2">
-  <advance width="278"/>
+  <advance width="328"/>
   <unicode hex="2016"/>
   <outline>
-    <contour>
-      <point x="99" y="-204" type="line"/>
-      <point x="99" y="858" type="line"/>
-      <point x="60" y="858" type="line"/>
-      <point x="60" y="-204" type="line"/>
-    </contour>
-    <contour>
-      <point x="201" y="-204" type="line"/>
-      <point x="201" y="858" type="line"/>
-      <point x="162" y="858" type="line"/>
-      <point x="162" y="-204" type="line"/>
-    </contour>
+    <component base="bar"/>
+    <component base="bar" xOffset="124"/>
   </outline>
+  <guideline angle="0" x="0" y="860"/>
+  <guideline angle="0" x="0" y="-230"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=bar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=bar</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w278m99,-204l99,858l60,858l60,-204m201,-204l201,858l162,858l162,-204</string>
+    <string>w328</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -204 1062</string>
-          <string>vstem 60 39</string>
-          <string>vstem 162 39</string>
+          <string>vstem 83 39</string>
+          <string>vstem 185 39</string>
         </array>
       </dict>
     </array>

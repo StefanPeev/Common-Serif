@@ -3,41 +3,14 @@
   <advance width="257"/>
   <unicode hex="2224"/>
   <outline>
+    <component base="uni2223" xOffset="21"/>
     <contour>
+      <point x="18" y="214.667" type="line"/>
       <point x="43.6667" y="189" type="line"/>
-      <point x="100.833" y="246.167" type="line"/>
-      <point x="100.833" y="-232.167" type="line"/>
-      <point x="147.5" y="-232.167" type="line"/>
-      <point x="147.5" y="293.833" type="line"/>
       <point x="237.667" y="384" type="line"/>
       <point x="212" y="410.667" type="line"/>
-      <point x="147.5" y="345.167" type="line"/>
-      <point x="147.5" y="698" type="line"/>
-      <point x="100.833" y="698" type="line"/>
-      <point x="100.833" y="298.5" type="line"/>
-      <point x="18" y="214.667" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>4cca37eae348067187aaaefd8a26cc42c6e0a5b5597e8914034565ed8e7abed6605eea72e01e60c301ef5dd341839857bd0fac24caf0cbbbc1082180e3d173f3</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -211.17 -21</string>
-          <string>hstem 698 -20</string>
-          <string>vstem 100.83 46.67</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+  <guideline angle="0" x="0" y="698"/>
+  <guideline angle="0" x="0" y="-232"/>
 </glyph>

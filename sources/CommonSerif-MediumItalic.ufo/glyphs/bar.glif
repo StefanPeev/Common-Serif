@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="2">
-  <advance width="210"/>
+  <advance width="229"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="98" y="-233" type="line"/>
-      <point x="245.667" y="667.333" type="line"/>
-      <point x="197.333" y="667.333" type="line"/>
-      <point x="49.6667" y="-233" type="line"/>
+      <point x="190.394" y="-236.667" type="curve"/>
+      <point x="190.478" y="766.667" type="line"/>
+      <point x="175.803" y="772.667"/>
+      <point x="159.37" y="772.667"/>
+      <point x="142.145" y="766.667" type="curve"/>
+      <point x="142.061" y="-236.667" type="line"/>
+      <point x="156.736" y="-242.667"/>
+      <point x="173.169" y="-242.667"/>
     </contour>
   </outline>
+  <guideline angle="258" x="87" y="652"/>
+  <guideline angle="78" x="173" y="720"/>
+  <guideline angle="0" x="0" y="-240"/>
+  <guideline angle="0" x="0" y="720"/>
+  <guideline angle="90" x="129" y="0"/>
+  <guideline angle="90" x="173" y="0"/>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w210m98,-233l245.67,667.33l197.33,667.33l49.67,-233</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -212 -21</string>
-          <string>hstem 667.33 -20</string>
-          <string>vstem 49.67 196</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-17</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=-17</string>
   </dict>
   </lib>
 </glyph>
