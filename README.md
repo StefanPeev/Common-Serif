@@ -1,4 +1,4 @@
-![Sample Image](/images/CommonSerif_01.jpg)
+![Sample Image](/images/CommonSerif_950x475_01.jpg)
 
 Common Serif
 ============
@@ -8,8 +8,8 @@ It started as a fork of Libertinus Serif 7.040 version.
 
 The aim of the Common Serif project is to change the way the font family is produced.
 The new project is based on masters (Regular and Bold),
-which allow interpolating 4 instances of the Normal version: Regular, Medium, SemiBold, Bold;
-and 4 instances of the cursive version: Italic, Medium Italic, SemiBold Italic, Bold Italic.
+which allow interpolating 5 instances of the Normal version: Regular, News, Medium, SemiBold, Bold;
+and 5 instances of the cursive version: Italic, News Italic, Medium Italic, SemiBold Italic, Bold Italic.
 
 The project is in its beginning. Any contributions are well-come and highly appreciated.
 
