@@ -2,110 +2,19 @@
 <glyph name="uni0209" format="2">
   <advance width="280"/>
   <unicode hex="0209"/>
+  <anchor x="139" y="-108" name="m.uni0316_2"/>
   <outline>
-    <contour>
-      <point x="189.5" y="122" type="curve" smooth="yes"/>
-      <point x="189.5" y="321" type="line" smooth="yes"/>
-      <point x="189.5" y="371"/>
-      <point x="193.5" y="433.667"/>
-      <point x="193.5" y="433.667" type="curve"/>
-      <point x="193.5" y="438.833"/>
-      <point x="187.833" y="442.333"/>
-      <point x="178.833" y="442.333" type="curve"/>
-      <point x="150.833" y="431.333"/>
-      <point x="104" y="422.5"/>
-      <point x="35" y="413.5" type="curve"/>
-      <point x="33" y="407.5"/>
-      <point x="35" y="390.833"/>
-      <point x="37" y="384.833" type="curve"/>
-      <point x="92" y="379.833"/>
-      <point x="102" y="373.5"/>
-      <point x="102" y="316.5" type="curve" smooth="yes"/>
-      <point x="102" y="122" type="line" smooth="yes"/>
-      <point x="102" y="39"/>
-      <point x="91" y="36.1667"/>
-      <point x="30" y="31.1667" type="curve"/>
-      <point x="24" y="25.1667"/>
-      <point x="24" y="4"/>
-      <point x="30" y="-2" type="curve"/>
-      <point x="64.5" y="-1"/>
-      <point x="104" y="0"/>
-      <point x="146.167" y="0" type="curve" smooth="yes"/>
-      <point x="188.333" y="0"/>
-      <point x="226.833" y="-1"/>
-      <point x="261.5" y="-2" type="curve"/>
-      <point x="267.5" y="4"/>
-      <point x="267.5" y="25.1667"/>
-      <point x="261.5" y="31.1667" type="curve"/>
-      <point x="200.5" y="35.1667"/>
-      <point x="189.5" y="39"/>
-    </contour>
-    <contour>
-      <point x="76.8333" y="648.833" type="curve" smooth="yes"/>
-      <point x="76.8333" y="643.833"/>
-      <point x="77.8333" y="637.833"/>
-      <point x="82.6667" y="632.833" type="curve"/>
-      <point x="183" y="513.833" type="line"/>
-      <point x="186.167" y="510.333"/>
-      <point x="189.167" y="508.833"/>
-      <point x="192.833" y="508.833" type="curve" smooth="yes"/>
-      <point x="203.333" y="508.833"/>
-      <point x="206.667" y="518.167"/>
-      <point x="206.667" y="522.167" type="curve" smooth="yes"/>
-      <point x="206.667" y="523.667"/>
-      <point x="206.5" y="526.167"/>
-      <point x="205.333" y="529.5" type="curve"/>
-      <point x="143" y="671" type="line" smooth="yes"/>
-      <point x="138.833" y="680.333"/>
-      <point x="129.833" y="684.833"/>
-      <point x="118.833" y="684.833" type="curve" smooth="yes"/>
-      <point x="89.3333" y="684.833"/>
-      <point x="76.8333" y="663.667"/>
-    </contour>
-    <contour>
-      <point x="-54.6667" y="641.833" type="curve" smooth="yes"/>
-      <point x="-54.6667" y="634.833"/>
-      <point x="-52.1667" y="628.167"/>
-      <point x="-46.6667" y="621.833" type="curve"/>
-      <point x="64.6667" y="514.833" type="line" smooth="yes"/>
-      <point x="67.1667" y="512.333"/>
-      <point x="69.6667" y="511"/>
-      <point x="73" y="511" type="curve" smooth="yes"/>
-      <point x="76.8333" y="511"/>
-      <point x="86.3333" y="515.333"/>
-      <point x="86.3333" y="525.167" type="curve" smooth="yes"/>
-      <point x="86.3333" y="526.667"/>
-      <point x="86.1667" y="529.167"/>
-      <point x="84.8333" y="530.833" type="curve"/>
-      <point x="8.5" y="666.833" type="line" smooth="yes"/>
-      <point x="4" y="674.833"/>
-      <point x="-3" y="679"/>
-      <point x="-16.1667" y="679" type="curve" smooth="yes"/>
-      <point x="-39.5" y="679"/>
-      <point x="-54.6667" y="660.833"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="uni030F" xOffset="266.833"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3b9d42c9055be2e62e6125eb6d90cc28eac6bc09d9b3b57687940f436ea09584d51807d19e7da0de0d2423c1c65d52b6b3d113f963f2e47e7b7cb109ec70274b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 19 -21</string>
-          <string>hstem 433.67 8.67</string>
-          <string>hstem 442.33 -20</string>
-          <string>vstem 102 87.5</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

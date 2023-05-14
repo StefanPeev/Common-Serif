@@ -1,83 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2080" format="2">
-  <advance width="313"/>
+  <advance width="325"/>
   <unicode hex="2080"/>
   <outline>
-    <contour>
-      <point x="125.667" y="-126" type="curve" smooth="yes"/>
-      <point x="148.333" y="-126"/>
-      <point x="172.5" y="-120.333"/>
-      <point x="195" y="-106.5" type="curve" smooth="yes"/>
-      <point x="236" y="-81.6667"/>
-      <point x="271.667" y="-32.3333"/>
-      <point x="288.667" y="45" type="curve" smooth="yes"/>
-      <point x="304.667" y="116.167"/>
-      <point x="293.5" y="160.333"/>
-      <point x="269.667" y="184.667" type="curve" smooth="yes"/>
-      <point x="252.5" y="201.5"/>
-      <point x="228" y="208.167"/>
-      <point x="202.167" y="208.167" type="curve" smooth="yes"/>
-      <point x="174.333" y="208.167"/>
-      <point x="146.333" y="196.667"/>
-      <point x="121" y="177" type="curve" smooth="yes"/>
-      <point x="83.8333" y="146.667"/>
-      <point x="54.1667" y="96.5"/>
-      <point x="41.1667" y="40" type="curve" smooth="yes"/>
-      <point x="27.1667" y="-21.8333"/>
-      <point x="35" y="-68"/>
-      <point x="57.6667" y="-96.3333" type="curve" smooth="yes"/>
-      <point x="73" y="-116.333"/>
-      <point x="97.3333" y="-126"/>
-    </contour>
-    <contour>
-      <point x="197.167" y="183.833" type="curve" smooth="yes"/>
-      <point x="240.667" y="183.833"/>
-      <point x="240.833" y="122"/>
-      <point x="231.167" y="69.3333" type="curve" smooth="yes"/>
-      <point x="230.333" y="64.8333"/>
-      <point x="229.333" y="61"/>
-      <point x="228.5" y="56.5" type="curve"/>
-      <point x="227.5" y="51.8333"/>
-      <point x="226.667" y="47.3333"/>
-      <point x="225.667" y="43.5" type="curve"/>
-      <point x="208.667" y="-29.5"/>
-      <point x="186" y="-99.8333"/>
-      <point x="133.167" y="-101.5" type="curve" smooth="yes"/>
-      <point x="129.333" y="-101.667"/>
-      <point x="125.5" y="-101.667"/>
-      <point x="122.5" y="-100.833" type="curve"/>
-      <point x="83.8333" y="-92.5"/>
-      <point x="90.6667" y="-30.6667"/>
-      <point x="100.333" y="20.6667" type="curve"/>
-      <point x="101.333" y="24.5"/>
-      <point x="102.333" y="29.3333"/>
-      <point x="103.333" y="33.1667" type="curve"/>
-      <point x="104.167" y="37.1667"/>
-      <point x="105.167" y="40.1667"/>
-      <point x="106.167" y="44" type="curve"/>
-      <point x="118.167" y="98.6667"/>
-      <point x="140.667" y="183.833"/>
-    </contour>
+    <component base="uni2070" xScale="1" xyScale="7.12128e-17" xOffset="-132.678" yOffset="-626.394"/>
   </outline>
+  <guideline angle="0" x="0" y="-160"/>
+  <guideline angle="0" x="0" y="-164"/>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2adb2ab9664a104355a19d014965c719b4c39cf0619b2190df29dfb012a751ce6182fe3a295799361e0021bb0c6735223f7d8b8e192f3c0f02d649f91ab12530</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -126 24.5</string>
-          <string>hstem 183.83 24.33</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni2070</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni2070</string>
   </dict>
   </lib>
 </glyph>

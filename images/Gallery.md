@@ -26,3 +26,11 @@
 
 <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/CommonSerif_03.png" />
 
+<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/CommonSerif_1200x625_10.jpg" />
+
+<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/CommonSerif_1200x625_11.jpg" />
+
+<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/CommonSerif_1200x625_12.jpg" />
+
+<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/CommonSerif_1200x625_13.jpg" />
+

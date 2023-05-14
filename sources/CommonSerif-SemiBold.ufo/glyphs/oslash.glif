@@ -4,11 +4,38 @@
   <unicode hex="00F8"/>
   <anchor x="252.667" y="500" name="t.uni0302"/>
   <outline>
-    <component base="o"/>
+    <contour>
+      <point x="38.3333" y="207.058" type="curve" smooth="yes"/>
+      <point x="38.3333" y="82.8757"/>
+      <point x="117.43" y="-10"/>
+      <point x="257.441" y="-10" type="curve" smooth="yes"/>
+      <point x="398.899" y="-10"/>
+      <point x="497" y="84.2227"/>
+      <point x="497" y="213.113" type="curve" smooth="yes"/>
+      <point x="497" y="344.141"/>
+      <point x="421.63" y="442.333"/>
+      <point x="278.104" y="442.333" type="curve" smooth="yes"/>
+      <point x="132.548" y="442.333"/>
+      <point x="38.3333" y="342.544"/>
+    </contour>
+    <contour>
+      <point x="260.977" y="402.667" type="curve" smooth="yes"/>
+      <point x="332.579" y="402.667"/>
+      <point x="375" y="320.345"/>
+      <point x="375" y="183.333" type="curve" smooth="yes"/>
+      <point x="375" y="79.3574"/>
+      <point x="328.245" y="29.6667"/>
+      <point x="277.714" y="29.6667" type="curve" smooth="yes"/>
+      <point x="202.462" y="29.6667"/>
+      <point x="160.333" y="131.099"/>
+      <point x="160.333" y="229.7" type="curve" smooth="yes"/>
+      <point x="160.333" y="334.884"/>
+      <point x="195.753" y="402.667"/>
+    </contour>
     <contour>
       <point x="51.3333" y="-2" type="line"/>
       <point x="55.2704" y="-15.9395"/>
-      <point x="70.8581" y="-32"/>
+      <point x="70.8581" y="-32" name=".hr01"/>
       <point x="85.3333" y="-32" type="curve"/>
       <point x="473" y="441" type="line"/>
       <point x="467.516" y="456.791"/>
@@ -23,14 +50,28 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w546m51.33,-2c55.27,-15.94 70.86,-32 85.33,-32l473,441c467.52,456.79 455.12,468 438,468</string>
+    <string>97f849586ceca6e252d2b24f927703e11284866bd0182f10d4fee45a0df262dd279ca7d39c8da993c0ee8c1254155cc0ca90fcdf5b8a7825f2dbb7ceec6446b4</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
+          <string>vstem 38.33 122</string>
+          <string>hstem -10 39.67</string>
+          <string>vstem 375 122</string>
+          <string>hstem 402.67 39.67</string>
         </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 19 -21</string>
+          <string>hstem 402.67 39.67</string>
+          <string>vstem 38.33 122</string>
+          <string>vstem 375 122</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>
