@@ -3,7 +3,25 @@
   <advance width="621"/>
   <unicode hex="1FC6"/>
   <outline>
-    <component base="eta"/>
+    <contour>
+      <point x="215.104" y="315.997" type="line"/>
+      <point x="253.321" y="347.836"/>
+      <point x="302.831" y="368"/>
+      <point x="341" y="368" type="curve" smooth="yes"/>
+      <point x="384" y="368"/>
+      <point x="396" y="329"/>
+      <point x="396" y="267" type="curve"/>
+      <point x="378.362" y="-198" type="line"/>
+      <point x="396.068" y="-218" type="line"/>
+      <point x="535.956" y="-188" type="line"/>
+      <point x="526" y="284" type="line"/>
+      <point x="526" y="393"/>
+      <point x="479.587" y="445"/>
+      <point x="409" y="445" type="curve" smooth="yes"/>
+      <point x="338.622" y="445"/>
+      <point x="268" y="398.63"/>
+      <point x="215.936" y="357.384" type="curve"/>
+    </contour>
     <contour>
       <point x="347" y="594" type="curve" smooth="yes"/>
       <point x="328" y="594"/>
@@ -40,12 +58,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9ebbc350c47d55a3dd76df1b8f7b0365e143f87b771239dd077c6289480dbb63de1de048488bb300e14449ebb89fa6602919dac9d513eed8940a1e33b7bcb736</string>
+    <string>94c09bcbba9a13be71d55aeadf6d61fd33a1c4f4767db67985162b4a1b0bf25ea00300a024bb2b7c8399e9e4a2ebb6f98dc01758d3ae04d5d833be7411023139</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -197 -21</string>
+          <string>hstem 445 -20</string>
           <string>hstem 537 57</string>
         </array>
       </dict>
@@ -53,6 +73,8 @@
         <key>stems</key>
         <array>
           <string>hstem 591 59</string>
+          <string>hstem -197 -21</string>
+          <string>hstem 445 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
@@ -61,6 +83,8 @@
         <key>stems</key>
         <array>
           <string>hstem 537 57</string>
+          <string>hstem -197 -21</string>
+          <string>hstem 445 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr02</string>

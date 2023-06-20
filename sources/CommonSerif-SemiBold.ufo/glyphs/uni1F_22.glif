@@ -4,69 +4,16 @@
   <unicode hex="1F22"/>
   <outline>
     <component base="eta"/>
-    <contour>
-      <point x="235.333" y="696" type="curve" smooth="yes"/>
-      <point x="201.333" y="696"/>
-      <point x="189.333" y="678"/>
-      <point x="189.333" y="662" type="curve" smooth="yes"/>
-      <point x="189.333" y="646"/>
-      <point x="194.333" y="622"/>
-      <point x="235.333" y="622" type="curve" smooth="yes"/>
-      <point x="242.667" y="622"/>
-      <point x="247.333" y="614"/>
-      <point x="247.333" y="603" type="curve" smooth="yes"/>
-      <point x="247.333" y="580"/>
-      <point x="228.333" y="543"/>
-      <point x="186.333" y="534" type="curve"/>
-      <point x="190.667" y="517" type="line"/>
-      <point x="274.667" y="523"/>
-      <point x="295.333" y="593.667"/>
-      <point x="295.333" y="623" type="curve" smooth="yes"/>
-      <point x="295.333" y="659"/>
-      <point x="273.333" y="696"/>
-    </contour>
-    <contour>
-      <point x="348.333" y="656" type="curve"/>
-      <point x="430.333" y="521" type="line"/>
-      <point x="432.333" y="518"/>
-      <point x="433.333" y="516"/>
-      <point x="438.333" y="516" type="curve" smooth="yes"/>
-      <point x="448.333" y="516"/>
-      <point x="453.333" y="523"/>
-      <point x="453.333" y="528" type="curve"/>
-      <point x="453.333" y="529"/>
-      <point x="452.333" y="532"/>
-      <point x="452.333" y="532" type="curve"/>
-      <point x="413.333" y="684" type="line" smooth="yes"/>
-      <point x="410.333" y="695"/>
-      <point x="400.333" y="702"/>
-      <point x="382.333" y="702" type="curve" smooth="yes"/>
-      <point x="359.333" y="702"/>
-      <point x="345.333" y="685"/>
-      <point x="345.333" y="669" type="curve" smooth="yes"/>
-      <point x="345.333" y="665"/>
-      <point x="346.333" y="660"/>
-    </contour>
+    <component base="uni1FCD" xScale="1" xOffset="137.333"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>4e4d973449ff8fcecf8e73f447112a35f8019e9d478231af27f781ec2aa86f2a60fa87eca3f43d562b6701701c347b2b1b9771a0c633b9c571555f7b2b3cfcae</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 622 74</string>
-          <string>vstem 247.33 48</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>eta+uni1FCD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

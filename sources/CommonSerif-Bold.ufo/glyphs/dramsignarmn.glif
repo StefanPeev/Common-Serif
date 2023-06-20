@@ -20,20 +20,24 @@
       <point x="160.25" y="224.999"/>
     </contour>
     <contour>
-      <point x="501.9" y="339.275" type="line"/>
+      <point x="501.9" y="339.275" type="curve"/>
       <point x="512.85" y="339.275"/>
       <point x="527" y="350.45"/>
       <point x="527" y="367.9" type="curve" smooth="yes"/>
       <point x="527" y="377.25"/>
       <point x="523.55" y="386.954"/>
       <point x="516.9" y="386.95" type="curve" smooth="yes"/>
-      <point x="182" y="386.75" type="line" smooth="yes"/>
+      <point x="475.283" y="386.925"/>
+      <point x="256.911" y="386.795"/>
+      <point x="182" y="386.75" type="curve" smooth="yes"/>
       <point x="173" y="386.745"/>
       <point x="157" y="376.2"/>
       <point x="157" y="355.5" type="curve" smooth="yes"/>
       <point x="157" y="347.15"/>
       <point x="160.25" y="339.275"/>
-      <point x="167" y="339.275" type="curve"/>
+      <point x="167" y="339.275" type="curve" smooth="yes"/>
+      <point x="216.801" y="339.275"/>
+      <point x="435.499" y="339.275"/>
     </contour>
     <contour>
       <point x="448.255" y="479.528" type="line" smooth="yes"/>
@@ -58,7 +62,9 @@
       <point x="276.678" y="624"/>
       <point x="307.873" y="577.839"/>
       <point x="307.895" y="496.895" type="curve" smooth="yes"/>
-      <point x="308" y="122.152" type="line"/>
+      <point x="307.913" y="433.241"/>
+      <point x="307.976" y="209.382"/>
+      <point x="308" y="122.152" type="curve"/>
       <point x="448" y="122.152" type="line"/>
     </contour>
     <contour>
@@ -92,13 +98,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e72ff0c007ca6da66517709424bd7b5e34f4dec99425f6036e130eca4c291badbee6a1aad3e1936f9bf2f3a8aae1b78e94cc6ca4e21720fd5579117aa85e3927</string>
+    <string>53591f2a7ebf45dd3e643816dad31cec76f7b4d4e50151078da61b3faac95e01dc67919be8eef0bd388b2492cac42e684f9d052690caef67095a99e46a9b9fd9</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 17 128</string>
+          <string>vstem 81 60</string>
         </array>
       </dict>
     </array>

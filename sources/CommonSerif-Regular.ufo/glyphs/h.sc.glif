@@ -5,47 +5,7 @@
   <anchor x="285" y="-110" name="m.uni0316_2"/>
   <outline>
     <contour>
-      <point x="402" y="338" type="curve" smooth="yes"/>
-      <point x="402" y="122" type="line" smooth="yes"/>
-      <point x="402" y="39"/>
-      <point x="391" y="36"/>
-      <point x="330" y="31" type="curve"/>
-      <point x="324" y="25"/>
-      <point x="324" y="4"/>
-      <point x="330" y="-2" type="curve"/>
-      <point x="367" y="-1"/>
-      <point x="408" y="0"/>
-      <point x="443" y="0" type="curve" smooth="yes"/>
-      <point x="473" y="0"/>
-      <point x="515" y="-1"/>
-      <point x="554" y="-2" type="curve"/>
-      <point x="560" y="4"/>
-      <point x="560" y="25"/>
-      <point x="554" y="31" type="curve"/>
-      <point x="493" y="35"/>
-      <point x="482" y="39"/>
-      <point x="482" y="122" type="curve" smooth="yes"/>
-      <point x="482" y="338" type="line" smooth="yes"/>
-      <point x="482" y="421"/>
-      <point x="493" y="424"/>
-      <point x="554" y="429" type="curve"/>
-      <point x="560" y="435"/>
-      <point x="560" y="456"/>
-      <point x="554" y="462" type="curve" name=".hr01"/>
-      <point x="519" y="460"/>
-      <point x="475" y="460"/>
-      <point x="442" y="460" type="curve" smooth="yes"/>
-      <point x="414" y="460"/>
-      <point x="369" y="461"/>
-      <point x="330" y="462" type="curve"/>
-      <point x="324" y="456"/>
-      <point x="324" y="435"/>
-      <point x="330" y="429" type="curve"/>
-      <point x="391" y="425"/>
-      <point x="402" y="421"/>
-    </contour>
-    <contour>
-      <point x="171" y="338" type="line" smooth="yes"/>
+      <point x="171" y="338" type="curve" smooth="yes"/>
       <point x="171" y="421"/>
       <point x="182" y="424"/>
       <point x="243" y="429" type="curve"/>
@@ -64,14 +24,16 @@
       <point x="80" y="425"/>
       <point x="91" y="421"/>
       <point x="91" y="338" type="curve" smooth="yes"/>
-      <point x="91" y="122" type="line" smooth="yes"/>
+      <point x="91" y="291.667"/>
+      <point x="91" y="184.968"/>
+      <point x="91" y="122" type="curve" smooth="yes"/>
       <point x="91" y="39"/>
       <point x="80" y="36"/>
       <point x="19" y="31" type="curve"/>
       <point x="13" y="25"/>
       <point x="13" y="4"/>
-      <point x="19" y="-2" type="curve"/>
-      <point x="59" y="-1" name=".hr02"/>
+      <point x="19" y="-2" type="curve" name=".hr01"/>
+      <point x="59" y="-1"/>
       <point x="99" y="0"/>
       <point x="131" y="0" type="curve" smooth="yes"/>
       <point x="163" y="0"/>
@@ -83,12 +45,58 @@
       <point x="182" y="35"/>
       <point x="171" y="39"/>
       <point x="171" y="122" type="curve" smooth="yes"/>
+      <point x="171" y="170.654"/>
+      <point x="171" y="271.879"/>
+    </contour>
+    <contour>
+      <point x="402" y="338" type="curve" smooth="yes"/>
+      <point x="402" y="271.879"/>
+      <point x="402" y="170.654"/>
+      <point x="402" y="122" type="curve" smooth="yes"/>
+      <point x="402" y="39"/>
+      <point x="391" y="36"/>
+      <point x="330" y="31" type="curve"/>
+      <point x="324" y="25"/>
+      <point x="324" y="4"/>
+      <point x="330" y="-2" type="curve"/>
+      <point x="367" y="-1"/>
+      <point x="408" y="0"/>
+      <point x="443" y="0" type="curve" smooth="yes"/>
+      <point x="473" y="0"/>
+      <point x="515" y="-1"/>
+      <point x="554" y="-2" type="curve"/>
+      <point x="560" y="4"/>
+      <point x="560" y="25"/>
+      <point x="554" y="31" type="curve"/>
+      <point x="493" y="35"/>
+      <point x="482" y="39"/>
+      <point x="482" y="122" type="curve" smooth="yes"/>
+      <point x="482" y="184.968"/>
+      <point x="482" y="291.667"/>
+      <point x="482" y="338" type="curve" smooth="yes"/>
+      <point x="482" y="421"/>
+      <point x="493" y="424"/>
+      <point x="554" y="429" type="curve"/>
+      <point x="560" y="435"/>
+      <point x="560" y="456"/>
+      <point x="554" y="462" type="curve"/>
+      <point x="519" y="460" name=".hr02"/>
+      <point x="475" y="460"/>
+      <point x="442" y="460" type="curve" smooth="yes"/>
+      <point x="414" y="460"/>
+      <point x="369" y="461"/>
+      <point x="330" y="462" type="curve"/>
+      <point x="324" y="456"/>
+      <point x="324" y="435"/>
+      <point x="330" y="429" type="curve"/>
+      <point x="391" y="425"/>
+      <point x="402" y="421"/>
     </contour>
     <contour>
       <point x="417" y="252" type="line"/>
       <point x="156" y="252" type="line"/>
-      <point x="156" y="219" type="line"/>
-      <point x="417" y="219" type="line" name=".hr03"/>
+      <point x="156" y="219" type="line" name=".hr03"/>
+      <point x="417" y="219" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -102,19 +110,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>53643a8044ec428d80c746fd8341b058267f1396fe5458fdefd2420d6487528459f2e46ec1f25f867db5c58e0de5a35ba04523372538eab33476aa69980a0b24</string>
+    <string>dc949a11149952abafcac5bb3b472e3d9a9c78a9ac01d8b755c0c9b5797611797d2af2f172244baed3bc28bd60a28ec1a6823330f1feb3d40eff54dfa928d2e1</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -2 254</string>
+          <string>hstem 219 243</string>
         </array>
       </dict>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 219 243</string>
+          <string>hstem -2 254</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
@@ -122,7 +130,7 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -2 254</string>
+          <string>hstem 219 243</string>
         </array>
         <key>pointTag</key>
         <string>.hr02</string>
@@ -134,6 +142,14 @@
         </array>
         <key>pointTag</key>
         <string>.hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 254</string>
+        </array>
+        <key>pointTag</key>
+        <string>lsb</string>
       </dict>
     </array>
   </dict>

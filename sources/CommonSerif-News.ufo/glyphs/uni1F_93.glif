@@ -3,7 +3,6 @@
   <advance width="544"/>
   <unicode hex="1F93"/>
   <outline>
-    <component base="eta"/>
     <contour>
       <point x="98.1669" y="-69.3333" type="line"/>
       <point x="98.1669" y="-153" type="line" smooth="yes"/>
@@ -71,6 +70,25 @@
       <point x="340.167" y="661.833"/>
       <point x="341.167" y="657"/>
     </contour>
+    <contour>
+      <point x="175.052" y="305.283" type="line"/>
+      <point x="203.377" y="334.974"/>
+      <point x="261.107" y="386.333"/>
+      <point x="307.667" y="386.333" type="curve" smooth="yes"/>
+      <point x="365.667" y="386.333"/>
+      <point x="373.729" y="335.656"/>
+      <point x="372.667" y="271.167" type="curve" smooth="yes"/>
+      <point x="361.55" y="-223" type="line"/>
+      <point x="372.834" y="-234.667" type="line"/>
+      <point x="471.008" y="-213" type="line"/>
+      <point x="461" y="284" type="line" smooth="yes"/>
+      <point x="459.088" y="397.981"/>
+      <point x="418.265" y="442.5"/>
+      <point x="349.833" y="442.5" type="curve" smooth="yes"/>
+      <point x="273.675" y="442.5"/>
+      <point x="223.892" y="397.122"/>
+      <point x="172.836" y="341.353" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -79,7 +97,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8cc2d3e511ac9b0a619a7174b2257522669d1cf50947cb83b7076f12b8777c0cd873c0d44577c1d46931edaf04683b5a9676eaa7702d3796f2d9dcc3a99d27ad</string>
+    <string>5549b0e00bc325cafdcc2fd5898a3468e827f719f72b772ac5bf7e6d6de1bd48ed84fd6563977962a3552e82d99a2771f600edf90085faa0bb8beb1ed300a2b2</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -88,6 +106,7 @@
           <string>vstem 98.17 82.67</string>
           <string>hstem -235 41.83</string>
           <string>hstem 617 76</string>
+          <string>hstem 442.5 -20</string>
           <string>hstem 514 17</string>
         </array>
       </dict>
@@ -98,6 +117,7 @@
           <string>hstem 514 17</string>
           <string>hstem 617 76</string>
           <string>hstem -235 41.83</string>
+          <string>hstem 442.5 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>

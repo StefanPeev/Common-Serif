@@ -3,128 +3,17 @@
   <advance width="293"/>
   <unicode hex="1F33"/>
   <outline>
-    <contour>
-      <point x="174.5" y="103.667" type="curve" smooth="yes"/>
-      <point x="174.5" y="301" type="line" smooth="yes"/>
-      <point x="174.5" y="317.167"/>
-      <point x="174.667" y="334.5"/>
-      <point x="174.833" y="350.167" type="curve" smooth="yes"/>
-      <point x="175" y="370.833"/>
-      <point x="174.333" y="400.333"/>
-      <point x="174.333" y="417.833" type="curve"/>
-      <point x="173.5" y="429.667"/>
-      <point x="172" y="438.167"/>
-      <point x="169.667" y="438.167" type="curve"/>
-      <point x="154.167" y="432"/>
-      <point x="134.167" y="429.333"/>
-      <point x="111" y="428.333" type="curve" smooth="yes"/>
-      <point x="96.8333" y="427.833"/>
-      <point x="71.6667" y="428.167"/>
-      <point x="62.5" y="428.5" type="curve"/>
-      <point x="60.8333" y="426.833" type="line"/>
-      <point x="64.6667" y="416.667"/>
-      <point x="68.3333" y="403.833"/>
-      <point x="70.3333" y="393.667" type="curve"/>
-      <point x="83.3333" y="370.5"/>
-      <point x="85.8333" y="347.333"/>
-      <point x="86.6667" y="325.833" type="curve" smooth="yes"/>
-      <point x="87" y="317.833"/>
-      <point x="87" y="310.333"/>
-      <point x="87" y="301.5" type="curve" smooth="yes"/>
-      <point x="87" y="104.167" type="line"/>
-      <point x="87" y="85" type="line" smooth="yes"/>
-      <point x="87" y="46.6667"/>
-      <point x="98.5" y="17.6667"/>
-      <point x="122.833" y="3" type="curve" smooth="yes"/>
-      <point x="135" y="-4.66667"/>
-      <point x="150.5" y="-9.16667"/>
-      <point x="169" y="-10" type="curve" smooth="yes"/>
-      <point x="177" y="-10.5"/>
-      <point x="185" y="-10"/>
-      <point x="192.5" y="-8.33333" type="curve" smooth="yes"/>
-      <point x="231.667" y="0.833333"/>
-      <point x="268.5" y="35.5"/>
-      <point x="286" y="66" type="curve"/>
-      <point x="283.5" y="76.3333"/>
-      <point x="276.667" y="81.5"/>
-      <point x="265.5" y="84.8333" type="curve"/>
-      <point x="254.167" y="71.5"/>
-      <point x="241.667" y="60.8333"/>
-      <point x="227.667" y="54.1667" type="curve"/>
-      <point x="219.167" y="49.1667"/>
-      <point x="208.833" y="46.8333"/>
-      <point x="198" y="47.5" type="curve" smooth="yes"/>
-      <point x="183" y="48.6667"/>
-      <point x="174.5" y="63.5"/>
-    </contour>
-    <contour>
-      <point x="50" y="694" type="curve" smooth="yes"/>
-      <point x="12" y="694"/>
-      <point x="-10" y="656"/>
-      <point x="-10" y="621" type="curve" smooth="yes"/>
-      <point x="-10" y="595"/>
-      <point x="5" y="519"/>
-      <point x="96" y="515" type="curve"/>
-      <point x="100" y="532" type="line"/>
-      <point x="58" y="540"/>
-      <point x="40" y="577.167"/>
-      <point x="40" y="600" type="curve" smooth="yes"/>
-      <point x="40" y="611"/>
-      <point x="44" y="618"/>
-      <point x="51" y="618" type="curve" smooth="yes"/>
-      <point x="92" y="618"/>
-      <point x="97" y="643"/>
-      <point x="97" y="660" type="curve" smooth="yes"/>
-      <point x="97" y="676"/>
-      <point x="86" y="694"/>
-    </contour>
-    <contour>
-      <point x="156" y="654" type="curve"/>
-      <point x="238" y="519" type="line"/>
-      <point x="240" y="516"/>
-      <point x="241" y="514"/>
-      <point x="246" y="514" type="curve" smooth="yes"/>
-      <point x="256" y="514"/>
-      <point x="261" y="521"/>
-      <point x="261" y="526" type="curve"/>
-      <point x="261" y="527"/>
-      <point x="260" y="530"/>
-      <point x="260" y="530" type="curve"/>
-      <point x="221" y="682" type="line" smooth="yes"/>
-      <point x="218" y="693"/>
-      <point x="208" y="700"/>
-      <point x="190.167" y="700" type="curve" smooth="yes"/>
-      <point x="166.833" y="700"/>
-      <point x="153" y="683"/>
-      <point x="153" y="667" type="curve" smooth="yes"/>
-      <point x="153" y="662.833"/>
-      <point x="154" y="658"/>
-    </contour>
+    <component base="iota"/>
+    <component base="uni1FDD" xOffset="-17.6667"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f9c324831fd3e8140ca44f0bb87dcd81ab72a8b47c2fb1ecee7855fa21fa8a400d59968ebdc646284cb4e2f2a4fe3c4e1550ee350841afcbbaa0b625843d30e4</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 57.5</string>
-          <string>hstem 428.5 -20</string>
-          <string>hstem 438.17 -20</string>
-          <string>hstem 515 17</string>
-          <string>hstem 618 76</string>
-          <string>vstem -10 50</string>
-          <string>vstem 87 87.5</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota+uni1FDD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

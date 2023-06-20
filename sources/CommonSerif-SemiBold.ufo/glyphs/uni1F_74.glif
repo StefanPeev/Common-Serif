@@ -3,7 +3,25 @@
   <advance width="590"/>
   <unicode hex="1F74"/>
   <outline>
-    <component base="eta"/>
+    <contour>
+      <point x="199.083" y="311.711" type="line"/>
+      <point x="233.343" y="342.691"/>
+      <point x="286.142" y="375.333"/>
+      <point x="327.667" y="375.333" type="curve" smooth="yes"/>
+      <point x="376.667" y="375.333"/>
+      <point x="387.092" y="331.662"/>
+      <point x="386.667" y="268.667" type="curve"/>
+      <point x="371.637" y="-208" type="line"/>
+      <point x="386.775" y="-224.667" type="line"/>
+      <point x="509.977" y="-198" type="line"/>
+      <point x="500" y="284" type="line"/>
+      <point x="499.235" y="394.992"/>
+      <point x="455.058" y="444"/>
+      <point x="385.333" y="444" type="curve" smooth="yes"/>
+      <point x="312.643" y="444"/>
+      <point x="250.357" y="398.027"/>
+      <point x="198.696" y="350.972" type="curve"/>
+    </contour>
     <contour>
       <point x="240" y="678" type="curve"/>
       <point x="227" y="669"/>
@@ -36,4 +54,25 @@
       <point x="245" y="682"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6a5dc1c406f23412fccb322e27015663730235f9c159b5882fdc82d05297f1727de63c33ca8074df1cb53ea7f2d9293299b4842483e97527dbe09ee88996e9e4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -203.67 -21</string>
+          <string>hstem 444 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

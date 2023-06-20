@@ -3,7 +3,6 @@
   <advance width="559"/>
   <unicode hex="1F96"/>
   <outline>
-    <component base="eta"/>
     <contour>
       <point x="98.424" y="-69" type="line"/>
       <point x="98.424" y="-154.333" type="line" smooth="yes"/>
@@ -77,6 +76,25 @@
       <point x="367" y="623"/>
       <point x="345" y="660"/>
     </contour>
+    <contour>
+      <point x="183.062" y="307.426" type="line"/>
+      <point x="213.366" y="337.546"/>
+      <point x="269.452" y="382.667"/>
+      <point x="314.333" y="382.667" type="curve" smooth="yes"/>
+      <point x="369.333" y="382.667"/>
+      <point x="378.184" y="334.325"/>
+      <point x="377.333" y="270.333" type="curve"/>
+      <point x="364.912" y="-218" type="line"/>
+      <point x="377.481" y="-231.333" type="line"/>
+      <point x="483.998" y="-208" type="line"/>
+      <point x="474" y="284" type="line"/>
+      <point x="472.47" y="396.985"/>
+      <point x="430.529" y="443"/>
+      <point x="361.667" y="443" type="curve" smooth="yes"/>
+      <point x="286.664" y="443"/>
+      <point x="232.714" y="397.424"/>
+      <point x="181.456" y="344.559" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -85,7 +103,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5a5db34cbf837a818d85dd2c1adf7d72c16cf448ba85a54b599a943104f62cc1ea6b01477bf41518014373d545812a255abe0fef9bf231fc0c89f1f8387507b0</string>
+    <string>1dd3654609f66bf725698b0a5088726d211b4cde8655d0eefd24ad00875778aa241238021baccfa6b60058c6b4b8ca56b793e428d92883a821a5f9f607b36881</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -94,6 +112,7 @@
           <string>vstem 98.42 90.33</string>
           <string>hstem -236.33 43.67</string>
           <string>hstem 679 49.67</string>
+          <string>hstem 443 -20</string>
           <string>hstem 587 73</string>
           <string>vstem 321 46</string>
         </array>
@@ -104,6 +123,7 @@
           <string>hstem 727.67 51</string>
           <string>hstem 686 -20</string>
           <string>hstem -236.33 43.67</string>
+          <string>hstem 443 -20</string>
           <string>hstem 587 73</string>
           <string>vstem 98.42 90.33</string>
           <string>vstem 321 46</string>
@@ -116,6 +136,7 @@
         <array>
           <string>hstem 679 49.67</string>
           <string>hstem -236.33 43.67</string>
+          <string>hstem 443 -20</string>
           <string>hstem 587 73</string>
           <string>vstem 98.42 90.33</string>
           <string>vstem 321 46</string>
@@ -128,6 +149,7 @@
         <array>
           <string>hstem 727.67 51</string>
           <string>hstem -236.33 43.67</string>
+          <string>hstem 443 -20</string>
           <string>hstem 587 73</string>
           <string>hstem 686 -20</string>
           <string>vstem 98.42 90.33</string>
@@ -142,6 +164,7 @@
           <string>hstem 679 49.67</string>
           <string>hstem 587 73</string>
           <string>vstem 321 46</string>
+          <string>hstem 443 -20</string>
           <string>hstem -236.33 43.67</string>
           <string>vstem 98.42 90.33</string>
         </array>

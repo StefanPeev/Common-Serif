@@ -3,7 +3,6 @@
   <advance width="621"/>
   <unicode hex="1F97"/>
   <outline>
-    <component base="eta"/>
     <contour>
       <point x="99.2727" y="-46" type="line"/>
       <point x="99.2727" y="-138" type="line" smooth="yes"/>
@@ -77,6 +76,25 @@
       <point x="354" y="645"/>
       <point x="343" y="663"/>
     </contour>
+    <contour>
+      <point x="215.104" y="315.997" type="line"/>
+      <point x="253.321" y="347.836"/>
+      <point x="302.831" y="368"/>
+      <point x="341" y="368" type="curve" smooth="yes"/>
+      <point x="384" y="368"/>
+      <point x="396" y="329"/>
+      <point x="396" y="267" type="curve"/>
+      <point x="378.362" y="-198" type="line"/>
+      <point x="396.068" y="-218" type="line"/>
+      <point x="535.956" y="-188" type="line"/>
+      <point x="526" y="284" type="line"/>
+      <point x="526" y="393"/>
+      <point x="479.587" y="445"/>
+      <point x="409" y="445" type="curve" smooth="yes"/>
+      <point x="338.622" y="445"/>
+      <point x="268" y="398.63"/>
+      <point x="215.936" y="357.384" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -85,7 +103,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>46e85e26bf28fa92e8109841f1e0d103909164945e8463a07efa10624e45f32a10648652aba16d63716387599fbdd258b14864027f37a8425bd3ff5a2120973b</string>
+    <string>ca40cca0d87fde50d149cb11aee66fdf460ce42ef34aacddafeb62cf427b9d5bb59d1902f666fd19fd88e0f036d443f1af005fc36a0daa2d39379b32b0c2959a</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -95,6 +113,7 @@
           <string>hstem -220 51</string>
           <string>vstem 247 50</string>
           <string>hstem 670 57</string>
+          <string>hstem 445 -20</string>
           <string>hstem 484 17</string>
           <string>hstem 587 76</string>
         </array>
@@ -104,6 +123,7 @@
         <array>
           <string>hstem 724 59</string>
           <string>hstem -220 51</string>
+          <string>hstem 445 -20</string>
           <string>hstem 484 17</string>
           <string>hstem 587 76</string>
           <string>vstem 99.27 121</string>
@@ -119,6 +139,7 @@
           <string>hstem 587 76</string>
           <string>vstem 247 50</string>
           <string>hstem 484 17</string>
+          <string>hstem 445 -20</string>
           <string>hstem -220 51</string>
           <string>vstem 99.27 121</string>
         </array>

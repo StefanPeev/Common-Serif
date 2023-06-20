@@ -3,7 +3,6 @@
   <advance width="559"/>
   <unicode hex="1F93"/>
   <outline>
-    <component base="eta"/>
     <contour>
       <point x="98.3338" y="-64.6667" type="line"/>
       <point x="98.3338" y="-150" type="line" smooth="yes"/>
@@ -71,6 +70,25 @@
       <point x="343.333" y="661.667"/>
       <point x="344.333" y="657"/>
     </contour>
+    <contour>
+      <point x="183.062" y="307.426" type="line"/>
+      <point x="213.366" y="337.546"/>
+      <point x="269.452" y="382.667"/>
+      <point x="314.333" y="382.667" type="curve" smooth="yes"/>
+      <point x="369.333" y="382.667"/>
+      <point x="378.184" y="334.325"/>
+      <point x="377.333" y="270.333" type="curve"/>
+      <point x="364.912" y="-218" type="line"/>
+      <point x="377.481" y="-231.333" type="line"/>
+      <point x="483.998" y="-208" type="line"/>
+      <point x="474" y="284" type="line"/>
+      <point x="472.47" y="396.985"/>
+      <point x="430.529" y="443"/>
+      <point x="361.667" y="443" type="curve" smooth="yes"/>
+      <point x="286.664" y="443"/>
+      <point x="232.714" y="397.424"/>
+      <point x="181.456" y="344.559" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -79,7 +97,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5a854f149beb645541ef6dfe8090536e86cfea121afec3c4a60f9c6d0a0618439480c68326b4163598121ce9196ce1b27a53b734629acbf2122a4dff126bcb83</string>
+    <string>70ac327b3cbef0788eefaf456aa4ccfecabd370f272b315294233a44e22a556fe5a781226e132dbaf6e7ad4982cd4e7d5019ac95c15e92912ea0d21d4b0d752e</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -88,6 +106,7 @@
           <string>vstem 98.33 90.33</string>
           <string>hstem -232 43.67</string>
           <string>hstem 617 76</string>
+          <string>hstem 443 -20</string>
           <string>hstem 514 17</string>
         </array>
       </dict>
@@ -98,6 +117,7 @@
           <string>hstem 514 17</string>
           <string>hstem 617 76</string>
           <string>hstem -232 43.67</string>
+          <string>hstem 443 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>

@@ -22,20 +22,16 @@
       <point x="368" y="352" name=".hr01"/>
       <point x="368" y="286" type="curve" smooth="yes"/>
       <point x="368" y="256"/>
-      <point x="348" y="210"/>
+      <point x="348.926" y="209.389" name=".hr02"/>
       <point x="288" y="118" type="curve" smooth="yes"/>
-      <point x="283" y="110"/>
-      <point x="278" y="102"/>
-      <point x="272" y="94" type="curve"/>
-      <point x="266" y="84"/>
-      <point x="262" y="89"/>
-      <point x="259" y="98" type="curve"/>
-      <point x="163" y="429" type="line" smooth="yes"/>
-      <point x="160" y="440"/>
-      <point x="158" y="442"/>
-      <point x="151" y="442" type="curve"/>
-      <point x="121" y="429"/>
-      <point x="79" y="421"/>
+      <point x="255.037" y="68.5553" type="line"/>
+      <point x="267.406" y="69.0167" type="line"/>
+      <point x="180.268" y="369.463" type="line" smooth="yes"/>
+      <point x="166.41" y="417.241"/>
+      <point x="144.425" y="442"/>
+      <point x="115.855" y="442" type="curve" smooth="yes"/>
+      <point x="81.4002" y="442"/>
+      <point x="41.0211" y="425.031"/>
       <point x="19" y="407" type="curve"/>
       <point x="17" y="399"/>
       <point x="18" y="388"/>
@@ -45,6 +41,9 @@
       <point x="93" y="370"/>
     </contour>
   </outline>
+  <guideline angle="106.174" x="259" y="98"/>
+  <guideline angle="236.31" x="288" y="118"/>
+  <guideline angle="236.041" x="288" y="118"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -52,7 +51,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6f3788f1990d455b804da0415cc2f2439fbcfc6156130ecd71b9c556af49c4a5ec839fb40c8b600d21cecf777fe6cc3b7b2a709820c1d3f14f5013d2b53b255e</string>
+    <string>bbe36a08ba9e3a0b9f2567bd7ce7916cd2891ac16785099518ca603f53ca5ad674bf8611a1a3e8a71a7399f50432289c224741023b4df7477afbbb701512c21f</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -70,6 +69,15 @@
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 349 91</string>
+          <string>hstem 442 -20</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
       </dict>
     </array>
   </dict>

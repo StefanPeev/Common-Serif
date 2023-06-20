@@ -4,121 +4,16 @@
   <unicode hex="1F27"/>
   <outline>
     <component base="eta"/>
-    <contour>
-      <point x="369.333" y="727.333" type="curve" smooth="yes"/>
-      <point x="350.333" y="727.333"/>
-      <point x="334.333" y="738.667"/>
-      <point x="318.333" y="751" type="curve" smooth="yes"/>
-      <point x="299" y="765.333"/>
-      <point x="277.667" y="780.333" name=".hr01"/>
-      <point x="247.333" y="780.333" type="curve" smooth="yes"/>
-      <point x="205" y="780.333"/>
-      <point x="183.333" y="744.667"/>
-      <point x="169.667" y="683" type="curve"/>
-      <point x="194.333" y="676" type="line"/>
-      <point x="204" y="710.667"/>
-      <point x="216.667" y="725.333"/>
-      <point x="241" y="725.333" type="curve" smooth="yes"/>
-      <point x="258.667" y="725.333"/>
-      <point x="277" y="713.667"/>
-      <point x="295" y="701" type="curve" smooth="yes"/>
-      <point x="315" y="687.333"/>
-      <point x="335" y="674" name=".hr02"/>
-      <point x="356.667" y="674" type="curve" smooth="yes"/>
-      <point x="401.667" y="674"/>
-      <point x="429" y="709.333"/>
-      <point x="441.667" y="772" type="curve"/>
-      <point x="417" y="781" type="line" name=".hr03"/>
-      <point x="403.333" y="738.333"/>
-      <point x="390" y="727.333" name=".hr04"/>
-    </contour>
-    <contour>
-      <point x="307" y="663" type="curve" smooth="yes"/>
-      <point x="269" y="663"/>
-      <point x="247" y="625"/>
-      <point x="247" y="590" type="curve" smooth="yes"/>
-      <point x="247" y="564"/>
-      <point x="262" y="488"/>
-      <point x="353" y="484" type="curve"/>
-      <point x="357" y="501" type="line"/>
-      <point x="315" y="509"/>
-      <point x="297" y="546.667"/>
-      <point x="297" y="569" type="curve" smooth="yes"/>
-      <point x="297" y="580"/>
-      <point x="301" y="587"/>
-      <point x="308" y="587" type="curve" smooth="yes"/>
-      <point x="349" y="587"/>
-      <point x="354" y="612"/>
-      <point x="354" y="629" type="curve" smooth="yes"/>
-      <point x="354" y="645"/>
-      <point x="343" y="663"/>
-    </contour>
+    <component base="uni1FDF" xScale="1" xOffset="137.333"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b036c79832cf9c4ed6f623c4eca9fd06fbd337949d061c1f932c0bac4569edb4bd0cd51e06bd0e1f76edac66f52f4e76b3986e1b3de363c25439bb02209a527b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 674 53.33</string>
-          <string>hstem 484 17</string>
-          <string>hstem 587 76</string>
-          <string>vstem 247 50</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 725.33 55</string>
-          <string>vstem 247 50</string>
-          <string>hstem 484 17</string>
-          <string>hstem 587 76</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 674 53.33</string>
-          <string>hstem 484 17</string>
-          <string>hstem 587 76</string>
-          <string>vstem 247 50</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 725.33 55</string>
-          <string>hstem 484 17</string>
-          <string>hstem 587 76</string>
-          <string>vstem 247 50</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 674 53.33</string>
-          <string>hstem 587 76</string>
-          <string>vstem 247 50</string>
-          <string>hstem 484 17</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>eta+uni1FDF</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

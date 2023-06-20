@@ -1,49 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FBF" format="2">
-  <advance width="182"/>
+  <advance width="185"/>
   <unicode hex="1FBF"/>
+  <anchor x="70.5" y="510" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="79" y="652" type="curve" smooth="yes"/>
-      <point x="48" y="652"/>
-      <point x="34.5" y="634"/>
-      <point x="34.5" y="618" type="curve" smooth="yes"/>
-      <point x="34.5" y="602"/>
-      <point x="39.5" y="579.5"/>
-      <point x="80.5" y="579.5" type="curve" smooth="yes"/>
-      <point x="88.3333" y="579.5"/>
-      <point x="94" y="571.5"/>
-      <point x="94" y="559" type="curve" smooth="yes"/>
-      <point x="94" y="536"/>
-      <point x="73.5" y="499"/>
-      <point x="31.5" y="490" type="curve"/>
-      <point x="36.3333" y="473" type="line"/>
-      <point x="109.833" y="480.5"/>
-      <point x="139" y="544.667"/>
-      <point x="139" y="579" type="curve" smooth="yes"/>
-      <point x="139" y="615"/>
-      <point x="117" y="652"/>
-    </contour>
+    <component base="uni1FBD" xOffset="-0.414723"/>
   </outline>
+  <guideline angle="0" x="0" y="510"/>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f400a5d257f3200508b74489ca384e0332a8f42033cbe81f44c15406236bf4f99fa2c4ba6efaab5b974b05f8e56fba3d6bdb01f119275769581b4aba8a056a80</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 579.5 72.5</string>
-          <string>vstem 94 45</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni1FBD</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni1FBD</string>
   </dict>
   </lib>
 </glyph>

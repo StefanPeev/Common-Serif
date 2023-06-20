@@ -3,7 +3,6 @@
   <advance width="621"/>
   <unicode hex="1F93"/>
   <outline>
-    <component base="eta"/>
     <contour>
       <point x="99.0013" y="-46" type="line"/>
       <point x="99.0013" y="-138" type="line" smooth="yes"/>
@@ -71,6 +70,25 @@
       <point x="356" y="661"/>
       <point x="357" y="657"/>
     </contour>
+    <contour>
+      <point x="215.104" y="315.997" type="line"/>
+      <point x="253.321" y="347.836"/>
+      <point x="302.831" y="368"/>
+      <point x="341" y="368" type="curve" smooth="yes"/>
+      <point x="384" y="368"/>
+      <point x="396" y="329"/>
+      <point x="396" y="267" type="curve"/>
+      <point x="378.362" y="-198" type="line"/>
+      <point x="396.068" y="-218" type="line"/>
+      <point x="535.956" y="-188" type="line"/>
+      <point x="526" y="284" type="line"/>
+      <point x="526" y="393"/>
+      <point x="479.587" y="445"/>
+      <point x="409" y="445" type="curve" smooth="yes"/>
+      <point x="338.622" y="445"/>
+      <point x="268" y="398.63"/>
+      <point x="215.936" y="357.384" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -79,7 +97,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e5f83ea4029dcbc87a6ff8e6cb37cee3dec33a602cb10e35e05569f7b771d354ac7a691737e8914d869a0926cfb11632dfe65e8ae110879426a78f738b551019</string>
+    <string>71690ba99f3f602dc2da6212e718263b1e4e1f92313fe8e5da1c79f0ebf8ea74609bfefe761b0246b064d3dcc165abb850945c91596acb194621533941c2b937</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -88,6 +106,7 @@
           <string>vstem 99. 121</string>
           <string>hstem -220 51</string>
           <string>hstem 617 76</string>
+          <string>hstem 445 -20</string>
           <string>hstem 514 17</string>
         </array>
       </dict>
@@ -97,6 +116,7 @@
           <string>vstem 193 50</string>
           <string>hstem 514 17</string>
           <string>hstem 617 76</string>
+          <string>hstem 445 -20</string>
           <string>hstem -220 51</string>
         </array>
         <key>pointTag</key>

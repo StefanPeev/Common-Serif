@@ -3,116 +3,17 @@
   <advance width="293"/>
   <unicode hex="1F30"/>
   <outline>
-    <contour>
-      <point x="174.5" y="103.667" type="curve" smooth="yes"/>
-      <point x="174.5" y="301" type="line" smooth="yes"/>
-      <point x="174.5" y="317.167"/>
-      <point x="174.667" y="334.5"/>
-      <point x="174.833" y="350.167" type="curve" smooth="yes"/>
-      <point x="175" y="370.833"/>
-      <point x="174.333" y="400.333"/>
-      <point x="174.333" y="417.833" type="curve"/>
-      <point x="173.5" y="429.667"/>
-      <point x="172" y="438.167"/>
-      <point x="169.667" y="438.167" type="curve"/>
-      <point x="154.167" y="432"/>
-      <point x="134.167" y="429.333"/>
-      <point x="111" y="428.333" type="curve" smooth="yes"/>
-      <point x="96.8333" y="427.833"/>
-      <point x="71.6667" y="428.167"/>
-      <point x="62.5" y="428.5" type="curve"/>
-      <point x="60.8333" y="426.833" type="line"/>
-      <point x="64.6667" y="416.667"/>
-      <point x="68.3333" y="403.833"/>
-      <point x="70.3333" y="393.667" type="curve"/>
-      <point x="83.3333" y="370.5"/>
-      <point x="85.8333" y="347.333"/>
-      <point x="86.6667" y="325.833" type="curve" smooth="yes"/>
-      <point x="87" y="317.833"/>
-      <point x="87" y="310.333"/>
-      <point x="87" y="301.5" type="curve" smooth="yes"/>
-      <point x="87" y="104.167" type="line"/>
-      <point x="87" y="85" type="line" smooth="yes"/>
-      <point x="87" y="46.6667"/>
-      <point x="98.5" y="17.6667"/>
-      <point x="122.833" y="3" type="curve" smooth="yes"/>
-      <point x="135" y="-4.66667"/>
-      <point x="150.5" y="-9.16667"/>
-      <point x="169" y="-10" type="curve" smooth="yes"/>
-      <point x="177" y="-10.5"/>
-      <point x="185" y="-10"/>
-      <point x="192.5" y="-8.33333" type="curve" smooth="yes"/>
-      <point x="231.667" y="0.833333"/>
-      <point x="268.5" y="35.5"/>
-      <point x="286" y="66" type="curve"/>
-      <point x="283.5" y="76.3333"/>
-      <point x="276.667" y="81.5"/>
-      <point x="265.5" y="84.8333" type="curve"/>
-      <point x="254.167" y="71.5"/>
-      <point x="241.667" y="60.8333"/>
-      <point x="227.667" y="54.1667" type="curve"/>
-      <point x="219.167" y="49.1667"/>
-      <point x="208.833" y="46.8333"/>
-      <point x="198" y="47.5" type="curve" smooth="yes"/>
-      <point x="183" y="48.6667"/>
-      <point x="174.5" y="63.5"/>
-    </contour>
-    <contour>
-      <point x="124" y="688" type="curve" smooth="yes"/>
-      <point x="93" y="688"/>
-      <point x="79.5" y="670"/>
-      <point x="79.5" y="654" type="curve" smooth="yes"/>
-      <point x="79.5" y="638"/>
-      <point x="84.5" y="615.5"/>
-      <point x="125.5" y="615.5" type="curve" smooth="yes"/>
-      <point x="133.333" y="615.5"/>
-      <point x="139" y="607.5"/>
-      <point x="139" y="595" type="curve" smooth="yes" name=".hr01"/>
-      <point x="139" y="572"/>
-      <point x="118.5" y="535"/>
-      <point x="76.5" y="526" type="curve"/>
-      <point x="81.3333" y="509" type="line"/>
-      <point x="154.833" y="516.5"/>
-      <point x="184" y="580.667"/>
-      <point x="184" y="615" type="curve" smooth="yes"/>
-      <point x="184" y="651"/>
-      <point x="162" y="688"/>
-    </contour>
+    <component base="iota"/>
+    <component base="uni1FBD" xScale="1" xOffset="53.6686"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9d22e9fc03709928e208f07164ab9db95bd89fc58d54fc78977d640b5c716940c5f50a9170b7ad237b09af916c502e74afe62c1786f389a57dbde97df87492d0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 87 87.5</string>
-          <string>hstem 438.17 -20</string>
-          <string>hstem 428.5 -20</string>
-          <string>hstem -10 57.5</string>
-          <string>hstem 615.5 72.5</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 139 45</string>
-          <string>hstem 615.5 72.5</string>
-          <string>hstem -10 57.5</string>
-          <string>hstem 428.5 -20</string>
-          <string>hstem 438.17 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota+uni1FBD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

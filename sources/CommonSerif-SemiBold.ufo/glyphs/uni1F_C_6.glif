@@ -3,7 +3,25 @@
   <advance width="590"/>
   <unicode hex="1FC6"/>
   <outline>
-    <component base="eta"/>
+    <contour>
+      <point x="199.083" y="311.711" type="line"/>
+      <point x="233.343" y="342.691"/>
+      <point x="286.142" y="375.333"/>
+      <point x="327.667" y="375.333" type="curve" smooth="yes"/>
+      <point x="376.667" y="375.333"/>
+      <point x="387.092" y="331.662"/>
+      <point x="386.667" y="268.667" type="curve"/>
+      <point x="371.637" y="-208" type="line"/>
+      <point x="386.775" y="-224.667" type="line"/>
+      <point x="509.977" y="-198" type="line"/>
+      <point x="500" y="284" type="line"/>
+      <point x="499.235" y="394.992"/>
+      <point x="455.058" y="444"/>
+      <point x="385.333" y="444" type="curve" smooth="yes"/>
+      <point x="312.643" y="444"/>
+      <point x="250.357" y="398.027"/>
+      <point x="198.696" y="350.972" type="curve"/>
+    </contour>
     <contour>
       <point x="347.333" y="594.333" type="curve" smooth="yes"/>
       <point x="328.333" y="594.333"/>
@@ -40,12 +58,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a056ff66e2a9528abf02f913e8431e5a528dc8ddf2cdea55c624890e94a438ec80c8857a18f1d1bf5bb62f1a44565749de0140d173961ba89481f9515fc65098</string>
+    <string>479e2f29c9710be2cb8f210bf006c0be0cab09fa0409b39e21817444abdf20ab35b11f3e08adc5b37f289518ec09e8f262b7bc67462956ca81f1ed015a8cddee</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -203.67 -21</string>
+          <string>hstem 444 -20</string>
           <string>hstem 541 53.33</string>
         </array>
       </dict>
@@ -53,6 +73,8 @@
         <key>stems</key>
         <array>
           <string>hstem 592.33 55</string>
+          <string>hstem -203.67 -21</string>
+          <string>hstem 444 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr01</string>
@@ -61,6 +83,8 @@
         <key>stems</key>
         <array>
           <string>hstem 541 53.33</string>
+          <string>hstem -203.67 -21</string>
+          <string>hstem 444 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr02</string>
@@ -69,6 +93,8 @@
         <key>stems</key>
         <array>
           <string>hstem 592.33 55</string>
+          <string>hstem -203.67 -21</string>
+          <string>hstem 444 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr03</string>
@@ -77,6 +103,8 @@
         <key>stems</key>
         <array>
           <string>hstem 541 53.33</string>
+          <string>hstem -203.67 -21</string>
+          <string>hstem 444 -20</string>
         </array>
         <key>pointTag</key>
         <string>.hr04</string>

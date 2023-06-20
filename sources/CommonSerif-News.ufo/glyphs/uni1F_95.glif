@@ -3,7 +3,6 @@
   <advance width="544"/>
   <unicode hex="1F95"/>
   <outline>
-    <component base="eta"/>
     <contour>
       <point x="98.1701" y="-69.3333" type="line"/>
       <point x="98.1701" y="-153" type="line" smooth="yes"/>
@@ -69,6 +68,25 @@
       <point x="449.333" y="675"/>
       <point x="441.167" y="697"/>
     </contour>
+    <contour>
+      <point x="175.052" y="305.283" type="line"/>
+      <point x="203.377" y="334.974"/>
+      <point x="261.107" y="386.333"/>
+      <point x="307.667" y="386.333" type="curve" smooth="yes"/>
+      <point x="365.667" y="386.333"/>
+      <point x="373.729" y="335.656"/>
+      <point x="372.667" y="271.167" type="curve" smooth="yes"/>
+      <point x="361.55" y="-223" type="line"/>
+      <point x="372.834" y="-234.667" type="line"/>
+      <point x="471.008" y="-213" type="line"/>
+      <point x="461" y="284" type="line" smooth="yes"/>
+      <point x="459.088" y="397.981"/>
+      <point x="418.265" y="442.5"/>
+      <point x="349.833" y="442.5" type="curve" smooth="yes"/>
+      <point x="273.675" y="442.5"/>
+      <point x="223.892" y="397.122"/>
+      <point x="172.836" y="341.353" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -77,7 +95,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b3516f05c89adff95b29a70492dc18923650325d73ca39731ff0ac80a3e8a52886fdb6409716c53f755cdfc3dad2bf0a23d64cb0b6c855e6b5f23a22ac68b94d</string>
+    <string>36b4cbfb364a3ccb3f990d1cbf8b0c5adcb97eb62265cc715d52ea31d4d26bba89813b999ef0ee89fd712e4f0c9347cec744f799a59734e08468d1816bd33675</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -85,6 +103,7 @@
         <array>
           <string>hstem -235 41.83</string>
           <string>hstem -214 -21</string>
+          <string>hstem 442.5 -20</string>
           <string>hstem 514 17</string>
           <string>hstem 617 76</string>
           <string>hstem 697 -20</string>
