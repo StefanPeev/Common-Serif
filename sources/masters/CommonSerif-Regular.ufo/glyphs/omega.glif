@@ -2,6 +2,7 @@
 <glyph name="omega" format="2">
   <advance width="658"/>
   <unicode hex="03C9"/>
+  <anchor x="320" y="510" name="t.gr"/>
   <outline>
     <contour>
       <point x="624" y="189" type="curve" smooth="yes"/>
@@ -60,6 +61,8 @@
       <point x="624" y="85"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="510"/>
+  <guideline angle="90" x="320" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -76,7 +79,6 @@
           <string>hstem -10 37</string>
           <string>hstem 442 -20</string>
           <string>vstem 34 82</string>
-          <string>vstem 293 67</string>
           <string>vstem 542 82</string>
         </array>
       </dict>

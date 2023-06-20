@@ -11,7 +11,7 @@
       <point x="69.7544" y="134.325" type="curve" smooth="yes"/>
       <point x="69.7544" y="38.1303"/>
       <point x="130.13" y="-3.49775"/>
-      <point x="220" y="-9" type="curve"/>
+      <point x="220" y="-9" type="curve" smooth="yes"/>
       <point x="227" y="-10"/>
       <point x="234" y="-10"/>
       <point x="241" y="-10" type="curve" smooth="yes"/>
@@ -19,7 +19,7 @@
       <point x="345" y="0"/>
       <point x="417" y="75" type="curve"/>
       <point x="421.199" y="41.4048"/>
-      <point x="427.834" y="-7.60326" name=".hr01"/>
+      <point x="427.834" y="-7.60326"/>
       <point x="471.641" y="-7.60326" type="curve" smooth="yes"/>
       <point x="516.959" y="-7.60326"/>
       <point x="557.369" y="36.2464"/>
@@ -40,7 +40,7 @@
       <point x="602" y="438" type="line" smooth="yes"/>
       <point x="591" y="438"/>
       <point x="580" y="439"/>
-      <point x="552" y="444" type="curve" name=".hr02"/>
+      <point x="552" y="444" type="curve"/>
       <point x="465" y="312" type="line"/>
       <point x="463" y="334" type="line" smooth="yes"/>
       <point x="456.631" y="404.06"/>
@@ -48,7 +48,7 @@
     </contour>
     <contour>
       <point x="405" y="217" type="line"/>
-      <point x="383" y="180" type="line"/>
+      <point x="383" y="180" type="line" smooth="yes"/>
       <point x="365.231" y="144.462"/>
       <point x="302.143" y="32"/>
       <point x="257" y="32" type="curve" smooth="yes"/>
@@ -76,33 +76,14 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 402 42</string>
-          <string>vstem 70 128</string>
           <string>hstem -10 42</string>
-          <string>vstem 417 49</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem -8 72</string>
-          <string>vstem 417 49</string>
+          <string>hstem 402 42</string>
           <string>hstem 438 -20</string>
           <string>vstem 70 128</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 402 42</string>
           <string>vstem 404 61</string>
-          <string>hstem -10 42</string>
-          <string>vstem 70 128</string>
+          <string>vstem 417 49</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

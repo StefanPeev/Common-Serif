@@ -39,7 +39,7 @@
       <point x="436" y="-1"/>
       <point x="507" y="0.0985"/>
       <point x="545" y="0" type="curve" smooth="yes"/>
-      <point x="558.764" y="-0.0357" type="line"/>
+      <point x="558.764" y="-0.0357" type="line" smooth="yes"/>
       <point x="598.161" y="-0.1378"/>
       <point x="657.222" y="-1.1112"/>
       <point x="691" y="-2" type="curve"/>
@@ -70,7 +70,7 @@
       <point x="508" y="619"/>
       <point x="516" y="613" type="curve"/>
       <point x="554.495" y="610.039"/>
-      <point x="583.556" y="599.238" name=".hr01"/>
+      <point x="583.556" y="599.238"/>
       <point x="583.556" y="559.926" type="curve"/>
       <point x="549" y="367" type="line"/>
       <point x="299" y="367" type="line"/>
@@ -98,7 +98,7 @@
       <point x="103.1" y="51.564"/>
       <point x="86.3791" y="37.5316"/>
       <point x="20" y="32" type="curve"/>
-      <point x="9" y="26" name=".hr02"/>
+      <point x="9" y="26"/>
       <point x="5" y="4"/>
     </contour>
   </outline>
@@ -119,36 +119,13 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 492 34</string>
           <string>hstem -2 34</string>
           <string>hstem 319 48</string>
+          <string>hstem 492 34</string>
           <string>hstem 613 34</string>
           <string>vstem 9 812</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 583 180</string>
-          <string>hstem 319 48</string>
-          <string>hstem 613 34</string>
-          <string>hstem -2 34</string>
-          <string>hstem 492 34</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 9 812</string>
-          <string>hstem -2 34</string>
-          <string>hstem 319 48</string>
-          <string>hstem 492 34</string>
-          <string>hstem 613 34</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

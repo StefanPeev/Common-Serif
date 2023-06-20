@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B" format="2">
-  <advance width="-260"/>
+  <advance width="583"/>
   <unicode hex="0042"/>
   <anchor x="273" y="740" name="t.uni0302"/>
   <anchor x="274" y="-60" name="b.minus-60"/>
@@ -54,6 +54,10 @@
       <point x="191" y="366" type="line"/>
     </contour>
     <contour>
+      <point x="19" y="-2" type="curve"/>
+      <point x="56" y="-1"/>
+      <point x="116.5" y="0"/>
+      <point x="149" y="0" type="curve"/>
       <point x="149" y="645" type="line"/>
       <point x="119" y="645"/>
       <point x="59" y="646"/>
@@ -70,10 +74,6 @@
       <point x="19" y="31" type="curve"/>
       <point x="13" y="25"/>
       <point x="13" y="4"/>
-      <point x="19" y="-2" type="curve"/>
-      <point x="56" y="-1"/>
-      <point x="116.5" y="0"/>
-      <point x="149" y="0" type="curve"/>
     </contour>
   </outline>
   <guideline angle="90" x="274" y="0"/>
@@ -82,13 +82,13 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=O-843</string>
+  <string>=O</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bd0d246e12d746e3b4b04100cb96cfc0a1e338af0def6b21119737f2255b4019a223588467895ae2615404fc031a44057d32bf488edfa2ed05aab89878f785dc</string>
+    <string>1668fa033f4784b8d19fa4ebaf7c52ca836c2a939baa2f935fce72ac6e574b926f6aa587a3e5333c40a3640512fcab3372286ecedba502f0151be886f79122d5</string>
     <key>hintSetList</key>
     <array>
       <dict>

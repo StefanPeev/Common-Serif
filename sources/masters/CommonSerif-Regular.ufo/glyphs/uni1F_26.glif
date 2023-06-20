@@ -4,113 +4,16 @@
   <unicode hex="1F26"/>
   <outline>
     <component base="eta"/>
-    <contour>
-      <point x="373" y="729" type="curve" smooth="yes"/>
-      <point x="354" y="729"/>
-      <point x="340" y="739"/>
-      <point x="324" y="750" type="curve" smooth="yes"/>
-      <point x="306" y="763"/>
-      <point x="286" y="776"/>
-      <point x="257" y="776" type="curve" smooth="yes"/>
-      <point x="216" y="776"/>
-      <point x="195" y="743"/>
-      <point x="182" y="688" type="curve"/>
-      <point x="204" y="683" type="line" name=".hr01"/>
-      <point x="215" y="713"/>
-      <point x="229" y="729"/>
-      <point x="250" y="729" type="curve" smooth="yes"/>
-      <point x="269" y="729"/>
-      <point x="286" y="718"/>
-      <point x="304" y="706" type="curve"/>
-      <point x="322" y="695"/>
-      <point x="340" y="683"/>
-      <point x="361" y="683" type="curve" smooth="yes"/>
-      <point x="404" y="683"/>
-      <point x="430" y="713"/>
-      <point x="442" y="769" type="curve"/>
-      <point x="420" y="776" type="line" name=".hr02"/>
-      <point x="407" y="742"/>
-      <point x="393" y="729"/>
-    </contour>
-    <contour>
-      <point x="307" y="660" type="curve" smooth="yes"/>
-      <point x="277" y="660"/>
-      <point x="263" y="642"/>
-      <point x="263" y="626" type="curve" smooth="yes"/>
-      <point x="263" y="610"/>
-      <point x="268" y="588"/>
-      <point x="309" y="588" type="curve" smooth="yes"/>
-      <point x="317" y="588"/>
-      <point x="323" y="580"/>
-      <point x="323" y="567" type="curve" smooth="yes"/>
-      <point x="323" y="544"/>
-      <point x="302" y="507"/>
-      <point x="260" y="498" type="curve"/>
-      <point x="265" y="481" type="line"/>
-      <point x="335" y="489"/>
-      <point x="367" y="551"/>
-      <point x="367" y="587" type="curve" smooth="yes"/>
-      <point x="367" y="623"/>
-      <point x="345" y="660"/>
-    </contour>
+    <component base="uni1FCF" xOffset="106"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0e3efe22e832e59798487724cfdf067764588dc51c9e65cb5ae02f94ab9cff739611c82c7bc1f433454aafbadcfbb7103f52bd2aaf061e5105734ac258e3c060</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 729 47</string>
-          <string>hstem -217 -21</string>
-          <string>hstem 11 -21</string>
-          <string>hstem 387 52</string>
-          <string>hstem 442 -20</string>
-          <string>vstem 95 79</string>
-          <string>hstem 688 -20</string>
-          <string>hstem 588 72</string>
-          <string>vstem 323 44</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 683 46</string>
-          <string>hstem -217 -21</string>
-          <string>hstem 11 -21</string>
-          <string>hstem 387 52</string>
-          <string>hstem 442 -20</string>
-          <string>vstem 95 79</string>
-          <string>hstem 588 72</string>
-          <string>vstem 323 44</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 729 47</string>
-          <string>hstem -217 -21</string>
-          <string>hstem 11 -21</string>
-          <string>hstem 387 52</string>
-          <string>hstem 442 -20</string>
-          <string>vstem 95 79</string>
-          <string>hstem 588 72</string>
-          <string>vstem 323 44</string>
-          <string>hstem 688 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>eta+uni1FCF</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="21D8"/>
   <outline>
     <contour>
-      <point x="571" y="-1" type="line" name=".hr01"/>
+      <point x="571" y="-1" type="line"/>
       <point x="520" y="-15"/>
       <point x="494" y="-22"/>
       <point x="493" y="-22" type="curve"/>
@@ -58,22 +58,12 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -48 26</string>
           <string>hstem -48 67</string>
-          <string>hstem -48 26</string>
-          <string>vstem 718 75</string>
-          <string>hstem 649 -20</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem -1 20</string>
-          <string>hstem -48 26</string>
           <string>hstem 649 -20</string>
           <string>vstem 718 75</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>
