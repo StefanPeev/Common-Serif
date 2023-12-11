@@ -54,23 +54,23 @@
       <point x="173.3" y="369.727"/>
       <point x="167.3" y="422"/>
       <point x="161.3" y="434" type="curve" smooth="yes"/>
-      <point x="158.81" y="438.981"/>
+      <point x="158.809" y="438.981"/>
       <point x="155.127" y="442"/>
       <point x="149.3" y="442" type="curve"/>
       <point x="112.165" y="427.411"/>
-      <point x="81.6776" y="420.223"/>
+      <point x="81.6771" y="420.223"/>
       <point x="26.3001" y="413" type="curve"/>
-      <point x="24.653" y="408.059"/>
-      <point x="25.7546" y="392.636"/>
+      <point x="24.6531" y="408.059"/>
+      <point x="25.7541" y="392.636"/>
       <point x="28.3001" y="385" type="curve"/>
-      <point x="85.7124" y="379.684"/>
+      <point x="85.7121" y="379.684"/>
       <point x="93.3001" y="370.746"/>
     </contour>
     <contour>
-      <point x="93.3001" y="122" type="line"/>
+      <point x="93.3" y="122" type="line"/>
       <point x="173.3" y="122" type="line"/>
       <point x="173.3" y="336" type="line"/>
-      <point x="93.3001" y="316" type="line"/>
+      <point x="93.3" y="316" type="line"/>
     </contour>
     <contour>
       <point x="376.3" y="122" type="line"/>
@@ -91,8 +91,6 @@
       <point x="376.3" y="274" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="90" x="133.3" y="0"/>
-  <guideline angle="90" x="416.3" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -100,15 +98,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>65dd7f1f81e1bad2202c087e79a037aca52f5e904fc686a73e2088e3b7a17f817602db21074157a4f7515095d43110d8c4ea30a93fcc1183728db792cc0d4e41</string>
+    <string>26663533209539e08d0eb378dafaf6ed751af83249f5774f241b2daf32e6302d12924cb6ed189472627038448092f19e1bb6e03e659633d1510d1dd875926563</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 385 28</string>
           <string>hstem 387 52</string>
           <string>hstem 442 -20</string>
+          <string>vstem 93.3 80</string>
+          <string>vstem 376.3 80</string>
         </array>
       </dict>
     </array>

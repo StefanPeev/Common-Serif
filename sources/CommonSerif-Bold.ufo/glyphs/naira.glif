@@ -11,7 +11,7 @@
       <point x="216.853" y="235.005" type="line"/>
       <point x="216.853" y="283.242" type="line"/>
       <point x="85" y="283.242" type="line" smooth="yes"/>
-      <point x="76.0155" y="283.242"/>
+      <point x="76.016" y="283.242"/>
       <point x="60" y="272.691"/>
       <point x="60" y="251.989" type="curve" smooth="yes"/>
       <point x="60" y="243.682"/>
@@ -26,7 +26,7 @@
       <point x="680" y="273.268"/>
       <point x="676.567" y="283"/>
       <point x="669.877" y="283" type="curve"/>
-      <point x="516.444" y="282.987" type="line"/>
+      <point x="516.444" y="282.988" type="line"/>
     </contour>
     <contour>
       <point x="216.853" y="235" type="line"/>
@@ -42,12 +42,12 @@
     </contour>
     <contour>
       <point x="516.444" y="348.957" type="line"/>
-      <point x="654.877" y="349.031" type="line" smooth="yes"/>
-      <point x="665.865" y="349.037"/>
-      <point x="680" y="360.427"/>
-      <point x="680" y="377.882" type="curve" smooth="yes"/>
+      <point x="654.877" y="349.032" type="line" smooth="yes"/>
+      <point x="665.865" y="349.038"/>
+      <point x="680" y="360.428"/>
+      <point x="680" y="377.883" type="curve" smooth="yes"/>
       <point x="680" y="387.238"/>
-      <point x="676.567" y="396.97"/>
+      <point x="676.567" y="396.971"/>
       <point x="669.877" y="396.97" type="curve" smooth="yes"/>
       <point x="516.444" y="396.957" type="line"/>
     </contour>
@@ -56,9 +56,9 @@
       <point x="216.853" y="349.492" type="line"/>
       <point x="216.853" y="396.728" type="line"/>
       <point x="85" y="396.728" type="line" smooth="yes"/>
-      <point x="76.0155" y="396.728"/>
+      <point x="76.016" y="396.728"/>
       <point x="60" y="386.178"/>
-      <point x="60" y="365.475" type="curve" smooth="yes"/>
+      <point x="60" y="365.476" type="curve" smooth="yes"/>
       <point x="60" y="357.169"/>
       <point x="63.246" y="349.492"/>
     </contour>
@@ -67,6 +67,23 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>N</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f5faad1f6a4d6e309d99bc0354fcc81bc1fcee95af0d4c03c58e7dd26faa56cc4c823ab32e8120b69f456647095a1acb7893d45f6ac84461a58d7f9c8cbe3ac4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 235. 48.24</string>
+          <string>hstem 348.97 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

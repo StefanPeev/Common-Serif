@@ -26,7 +26,7 @@
       <point x="322" y="360" type="line"/>
       <point x="396" y="391"/>
       <point x="427" y="465"/>
-      <point x="447" y="519" type="curve" smooth="yes"/>
+      <point x="447" y="519" type="curve"/>
       <point x="448" y="522"/>
       <point x="450" y="526"/>
       <point x="451" y="529" type="curve" smooth="yes"/>
@@ -35,13 +35,13 @@
       <point x="478" y="583" type="curve" smooth="yes"/>
       <point x="482" y="583"/>
       <point x="488" y="581"/>
-      <point x="495" y="577" type="curve" smooth="yes"/>
+      <point x="495" y="577" type="curve"/>
       <point x="499" y="575"/>
       <point x="503" y="573"/>
       <point x="507" y="571" type="curve" smooth="yes"/>
       <point x="517" y="566"/>
       <point x="528" y="561"/>
-      <point x="541" y="559" type="curve" smooth="yes"/>
+      <point x="541" y="559" type="curve"/>
       <point x="546" y="558"/>
       <point x="551" y="558"/>
       <point x="556" y="558" type="curve" smooth="yes"/>
@@ -100,7 +100,7 @@
       <point x="-1" y="623" type="curve" smooth="yes"/>
       <point x="-1" y="620"/>
       <point x="1" y="618"/>
-      <point x="3" y="616" type="curve" smooth="yes"/>
+      <point x="3" y="616" type="curve"/>
       <point x="8" y="613"/>
       <point x="18" y="611"/>
       <point x="28" y="611" type="curve" smooth="yes"/>
@@ -150,7 +150,7 @@
       <point x="298" y="23" type="curve" smooth="yes"/>
       <point x="298" y="26"/>
       <point x="297" y="28"/>
-      <point x="294" y="30" type="curve" smooth="yes"/>
+      <point x="294" y="30" type="curve"/>
       <point x="289" y="33"/>
       <point x="280" y="35"/>
       <point x="269" y="35" type="curve" smooth="yes"/>
@@ -171,7 +171,7 @@
       <point x="420" y="1"/>
       <point x="515" y="0" type="curve" smooth="yes"/>
       <point x="519" y="0"/>
-      <point x="523" y="0"/>
+      <point x="523" y="0.0533"/>
       <point x="527" y="0" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -182,22 +182,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1d216b180fd8a35a286fc894ded5f82553555e535dfa60e800daf8ca9425025c20ad1456f7f909d70f743488df732b79c5b6fcf6562b8b23b8d1455ae701d5e5</string>
+    <string>2e72fedcf6bef7fcf3e14f87dbe28826e495ef36f841d16fa9521e825bb0247b8ba231080c9380a570b399df2ec9091b466c4408e036abbe423794f5a275cb54</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -1 36</string>
-          <string>hstem 333 52</string>
+          <string>hstem 0 35</string>
+          <string>hstem 20 -21</string>
+          <string>hstem 333 195</string>
           <string>hstem 482 46</string>
-          <string>hstem 558 95</string>
-          <string>hstem 583 70</string>
-          <string>hstem 611 36</string>
+          <string>hstem 558 94</string>
+          <string>hstem 645 -20</string>
           <string>vstem 87 123</string>
-          <string>vstem 288 10</string>
-          <string>vstem 289 9</string>
-          <string>vstem 602 9</string>
         </array>
       </dict>
     </array>

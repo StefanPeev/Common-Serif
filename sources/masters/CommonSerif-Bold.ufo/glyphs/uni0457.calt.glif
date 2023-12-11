@@ -68,7 +68,6 @@
       <point x="159" y="585"/>
     </contour>
   </outline>
-  <guideline angle="90" x="141" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
@@ -86,12 +85,14 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 34</string>
           <string>hstem 19 -21</string>
+          <string>hstem 382 34</string>
           <string>hstem 444 -20</string>
-          <string>hstem 499 109</string>
-          <string>vstem 31 110</string>
+          <string>hstem 500 109</string>
+          <string>vstem 13 110</string>
           <string>vstem 102 130</string>
-          <string>vstem 211 110</string>
+          <string>vstem 159 110</string>
         </array>
       </dict>
     </array>

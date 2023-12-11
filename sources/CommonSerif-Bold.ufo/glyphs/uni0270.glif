@@ -5,16 +5,14 @@
   <anchor x="294" y="-114" name="m.uni0316_2"/>
   <outline>
     <contour>
-      <point x="404.35" y="94.3909" type="line"/>
-      <point x="393.254" y="87.7466"/>
-      <point x="332.366" y="59.9267"/>
-      <point x="298.473" y="59.9267" type="curve" smooth="yes"/>
-      <point x="251.264" y="59.9267"/>
+      <point x="404.35" y="94.391" type="line"/>
+      <point x="393.254" y="87.747"/>
+      <point x="332.366" y="59.927"/>
+      <point x="298.473" y="59.927" type="curve" smooth="yes"/>
+      <point x="251.264" y="59.927"/>
       <point x="233" y="90.035"/>
       <point x="233" y="135" type="curve" smooth="yes"/>
-      <point x="233" y="159.956"/>
-      <point x="233" y="258"/>
-      <point x="233" y="302" type="curve" smooth="yes"/>
+      <point x="233" y="302" type="line" smooth="yes"/>
       <point x="233" y="386"/>
       <point x="249" y="395"/>
       <point x="290" y="398" type="curve"/>
@@ -24,11 +22,9 @@
       <point x="248.138" y="431.003"/>
       <point x="206.382" y="430"/>
       <point x="164.5" y="430" type="curve" smooth="yes"/>
-      <point x="162.739" y="430"/>
-      <point x="152.815" y="430"/>
-      <point x="150" y="430" type="curve" smooth="yes"/>
+      <point x="150" y="430" type="line" smooth="yes"/>
       <point x="108.658" y="430"/>
-      <point x="67.3248" y="430.819"/>
+      <point x="67.325" y="430.819"/>
       <point x="26" y="432" type="curve"/>
       <point x="20" y="426"/>
       <point x="20" y="404"/>
@@ -41,23 +37,19 @@
       <point x="127.898" y="-10"/>
       <point x="229" y="-10" type="curve" smooth="yes"/>
       <point x="281.42" y="-10"/>
-      <point x="377.239" y="28.8193"/>
-      <point x="417.462" y="67.2492" type="curve"/>
+      <point x="377.239" y="28.819"/>
+      <point x="417.462" y="67.25" type="curve"/>
     </contour>
     <contour>
       <point x="695.454" y="101.266" type="line"/>
-      <point x="693.575" y="101.218"/>
-      <point x="686.856" y="101.047"/>
-      <point x="685" y="101" type="curve"/>
-      <point x="670.126" y="87.6523"/>
+      <point x="685" y="101" type="line"/>
+      <point x="670.126" y="87.653"/>
       <point x="630.618" y="60"/>
       <point x="594" y="60" type="curve" smooth="yes"/>
       <point x="554" y="60"/>
       <point x="524" y="78"/>
       <point x="524" y="135" type="curve" smooth="yes"/>
-      <point x="524" y="188.608"/>
-      <point x="524" y="267.904"/>
-      <point x="524" y="302" type="curve" smooth="yes"/>
+      <point x="524" y="302" type="line" smooth="yes"/>
       <point x="524" y="386"/>
       <point x="540" y="395"/>
       <point x="581" y="398" type="curve"/>
@@ -77,11 +69,11 @@
       <point x="394" y="386"/>
       <point x="394" y="302" type="curve" smooth="yes"/>
       <point x="394" y="146" type="line" smooth="yes"/>
-      <point x="394" y="70.4137"/>
-      <point x="412.103" y="-10.4657"/>
-      <point x="504.567" y="-10.4657" type="curve" smooth="yes"/>
-      <point x="574.229" y="-10.4657"/>
-      <point x="660.061" y="40.8938"/>
+      <point x="394" y="70.414"/>
+      <point x="412.103" y="-10.466"/>
+      <point x="504.567" y="-10.466" type="curve" smooth="yes"/>
+      <point x="574.229" y="-10.466"/>
+      <point x="660.061" y="40.894"/>
       <point x="695.218" y="66.619" type="curve"/>
     </contour>
     <contour>
@@ -136,13 +128,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5dac8dcdae562dbe94a73c56674dce23210da9376fc920e91e524696ae6bd6c069ad8c5486d37194a294e19a89e9969dba3e3b8940b21206781a0adb6d6f7bff</string>
+    <string>621e935c0c1583560670ca8a059bc830fcd594e836a144c6faa7d4664a1d573dc988bcc0835e8d265b8ebff207aeb2268a43afcfc934d47e5b311760e05541ec</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -205 -21</string>
+          <string>hstem -10 69.93</string>
+          <string>hstem 398 34</string>
+          <string>hstem 430 -20</string>
+          <string>vstem 103 130</string>
+          <string>vstem 394 130</string>
+          <string>vstem 685 130</string>
         </array>
       </dict>
     </array>

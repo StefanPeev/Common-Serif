@@ -8,26 +8,26 @@
   <anchor x="364.333" y="0" name="b.cedilla"/>
   <outline>
     <contour>
-      <point x="24.3333" y="-2" type="curve"/>
-      <point x="69.3333" y="-1"/>
+      <point x="24.333" y="-2" type="curve"/>
+      <point x="69.333" y="-1"/>
       <point x="153.5" y="0"/>
       <point x="171" y="0" type="curve"/>
       <point x="171" y="645" type="line"/>
       <point x="154.333" y="645"/>
       <point x="71" y="646"/>
-      <point x="24.3333" y="647" type="curve"/>
-      <point x="18.3333" y="641"/>
-      <point x="18.3333" y="619.333"/>
-      <point x="24.3333" y="613.333" type="curve"/>
-      <point x="94.3333" y="610.333"/>
+      <point x="24.333" y="647" type="curve"/>
+      <point x="18.333" y="641"/>
+      <point x="18.333" y="619.333"/>
+      <point x="24.333" y="613.333" type="curve"/>
+      <point x="94.333" y="610.333"/>
       <point x="111.333" y="604.667"/>
       <point x="111.333" y="523.667" type="curve" smooth="yes"/>
       <point x="111.333" y="122" type="line" smooth="yes"/>
       <point x="111.333" y="39"/>
-      <point x="94.3333" y="34.6667"/>
-      <point x="24.3333" y="31.6667" type="curve"/>
-      <point x="18.3333" y="25.6667"/>
-      <point x="18.3333" y="4"/>
+      <point x="94.333" y="34.667"/>
+      <point x="24.333" y="31.667" type="curve"/>
+      <point x="18.333" y="25.667"/>
+      <point x="18.333" y="4"/>
     </contour>
     <contour>
       <point x="171" y="0" type="line"/>
@@ -46,10 +46,10 @@
       <point x="385" y="41" type="curve" smooth="yes"/>
       <point x="279" y="41" type="line" smooth="yes"/>
       <point x="250.333" y="41"/>
-      <point x="233" y="60.3333"/>
+      <point x="233" y="60.333"/>
       <point x="233" y="94" type="curve" smooth="yes"/>
       <point x="233" y="549.667" type="line" smooth="yes"/>
-      <point x="233" y="580.333"/>
+      <point x="233" y="580.334"/>
       <point x="248.333" y="603.667"/>
       <point x="282.333" y="603.667" type="curve" smooth="yes"/>
       <point x="364" y="603.667" type="line" smooth="yes"/>
@@ -71,11 +71,11 @@
       <point x="171" y="645" type="line"/>
     </contour>
     <contour>
-      <point x="317.333" y="363.667" type="curve" smooth="yes"/>
-      <point x="218" y="363.667" type="line"/>
+      <point x="317.333" y="363.666" type="curve" smooth="yes"/>
+      <point x="218" y="363.666" type="line"/>
       <point x="218" y="320.333" type="line"/>
       <point x="317.333" y="320.333" type="line" smooth="yes"/>
-      <point x="391.667" y="320.333"/>
+      <point x="391.666" y="320.333"/>
       <point x="405.333" y="300"/>
       <point x="408.333" y="255" type="curve"/>
       <point x="414.333" y="249"/>
@@ -83,15 +83,15 @@
       <point x="448" y="255" type="curve"/>
       <point x="447" y="287"/>
       <point x="446" y="309"/>
-      <point x="446" y="343" type="curve" smooth="yes"/>
-      <point x="446" y="375"/>
-      <point x="447" y="401"/>
+      <point x="446" y="342.999" type="curve" smooth="yes"/>
+      <point x="446" y="374.999"/>
+      <point x="447" y="400.999"/>
       <point x="448" y="429" type="curve"/>
       <point x="442" y="435"/>
       <point x="414.333" y="435"/>
       <point x="408.333" y="429" type="curve"/>
-      <point x="405.333" y="374"/>
-      <point x="390.333" y="363.667"/>
+      <point x="405.333" y="373.999"/>
+      <point x="390.333" y="363.666"/>
     </contour>
   </outline>
   <lib>
@@ -103,18 +103,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fd9beea27435c3c7f40529ba6c8fea43bf6a75f005aa64409bebdc00500d98306448d601a6a4fd1f330630c512ca04af95040f211949240b107580fc07a6df19</string>
+    <string>75689df705e3f1d133ec4b323652f4ed4a0bd13aabe1701a19da89ecbb5500965975fed026376142c5b0f34363df53a07981767fb96ef487b2fcb49150f5c3de</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 33.67</string>
           <string>hstem 0 41</string>
           <string>hstem 320.33 43.33</string>
-          <string>hstem 429. -20</string>
           <string>hstem 603.67 41.33</string>
+          <string>hstem 613.33 33.67</string>
           <string>hstem 649 -20</string>
           <string>vstem 111.33 121.67</string>
+          <string>vstem 408.33 39.67</string>
         </array>
       </dict>
     </array>

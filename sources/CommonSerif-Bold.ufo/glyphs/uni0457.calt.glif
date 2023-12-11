@@ -32,8 +32,8 @@
       <point x="72" y="-1"/>
       <point x="114" y="0"/>
       <point x="167" y="0" type="curve"/>
-      <point x="191.68" y="-0.360285"/>
-      <point x="283.63" y="-1.70263"/>
+      <point x="191.68" y="-0.36"/>
+      <point x="283.63" y="-1.703"/>
       <point x="304" y="-2" type="curve"/>
       <point x="310" y="4"/>
       <point x="310" y="26"/>
@@ -70,7 +70,6 @@
       <point x="159" y="585"/>
     </contour>
   </outline>
-  <guideline angle="90" x="124" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
@@ -88,10 +87,14 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
-          <string>hstem 427 17</string>
+          <string>hstem -2 34</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 382 34</string>
           <string>hstem 444 -20</string>
+          <string>hstem 500 109</string>
+          <string>vstem 13 110</string>
           <string>vstem 102 130</string>
+          <string>vstem 159 110</string>
         </array>
       </dict>
     </array>

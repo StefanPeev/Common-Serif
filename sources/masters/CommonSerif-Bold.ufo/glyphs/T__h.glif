@@ -13,7 +13,7 @@
       <point x="1000" y="411" type="curve" smooth="yes"/>
       <point x="980" y="430"/>
       <point x="954" y="440"/>
-      <point x="923" y="443" type="curve" smooth="yes"/>
+      <point x="923" y="443" type="curve"/>
       <point x="917" y="444"/>
       <point x="911" y="444"/>
       <point x="904" y="444" type="curve" smooth="yes"/>
@@ -131,7 +131,7 @@
       <point x="832" y="370" type="curve" smooth="yes"/>
       <point x="843" y="370"/>
       <point x="855" y="369"/>
-      <point x="865" y="365" type="curve" smooth="yes"/>
+      <point x="865" y="365" type="curve"/>
       <point x="881" y="360"/>
       <point x="895" y="350"/>
       <point x="903" y="335" type="curve" smooth="yes"/>
@@ -164,7 +164,6 @@
       <point x="1042" y="44"/>
     </contour>
   </outline>
-  <guideline angle="90" color="0.627451,0.627451,0.643137,1" name="caret.1" x="523" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -179,10 +178,7 @@
         <key>stems</key>
         <array>
           <string>hstem -2 34</string>
-          <string>hstem 370 74</string>
-          <string>hstem 605 40</string>
-          <string>hstem 653 -20</string>
-          <string>hstem 685 13</string>
+          <string>hstem 645 -20</string>
           <string>hstem 698 -20</string>
           <string>vstem 265 140</string>
           <string>vstem 620 130</string>

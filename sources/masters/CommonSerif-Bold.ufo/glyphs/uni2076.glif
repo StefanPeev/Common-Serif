@@ -42,10 +42,6 @@
       <point x="194" y="589"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="820"/>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="816"/>
-  <guideline angle="0" x="0" y="464"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -63,6 +59,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 460 32</string>
+          <string>hstem 646 29</string>
+          <string>hstem 646 174</string>
           <string>vstem 24 82</string>
           <string>vstem 194 85</string>
         </array>

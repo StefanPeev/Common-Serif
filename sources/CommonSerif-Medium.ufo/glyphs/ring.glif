@@ -5,18 +5,18 @@
   <anchor x="177" y="500" name="_t.ring"/>
   <outline>
     <contour>
-      <point x="79.7423" y="592.667" type="curve" smooth="yes"/>
-      <point x="79.7423" y="542.268"/>
+      <point x="79.742" y="592.667" type="curve" smooth="yes"/>
+      <point x="79.742" y="542.268"/>
       <point x="124.498" y="500"/>
       <point x="177" y="500" type="curve" smooth="yes"/>
       <point x="229.502" y="500"/>
       <point x="274.258" y="542.268"/>
       <point x="274.258" y="592.667" type="curve" smooth="yes"/>
-      <point x="274.258" y="643.065"/>
-      <point x="229.502" y="685.333"/>
-      <point x="177" y="685.333" type="curve" smooth="yes"/>
-      <point x="124.498" y="685.333"/>
-      <point x="79.7423" y="643.065"/>
+      <point x="274.258" y="643.066"/>
+      <point x="229.502" y="685.334"/>
+      <point x="177" y="685.334" type="curve" smooth="yes"/>
+      <point x="124.498" y="685.334"/>
+      <point x="79.742" y="643.066"/>
     </contour>
     <contour>
       <point x="177" y="639.471" type="curve" smooth="yes"/>
@@ -33,6 +33,27 @@
       <point x="148.918" y="639.471"/>
     </contour>
   </outline>
-  <guideline angle="90.0236" x="177" y="177"/>
-  <guideline angle="0" x="0" y="671"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>97ad4f97d387f24a3d0bd998f9ce548261b8ebe4796481c43bba244a14516d7b493824cf03a5e10eebd8e2860fcd6ab10c902a3d80f36d451b7508ddea9b1b67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 45.86</string>
+          <string>hstem 639.47 45.86</string>
+          <string>vstem 79.74 50.45</string>
+          <string>vstem 223.8 50.45</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

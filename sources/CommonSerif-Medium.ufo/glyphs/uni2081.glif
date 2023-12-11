@@ -3,18 +3,75 @@
   <advance width="278"/>
   <unicode hex="2081"/>
   <outline>
-    <component base="uni00B9" xScale="1" xyScale="7.14332e-17" yOffset="-628.333"/>
+    <contour>
+      <point x="95" y="97.687" type="curve" smooth="yes"/>
+      <point x="107" y="97.687"/>
+      <point x="109" y="88.687"/>
+      <point x="109" y="56.687" type="curve" smooth="yes"/>
+      <point x="109" y="-79.98" type="line" smooth="yes"/>
+      <point x="109" y="-130.98"/>
+      <point x="78" y="-133.98"/>
+      <point x="38" y="-135.98" type="curve"/>
+      <point x="33" y="-143.98"/>
+      <point x="34" y="-159.313"/>
+      <point x="38" y="-165.313" type="curve"/>
+      <point x="68" y="-164.313"/>
+      <point x="105.333" y="-164.313"/>
+      <point x="140.333" y="-164.313" type="curve" smooth="yes"/>
+      <point x="175.333" y="-164.313"/>
+      <point x="199.333" y="-164.313"/>
+      <point x="229.333" y="-165.313" type="curve"/>
+      <point x="233.333" y="-158.313"/>
+      <point x="233.333" y="-143.98"/>
+      <point x="229.333" y="-135.98" type="curve"/>
+      <point x="195.333" y="-133.98"/>
+      <point x="174.333" y="-130.98"/>
+      <point x="174.333" y="-79.98" type="curve" smooth="yes"/>
+      <point x="174.333" y="57.146" type="line" smooth="yes"/>
+      <point x="174.333" y="92.775"/>
+      <point x="174.12" y="128.891"/>
+      <point x="178.334" y="166.993" type="curve"/>
+      <point x="175.953" y="169.951"/>
+      <point x="171.246" y="170.941"/>
+      <point x="166.646" y="170.953" type="curve" smooth="yes"/>
+      <point x="161.529" y="170.966"/>
+      <point x="156.921" y="169.82"/>
+      <point x="154.333" y="168.353" type="curve" smooth="yes"/>
+      <point x="116.288" y="145.704"/>
+      <point x="75.864" y="127.447"/>
+      <point x="28" y="111.687" type="curve"/>
+      <point x="28" y="99.687"/>
+      <point x="30" y="88.687"/>
+      <point x="38" y="82.687" type="curve"/>
+      <point x="63" y="91.687"/>
+      <point x="82" y="97.687"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="-160"/>
-  <guideline angle="0" x="0" y="161"/>
-  <guideline angle="0" x="0" y="165"/>
-  <guideline angle="0" x="0" y="-164"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni00B9</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni00B9</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fadefd1053fb1a910382f1a7cb425817e17cdf95dbd167c281d5419d386f67cb3691510ce8526a213f2f7d28d2c899900200d0bd7986e4ead2dab2c724b459e2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -164.31 28.33</string>
+          <string>hstem -144.31 -21</string>
+          <string>hstem 170.95 -20</string>
+          <string>vstem 109 65.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

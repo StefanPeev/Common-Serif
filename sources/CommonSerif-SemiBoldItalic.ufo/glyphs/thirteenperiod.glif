@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thirteenperiod" format="2">
-  <advance width="491"/>
+  <advance width="1205"/>
   <unicode hex="2494"/>
   <outline>
     <component base="one"/>
-    <component base="three" xScale="1" xOffset="30.4336"/>
-    <component base="period" xScale="1" xOffset="143.407"/>
+    <component base="three" xOffset="490.667"/>
+    <component base="period" xScale="1" xOffset="981.333"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>one+three+period</string>
+  <string>one_three_period</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

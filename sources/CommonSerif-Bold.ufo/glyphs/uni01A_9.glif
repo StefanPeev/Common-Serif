@@ -14,7 +14,7 @@
       <point x="22" y="647" type="curve"/>
       <point x="16" y="641"/>
       <point x="16" y="619"/>
-      <point x="22" y="613" type="curve" name=".hr01"/>
+      <point x="22" y="613" type="curve"/>
       <point x="34" y="604"/>
       <point x="49" y="588"/>
       <point x="60" y="576" type="curve"/>
@@ -50,13 +50,13 @@
       <point x="583" y="203"/>
       <point x="570" y="200" type="curve"/>
       <point x="543" y="112"/>
-      <point x="485" y="109"/>
+      <point x="484.998" y="109.153"/>
       <point x="419" y="108" type="curve" smooth="yes"/>
       <point x="190" y="104" type="line"/>
       <point x="453" y="325" type="line"/>
       <point x="453" y="339" type="line"/>
       <point x="454" y="340" type="line"/>
-      <point x="230" y="598" type="line" name=".hr02"/>
+      <point x="230" y="598" type="line"/>
       <point x="433" y="598" type="line" smooth="yes"/>
       <point x="508" y="598"/>
       <point x="519" y="545"/>
@@ -83,33 +83,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7a1146c7922c124f2af44c0d9974e02cddc0e7505e8adad85269e205f9d5c5e590282da944c6180e832144cf1dd6095d68bd7afc65c2ffb4c95b0ffb6ee69550</string>
+    <string>7380ecb7e9546a221b1620915fa318836999cf819dcafa0fd924e7911734c99780cdc15e133b97ac7c3d01c59fceb7b520f0e3dadf9407511e3af1f6a7ab3a5e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 0 108</string>
           <string>hstem 598 47</string>
-          <string>hstem 0 108</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 613 32</string>
-          <string>hstem 0 108</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 598 47</string>
-          <string>hstem 0 108</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

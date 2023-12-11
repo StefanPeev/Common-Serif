@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourcircle" format="2">
-  <advance width="1000"/>
+  <advance width="829"/>
   <unicode hex="2463"/>
+  <outline>
+    <component base="four" xScale="0.6" xyScale="-7.03911e-18" yScale="0.6" xOffset="263.423" yOffset="148.6"/>
+    <contour>
+      <point x="475.667" y="-59.667" type="curve" smooth="yes"/>
+      <point x="682" y="-59.667"/>
+      <point x="850.667" y="109.333"/>
+      <point x="850.667" y="315.333" type="curve" smooth="yes"/>
+      <point x="850.667" y="521"/>
+      <point x="682" y="689.667"/>
+      <point x="475.667" y="689.667" type="curve" smooth="yes"/>
+      <point x="269.667" y="689.667"/>
+      <point x="102" y="522"/>
+      <point x="102" y="315.333" type="curve" smooth="yes"/>
+      <point x="102" y="108.333"/>
+      <point x="269.667" y="-59.667"/>
+    </contour>
+    <contour>
+      <point x="475.667" y="644.333" type="curve" smooth="yes"/>
+      <point x="656.667" y="644.333"/>
+      <point x="803" y="496"/>
+      <point x="803" y="315.333" type="curve" smooth="yes"/>
+      <point x="803" y="135.333"/>
+      <point x="655.667" y="-14.333"/>
+      <point x="475" y="-14.333" type="curve" smooth="yes"/>
+      <point x="295" y="-14.333"/>
+      <point x="149.667" y="133.667"/>
+      <point x="149.667" y="315.333" type="curve" smooth="yes"/>
+      <point x="149.667" y="496"/>
+      <point x="295.333" y="644.333"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

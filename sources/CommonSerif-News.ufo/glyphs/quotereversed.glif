@@ -6,13 +6,13 @@
     <contour>
       <point x="135.813" y="739" type="curve" smooth="yes"/>
       <point x="93.596" y="739"/>
-      <point x="65.4799" y="697.877"/>
-      <point x="65.4799" y="636" type="curve" smooth="yes"/>
-      <point x="65.4799" y="565.187"/>
+      <point x="65.48" y="697.877"/>
+      <point x="65.48" y="636" type="curve" smooth="yes"/>
+      <point x="65.48" y="565.187"/>
       <point x="125.146" y="511.932"/>
       <point x="187.48" y="498.333" type="curve"/>
       <point x="195.313" y="504.167"/>
-      <point x="197.647" y="513.333"/>
+      <point x="197.646" y="513.333"/>
       <point x="193.813" y="524" type="curve"/>
       <point x="143.856" y="537.962"/>
       <point x="109.48" y="584.92"/>
@@ -27,8 +27,6 @@
       <point x="168.184" y="739"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="728"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -42,7 +40,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 519.33 -21</string>
+          <string>hstem 739 -20</string>
           <string>vstem 65.48 44</string>
+          <string>vstem 65.48 125.83</string>
         </array>
       </dict>
     </array>

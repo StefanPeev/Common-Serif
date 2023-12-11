@@ -4,25 +4,25 @@
   <unicode hex="2076"/>
   <outline>
     <contour>
-      <point x="262.333" y="563" type="curve" smooth="yes"/>
-      <point x="262.333" y="622.613"/>
-      <point x="223.81" y="660"/>
+      <point x="262.334" y="563" type="curve" smooth="yes"/>
+      <point x="262.334" y="622.613"/>
+      <point x="223.811" y="660"/>
       <point x="162.374" y="660" type="curve" smooth="yes"/>
       <point x="137.043" y="660"/>
       <point x="108.021" y="648.688"/>
-      <point x="90.6667" y="632.667" type="curve"/>
+      <point x="90.666" y="632.667" type="curve"/>
       <point x="102.5" y="690"/>
       <point x="138.333" y="756"/>
-      <point x="244.667" y="774.833" type="curve"/>
+      <point x="244.667" y="774.834" type="curve"/>
       <point x="244.667" y="794.167" type="line"/>
       <point x="88" y="782.667"/>
       <point x="29" y="678.5"/>
       <point x="29" y="595.333" type="curve" smooth="yes"/>
       <point x="29" y="511.97"/>
-      <point x="76.3448" y="460"/>
+      <point x="76.345" y="460"/>
       <point x="152.167" y="460" type="curve" smooth="yes"/>
       <point x="220.102" y="460"/>
-      <point x="262.333" y="506.639"/>
+      <point x="262.334" y="506.639"/>
     </contour>
     <contour>
       <point x="200.667" y="558" type="curve" smooth="yes"/>
@@ -30,21 +30,18 @@
       <point x="194.167" y="485.333"/>
       <point x="152.167" y="485.333" type="curve" smooth="yes"/>
       <point x="124" y="485.333"/>
-      <point x="86.8333" y="509"/>
-      <point x="86.8333" y="593.333" type="curve" smooth="yes"/>
-      <point x="86.8333" y="599.833"/>
-      <point x="86.8333" y="607.833"/>
-      <point x="87.6667" y="613.5" type="curve"/>
-      <point x="107.667" y="629.667"/>
+      <point x="86.833" y="509"/>
+      <point x="86.833" y="593.333" type="curve" smooth="yes"/>
+      <point x="86.833" y="599.834"/>
+      <point x="86.833" y="607.834"/>
+      <point x="87.666" y="613.5" type="curve"/>
+      <point x="107.666" y="629.667"/>
       <point x="127.667" y="635.167"/>
       <point x="142.167" y="635.167" type="curve" smooth="yes"/>
       <point x="196.5" y="635.167"/>
       <point x="200.667" y="579.833"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="688"/>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="464"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -62,6 +59,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 460 25.33</string>
+          <string>hstem 635.17 24.83</string>
+          <string>hstem 635.17 159</string>
           <string>vstem 29 57.83</string>
           <string>vstem 200.67 61.67</string>
         </array>

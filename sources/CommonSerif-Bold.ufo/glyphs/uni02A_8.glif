@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A8" format="2">
-  <advance width="638"/>
+  <advance width="677"/>
   <unicode hex="02A8"/>
   <anchor x="452" y="500" name="t.uni0302"/>
   <anchor x="446" y="-110" name="m.uni0316_2"/>
@@ -52,8 +52,8 @@
       <point x="341" y="-22"/>
       <point x="319" y="-59"/>
       <point x="301" y="-92" type="curve"/>
-      <point x="308.306" y="-93.1742"/>
-      <point x="347.458" y="-99.4664"/>
+      <point x="308.306" y="-93.174"/>
+      <point x="347.458" y="-99.466"/>
       <point x="357" y="-101" type="curve"/>
       <point x="375" y="-69"/>
       <point x="393" y="-40"/>
@@ -79,23 +79,30 @@
       <point x="577" y="158"/>
     </contour>
   </outline>
-  <guideline angle="236.915" x="375" y="87"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=c</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7fa6f784cdd908e4d21c800918a24929bc3d6fa7b94ddb8f8a527d9185d2fdd7badfd8250e087f42c39a708055907c3d1d4290e2d56db4c22bb78c644b07c791</string>
+    <string>dfcb2527cb18d409d26105b4c703007baf84ba9ac00f91664834a5d1e6b94cb64a91171b7101749c188543a4b5c675110f3ac657f602d3c79c07bad5ce8e0693</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -80 -21</string>
+          <string>hstem -12 82</string>
           <string>hstem 162 33</string>
+          <string>hstem 284 160</string>
           <string>hstem 402 42</string>
           <string>vstem 247 135</string>
+          <string>vstem 577 66</string>
         </array>
       </dict>
     </array>

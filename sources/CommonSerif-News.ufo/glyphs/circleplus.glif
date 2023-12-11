@@ -4,32 +4,32 @@
   <unicode hex="2295"/>
   <outline>
     <contour>
-      <point x="285.883" y="-14.6675" type="curve" smooth="yes"/>
-      <point x="411.802" y="-14.6675"/>
-      <point x="514.968" y="87.4502"/>
-      <point x="514.984" y="213.585" type="curve" smooth="yes"/>
-      <point x="515" y="339.082"/>
+      <point x="285.883" y="-14.667" type="curve" smooth="yes"/>
+      <point x="411.802" y="-14.667"/>
+      <point x="514.969" y="87.451"/>
+      <point x="514.985" y="213.585" type="curve" smooth="yes"/>
+      <point x="515.001" y="339.082"/>
       <point x="411.408" y="442.777"/>
       <point x="285.894" y="442.777" type="curve" smooth="yes"/>
       <point x="159.629" y="442.777"/>
-      <point x="55.0657" y="340.366"/>
-      <point x="55.0657" y="213.664" type="curve" smooth="yes"/>
-      <point x="55.0657" y="86.5582"/>
-      <point x="159.634" y="-14.6675"/>
+      <point x="55.066" y="340.365"/>
+      <point x="55.066" y="213.665" type="curve" smooth="yes"/>
+      <point x="55.066" y="86.559"/>
+      <point x="159.634" y="-14.667"/>
     </contour>
     <contour>
-      <point x="285.838" y="28.9413" type="curve" smooth="yes"/>
-      <point x="183.814" y="28.9413"/>
-      <point x="102.761" y="112.135"/>
+      <point x="285.839" y="28.942" type="curve" smooth="yes"/>
+      <point x="183.814" y="28.942"/>
+      <point x="102.761" y="112.136"/>
       <point x="102.761" y="213.587" type="curve" smooth="yes"/>
       <point x="102.761" y="316.816"/>
       <point x="181.803" y="399.171"/>
       <point x="285.785" y="399.171" type="curve" smooth="yes"/>
-      <point x="388.41" y="399.171"/>
+      <point x="388.411" y="399.171"/>
       <point x="467.153" y="315.008"/>
-      <point x="467.153" y="213.677" type="curve" smooth="yes"/>
+      <point x="467.153" y="213.678" type="curve" smooth="yes"/>
       <point x="467.153" y="111.612"/>
-      <point x="388.914" y="28.9413"/>
+      <point x="388.914" y="28.942"/>
     </contour>
     <contour>
       <point x="83.5" y="190.334" type="line"/>
@@ -38,8 +38,8 @@
       <point x="83.5" y="235.334" type="line"/>
     </contour>
     <contour>
-      <point x="258.524" y="11" type="line"/>
-      <point x="303.524" y="11" type="line"/>
+      <point x="258.524" y="11.001" type="line"/>
+      <point x="303.524" y="11.001" type="line"/>
       <point x="303.524" y="414" type="line"/>
       <point x="258.524" y="414" type="line"/>
     </contour>
@@ -50,6 +50,26 @@
   <string>=55</string>
   <key>com.fontlab.metricsRight</key>
   <string>=55</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>602475feeead3c63258ceb170c4bb02e84ae48e5ac55996afffddb4f6b522c58466db09fa932a3474c90691b808b831121ea9bee44e1c55ef6b614a6b39de89b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -14.67 43.61</string>
+          <string>hstem 190.33 45</string>
+          <string>hstem 399.17 43.61</string>
+          <string>vstem 55.07 248.46</string>
+          <string>vstem 258.52 45</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

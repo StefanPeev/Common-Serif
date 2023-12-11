@@ -7,10 +7,10 @@
     <contour>
       <point x="501" y="307" type="curve"/>
       <point x="470" y="169"/>
-      <point x="389.5" y="22.6667"/>
-      <point x="267.5" y="22.6667" type="curve" smooth="yes"/>
-      <point x="198.5" y="22.6667"/>
-      <point x="155" y="49.6667"/>
+      <point x="389.5" y="22.667"/>
+      <point x="267.5" y="22.667" type="curve" smooth="yes"/>
+      <point x="198.5" y="22.667"/>
+      <point x="155" y="49.667"/>
       <point x="147" y="121.667" type="curve" smooth="yes"/>
       <point x="144" y="153.667"/>
       <point x="136" y="165"/>
@@ -47,7 +47,7 @@
       <point x="463.167" y="331"/>
       <point x="437.167" y="331" type="curve" smooth="yes"/>
       <point x="381.167" y="331"/>
-      <point x="366.833" y="362" name=".hr01"/>
+      <point x="366.833" y="362"/>
       <point x="302.833" y="362" type="curve" smooth="yes"/>
       <point x="246.833" y="362"/>
       <point x="182" y="332"/>
@@ -59,7 +59,7 @@
       <point x="207.667" y="309.833"/>
       <point x="243.667" y="309.833" type="curve" smooth="yes"/>
       <point x="300.667" y="309.833"/>
-      <point x="326" y="271.833" name=".hr02"/>
+      <point x="326" y="271.833"/>
       <point x="386" y="271.833" type="curve" smooth="yes"/>
       <point x="398" y="271.833"/>
       <point x="441" y="273"/>
@@ -79,29 +79,10 @@
         <key>stems</key>
         <array>
           <string>hstem -12 34.67</string>
-          <string>hstem 619.17 38.83</string>
           <string>hstem 271.83 59.17</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 309.83 52.17</string>
-          <string>hstem -12 34.67</string>
           <string>hstem 619.17 38.83</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 271.83 59.17</string>
-          <string>hstem -12 34.67</string>
-          <string>hstem 619.17 38.83</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

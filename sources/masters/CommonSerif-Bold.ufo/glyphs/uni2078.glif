@@ -58,16 +58,33 @@
       <point x="270" y="717.518"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="820"/>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="816"/>
-  <guideline angle="0" x="0" y="464"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni2070</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni2070</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fb96f36631df36766c4954f062a5dd693df3ee469f7158f4679a4b69886acb576c609f220091d2a3d1d7b922ffbb6e5c4e632bc8bd10aeadfabc0e59104d4fc3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 460.1 28</string>
+          <string>hstem 792.1 28</string>
+          <string>vstem 24 73</string>
+          <string>vstem 45 70</string>
+          <string>vstem 207 63</string>
+          <string>vstem 213 84</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

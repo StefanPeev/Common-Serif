@@ -5,34 +5,55 @@
   <anchor x="177" y="500" name="_t.ring"/>
   <outline>
     <contour>
-      <point x="69.4845" y="602.333" type="curve" smooth="yes"/>
-      <point x="69.4845" y="546.536"/>
+      <point x="69.485" y="602.334" type="curve" smooth="yes"/>
+      <point x="69.485" y="546.536"/>
       <point x="118.997" y="500"/>
       <point x="177" y="500" type="curve" smooth="yes"/>
       <point x="235.003" y="500"/>
       <point x="284.515" y="546.536"/>
-      <point x="284.515" y="602.333" type="curve" smooth="yes"/>
+      <point x="284.515" y="602.334" type="curve" smooth="yes"/>
       <point x="284.515" y="658.131"/>
       <point x="235.003" y="704.667"/>
       <point x="177" y="704.667" type="curve" smooth="yes"/>
       <point x="118.997" y="704.667"/>
-      <point x="69.4845" y="658.131"/>
+      <point x="69.485" y="658.131"/>
     </contour>
     <contour>
-      <point x="177" y="645.942" type="curve"/>
+      <point x="177" y="645.942" type="curve" smooth="yes"/>
       <point x="203.165" y="645.942"/>
-      <point x="220.608" y="628.498"/>
-      <point x="220.608" y="602.333" type="curve" smooth="yes"/>
-      <point x="220.608" y="577.271"/>
+      <point x="220.608" y="628.499"/>
+      <point x="220.608" y="602.334" type="curve" smooth="yes"/>
+      <point x="220.608" y="577.272"/>
       <point x="202.062" y="558.725"/>
       <point x="177" y="558.725" type="curve" smooth="yes"/>
       <point x="151.938" y="558.725"/>
-      <point x="133.392" y="577.271"/>
-      <point x="133.392" y="602.333" type="curve" smooth="yes"/>
-      <point x="133.392" y="628.498"/>
+      <point x="133.392" y="577.272"/>
+      <point x="133.392" y="602.334" type="curve" smooth="yes"/>
+      <point x="133.392" y="628.499"/>
       <point x="150.835" y="645.942"/>
     </contour>
   </outline>
-  <guideline angle="90.0236" x="177" y="177"/>
-  <guideline angle="0" x="0" y="671"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f66d8ca0f9c960c2b84429a2d750e0c442cb3ae49cb34fdc76175ee85c30059846146b4b503008d66ef08ec4a95c48d22e27f89a79e949dcfe207441a1c0dfb9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 58.73</string>
+          <string>hstem 645.94 58.73</string>
+          <string>vstem 69.48 63.91</string>
+          <string>vstem 220.61 63.91</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

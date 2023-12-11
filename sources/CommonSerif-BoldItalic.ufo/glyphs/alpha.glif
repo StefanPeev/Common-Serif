@@ -7,10 +7,10 @@
     <contour>
       <point x="345" y="444" type="curve" smooth="yes"/>
       <point x="186.456" y="444"/>
-      <point x="69.7544" y="282.569"/>
-      <point x="69.7544" y="134.325" type="curve" smooth="yes"/>
-      <point x="69.7544" y="38.1303"/>
-      <point x="130.13" y="-3.49775"/>
+      <point x="69.754" y="282.57"/>
+      <point x="69.754" y="134.325" type="curve" smooth="yes"/>
+      <point x="69.754" y="38.13"/>
+      <point x="130.13" y="-3.498"/>
       <point x="220" y="-9" type="curve"/>
       <point x="227" y="-10"/>
       <point x="234" y="-10"/>
@@ -18,11 +18,11 @@
       <point x="299" y="-10"/>
       <point x="345" y="0"/>
       <point x="417" y="75" type="curve"/>
-      <point x="421.199" y="41.4048"/>
-      <point x="427.834" y="-7.60326"/>
-      <point x="471.641" y="-7.60326" type="curve" smooth="yes"/>
-      <point x="516.959" y="-7.60326"/>
-      <point x="557.369" y="36.2464"/>
+      <point x="421.199" y="41.405"/>
+      <point x="427.834" y="-7.603"/>
+      <point x="471.641" y="-7.603" type="curve" smooth="yes"/>
+      <point x="516.959" y="-7.603"/>
+      <point x="557.369" y="36.246"/>
       <point x="582" y="70" type="curve"/>
       <point x="578" y="82"/>
       <point x="571" y="88"/>
@@ -33,14 +33,14 @@
       <point x="477.796" y="64"/>
       <point x="466" y="111.063"/>
       <point x="466" y="131" type="curve"/>
-      <point x="673" y="443" type="line" name=".hr01"/>
+      <point x="673" y="443" type="line"/>
       <point x="653" y="441"/>
       <point x="630.033" y="438"/>
       <point x="615" y="438" type="curve" smooth="yes"/>
       <point x="602" y="438" type="line" smooth="yes"/>
       <point x="591" y="438"/>
       <point x="580" y="439"/>
-      <point x="552" y="444" type="curve" name=".hr02"/>
+      <point x="552" y="444" type="curve"/>
       <point x="465" y="312" type="line"/>
       <point x="463" y="334" type="line" smooth="yes"/>
       <point x="456.631" y="404.06"/>
@@ -70,33 +70,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3ff403ef32c0922acb706e26717b70d67f56cd87ca800b9891c51c988a003b1d33e317c8b4a72e019d3aa6bba8d3b8639d02e012cfc7b80258afcff2dc113262</string>
+    <string>0d4611a288710238f82d6433bdcd5e1ba98a2fe83865c1f282525b24e4b30b1879e51fa42c6e8237203ecaaa742e3843c274fe17ac826bf182d227f0c0a0b279</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 403. 41.</string>
           <string>hstem -9 41</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem 403. 41.</string>
           <string>hstem 443 -20</string>
-          <string>hstem -9 41</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 403. 41.</string>
-          <string>hstem -9 41</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

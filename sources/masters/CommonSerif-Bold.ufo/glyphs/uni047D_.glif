@@ -20,7 +20,7 @@
       <point x="236" y="401" type="curve" smooth="yes"/>
       <point x="236" y="396"/>
       <point x="235" y="391"/>
-      <point x="233" y="388" type="curve" smooth="yes"/>
+      <point x="233" y="388" type="curve"/>
       <point x="230" y="385"/>
       <point x="229" y="379"/>
       <point x="229" y="372" type="curve" smooth="yes"/>
@@ -157,17 +157,20 @@
         <key>stems</key>
         <array>
           <string>hstem -12 28</string>
-          <string>hstem 192 29</string>
+          <string>hstem 192 250</string>
+          <string>hstem 339 103</string>
           <string>hstem 414 28</string>
+          <string>hstem 480 122</string>
           <string>hstem 521 21</string>
+          <string>hstem 521 125</string>
           <string>hstem 581 21</string>
-          <string>hstem 646 -20</string>
           <string>vstem 34 79</string>
           <string>vstem 195 50</string>
           <string>vstem 195 66</string>
           <string>vstem 229 68</string>
           <string>vstem 299 75</string>
           <string>vstem 376 69</string>
+          <string>vstem 430 73</string>
           <string>vstem 464 39</string>
           <string>vstem 560 79</string>
         </array>

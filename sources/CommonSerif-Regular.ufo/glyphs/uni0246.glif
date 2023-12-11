@@ -94,8 +94,8 @@
       <point x="-25" y="4"/>
       <point x="-11" y="-13"/>
       <point x="8" y="-13" type="curve"/>
-      <point x="23.5187" y="6.32516"/>
-      <point x="94.7247" y="94.9968"/>
+      <point x="23.519" y="6.325"/>
+      <point x="94.725" y="94.997"/>
     </contour>
     <contour>
       <point x="228" y="335" type="line"/>
@@ -126,13 +126,15 @@
         <key>stems</key>
         <array>
           <string>hstem 0 39</string>
+          <string>hstem 8 -21</string>
+          <string>hstem 19 -21</string>
           <string>hstem 323 38</string>
-          <string>hstem 429 -20</string>
           <string>hstem 605 40</string>
+          <string>hstem 614 33</string>
           <string>hstem 649 -20</string>
           <string>hstem 658 -20</string>
           <string>vstem 105 85</string>
-          <string>vstem 372 31</string>
+          <string>vstem 372 33</string>
         </array>
       </dict>
     </array>

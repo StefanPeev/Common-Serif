@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twelveperiod" format="2">
-  <advance width="514"/>
+  <advance width="1254"/>
   <unicode hex="2493"/>
   <outline>
     <component base="one"/>
-    <component base="two" xOffset="25.3703"/>
-    <component base="period" xOffset="158.147"/>
+    <component base="two" xOffset="514"/>
+    <component base="period" xOffset="1028"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>one+two+period</string>
+  <string>one_two_period</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

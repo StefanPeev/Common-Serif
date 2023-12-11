@@ -11,13 +11,13 @@
       <point x="254.667" y="239" type="curve" smooth="yes"/>
       <point x="458.667" y="239" type="line"/>
       <point x="516" y="72" type="line" smooth="yes"/>
-      <point x="526.667" y="41.3333"/>
-      <point x="500.333" y="35.6667"/>
+      <point x="526.667" y="41.333"/>
+      <point x="500.333" y="35.667"/>
       <point x="463.667" y="33" type="curve"/>
-      <point x="457" y="32.3333"/>
+      <point x="457" y="32.333"/>
       <point x="449.333" y="32"/>
-      <point x="442" y="31.3333" type="curve"/>
-      <point x="436" y="25.3333"/>
+      <point x="442" y="31.333" type="curve"/>
+      <point x="436" y="25.333"/>
       <point x="436" y="4"/>
       <point x="442" y="-2" type="curve"/>
       <point x="479" y="-1"/>
@@ -27,10 +27,10 @@
       <point x="671.333" y="-1"/>
       <point x="707" y="-2" type="curve"/>
       <point x="713" y="4"/>
-      <point x="713" y="25.3333"/>
-      <point x="707" y="31.3333" type="curve"/>
-      <point x="668" y="35.3333"/>
-      <point x="634.333" y="37"/>
+      <point x="713" y="25.333"/>
+      <point x="707" y="31.333" type="curve"/>
+      <point x="668" y="35.333"/>
+      <point x="634.611" y="37.099"/>
       <point x="617" y="86" type="curve" smooth="yes"/>
       <point x="411" y="658" type="line"/>
       <point x="396" y="649"/>
@@ -38,21 +38,21 @@
       <point x="337.667" y="630" type="curve"/>
       <point x="114" y="102" type="line" smooth="yes"/>
       <point x="88" y="40"/>
-      <point x="58" y="34.3333"/>
-      <point x="14" y="31.3333" type="curve"/>
-      <point x="8" y="25.3333"/>
+      <point x="58" y="34.333"/>
+      <point x="14" y="31.333" type="curve"/>
+      <point x="8" y="25.333"/>
       <point x="8" y="4"/>
       <point x="14" y="-2" type="curve"/>
-      <point x="43.6667" y="-1"/>
-      <point x="71.6667" y="0"/>
+      <point x="43.667" y="-1"/>
+      <point x="71.667" y="0"/>
       <point x="104.667" y="0" type="curve" smooth="yes"/>
       <point x="145.667" y="0"/>
       <point x="197.333" y="-1"/>
       <point x="234.333" y="-2" type="curve"/>
       <point x="240.333" y="4"/>
-      <point x="240.333" y="25.3333"/>
-      <point x="234.333" y="31.3333" type="curve"/>
-      <point x="196.333" y="34.3333"/>
+      <point x="240.333" y="25.333"/>
+      <point x="234.333" y="31.333" type="curve"/>
+      <point x="196.333" y="34.333"/>
       <point x="149.333" y="38"/>
     </contour>
     <contour>
@@ -66,7 +66,7 @@
     </contour>
     <contour>
       <point x="41" y="720" type="curve" smooth="yes"/>
-      <point x="3" y="720" name=".hr01"/>
+      <point x="3" y="720"/>
       <point x="-19" y="682"/>
       <point x="-19" y="647" type="curve" smooth="yes"/>
       <point x="-19" y="621"/>
@@ -113,30 +113,22 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>db567b45f6af4de57c11d203fe576669ddf3ed53abc11ab052b35fe2017ade446d6d71a3c385b8e53f53856d32e27cf1f93e985517ac6d5082357220ef57d680</string>
+    <string>5a61a0291293ca08ed7eccbfee40e8bf0f2a439537a91c726fd69520dad7ddf5c0d13c442f263d7f318e19a6475827e1d8542927e94d5f39bfa4747a42649107</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 239 44</string>
           <string>hstem -2 33.33</string>
-          <string>hstem 658 -20</string>
-          <string>hstem 541 17</string>
-          <string>vstem -19 50</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem -2 35</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 239 44</string>
           <string>hstem 644 76</string>
+          <string>hstem 658 -20</string>
+          <string>hstem 724 -20</string>
           <string>vstem -19 50</string>
-          <string>hstem 541 17</string>
-          <string>hstem -2 33.33</string>
-          <string>hstem 239 44</string>
+          <string>vstem -19 107</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

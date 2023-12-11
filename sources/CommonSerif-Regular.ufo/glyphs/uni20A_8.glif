@@ -3,7 +3,6 @@
   <advance width="820"/>
   <unicode hex="20A8"/>
   <outline>
-    <component base="s" xOffset="430"/>
     <contour>
       <point x="19" y="-2" type="curve"/>
       <point x="56" y="-1"/>
@@ -78,6 +77,56 @@
       <point x="336" y="325"/>
       <point x="239" y="325" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="488" y="138" type="curve"/>
+      <point x="498.493" y="89.094"/>
+      <point x="502.071" y="43"/>
+      <point x="502.071" y="0" type="curve"/>
+      <point x="547.096" y="0.187"/>
+      <point x="585.888" y="-10"/>
+      <point x="631" y="-10" type="curve" smooth="yes"/>
+      <point x="720.099" y="-10"/>
+      <point x="780" y="40.541"/>
+      <point x="780" y="117" type="curve" smooth="yes"/>
+      <point x="780" y="184"/>
+      <point x="731" y="224"/>
+      <point x="663" y="249" type="curve" smooth="yes"/>
+      <point x="603" y="272"/>
+      <point x="563" y="287"/>
+      <point x="563" y="335" type="curve" smooth="yes"/>
+      <point x="563" y="381"/>
+      <point x="599" y="404"/>
+      <point x="634" y="404" type="curve" smooth="yes"/>
+      <point x="655" y="404"/>
+      <point x="713" y="396"/>
+      <point x="726" y="311" type="curve"/>
+      <point x="732" y="307"/>
+      <point x="752" y="308"/>
+      <point x="758" y="312" type="curve"/>
+      <point x="752" y="351.307"/>
+      <point x="750.461" y="385"/>
+      <point x="751.461" y="419" type="curve"/>
+      <point x="720.461" y="424"/>
+      <point x="685" y="439"/>
+      <point x="641" y="439" type="curve" smooth="yes"/>
+      <point x="552.948" y="439"/>
+      <point x="492" y="391.904"/>
+      <point x="492" y="325" type="curve" smooth="yes"/>
+      <point x="492" y="254"/>
+      <point x="525" y="223"/>
+      <point x="611" y="188" type="curve" smooth="yes"/>
+      <point x="685" y="157"/>
+      <point x="704" y="136"/>
+      <point x="704" y="102" type="curve" smooth="yes"/>
+      <point x="704" y="53.562"/>
+      <point x="673.955" y="25"/>
+      <point x="623" y="25" type="curve" smooth="yes"/>
+      <point x="549" y="25"/>
+      <point x="535" y="78"/>
+      <point x="519" y="139" type="curve"/>
+      <point x="513" y="145"/>
+      <point x="494" y="144"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -85,6 +134,33 @@
   <string>=R</string>
   <key>com.fontlab.metricsRight</key>
   <string>=s</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>40b775dbaad5831fdc72b159b9a4f691c4bca17425275c8615a07d85f6088817b34c7bf3053d7b8b088db7232ff02669c5ce48044f860a265c62cae24be77878</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 35</string>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 291 34</string>
+          <string>hstem 404 35</string>
+          <string>hstem 614 33</string>
+          <string>hstem 618 34</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 106 85</string>
+          <string>vstem 407 92</string>
+          <string>vstem 492 71</string>
+          <string>vstem 704 76</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

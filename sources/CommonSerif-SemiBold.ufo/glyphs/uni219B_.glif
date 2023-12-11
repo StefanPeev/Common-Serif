@@ -4,7 +4,7 @@
   <unicode hex="219B"/>
   <outline>
     <contour>
-      <point x="868.667" y="81.3333" type="line"/>
+      <point x="868.667" y="81.333" type="line"/>
       <point x="909.333" y="127.667"/>
       <point x="947.667" y="164"/>
       <point x="981.667" y="190.333" type="curve" smooth="yes"/>
@@ -31,11 +31,11 @@
       <point x="629.333" y="501.333"/>
       <point x="593.667" y="397"/>
       <point x="559.667" y="295" type="curve"/>
-      <point x="60.3333" y="295" type="line"/>
-      <point x="60.3333" y="237" type="line"/>
+      <point x="60.333" y="295" type="line"/>
+      <point x="60.333" y="237" type="line"/>
       <point x="540.333" y="237" type="line"/>
-      <point x="427" y="-99.6667" type="line"/>
-      <point x="490" y="-99.6667" type="line"/>
+      <point x="427" y="-99.667" type="line"/>
+      <point x="490" y="-99.667" type="line"/>
       <point x="527.667" y="12"/>
       <point x="565" y="125.333"/>
       <point x="602.667" y="237" type="curve"/>
@@ -45,7 +45,7 @@
       <point x="855" y="162.667" type="curve" smooth="yes"/>
       <point x="836.667" y="133.333"/>
       <point x="821.333" y="106"/>
-      <point x="811.333" y="81.3333" type="curve"/>
+      <point x="811.333" y="81.333" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -61,8 +61,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -78.67 -21</string>
           <string>hstem 237 58</string>
-          <string>vstem 60.33 1026.33</string>
+          <string>hstem 604 -20</string>
         </array>
       </dict>
     </array>

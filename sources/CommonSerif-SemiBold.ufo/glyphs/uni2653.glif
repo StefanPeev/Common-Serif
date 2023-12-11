@@ -4,21 +4,21 @@
   <unicode hex="2653"/>
   <outline>
     <contour>
-      <point x="510" y="-16.3333" type="line"/>
+      <point x="510" y="-16.333" type="line"/>
       <point x="538.667" y="-21" type="line"/>
-      <point x="592.333" y="-12.6667" type="line"/>
+      <point x="592.333" y="-12.667" type="line"/>
       <point x="511.333" y="73"/>
       <point x="470" y="165"/>
       <point x="469.333" y="269" type="curve"/>
       <point x="588.667" y="269" type="line"/>
       <point x="588.667" y="319.667" type="line"/>
       <point x="470" y="319.667" type="line"/>
-      <point x="475.667" y="410.333"/>
+      <point x="475.667" y="410.334"/>
       <point x="516" y="495"/>
-      <point x="591.667" y="577.333" type="curve"/>
-      <point x="551.333" y="583.333" type="line"/>
-      <point x="538" y="585.333" type="line"/>
-      <point x="490.333" y="577.333" type="line"/>
+      <point x="591.667" y="577.334" type="curve"/>
+      <point x="551.333" y="583.334" type="line"/>
+      <point x="538" y="585.334" type="line"/>
+      <point x="490.333" y="577.334" type="line"/>
       <point x="418" y="499.667"/>
       <point x="376.333" y="416"/>
       <point x="366.333" y="319.667" type="curve"/>
@@ -26,26 +26,26 @@
       <point x="268.667" y="416"/>
       <point x="228" y="499.667"/>
       <point x="154.333" y="578" type="curve"/>
-      <point x="101.333" y="582.333" type="line"/>
+      <point x="101.333" y="582.334" type="line"/>
       <point x="54" y="578" type="line"/>
       <point x="130" y="495.667"/>
-      <point x="170.333" y="410.333"/>
+      <point x="170.333" y="410.334"/>
       <point x="176" y="319.667" type="curve"/>
-      <point x="57.3333" y="319.667" type="line"/>
-      <point x="57.3333" y="269" type="line"/>
+      <point x="57.333" y="319.667" type="line"/>
+      <point x="57.333" y="269" type="line"/>
       <point x="176.667" y="269" type="line"/>
       <point x="175.333" y="165.667"/>
-      <point x="134.667" y="72.3333"/>
-      <point x="55.3333" y="-11.3333" type="curve"/>
-      <point x="79.6667" y="-19.6667" type="line"/>
-      <point x="158" y="-13.3333" type="line"/>
-      <point x="238.333" y="78"/>
+      <point x="134.667" y="72.333"/>
+      <point x="55.333" y="-11.333" type="curve"/>
+      <point x="79.667" y="-19.667" type="line"/>
+      <point x="158" y="-13.333" type="line"/>
+      <point x="238.334" y="78"/>
       <point x="279" y="185.667"/>
       <point x="279.667" y="269" type="curve"/>
       <point x="366.333" y="269" type="line"/>
       <point x="367" y="158.667"/>
-      <point x="428.667" y="54.6667"/>
-      <point x="487.333" y="-13.3333" type="curve"/>
+      <point x="428.667" y="54.667"/>
+      <point x="487.333" y="-13.333" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +61,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 4.67 -21</string>
           <string>hstem 269 50.67</string>
+          <string>hstem 583.33 -20</string>
           <string>vstem 176 103.67</string>
           <string>vstem 366.33 103.67</string>
         </array>

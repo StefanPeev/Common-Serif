@@ -4,7 +4,29 @@
   <unicode hex="1FCE"/>
   <anchor x="155" y="510" name="_t.gr"/>
   <outline>
-    <component base="uni1FBD" xOffset="-4.3318"/>
+    <contour>
+      <point x="81.002" y="689" type="curve" smooth="yes"/>
+      <point x="49.002" y="689"/>
+      <point x="36.002" y="671"/>
+      <point x="36.002" y="655" type="curve" smooth="yes"/>
+      <point x="36.002" y="639"/>
+      <point x="41.002" y="616"/>
+      <point x="82.002" y="616" type="curve" smooth="yes"/>
+      <point x="89.669" y="616"/>
+      <point x="95.002" y="608"/>
+      <point x="95.002" y="596" type="curve" smooth="yes"/>
+      <point x="95.002" y="573"/>
+      <point x="75.002" y="536"/>
+      <point x="33.002" y="527" type="curve"/>
+      <point x="32.999" y="519.954"/>
+      <point x="34.538" y="514.689"/>
+      <point x="37.669" y="510" type="curve"/>
+      <point x="114.669" y="517"/>
+      <point x="141.002" y="583.333"/>
+      <point x="141.002" y="616" type="curve" smooth="yes"/>
+      <point x="141.002" y="652"/>
+      <point x="119.002" y="689"/>
+    </contour>
     <contour>
       <point x="251" y="699" type="curve" smooth="yes"/>
       <point x="241" y="699"/>
@@ -19,15 +41,13 @@
       <point x="207.348" y="511.255"/>
       <point x="209" y="515" type="curve"/>
       <point x="285" y="654" type="line" smooth="yes"/>
-      <point x="287.145" y="657.924"/>
+      <point x="287.146" y="657.924"/>
       <point x="288" y="662"/>
       <point x="288" y="666" type="curve" smooth="yes"/>
       <point x="288" y="677"/>
       <point x="280" y="699"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
-  <guideline angle="90" x="155" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -35,13 +55,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>80aa75ba00d1e54203564522580633986e5a789e4d0d5756d93b0f28f470df93964c9775073d5a38194cd2d3b4bd31f10a408db3fb87a4dc3c6267a1acb9471a</string>
+    <string>4b18a4a50cd85d664cbf71a881abfb248a3514e5e050b065923b3263a6dd463ca64d7239607a956613d45e747ec75b9de36e2daf2131690bbed8edd94d18f8f7</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 654 -20</string>
+          <string>hstem 510 179</string>
+          <string>hstem 616 73</string>
+          <string>hstem 699 -20</string>
+          <string>vstem 36. 105</string>
+          <string>vstem 95. 46</string>
         </array>
       </dict>
     </array>

@@ -9,13 +9,13 @@
       <point x="286.5" y="544.331"/>
       <point x="286.5" y="631" type="curve" smooth="yes"/>
       <point x="286.5" y="717.69"/>
-      <point x="253.668" y="794.167"/>
-      <point x="162.91" y="794.167" type="curve" smooth="yes"/>
-      <point x="80.1879" y="794.167"/>
-      <point x="37.3333" y="702.674"/>
-      <point x="37.3333" y="626" type="curve" smooth="yes"/>
-      <point x="37.3333" y="544.683"/>
-      <point x="73.3759" y="460"/>
+      <point x="253.668" y="794.166"/>
+      <point x="162.91" y="794.166" type="curve" smooth="yes"/>
+      <point x="80.188" y="794.166"/>
+      <point x="37.333" y="702.674"/>
+      <point x="37.333" y="626" type="curve" smooth="yes"/>
+      <point x="37.333" y="544.682"/>
+      <point x="73.376" y="460"/>
     </contour>
     <contour>
       <point x="162.91" y="769.833" type="curve" smooth="yes"/>
@@ -24,18 +24,37 @@
       <point x="221.333" y="654.752" type="curve" smooth="yes"/>
       <point x="221.333" y="623.085" type="line" smooth="yes"/>
       <point x="221.333" y="531.715"/>
-      <point x="196.869" y="484.333"/>
+      <point x="196.868" y="484.333"/>
       <point x="160.923" y="484.333" type="curve" smooth="yes"/>
       <point x="126.132" y="484.333"/>
       <point x="102.5" y="524.334"/>
-      <point x="102.5" y="604.524" type="curve" smooth="yes"/>
+      <point x="102.5" y="604.523" type="curve" smooth="yes"/>
       <point x="102.5" y="636.19" type="line" smooth="yes"/>
       <point x="102.5" y="721.909"/>
-      <point x="128.076" y="769.833"/>
+      <point x="128.075" y="769.833"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="789"/>
-  <guideline angle="0" x="0" y="464"/>
-  <guideline angle="0" x="0" y="785"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0b28cc242552bf8b1c0aa41cca46c116c7f25ab720a8b68cb9665e6be82826d75a24ed77ed08c84451ad1a1d1beee1819890f0e1dd6daf96763d74d194c092cd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 460 24.33</string>
+          <string>hstem 769.83 24.33</string>
+          <string>vstem 37.33 65.17</string>
+          <string>vstem 221.33 65.17</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

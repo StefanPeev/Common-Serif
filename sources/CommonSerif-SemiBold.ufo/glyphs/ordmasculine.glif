@@ -9,8 +9,8 @@
       <point x="268.806" y="614"/>
       <point x="183.328" y="614" type="curve" smooth="yes"/>
       <point x="95" y="614"/>
-      <point x="38.3333" y="560"/>
-      <point x="38.3333" y="480.333" type="curve"/>
+      <point x="38.333" y="560"/>
+      <point x="38.333" y="480.333" type="curve"/>
       <point x="116.333" y="491.333" type="line"/>
       <point x="116.333" y="551.333"/>
       <point x="138.879" y="586"/>
@@ -20,9 +20,9 @@
       <point x="245.667" y="472" type="curve"/>
     </contour>
     <contour>
-      <point x="38.3333" y="480.333" type="line"/>
-      <point x="38.3333" y="403.952"/>
-      <point x="93.1943" y="349.333"/>
+      <point x="38.333" y="480.333" type="line"/>
+      <point x="38.333" y="403.952"/>
+      <point x="93.194" y="349.333"/>
       <point x="178.672" y="349.333" type="curve" smooth="yes"/>
       <point x="267" y="349.333"/>
       <point x="323.667" y="403.333"/>
@@ -36,10 +36,6 @@
       <point x="116.333" y="491.333" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="620"/>
-  <guideline angle="90" x="311" y="0"/>
-  <guideline angle="0" x="0" y="357"/>
-  <guideline angle="90" x="39" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -47,15 +43,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fcd397dfb118d9a94b36562d48b51b12232409ebf837dd31c7f85262b0177e1d58f6d70f7ea49f83df93a5e2f8d9139fba602a8d11f081f2ee82e72f2c4eb324</string>
+    <string>10905afd677338b7e14784413194c5a13b0f3014d61b7601dcad2101f5552207b26fdb77914c2d1ed97cba7c6c884cc0ac9f57dfd1d81fef14a7283b4dfe909a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 349.33 28</string>
           <string>hstem 586 28</string>
           <string>vstem 38.33 78</string>
-          <string>vstem 245.67 78.</string>
+          <string>vstem 245.67 78</string>
         </array>
       </dict>
     </array>

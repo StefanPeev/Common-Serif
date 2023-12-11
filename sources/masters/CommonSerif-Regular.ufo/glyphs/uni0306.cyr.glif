@@ -41,12 +41,28 @@
       <point x="-25" y="532"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-147" y="0"/>
-  <guideline angle="0" x="0" y="500"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>uni0306</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7cd58d6298a6fc9f90452b035ad280b9d59741ad77bb3b195c19d9d95ac2c6883f06d973031e7fb5c88a3ef183b5599e4a76e5dff881d6293f3b424463d49a1b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 31</string>
+          <string>hstem 500 120</string>
+          <string>vstem -267 242</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

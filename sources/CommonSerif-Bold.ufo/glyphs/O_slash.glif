@@ -5,7 +5,34 @@
   <anchor x="351" y="850" name="m.uni0302"/>
   <anchor x="350" y="-110" name="m.uni0316_2"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="694" y="322.684" type="curve" smooth="yes"/>
+      <point x="694" y="528"/>
+      <point x="546" y="658"/>
+      <point x="365.082" y="658" type="curve" smooth="yes"/>
+      <point x="165" y="658"/>
+      <point x="37" y="499"/>
+      <point x="37" y="314.896" type="curve" smooth="yes"/>
+      <point x="37" y="111"/>
+      <point x="194" y="-10"/>
+      <point x="372.41" y="-10" type="curve" smooth="yes"/>
+      <point x="565" y="-10"/>
+      <point x="694" y="131"/>
+    </contour>
+    <contour>
+      <point x="354.246" y="618" type="curve" smooth="yes"/>
+      <point x="458" y="618"/>
+      <point x="543" y="512.64"/>
+      <point x="543" y="308.945" type="curve" smooth="yes"/>
+      <point x="543" y="142.377"/>
+      <point x="485" y="32"/>
+      <point x="379.259" y="32" type="curve" smooth="yes"/>
+      <point x="274" y="32"/>
+      <point x="188" y="141.373"/>
+      <point x="188" y="330.017" type="curve" smooth="yes"/>
+      <point x="188" y="534.716"/>
+      <point x="262" y="618"/>
+    </contour>
     <contour>
       <point x="200.552" y="168.349" type="line"/>
       <point x="221.529" y="120.368" type="line"/>
@@ -14,11 +41,11 @@
     </contour>
     <contour>
       <point x="52" y="-14" type="line"/>
-      <point x="57.4107" y="-31.2601"/>
-      <point x="71.3663" y="-45"/>
+      <point x="57.411" y="-31.26"/>
+      <point x="71.366" y="-45"/>
       <point x="88" y="-45" type="curve"/>
-      <point x="175.4" y="63.6895" type="line"/>
-      <point x="139.459" y="93.6417" type="line"/>
+      <point x="175.4" y="63.689" type="line"/>
+      <point x="139.459" y="93.642" type="line"/>
     </contour>
     <contour>
       <point x="544.587" y="591.321" type="line"/>
@@ -29,4 +56,28 @@
       <point x="608" y="670" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1d2e2d09c4ba5e1e6311d4d90861bfb9dc0310c301585eb106446b00cef4b7172583679f10d4ea1a1055dae2436fb393cfbe3caec967ff20be2684f353797eee</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -24 -21</string>
+          <string>hstem -10 42</string>
+          <string>hstem 618 40</string>
+          <string>vstem 37 151</string>
+          <string>vstem 543 151</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

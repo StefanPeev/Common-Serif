@@ -6,9 +6,9 @@
     <contour>
       <point x="7" y="689" type="line"/>
       <point x="7" y="644.333" type="line"/>
-      <point x="154" y="644.333" type="line" name=".hr01"/>
+      <point x="154" y="644.333" type="line"/>
       <point x="154" y="-154.333" type="line"/>
-      <point x="7" y="-154.333" type="line" name=".hr02"/>
+      <point x="7" y="-154.333" type="line"/>
       <point x="7" y="-200" type="line"/>
       <point x="337.667" y="-200" type="line"/>
       <point x="337.667" y="689" type="line"/>
@@ -33,33 +33,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 644.33 44.67</string>
-          <string>vstem 7 210</string>
           <string>hstem -200 45.67</string>
-          <string>vstem 274 63.67</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 644.33 44.67</string>
           <string>vstem 154 63</string>
-          <string>hstem -200 45.67</string>
           <string>vstem 274 63.67</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -200 45.67</string>
-          <string>vstem 7 210</string>
-          <string>vstem 274 63.67</string>
-          <string>hstem 644.33 44.67</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

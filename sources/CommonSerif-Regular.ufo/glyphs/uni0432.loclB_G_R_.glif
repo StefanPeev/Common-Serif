@@ -50,9 +50,9 @@
       <point x="322" y="629"/>
       <point x="322" y="556" type="curve" smooth="yes"/>
       <point x="322" y="495"/>
-      <point x="270" y="422"/>
+      <point x="270.011" y="421.925"/>
       <point x="221" y="415" type="curve" smooth="yes"/>
-      <point x="178" y="409"/>
+      <point x="178.01" y="408.925"/>
       <point x="138" y="397"/>
     </contour>
   </outline>
@@ -62,6 +62,27 @@
   <string>=uni0431</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni0431</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>82b4cc333d1747259ccd6f84eb92742ecdb5ec47be6ec2fbdecf2e76cb0ef7817e84443fe975554f4b15526feac81fc7594caac582ce7fe0c11b9ff07bc88138</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 33</string>
+          <string>hstem 376 39</string>
+          <string>hstem 665 33</string>
+          <string>vstem 34 79</string>
+          <string>vstem 322 80</string>
+          <string>vstem 348 86</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

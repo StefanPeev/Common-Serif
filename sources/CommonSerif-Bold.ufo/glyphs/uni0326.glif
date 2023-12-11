@@ -6,7 +6,7 @@
     <contour>
       <point x="-255" y="-60.258" type="curve" smooth="yes"/>
       <point x="-280.467" y="-60.258"/>
-      <point x="-305.823" y="-76.5043"/>
+      <point x="-305.823" y="-76.504"/>
       <point x="-305.823" y="-103.581" type="curve" smooth="yes"/>
       <point x="-305.823" y="-125.433"/>
       <point x="-293.364" y="-138.506"/>
@@ -40,6 +40,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -226.26 -21</string>
+          <string>hstem -80.26 20</string>
+          <string>vstem -305.82 122.82</string>
           <string>vstem -244 61</string>
         </array>
       </dict>

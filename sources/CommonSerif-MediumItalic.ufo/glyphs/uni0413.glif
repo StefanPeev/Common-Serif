@@ -32,17 +32,17 @@
       <point x="182.333" y="646"/>
       <point x="136.333" y="647" type="curve"/>
       <point x="133.333" y="644"/>
-      <point x="128.333" y="626.667"/>
-      <point x="132.333" y="616.333" type="curve" name=".hr01"/>
-      <point x="184" y="613.667"/>
+      <point x="128.333" y="626.666"/>
+      <point x="132.333" y="616.333" type="curve"/>
+      <point x="184" y="613.666"/>
       <point x="203" y="603.333"/>
-      <point x="203" y="578.667" type="curve" smooth="yes"/>
+      <point x="203" y="578.666" type="curve" smooth="yes"/>
       <point x="203" y="563"/>
       <point x="201.667" y="547.333"/>
       <point x="196.667" y="521.333" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="14.3333" y="-2" type="curve"/>
+      <point x="14.333" y="-2" type="curve"/>
       <point x="56" y="-1"/>
       <point x="102.333" y="0"/>
       <point x="140.333" y="0" type="curve" smooth="yes"/>
@@ -50,26 +50,23 @@
       <point x="189" y="0"/>
       <point x="238.667" y="-1"/>
       <point x="278" y="-2" type="curve"/>
-      <point x="283.333" y="1.66667"/>
-      <point x="289" y="25.3333"/>
-      <point x="283.667" y="27.3333" type="curve"/>
-      <point x="228.667" y="30.6667"/>
+      <point x="283.333" y="1.666"/>
+      <point x="289" y="25.333"/>
+      <point x="283.667" y="27.333" type="curve"/>
+      <point x="228.667" y="30.666"/>
       <point x="209.667" y="43"/>
-      <point x="209.667" y="76.6667" type="curve" smooth="yes"/>
-      <point x="209.667" y="87.6667"/>
-      <point x="212.333" y="102.667"/>
+      <point x="209.667" y="76.666" type="curve" smooth="yes"/>
+      <point x="209.667" y="87.666"/>
+      <point x="212.333" y="102.666"/>
       <point x="215.667" y="120" type="curve"/>
       <point x="119.667" y="120" type="line"/>
-      <point x="107.667" y="58.3333"/>
+      <point x="107.667" y="58.333"/>
       <point x="76" y="30"/>
-      <point x="20" y="27.3333" type="curve"/>
-      <point x="14.6667" y="23.3333"/>
+      <point x="20" y="27.333" type="curve"/>
+      <point x="14.667" y="23.333"/>
       <point x="11" y="6"/>
     </contour>
   </outline>
-  <guideline angle="259.077" x="198" y="521"/>
-  <guideline angle="78.9991" x="174" y="0"/>
-  <guideline angle="0" x="0" y="120"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -84,15 +81,8 @@
         <key>stems</key>
         <array>
           <string>hstem 604.33 40.67</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 616.33 28.67</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

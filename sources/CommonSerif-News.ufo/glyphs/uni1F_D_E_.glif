@@ -4,29 +4,50 @@
   <unicode hex="1FDE"/>
   <anchor x="163" y="510" name="_t.gr"/>
   <outline>
-    <component base="uni1FFE" xOffset="7.83333"/>
+    <contour>
+      <point x="96.833" y="689" type="curve" smooth="yes"/>
+      <point x="58.833" y="689"/>
+      <point x="36.833" y="651"/>
+      <point x="36.833" y="616" type="curve" smooth="yes"/>
+      <point x="36.833" y="590"/>
+      <point x="51.833" y="514"/>
+      <point x="142.833" y="510" type="curve"/>
+      <point x="145.457" y="514.942"/>
+      <point x="146.559" y="520.241"/>
+      <point x="146.833" y="527" type="curve"/>
+      <point x="104.833" y="535"/>
+      <point x="86.833" y="572.167"/>
+      <point x="86.833" y="595" type="curve" smooth="yes"/>
+      <point x="86.833" y="606"/>
+      <point x="90.833" y="613"/>
+      <point x="97.833" y="613" type="curve" smooth="yes"/>
+      <point x="138.833" y="613"/>
+      <point x="143.833" y="638"/>
+      <point x="143.833" y="655" type="curve" smooth="yes"/>
+      <point x="143.833" y="671"/>
+      <point x="132.833" y="689"/>
+    </contour>
     <contour>
       <point x="252" y="699" type="curve" smooth="yes"/>
-      <point x="241.167" y="699"/>
+      <point x="241.166" y="699"/>
       <point x="224" y="695"/>
       <point x="220" y="679" type="curve"/>
       <point x="187" y="524" type="line"/>
       <point x="187" y="523" type="line"/>
       <point x="187" y="520"/>
       <point x="189" y="510"/>
-      <point x="201.167" y="510" type="curve" smooth="yes"/>
+      <point x="201.166" y="510" type="curve" smooth="yes"/>
       <point x="204" y="510"/>
-      <point x="207.873" y="511.066"/>
+      <point x="207.872" y="511.066"/>
       <point x="210" y="515" type="curve" smooth="yes"/>
-      <point x="285.167" y="654" type="line" smooth="yes"/>
+      <point x="285.166" y="654" type="line" smooth="yes"/>
       <point x="287.294" y="657.934"/>
-      <point x="288.167" y="662"/>
-      <point x="288.167" y="666" type="curve" smooth="yes"/>
-      <point x="288.167" y="677"/>
+      <point x="288.166" y="662"/>
+      <point x="288.166" y="666" type="curve" smooth="yes"/>
+      <point x="288.166" y="677"/>
       <point x="280" y="699"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -34,13 +55,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>18f2c505b6132ad3db0349de9bbf5e7e262b5176a2361da78a0efb6eed32cafa0c7dd66106d3a8f9c55239577f5dc456b43dcee44bb8d18714a8629bde810b33</string>
+    <string>b244d3ef59b83208aed279f4109b8cb191d585f30aa4bfa1f08799254757182bec5f8828fa716ed5b83d1ba8fd8f948a7064866dfe11237870f5d3dddaab945a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 654 -20</string>
+          <string>hstem 510 179</string>
+          <string>hstem 613 76</string>
+          <string>hstem 699 -20</string>
+          <string>vstem 36.83 50</string>
+          <string>vstem 36.83 107</string>
         </array>
       </dict>
     </array>

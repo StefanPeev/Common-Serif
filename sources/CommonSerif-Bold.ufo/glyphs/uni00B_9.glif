@@ -38,7 +38,7 @@
       <point x="167.196" y="816.991"/>
       <point x="165" y="816" type="curve"/>
       <point x="138.919" y="801.963"/>
-      <point x="77.5916" y="771.282"/>
+      <point x="77.592" y="771.282"/>
       <point x="28" y="758" type="curve"/>
       <point x="28" y="746"/>
       <point x="30" y="731"/>
@@ -47,12 +47,6 @@
       <point x="82" y="740"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="647"/>
-  <guideline angle="0" x="0" y="657"/>
-  <guideline angle="90" x="163" y="0"/>
-  <guideline angle="0" x="0" y="717"/>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="464"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -66,6 +60,8 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 464 29</string>
+          <string>hstem 817.68 -20</string>
           <string>vstem 109 88</string>
         </array>
       </dict>

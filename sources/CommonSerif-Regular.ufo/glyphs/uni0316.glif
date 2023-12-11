@@ -17,14 +17,13 @@
       <point x="-159.7" y="-173.724"/>
       <point x="-168" y="-165" type="curve" smooth="yes"/>
       <point x="-266" y="-62" type="line" smooth="yes"/>
-      <point x="-266.975" y="-60.9754"/>
+      <point x="-266.975" y="-60.975"/>
       <point x="-272" y="-60"/>
       <point x="-276" y="-60" type="curve" smooth="yes"/>
       <point x="-305" y="-60"/>
       <point x="-328" y="-83"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-60"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -32,13 +31,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cf958e43de2eba046f8df4d65723c234e873a2a3f8aa4ec42f3e9a3b4fdf6ed99e8cd2beb888dc8aa1dc51cc16e676f1066238a42d6c8105f4ee3504c6611583</string>
+    <string>989a5259a91ecec019566e4b54117672cd96fd1181762e14bd9b553be468ef42ed8452d5c4c1df1caf09e585f3c9a404d766adab87f32a9d77c7a68af0f7df7d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem -339 182</string>
+          <string>hstem -180 -21</string>
+          <string>hstem -60 -20</string>
         </array>
       </dict>
     </array>

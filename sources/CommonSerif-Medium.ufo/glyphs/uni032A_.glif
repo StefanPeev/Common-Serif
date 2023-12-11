@@ -8,7 +8,7 @@
       <point x="-334.333" y="-132" type="line"/>
       <point x="-175.667" y="-132" type="line"/>
       <point x="-175.667" y="-200" type="line"/>
-      <point x="-168.333" y="-206"/>
+      <point x="-168.334" y="-206"/>
       <point x="-161.667" y="-209"/>
       <point x="-155.667" y="-209" type="curve" smooth="yes"/>
       <point x="-148.667" y="-209"/>
@@ -25,9 +25,9 @@
       <point x="-378.333" y="-200" type="line"/>
       <point x="-371.333" y="-203.333"/>
       <point x="-363.333" y="-207.333"/>
-      <point x="-354.667" y="-206.667" type="curve"/>
+      <point x="-354.666" y="-206.667" type="curve"/>
       <point x="-348" y="-206.333"/>
-      <point x="-341.667" y="-203.333"/>
+      <point x="-341.666" y="-203.333"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,7 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -188 -21</string>
           <string>hstem -132 44</string>
           <string>vstem -378.33 44</string>
           <string>vstem -175.67 44</string>

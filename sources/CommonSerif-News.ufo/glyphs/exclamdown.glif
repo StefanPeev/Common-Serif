@@ -3,67 +3,12 @@
   <advance width="284"/>
   <unicode hex="00A1"/>
   <outline>
-    <contour>
-      <point x="142.167" y="-228.167" type="curve" smooth="yes"/>
-      <point x="167.333" y="-228.167"/>
-      <point x="198.333" y="-209.167"/>
-      <point x="198.333" y="-154.833" type="curve" smooth="yes"/>
-      <point x="198.333" y="-90"/>
-      <point x="185.5" y="-56"/>
-      <point x="176.833" y="23.1667" type="curve" smooth="yes"/>
-      <point x="168" y="99.8333"/>
-      <point x="160.667" y="194.833"/>
-      <point x="158.833" y="220.333" type="curve" smooth="yes"/>
-      <point x="157.833" y="231"/>
-      <point x="154.833" y="240.167"/>
-      <point x="142.167" y="240.167" type="curve" smooth="yes"/>
-      <point x="130" y="240.167"/>
-      <point x="126.667" y="228.833"/>
-      <point x="125.833" y="216.5" type="curve" smooth="yes"/>
-      <point x="124" y="196.667"/>
-      <point x="121.833" y="130"/>
-      <point x="108.333" y="23.6667" type="curve" smooth="yes"/>
-      <point x="99" y="-53.5"/>
-      <point x="86" y="-94.8333"/>
-      <point x="86" y="-154.833" type="curve" smooth="yes"/>
-      <point x="86" y="-208.333"/>
-      <point x="116" y="-228.167"/>
-    </contour>
-    <contour>
-      <point x="110.167" y="384.333" type="curve" smooth="yes"/>
-      <point x="110.167" y="366.5"/>
-      <point x="124.833" y="351.5"/>
-      <point x="142.333" y="351.5" type="curve" smooth="yes"/>
-      <point x="159.833" y="351.5"/>
-      <point x="174.167" y="366.167"/>
-      <point x="174.167" y="384" type="curve" smooth="yes"/>
-      <point x="174.167" y="401.667"/>
-      <point x="159.5" y="416.667"/>
-      <point x="142" y="416.667" type="curve" smooth="yes"/>
-      <point x="124.5" y="416.667"/>
-      <point x="110.167" y="402"/>
-    </contour>
+    <component base="exclam" xScale="-1" xyScale="2.44616e-17" yScale="-1" xOffset="284.333" yOffset="430.333"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fda6ee90a1578a59454b156e561047c71f96960227825953fb512972fdff13bdd640b9e8d7f351f4ac4f7667ba6e8385c841d2709bc3dc21856604cbf03c5073</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -207.17 -21</string>
-          <string>hstem 351.5 65.17</string>
-          <string>vstem 86 112.33</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>=exclam@~,~</string>
   </dict>
   </lib>
 </glyph>

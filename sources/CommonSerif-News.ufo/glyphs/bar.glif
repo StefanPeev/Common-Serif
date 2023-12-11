@@ -4,24 +4,38 @@
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="123.333" y="-240.29" type="curve"/>
-      <point x="123.333" y="720.257" type="line"/>
-      <point x="113.933" y="725.967"/>
-      <point x="86.0667" y="725.967"/>
-      <point x="76.6667" y="720.257" type="curve"/>
-      <point x="76.6667" y="-240.29" type="line"/>
-      <point x="86.0667" y="-246"/>
-      <point x="113.933" y="-246"/>
+      <point x="123.334" y="-240.29" type="curve"/>
+      <point x="123.334" y="720.257" type="line"/>
+      <point x="113.934" y="725.967"/>
+      <point x="86.067" y="725.967"/>
+      <point x="76.667" y="720.257" type="curve"/>
+      <point x="76.667" y="-240.29" type="line"/>
+      <point x="86.067" y="-246"/>
+      <point x="113.934" y="-246"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="720"/>
-  <guideline angle="0" x="0" y="-240"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=77</string>
   <key>com.fontlab.metricsRight</key>
   <string>=77</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w200m123.33,-240.29l123.33,720.26c113.93,725.97 86.07,725.97 76.67,720.26l76.67,-240.29c86.07,-246 113.93,-246 123.33,-240.29</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 76.67 46.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

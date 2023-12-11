@@ -61,10 +61,9 @@
       <point x="115" y="777"/>
       <point x="110" y="777" type="curve" smooth="yes"/>
       <point x="103" y="777"/>
-      <point x="97.1909" y="775.749"/>
+      <point x="97.191" y="775.749"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -78,6 +77,8 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 510 109</string>
+          <string>hstem 777 -20</string>
           <string>vstem 57 110</string>
           <string>vstem 243 110</string>
         </array>

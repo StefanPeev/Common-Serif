@@ -64,28 +64,28 @@
     </contour>
     <contour>
       <point x="76" y="184" type="curve" smooth="yes"/>
-      <point x="76" y="75.6074"/>
+      <point x="76" y="75.607"/>
       <point x="171.757" y="-10"/>
       <point x="293" y="-10" type="curve" smooth="yes"/>
       <point x="382" y="-10"/>
       <point x="410" y="13"/>
       <point x="473" y="13" type="curve"/>
-      <point x="477.058" y="64.7427" name=".hr01"/>
-      <point x="481.17" y="95.9906"/>
+      <point x="477.058" y="64.743"/>
+      <point x="481.17" y="95.991"/>
       <point x="493" y="165" type="curve"/>
       <point x="481.667" y="170.667"/>
       <point x="471.632" y="171.579"/>
       <point x="460" y="168" type="curve"/>
-      <point x="438.771" y="72.4682"/>
+      <point x="438.771" y="72.468"/>
       <point x="381.504" y="26"/>
       <point x="285" y="26" type="curve" smooth="yes"/>
-      <point x="203.841" y="26" name=".hr02"/>
+      <point x="203.841" y="26"/>
       <point x="160" y="69.14"/>
       <point x="160" y="149" type="curve" smooth="yes"/>
       <point x="160" y="247"/>
       <point x="234" y="275"/>
       <point x="294" y="298" type="curve" smooth="yes"/>
-      <point x="414.75" y="344.288"/>
+      <point x="414.75" y="344.287"/>
       <point x="469" y="402.257"/>
       <point x="469" y="485" type="curve" smooth="yes"/>
       <point x="469" y="583.982"/>
@@ -100,7 +100,7 @@
       <point x="114.856" y="495.89"/>
       <point x="127.125" y="493.659"/>
       <point x="140" y="496" type="curve"/>
-      <point x="167.225" y="585.844"/>
+      <point x="167.225" y="585.843"/>
       <point x="234.248" y="624"/>
       <point x="288" y="624" type="curve" smooth="yes"/>
       <point x="345" y="624"/>
@@ -113,7 +113,6 @@
       <point x="76" y="268.858"/>
     </contour>
   </outline>
-  <guideline angle="90" x="258" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -127,33 +126,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>aefc2d011033c74ed423c137a7db40a259bd7ef619f8037c45e30247a94ed6bd9601908cf2c398d2edb5ee963f3ddfebca3c463bf65f50486d1283b6669db30e</string>
+    <string>9d069d54c24e1b2f9c0b1f7d13b4781998079ec214435fa92d940f40b1efedece91e1ff1524ac0ef5587a66f6c3d58cca89b5ae02a66ff0b31f38088c6377ddc</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -10 36</string>
+          <string>hstem 227 39</string>
+          <string>hstem 351.84 39</string>
           <string>hstem 624 34</string>
+          <string>vstem 76 84</string>
+          <string>vstem 398 71</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 13 155</string>
-          <string>hstem 624 34</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 36</string>
-          <string>hstem 624 34</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

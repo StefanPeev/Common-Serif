@@ -4,12 +4,6 @@
   <anchor x="294" y="500" name="t.uni0302"/>
   <outline>
     <contour>
-      <point x="194" y="212" type="line"/>
-      <point x="389" y="212" type="line"/>
-      <point x="389" y="251" type="line"/>
-      <point x="194" y="251" type="line"/>
-    </contour>
-    <contour>
       <point x="5" y="-2" type="curve"/>
       <point x="47" y="-1"/>
       <point x="89" y="0"/>
@@ -53,6 +47,12 @@
       <point x="207" y="122" type="line"/>
       <point x="207" y="322" type="line"/>
       <point x="77" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="212" type="line"/>
+      <point x="389" y="212" type="line"/>
+      <point x="389" y="251" type="line"/>
+      <point x="194" y="251" type="line"/>
     </contour>
     <contour>
       <point x="300" y="-2" type="curve"/>
@@ -111,17 +111,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8321f7416c397c4945d3247132b4563eba83c7d347e1ac1643227e6f8bfbd7982bb033bf74d37180f5fd08f22e8b669a88d9e781134182bdc2281d016f4bd2ed</string>
+    <string>72158c1082c22797eadc2e118557f6c58aa2f0358552ae0c9c94ff8009fe6486430da5a71839f45730a4bd530b397555f259713b50aa0fe56202ff2f20fdc85b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -2 253</string>
+          <string>hstem -2 34</string>
           <string>hstem 212 39</string>
-          <string>hstem 212 224</string>
-          <string>vstem 79 130</string>
-          <string>vstem 374 130</string>
+          <string>hstem 382 34</string>
+          <string>hstem 444 -20</string>
+          <string>vstem 77 130</string>
+          <string>vstem 372 130</string>
         </array>
       </dict>
     </array>

@@ -4,33 +4,33 @@
   <unicode hex="2207"/>
   <outline>
     <contour>
-      <point x="241.167" y="-11.1667" type="curve"/>
-      <point x="306" y="-11.1667" type="line"/>
+      <point x="241.166" y="-11.166" type="curve"/>
+      <point x="306" y="-11.166" type="line"/>
       <point x="446.167" y="218.667"/>
-      <point x="655.667" y="559.833"/>
+      <point x="655.667" y="559.834"/>
       <point x="675.833" y="594.667" type="curve"/>
-      <point x="678.667" y="600.333"/>
+      <point x="678.667" y="600.334"/>
       <point x="681.333" y="604.167"/>
       <point x="681.5" y="606" type="curve"/>
       <point x="682.5" y="609.167"/>
-      <point x="679" y="610.333"/>
+      <point x="679" y="610.334"/>
       <point x="672.167" y="611.167" type="curve"/>
-      <point x="131.167" y="611.167" type="line" smooth="yes"/>
+      <point x="131.166" y="611.167" type="line" smooth="yes"/>
       <point x="117.333" y="611.167"/>
       <point x="108.833" y="610"/>
       <point x="108.833" y="606.167" type="curve" smooth="yes"/>
-      <point x="108.833" y="604.333"/>
+      <point x="108.833" y="604.334"/>
       <point x="109" y="601"/>
       <point x="111" y="594.667" type="curve"/>
       <point x="111" y="594.667"/>
-      <point x="194.333" y="204.333"/>
+      <point x="194.333" y="204.334"/>
     </contour>
     <contour>
-      <point x="270.333" y="80.8333" type="line"/>
+      <point x="270.333" y="80.834" type="line"/>
       <point x="247.5" y="187.5"/>
       <point x="187.5" y="476.167"/>
       <point x="165.5" y="582.667" type="curve"/>
-      <point x="575.833" y="582.667" type="line" name=".hr01"/>
+      <point x="575.833" y="582.667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,18 +46,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 582.67 28.5</string>
           <string>hstem 594.67 16.5</string>
           <string>vstem 108.83 572.67</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 582.67 28.5</string>
-          <string>vstem 108.83 572.67</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

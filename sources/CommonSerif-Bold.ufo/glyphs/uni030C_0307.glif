@@ -21,7 +21,7 @@
       <point x="-188.751" y="500.034" type="line"/>
       <point x="-159.751" y="547.034"/>
       <point x="-124.751" y="589.034"/>
-      <point x="-88.7512" y="629.034" type="curve"/>
+      <point x="-88.751" y="629.034" type="curve"/>
       <point x="-112.751" y="647.034" type="line"/>
       <point x="-151.751" y="620.034"/>
       <point x="-180.751" y="599.034"/>
@@ -34,5 +34,26 @@
       <point x="-269.751" y="546.034"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-213" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3085ac5f353859683b9573ff5571b2730b83f34baf450a4e7b70b7d6bb81742f123e7a8ac537034b836015db04ac34772c47cf921c6eba118fe7e7c75427d782</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500.03 231.98</string>
+          <string>hstem 623.02 109</string>
+          <string>vstem -268 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

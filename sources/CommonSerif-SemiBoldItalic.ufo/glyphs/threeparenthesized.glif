@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threeparenthesized" format="2">
-  <advance width="312"/>
+  <advance width="1117"/>
   <unicode hex="2476"/>
   <outline>
     <component base="parenleft"/>
-    <component base="three" xOffset="-58.8997"/>
-    <component base="parenright" xScale="1" xOffset="42.7414"/>
+    <component base="three" xOffset="312"/>
+    <component base="parenright" xScale="1" xOffset="802.667"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>parenleft+three+parenright</string>
+  <string>parenleft_three_parenright</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

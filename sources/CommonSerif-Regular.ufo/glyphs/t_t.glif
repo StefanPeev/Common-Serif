@@ -102,13 +102,13 @@
       <point x="463" y="573"/>
       <point x="463" y="573" type="curve"/>
       <point x="463" y="580"/>
-      <point x="459" y="583" name=".hr01"/>
+      <point x="459" y="583"/>
       <point x="450" y="583" type="curve"/>
       <point x="444" y="580"/>
       <point x="437" y="577"/>
       <point x="431" y="574" type="curve"/>
       <point x="418" y="569"/>
-      <point x="405" y="563" name=".hr02"/>
+      <point x="405" y="563"/>
       <point x="392" y="557" type="curve"/>
       <point x="391" y="556"/>
       <point x="389" y="555"/>
@@ -155,7 +155,6 @@
       <point x="90" y="429" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="90" color="0.627451,0.627451,0.643137,1" name="caret.1" x="306" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -169,36 +168,13 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -9 54</string>
+          <string>hstem 11 -21</string>
           <string>hstem 390 39</string>
+          <string>hstem 583 -20</string>
           <string>vstem 90 79</string>
-          <string>hstem -10 55</string>
           <string>vstem 380 79</string>
-          <string>hstem 563 10</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 573 10</string>
-          <string>vstem 380 79</string>
-          <string>hstem -10 55</string>
-          <string>hstem 390 39</string>
-          <string>vstem 90 79</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 563 10</string>
-          <string>vstem 380 79</string>
-          <string>hstem 390 39</string>
-          <string>vstem 90 79</string>
-          <string>hstem -10 55</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

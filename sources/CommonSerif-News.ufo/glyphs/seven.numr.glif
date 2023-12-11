@@ -2,10 +2,36 @@
 <glyph name="seven.numr" format="2">
   <advance width="271"/>
   <outline>
-    <component base="uni2077" xyScale="-3.88904e-18" yOffset="-136.833"/>
+    <contour>
+      <point x="202.019" y="613" type="line"/>
+      <point x="170" y="568.424"/>
+      <point x="84.667" y="437.833"/>
+      <point x="47.411" y="326.641" type="curve"/>
+      <point x="48.589" y="325.025" type="line"/>
+      <point x="107.5" y="327.167" type="line"/>
+      <point x="138.667" y="432.833"/>
+      <point x="199.739" y="559.833"/>
+      <point x="252.739" y="650.667" type="curve"/>
+      <point x="244.239" y="658.334" type="line"/>
+      <point x="221.362" y="656.02"/>
+      <point x="196.981" y="654.667"/>
+      <point x="170.572" y="654.667" type="curve" smooth="yes"/>
+      <point x="85.406" y="654.667" type="line" smooth="yes"/>
+      <point x="78.839" y="654.667"/>
+      <point x="53.959" y="656.191"/>
+      <point x="40.79" y="659.834" type="curve"/>
+      <point x="36.362" y="659.834"/>
+      <point x="33.072" y="656.544"/>
+      <point x="33.072" y="652.487" type="curve"/>
+      <point x="32.072" y="623.987"/>
+      <point x="26.938" y="592.589"/>
+      <point x="18.906" y="561" type="curve"/>
+      <point x="41.572" y="558.167" type="line"/>
+      <point x="53.649" y="598.799"/>
+      <point x="73.622" y="613"/>
+      <point x="119.338" y="613" type="curve" smooth="yes"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="328"/>
-  <guideline angle="0" x="0" y="332"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -14,6 +40,25 @@
   <string>=uni2077</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3f4fac7f2ddfde05b96597cbce33033a6adf88c12eed153e7d60115381bc787d20c3f17c2dcb633812a7418610b02fcc046a01de0711514d41bbcaa7f7498b82</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 346.02 -21</string>
+          <string>hstem 613 41.67</string>
+          <string>hstem 658.33 -20</string>
+          <string>hstem 659.83 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

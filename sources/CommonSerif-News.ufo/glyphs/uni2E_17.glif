@@ -16,10 +16,10 @@
       <point x="61" y="214"/>
       <point x="43" y="191.5"/>
       <point x="27" y="145.5" type="curve"/>
-      <point x="41.6667" y="140.333" type="line"/>
-      <point x="50.6667" y="158.333"/>
-      <point x="68.6667" y="165.5"/>
-      <point x="89.6667" y="167.5" type="curve"/>
+      <point x="41.667" y="140.333" type="line"/>
+      <point x="50.667" y="158.333"/>
+      <point x="68.667" y="165.5"/>
+      <point x="89.667" y="167.5" type="curve"/>
     </contour>
     <contour>
       <point x="291.167" y="290" type="line"/>
@@ -34,10 +34,10 @@
       <point x="61" y="322.667"/>
       <point x="43" y="301"/>
       <point x="27" y="255" type="curve"/>
-      <point x="41.6667" y="249" type="line"/>
+      <point x="41.667" y="249" type="line"/>
       <point x="54.5" y="270"/>
-      <point x="70.6667" y="275"/>
-      <point x="89.6667" y="277" type="curve"/>
+      <point x="70.667" y="275"/>
+      <point x="89.667" y="277" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 27 322.33</string>
+          <string>hstem 161.33 -21</string>
+          <string>hstem 363.67 -20</string>
         </array>
       </dict>
     </array>

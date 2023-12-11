@@ -7,8 +7,8 @@
       <point x="475" y="152" type="line"/>
       <point x="383.5" y="-118.667" type="line"/>
       <point x="430" y="-118.667" type="line"/>
-      <point x="460.167" y="-28.3333"/>
-      <point x="491.5" y="61.6667"/>
+      <point x="460.167" y="-28.333"/>
+      <point x="491.5" y="61.667"/>
       <point x="521.5" y="152" type="curve"/>
       <point x="774.167" y="152" type="line"/>
       <point x="759.833" y="127.5"/>
@@ -25,10 +25,10 @@
       <point x="969" y="285.5"/>
       <point x="938.833" y="303.167"/>
       <point x="910.667" y="324.333" type="curve" smooth="yes"/>
-      <point x="861" y="362.333"/>
-      <point x="815.5" y="406.833"/>
-      <point x="781.333" y="446.833" type="curve"/>
-      <point x="736.333" y="446.833" type="line"/>
+      <point x="861" y="362.334"/>
+      <point x="815.5" y="406.834"/>
+      <point x="781.333" y="446.834" type="curve"/>
+      <point x="736.333" y="446.834" type="line"/>
       <point x="747.5" y="422"/>
       <point x="759.333" y="398.167"/>
       <point x="771.833" y="376.167" type="curve"/>
@@ -38,14 +38,14 @@
       <point x="597.167" y="516.167"/>
       <point x="573.5" y="446.167"/>
       <point x="550.167" y="376.167" type="curve"/>
-      <point x="36.3333" y="376.167" type="line"/>
-      <point x="36.3333" y="325" type="line"/>
+      <point x="36.333" y="376.167" type="line"/>
+      <point x="36.333" y="325" type="line"/>
       <point x="532.5" y="325" type="line"/>
       <point x="518.667" y="284.167"/>
       <point x="505.5" y="243.833"/>
       <point x="491.833" y="203" type="curve"/>
-      <point x="36.3333" y="203" type="line"/>
-      <point x="36.3333" y="152" type="line"/>
+      <point x="36.333" y="203" type="line"/>
+      <point x="36.333" y="152" type="line"/>
     </contour>
     <contour>
       <point x="538.167" y="203" type="line"/>
@@ -74,9 +74,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -97.67 -21</string>
           <string>hstem 152 51</string>
           <string>hstem 325 51.17</string>
-          <string>vstem 36.33 961.5</string>
+          <string>hstem 586 -20</string>
         </array>
       </dict>
     </array>

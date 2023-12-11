@@ -19,7 +19,7 @@
       <point x="30" y="675"/>
       <point x="30" y="593" type="curve" smooth="yes"/>
       <point x="30" y="511.212"/>
-      <point x="76.5911" y="460"/>
+      <point x="76.591" y="460"/>
       <point x="151" y="460" type="curve" smooth="yes"/>
       <point x="214.722" y="460"/>
       <point x="259" y="501.567"/>
@@ -42,9 +42,6 @@
       <point x="202" y="578"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="688"/>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="464"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -56,12 +53,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>71b3ea0ae4ba4d58f39db56da618f3ef278ed525fe88cc76eb5766ebf824b4c58a28531439f5019592473120e6ebb13e48f8880844c14756f0645007d6f8b82f</string>
+    <string>6a64bc2b25d101f8e1caf167ed9cff4dd64946038e8ec967c80b44f4cc49f528575d36d6457ada8f275fb67f7f194c7852c2ce93f11a464d2fc394e97c5e64b2</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 460 24</string>
+          <string>hstem 633 24</string>
+          <string>hstem 633 156</string>
           <string>vstem 30 53</string>
           <string>vstem 202 57</string>
         </array>

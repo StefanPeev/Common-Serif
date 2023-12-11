@@ -4,7 +4,7 @@
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="491.667" y="183.333" type="curve"/>
+      <point x="491.667" y="183.334" type="curve"/>
       <point x="486.667" y="188.667"/>
       <point x="479" y="194.667"/>
       <point x="467.333" y="194.667" type="curve" smooth="yes"/>
@@ -21,29 +21,29 @@
       <point x="391" y="557" type="line"/>
       <point x="353" y="567" type="line"/>
       <point x="279" y="347" type="line"/>
-      <point x="76.3333" y="347" type="line"/>
-      <point x="68.3333" y="340.667"/>
-      <point x="59.6667" y="321.667"/>
-      <point x="59.6667" y="305.333" type="curve"/>
+      <point x="76.333" y="347" type="line"/>
+      <point x="68.333" y="340.667"/>
+      <point x="59.667" y="321.667"/>
+      <point x="59.667" y="305.334" type="curve"/>
       <point x="65" y="300"/>
-      <point x="74.3333" y="294.667"/>
-      <point x="85.6667" y="294.667" type="curve" smooth="yes"/>
+      <point x="74.333" y="294.667"/>
+      <point x="85.667" y="294.667" type="curve" smooth="yes"/>
       <point x="261.333" y="294.667" type="line"/>
       <point x="227.667" y="194.667" type="line"/>
-      <point x="76.3333" y="194.667" type="line"/>
-      <point x="68.3333" y="188.333"/>
-      <point x="59.6667" y="169.667"/>
-      <point x="59.6667" y="153.333" type="curve"/>
+      <point x="76.333" y="194.667" type="line"/>
+      <point x="68.333" y="188.334"/>
+      <point x="59.667" y="169.667"/>
+      <point x="59.667" y="153.334" type="curve"/>
       <point x="64" y="148"/>
       <point x="72" y="142.667"/>
-      <point x="82.3333" y="142.667" type="curve" smooth="yes"/>
+      <point x="82.333" y="142.667" type="curve" smooth="yes"/>
       <point x="210" y="142.667" type="line"/>
       <point x="148" y="-41" type="line"/>
       <point x="186" y="-53" type="line"/>
       <point x="252" y="142.667" type="line"/>
       <point x="473.667" y="142.667" type="line"/>
       <point x="482.333" y="149"/>
-      <point x="491.667" y="170.333"/>
+      <point x="491.667" y="170.334"/>
     </contour>
   </outline>
   <lib>
@@ -59,9 +59,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -32 -21</string>
           <string>hstem 142.67 52</string>
           <string>hstem 294.67 52.33</string>
-          <string>vstem 59.67 432</string>
+          <string>hstem 567 -20</string>
         </array>
       </dict>
     </array>

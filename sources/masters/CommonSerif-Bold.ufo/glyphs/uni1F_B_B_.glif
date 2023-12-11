@@ -30,7 +30,7 @@
       <point x="736" y="26"/>
       <point x="730" y="32" type="curve"/>
       <point x="691" y="36"/>
-      <point x="658" y="35"/>
+      <point x="658.325" y="35.116"/>
       <point x="640" y="86" type="curve" smooth="yes"/>
       <point x="434" y="658" type="line"/>
       <point x="419" y="649"/>
@@ -68,10 +68,10 @@
       <point x="159" y="724" type="curve" smooth="yes"/>
       <point x="150" y="724"/>
       <point x="140" y="720"/>
-      <point x="134" y="713" type="curve" smooth="yes"/>
+      <point x="134" y="713" type="curve"/>
       <point x="133" y="711"/>
       <point x="132" y="709"/>
-      <point x="131" y="707" type="curve" smooth="yes"/>
+      <point x="131" y="707" type="curve"/>
       <point x="81" y="564" type="line" smooth="yes"/>
       <point x="80" y="561"/>
       <point x="80" y="556"/>
@@ -81,8 +81,8 @@
       <point x="110" y="541" type="curve" smooth="yes"/>
       <point x="114" y="541"/>
       <point x="118" y="545"/>
-      <point x="121" y="549" type="curve" smooth="yes"/>
-      <point x="225" y="671" type="line" smooth="yes"/>
+      <point x="121" y="549" type="curve"/>
+      <point x="225" y="671" type="line"/>
       <point x="229" y="676"/>
       <point x="230" y="681"/>
       <point x="230" y="686" type="curve" smooth="yes"/>
@@ -97,18 +97,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>705c9104fdbd45eeb83ad0c8bffa60a6b315505a37df3fc6b42f773a31106c720c831f301ad0a71dc6fa5fc76dacee12048fc4ea7dd8ff55243fc285fd411ff7</string>
+    <string>775a987217aafb4b36682ef078b33283330b15fcfd6ae7314eb7bf1b6a2104740adbf5b12960d68fe0bc47e062451ef4674dcbb51697aaa89f5312241f50fa18</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -2 34</string>
-          <string>hstem -2 35</string>
-          <string>hstem 235 48</string>
+          <string>hstem 21 -21</string>
           <string>hstem 658 -20</string>
-          <string>vstem 3 159</string>
-          <string>vstem 3 732</string>
+          <string>hstem 724 -20</string>
         </array>
       </dict>
     </array>

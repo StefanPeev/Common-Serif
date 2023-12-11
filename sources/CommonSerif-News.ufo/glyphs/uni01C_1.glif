@@ -3,9 +3,40 @@
   <advance width="289"/>
   <unicode hex="01C1"/>
   <outline>
-    <component base="uni01C0" xOffset="-2.33333"/>
-    <component base="uni01C0" xOffset="101.5"/>
+    <contour>
+      <point x="113.167" y="-8.333" type="line"/>
+      <point x="113.167" y="698" type="line"/>
+      <point x="70.667" y="698" type="line"/>
+      <point x="70.667" y="-8.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="-8.333" type="line"/>
+      <point x="217" y="698" type="line"/>
+      <point x="174.5" y="698" type="line"/>
+      <point x="174.5" y="-8.333" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="720"/>
-  <guideline angle="0" x="0" y="-240"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w289m113.17,-8.33l113.17,698l70.67,698l70.67,-8.33m217,-8.33l217,698l174.5,698l174.5,-8.33</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 12.67 -21</string>
+          <string>hstem 698 -20</string>
+          <string>vstem 70.67 42.5</string>
+          <string>vstem 174.5 42.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

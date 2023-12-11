@@ -3,18 +3,71 @@
   <advance width="295"/>
   <unicode hex="2086"/>
   <outline>
-    <component base="uni2076" xOffset="0.3128" yOffset="-628.177"/>
+    <contour>
+      <point x="265.979" y="-63.177" type="curve" smooth="yes"/>
+      <point x="265.979" y="-2.357"/>
+      <point x="226.528" y="34.823"/>
+      <point x="162.012" y="34.823" type="curve" smooth="yes"/>
+      <point x="138.747" y="34.823"/>
+      <point x="112.33" y="25.173"/>
+      <point x="95.647" y="11.156" type="curve"/>
+      <point x="108.313" y="67.823"/>
+      <point x="144.98" y="132.823"/>
+      <point x="248.646" y="151.489" type="curve"/>
+      <point x="248.646" y="171.156" type="line"/>
+      <point x="88.313" y="159.156"/>
+      <point x="28.313" y="53.823"/>
+      <point x="28.313" y="-30.51" type="curve" smooth="yes"/>
+      <point x="28.313" y="-115.449"/>
+      <point x="76.412" y="-168.177"/>
+      <point x="153.646" y="-168.177" type="curve" smooth="yes"/>
+      <point x="225.794" y="-168.177"/>
+      <point x="265.979" y="-116.466"/>
+    </contour>
+    <contour>
+      <point x="199.646" y="-68.177" type="curve" smooth="yes"/>
+      <point x="199.646" y="-106.177"/>
+      <point x="193.646" y="-141.51"/>
+      <point x="153.646" y="-141.51" type="curve" smooth="yes"/>
+      <point x="125.313" y="-141.51"/>
+      <point x="90.98" y="-117.177"/>
+      <point x="90.98" y="-32.51" type="curve" smooth="yes"/>
+      <point x="90.98" y="-25.511"/>
+      <point x="90.98" y="-17.511"/>
+      <point x="91.647" y="-11.177" type="curve"/>
+      <point x="110.647" y="4.156"/>
+      <point x="128.646" y="9.156"/>
+      <point x="143.646" y="9.156" type="curve" smooth="yes"/>
+      <point x="195.313" y="9.156"/>
+      <point x="199.646" y="-46.51"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="-160"/>
-  <guideline angle="0" x="0" y="161"/>
-  <guideline angle="0" x="0" y="165"/>
-  <guideline angle="0" x="0" y="-164"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni2076</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni2076</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>42f0a6fdbaab0fbf9cde08912cfdf8c87bca43f1bcc3cbec675dd2955861e355def79b83c92bd5a76bb1e8df55f180f69ce19844af7e2d687e87135214564c41</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -168.18 26.67</string>
+          <string>hstem 9.16 25.67</string>
+          <string>hstem 9.16 162</string>
+          <string>vstem 28.31 62.67</string>
+          <string>vstem 199.65 66.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

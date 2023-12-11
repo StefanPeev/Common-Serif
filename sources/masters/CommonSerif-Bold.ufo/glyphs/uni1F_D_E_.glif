@@ -4,7 +4,29 @@
   <unicode hex="1FDE"/>
   <anchor x="163" y="510" name="_t.gr"/>
   <outline>
-    <component base="uni1FFE" xOffset="9.5"/>
+    <contour>
+      <point x="98.5" y="689" type="curve" smooth="yes"/>
+      <point x="60.5" y="689"/>
+      <point x="38.5" y="651"/>
+      <point x="38.5" y="616" type="curve" smooth="yes"/>
+      <point x="38.5" y="590"/>
+      <point x="53.5" y="514"/>
+      <point x="144.5" y="510" type="curve"/>
+      <point x="146.976" y="514.324"/>
+      <point x="148.425" y="520.64"/>
+      <point x="148.5" y="527" type="curve"/>
+      <point x="106.5" y="535"/>
+      <point x="88.5" y="573"/>
+      <point x="88.5" y="595" type="curve" smooth="yes"/>
+      <point x="88.5" y="606"/>
+      <point x="92.5" y="613"/>
+      <point x="99.5" y="613" type="curve" smooth="yes"/>
+      <point x="140.5" y="613"/>
+      <point x="145.5" y="638"/>
+      <point x="145.5" y="655" type="curve" smooth="yes"/>
+      <point x="145.5" y="671"/>
+      <point x="134.5" y="689"/>
+    </contour>
     <contour>
       <point x="252" y="699" type="curve" smooth="yes"/>
       <point x="242" y="699"/>
@@ -26,7 +48,6 @@
       <point x="280" y="699"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -34,16 +55,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>478e20b3cef637bcb15145905e0a8349a2e0ecb606310e82a0c840bf5c364e0676e5942771edcbd74021d333f3fc11b5a60934e60661bdb9f0212d61994a6dde</string>
+    <string>087bef9422801e49c9f3dd639a08f81e465598a01a48eec5a2f2e11d784c439aefc574c4ef56beb097c38ac63086f50ff4e3441605d9fc2455c9c3a891147a04</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 471 17</string>
-          <string>hstem 574 76</string>
-          <string>hstem 654 -20</string>
-          <string>vstem 28 50</string>
+          <string>hstem 510 179</string>
+          <string>hstem 613 76</string>
+          <string>hstem 699 -20</string>
+          <string>vstem 38.5 50</string>
+          <string>vstem 38.5 107</string>
         </array>
       </dict>
     </array>

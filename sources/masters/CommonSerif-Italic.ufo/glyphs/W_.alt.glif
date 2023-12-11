@@ -4,7 +4,7 @@
   <outline>
     <contour>
       <point x="713" y="618" type="curve"/>
-      <point x="746" y="610" name=".hr01"/>
+      <point x="746" y="610"/>
       <point x="762" y="605"/>
       <point x="725" y="553" type="curve"/>
       <point x="721" y="548"/>
@@ -143,26 +143,14 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 9 -21</string>
           <string>hstem 618 29</string>
           <string>vstem 136 163</string>
           <string>vstem 443 152</string>
           <string>vstem 709 164</string>
-          <string>vstem 1031 138</string>
-          <string>hstem 9 -21</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 746 127</string>
-          <string>vstem 136 163</string>
-          <string>vstem 443 152</string>
           <string>vstem 1031 138</string>
-          <string>hstem 618 29</string>
-          <string>hstem 9 -21</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

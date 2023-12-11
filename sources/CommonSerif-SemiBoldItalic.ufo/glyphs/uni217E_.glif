@@ -4,8 +4,8 @@
   <unicode hex="217E"/>
   <outline>
     <contour>
-      <point x="70.6667" y="148" type="curve" smooth="yes"/>
-      <point x="70.6667" y="51"/>
+      <point x="70.667" y="148" type="curve" smooth="yes"/>
+      <point x="70.667" y="51"/>
       <point x="116.667" y="-12"/>
       <point x="200.667" y="-12" type="curve" smooth="yes"/>
       <point x="258.667" y="-12"/>
@@ -15,7 +15,7 @@
       <point x="356.667" y="-12" type="line"/>
       <point x="381.667" y="6"/>
       <point x="436.667" y="17"/>
-      <point x="496.667" y="27" type="curve" name=".hr01"/>
+      <point x="496.667" y="27" type="curve"/>
       <point x="497.667" y="55" type="line"/>
       <point x="481.667" y="52"/>
       <point x="459.667" y="52"/>
@@ -43,27 +43,27 @@
       <point x="453.667" y="604.667"/>
       <point x="452.667" y="591.667"/>
       <point x="448.667" y="573.667" type="curve" smooth="yes"/>
-      <point x="418.667" y="420.333" type="line"/>
+      <point x="418.667" y="420.334" type="line"/>
       <point x="397.667" y="433.667"/>
       <point x="355.667" y="442"/>
       <point x="335.667" y="442" type="curve" smooth="yes"/>
-      <point x="174.333" y="442"/>
-      <point x="70.6667" y="293.333"/>
+      <point x="174.334" y="442"/>
+      <point x="70.667" y="293.333"/>
     </contour>
     <contour>
       <point x="151.667" y="164.333" type="curve" smooth="yes"/>
       <point x="151.667" y="261"/>
-      <point x="202.333" y="407"/>
-      <point x="319.333" y="407" type="curve" smooth="yes"/>
+      <point x="202.334" y="407"/>
+      <point x="319.334" y="407" type="curve" smooth="yes"/>
       <point x="364.667" y="407"/>
       <point x="387.667" y="386"/>
       <point x="404.667" y="348" type="curve"/>
       <point x="354.667" y="89" type="line"/>
       <point x="306.667" y="50"/>
       <point x="275.667" y="30"/>
-      <point x="243.667" y="30" type="curve" smooth="yes" name=".hr02"/>
+      <point x="243.667" y="30" type="curve" smooth="yes"/>
       <point x="198" y="30"/>
-      <point x="151.667" y="70.6667"/>
+      <point x="151.667" y="70.667"/>
     </contour>
   </outline>
   <lib>
@@ -83,33 +83,12 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 70.67 81</string>
           <string>hstem -12 42</string>
-          <string>hstem 646.67 25.33</string>
-          <string>hstem 698 -20</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 27 25</string>
-          <string>hstem 698 -20</string>
-          <string>hstem 646.67 25.33</string>
-          <string>vstem 70.67 81</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 42</string>
-          <string>vstem 70.67 81</string>
           <string>hstem 646.67 25.33</string>
           <string>hstem 698 -20</string>
+          <string>vstem 70.67 81</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

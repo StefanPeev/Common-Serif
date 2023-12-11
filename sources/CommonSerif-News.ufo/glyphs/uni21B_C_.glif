@@ -4,20 +4,20 @@
   <unicode hex="21BC"/>
   <outline>
     <contour>
-      <point x="59.3333" y="396.333" type="line"/>
+      <point x="59.333" y="396.334" type="line"/>
       <point x="1030.83" y="396.167" type="line"/>
       <point x="1030.83" y="449.667" type="line"/>
       <point x="215.167" y="449.667" type="line"/>
       <point x="250.333" y="487"/>
       <point x="284" y="539.667"/>
-      <point x="315.833" y="607.333" type="curve" name=".hr01"/>
-      <point x="271.833" y="607.333" type="line"/>
-      <point x="227.333" y="557.833"/>
-      <point x="189.5" y="520.833"/>
-      <point x="158.167" y="496.333" type="curve" smooth="yes"/>
+      <point x="315.833" y="607.334" type="curve"/>
+      <point x="271.833" y="607.334" type="line"/>
+      <point x="227.333" y="557.834"/>
+      <point x="189.5" y="520.834"/>
+      <point x="158.167" y="496.334" type="curve" smooth="yes"/>
       <point x="125.833" y="470.167"/>
-      <point x="92.5" y="448.833" name=".hr02"/>
-      <point x="59.3333" y="432.667" type="curve" name=".hr03"/>
+      <point x="92.5" y="448.834"/>
+      <point x="59.333" y="432.667" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -34,35 +34,8 @@
         <key>stems</key>
         <array>
           <string>hstem 396.17 53.5</string>
-          <string>vstem 59.33 971.5</string>
+          <string>hstem 607.33 -20</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 396.33 211.</string>
-          <string>vstem 59.33 971.5</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 396.17 53.5</string>
-          <string>vstem 59.33 971.5</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 396.33 36.33</string>
-          <string>vstem 59.33 971.5</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
       </dict>
     </array>
   </dict>

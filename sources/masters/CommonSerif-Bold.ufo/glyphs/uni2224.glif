@@ -3,12 +3,17 @@
   <advance width="264"/>
   <unicode hex="2224"/>
   <outline>
-    <component base="uni2223" xOffset="21"/>
     <contour>
       <point x="18" y="198" type="line"/>
       <point x="52" y="164" type="line"/>
       <point x="246" y="359" type="line"/>
       <point x="212" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="-233" type="line"/>
+      <point x="160" y="698" type="line"/>
+      <point x="100" y="698" type="line"/>
+      <point x="100" y="-233" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w264m18,198l52,164l246,359l212,394</string>
+    <string>w264m18,198l52,164l246,359l212,394m160,-233l160,698l100,698l100,-233</string>
     <key>hintSetList</key>
     <array>
       <dict>

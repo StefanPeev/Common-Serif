@@ -60,7 +60,7 @@
       <point x="257" y="407"/>
       <point x="257" y="421" type="curve" smooth="yes"/>
       <point x="257" y="431"/>
-      <point x="252" y="436" name=".hr01"/>
+      <point x="252" y="436"/>
       <point x="245" y="436" type="curve"/>
       <point x="213" y="429"/>
       <point x="155" y="425"/>
@@ -91,9 +91,6 @@
       <point x="90" y="20"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="72"/>
-  <guideline angle="77.1957" x="181" y="84"/>
-  <guideline angle="257.446" x="155" y="310"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -107,20 +104,12 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -10 60</string>
+          <string>hstem 11 -21</string>
           <string>hstem 379 60</string>
-          <string>vstem 405 79</string>
-          <string>hstem -10 60</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 436 -20</string>
-          <string>hstem -10 60</string>
           <string>vstem 405 79</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

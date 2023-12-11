@@ -70,7 +70,7 @@
       <point x="52" y="111"/>
       <point x="61" y="90"/>
       <point x="73" y="72" type="curve"/>
-      <point x="12" y="-2" type="line" name=".hr01"/>
+      <point x="12" y="-2" type="line"/>
       <point x="14" y="-17"/>
       <point x="26" y="-28"/>
     </contour>
@@ -104,19 +104,11 @@
         <key>stems</key>
         <array>
           <string>hstem -10 49</string>
+          <string>hstem -7 -21</string>
           <string>hstem 406 33</string>
+          <string>hstem 454 -20</string>
           <string>vstem 37 86</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 19 -21</string>
-          <string>vstem 37 86</string>
-          <string>hstem 406 33</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

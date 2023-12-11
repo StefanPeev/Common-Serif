@@ -55,7 +55,7 @@
       <point x="306" y="-2"/>
       <point x="346" y="-2" type="curve" smooth="yes"/>
       <point x="552" y="-2"/>
-      <point x="685" y="95.2428"/>
+      <point x="685" y="95.243"/>
       <point x="685" y="309.455" type="curve" smooth="yes"/>
       <point x="685" y="494"/>
       <point x="565" y="646"/>
@@ -96,7 +96,9 @@
         <key>stems</key>
         <array>
           <string>hstem -2 42</string>
+          <string>hstem 21 -21</string>
           <string>hstem 604 42</string>
+          <string>hstem 645 -20</string>
           <string>vstem 114 137</string>
           <string>vstem 532 153</string>
         </array>

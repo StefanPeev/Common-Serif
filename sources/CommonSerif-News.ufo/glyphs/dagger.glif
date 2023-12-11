@@ -4,24 +4,24 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="305.667" y="697" type="curve" smooth="yes"/>
-      <point x="277.5" y="697"/>
+      <point x="305.666" y="697.001" type="curve" smooth="yes"/>
+      <point x="277.5" y="697.001"/>
       <point x="256.667" y="669.667"/>
-      <point x="256.667" y="637" type="curve" smooth="yes"/>
-      <point x="256.667" y="562"/>
-      <point x="271" y="500"/>
-      <point x="295" y="450" type="curve"/>
-      <point x="256.333" y="474.667"/>
-      <point x="204.667" y="494.333"/>
-      <point x="131.667" y="494.333" type="curve" smooth="yes"/>
-      <point x="101" y="494.333"/>
+      <point x="256.667" y="637.001" type="curve" smooth="yes"/>
+      <point x="256.667" y="562.001"/>
+      <point x="271" y="500.001"/>
+      <point x="295" y="450.001" type="curve"/>
+      <point x="256.334" y="474.667"/>
+      <point x="204.667" y="494.334"/>
+      <point x="131.667" y="494.334" type="curve" smooth="yes"/>
+      <point x="101" y="494.334"/>
       <point x="77" y="469.667"/>
       <point x="77" y="440" type="curve" smooth="yes"/>
-      <point x="77" y="410.333"/>
+      <point x="77" y="410.334"/>
       <point x="100" y="387.667"/>
       <point x="131.667" y="387.667" type="curve" smooth="yes"/>
       <point x="200.667" y="387.667"/>
-      <point x="254.333" y="403.667"/>
+      <point x="254.334" y="403.667"/>
       <point x="295" y="430" type="curve"/>
       <point x="295" y="341"/>
       <point x="280" y="279"/>
@@ -32,27 +32,27 @@
       <point x="315.333" y="-207" type="line"/>
       <point x="315.333" y="2"/>
       <point x="331.333" y="153"/>
-      <point x="362.333" y="245" type="curve"/>
+      <point x="362.334" y="245" type="curve"/>
       <point x="330.333" y="285"/>
-      <point x="315.167" y="347.833"/>
+      <point x="315.166" y="347.834"/>
       <point x="315.333" y="430" type="curve"/>
       <point x="358.167" y="403.167"/>
       <point x="412.667" y="387.667"/>
       <point x="478.667" y="387.667" type="curve" smooth="yes"/>
       <point x="510.333" y="387.667"/>
-      <point x="534.333" y="410.333"/>
+      <point x="534.333" y="410.334"/>
       <point x="534.333" y="440" type="curve" smooth="yes"/>
       <point x="534.333" y="469.667"/>
-      <point x="510.333" y="494.333"/>
-      <point x="478.667" y="494.333" type="curve" smooth="yes"/>
-      <point x="412.667" y="494.333"/>
+      <point x="510.333" y="494.334"/>
+      <point x="478.667" y="494.334" type="curve" smooth="yes"/>
+      <point x="412.667" y="494.334"/>
       <point x="358.167" y="477.667"/>
-      <point x="315.333" y="450" type="curve"/>
-      <point x="339.333" y="499"/>
-      <point x="353.667" y="561"/>
-      <point x="353.667" y="637" type="curve" smooth="yes"/>
+      <point x="315.333" y="450.001" type="curve"/>
+      <point x="339.333" y="499.001"/>
+      <point x="353.667" y="561.001"/>
+      <point x="353.667" y="637.001" type="curve" smooth="yes"/>
       <point x="353.667" y="670.667"/>
-      <point x="332" y="697"/>
+      <point x="332" y="697.001"/>
     </contour>
   </outline>
   <lib>
@@ -62,15 +62,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>42c9528aa2d314b5ed370083e93db7d5d9d2819aca0634bfb89226f931253f7760f9b8294faddbd83879a1820161808d63945745b71b128e3e0f473f5bde5c3f</string>
+    <string>c70750bd49b4a2092867768f712043ad5d74f7c08abcf249ff1dd177effef3c935d9f063d2422761a4da953bcdc3805666eb769eea94c5dc714b7d797188e6ea</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -186 -21</string>
           <string>hstem 387.67 106.67</string>
-          <string>hstem 697 -20</string>
-          <string>vstem 295 20.33</string>
+          <string>hstem 430 -20</string>
+          <string>hstem 697. -20</string>
+          <string>vstem 77 238.33</string>
+          <string>vstem 256.67 97</string>
+          <string>vstem 295 239.33</string>
         </array>
       </dict>
     </array>

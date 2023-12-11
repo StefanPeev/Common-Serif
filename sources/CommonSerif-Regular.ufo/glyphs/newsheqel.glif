@@ -4,36 +4,36 @@
   <unicode hex="20AA"/>
   <outline>
     <contour>
-      <point x="797.042" y="311.325" type="line"/>
-      <point x="797.042" y="102.496"/>
-      <point x="705.157" y="0"/>
-      <point x="518.593" y="0" type="curve" smooth="yes"/>
-      <point x="277.285" y="0" type="line"/>
-      <point x="277.285" y="412.638" type="line"/>
-      <point x="362.473" y="412.638" type="line"/>
-      <point x="362" y="90" type="line"/>
-      <point x="551.708" y="89.5539" type="line" smooth="yes"/>
-      <point x="657" y="90"/>
-      <point x="711.854" y="155.274"/>
-      <point x="711.854" y="315.046" type="curve" smooth="yes"/>
+      <point x="797.043" y="311.325" type="curve" smooth="yes"/>
+      <point x="797.043" y="658" type="line"/>
       <point x="711.854" y="658" type="line"/>
-      <point x="797.042" y="658" type="line"/>
+      <point x="711.854" y="315.046" type="line" smooth="yes"/>
+      <point x="711.854" y="155.274"/>
+      <point x="657" y="89.306"/>
+      <point x="551.707" y="89.554" type="curve" smooth="yes"/>
+      <point x="362.001" y="90" type="line"/>
+      <point x="362.474" y="412.638" type="line"/>
+      <point x="277.285" y="412.638" type="line"/>
+      <point x="277.285" y="0" type="line"/>
+      <point x="518.593" y="0" type="line" smooth="yes"/>
+      <point x="705.158" y="0"/>
+      <point x="797.043" y="102.496"/>
     </contour>
     <contour>
       <point x="579.758" y="245.362" type="line"/>
-      <point x="494.569" y="245.362" type="line"/>
-      <point x="494.569" y="342.954" type="line" smooth="yes"/>
-      <point x="494.569" y="511.141"/>
-      <point x="451.779" y="575.369"/>
-      <point x="319.068" y="575.369" type="curve" smooth="yes"/>
-      <point x="145.189" y="575.369" type="line"/>
-      <point x="145.189" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
-      <point x="60" y="658" type="line"/>
-      <point x="320.308" y="658" type="line" smooth="yes"/>
+      <point x="579.758" y="346.675" type="line" smooth="yes"/>
+      <point x="579.758" y="573.856"/>
       <point x="509.452" y="658"/>
-      <point x="579.758" y="573.857"/>
-      <point x="579.758" y="346.675" type="curve"/>
+      <point x="320.309" y="658" type="curve" smooth="yes"/>
+      <point x="60" y="658" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="145.189" y="0" type="line"/>
+      <point x="145.189" y="575.369" type="line"/>
+      <point x="319.069" y="575.369" type="line" smooth="yes"/>
+      <point x="451.78" y="575.369"/>
+      <point x="494.569" y="511.141"/>
+      <point x="494.569" y="342.954" type="curve" smooth="yes"/>
+      <point x="494.569" y="245.362" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,6 +44,27 @@
   <string>=60</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e9e8614b8e5aebdd8c0d8bfcbd5327635df75a3c9e08a38cc9345343dd5cf2c52074877dbe00df4438fe21c8b4e354e14ae351df30770238c6fb6eaf95018785</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 89.55</string>
+          <string>hstem 575.37 82.63</string>
+          <string>vstem 60 85.19</string>
+          <string>vstem 277.29 85.19</string>
+          <string>vstem 494.57 85.19</string>
+          <string>vstem 711.85 85.19</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

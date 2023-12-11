@@ -4,16 +4,16 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="136.667" y="161" type="line"/>
-      <point x="80.3333" y="161" type="line"/>
-      <point x="80.3333" y="-201" type="line"/>
-      <point x="136.667" y="-201" type="line"/>
+      <point x="136.666" y="161" type="line"/>
+      <point x="80.333" y="161" type="line"/>
+      <point x="80.333" y="-201" type="line"/>
+      <point x="136.666" y="-201" type="line"/>
     </contour>
     <contour>
-      <point x="136.667" y="674" type="line"/>
-      <point x="80.3333" y="674" type="line"/>
-      <point x="80.3333" y="312" type="line"/>
-      <point x="136.667" y="312" type="line"/>
+      <point x="136.666" y="674" type="line"/>
+      <point x="80.333" y="674" type="line"/>
+      <point x="80.333" y="312" type="line"/>
+      <point x="136.666" y="312" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -201 875</string>
+          <string>hstem -180 -21</string>
+          <string>hstem 674 -20</string>
           <string>vstem 80.33 56.33</string>
         </array>
       </dict>

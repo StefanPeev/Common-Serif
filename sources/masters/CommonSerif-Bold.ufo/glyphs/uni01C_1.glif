@@ -3,8 +3,18 @@
   <advance width="298"/>
   <unicode hex="01C1"/>
   <outline>
-    <component base="uni01C0" xOffset="-14"/>
-    <component base="uni01C0" xOffset="109"/>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="698" type="line"/>
+      <point x="59" y="698" type="line"/>
+      <point x="59" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="0" type="line"/>
+      <point x="242" y="698" type="line"/>
+      <point x="182" y="698" type="line"/>
+      <point x="182" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -13,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w298</string>
+    <string>w298m119,0l119,698l59,698l59,0m242,0l242,698l182,698l182,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -21,8 +31,8 @@
         <array>
           <string>hstem 21 -21</string>
           <string>hstem 698 -20</string>
-          <string>vstem 60 60</string>
-          <string>vstem 183 60</string>
+          <string>vstem 59 60</string>
+          <string>vstem 182 60</string>
         </array>
       </dict>
     </array>

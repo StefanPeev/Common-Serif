@@ -5,7 +5,34 @@
   <anchor x="260" y="500" name="t.uni0302"/>
   <anchor x="269" y="-60" name="b.minus-60"/>
   <outline>
-    <component base="o"/>
+    <contour>
+      <point x="41" y="213.574" type="curve" smooth="yes"/>
+      <point x="41" y="103"/>
+      <point x="109" y="-10"/>
+      <point x="251" y="-10" type="curve" smooth="yes"/>
+      <point x="381" y="-10"/>
+      <point x="463" y="87"/>
+      <point x="463" y="212.972" type="curve" smooth="yes"/>
+      <point x="463" y="318"/>
+      <point x="406" y="439"/>
+      <point x="258.09" y="439" type="curve" smooth="yes"/>
+      <point x="119" y="439"/>
+      <point x="41" y="332"/>
+    </contour>
+    <contour>
+      <point x="127" y="231.099" type="curve" smooth="yes"/>
+      <point x="127" y="315"/>
+      <point x="164.305" y="404"/>
+      <point x="246.785" y="404" type="curve" smooth="yes"/>
+      <point x="324" y="404"/>
+      <point x="377" y="326"/>
+      <point x="377" y="182" type="curve" smooth="yes"/>
+      <point x="377" y="56"/>
+      <point x="312" y="25"/>
+      <point x="261.935" y="25" type="curve" smooth="yes"/>
+      <point x="161" y="25"/>
+      <point x="127" y="151"/>
+    </contour>
     <contour>
       <point x="380.573" y="384.566" type="line"/>
       <point x="432.402" y="385.295"/>
@@ -38,13 +65,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>00674104e25fcafcffee46a48c9d852a0728bf45d87bfd88bb30df538a4959024909fbb5b27650632fc12fb3a448275a3f5b0cc8b28f6eeca441e8bd20493b68</string>
+    <string>f262c2698cb93638c676e5dcfc31e813199bf5b2d83e61c1905c7de0747b0dac0ad822f8b2099cc3f54c3725fd05c2f09d3649c773854d5c1f71d61e65c9e28d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 430 34</string>
+          <string>hstem -10 35</string>
+          <string>hstem 404 35</string>
+          <string>hstem 477.4 83.6</string>
+          <string>vstem 41 86</string>
+          <string>vstem 354 109</string>
+          <string>vstem 377 86</string>
+          <string>vstem 430 33</string>
         </array>
       </dict>
     </array>

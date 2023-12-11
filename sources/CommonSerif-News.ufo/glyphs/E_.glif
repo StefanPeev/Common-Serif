@@ -8,26 +8,26 @@
   <anchor x="358.833" y="0" name="b.cedilla"/>
   <outline>
     <contour>
-      <point x="20.3333" y="-2" type="curve"/>
-      <point x="59.3333" y="-1"/>
+      <point x="20.333" y="-2" type="curve"/>
+      <point x="59.333" y="-1"/>
       <point x="125.75" y="0"/>
       <point x="154.5" y="0" type="curve"/>
       <point x="154.5" y="645" type="line"/>
       <point x="127.833" y="645"/>
       <point x="62" y="646"/>
-      <point x="20.3333" y="647" type="curve"/>
-      <point x="14.3333" y="641"/>
-      <point x="14.3333" y="619.833"/>
-      <point x="20.3333" y="613.833" type="curve"/>
-      <point x="90.3333" y="610.833"/>
+      <point x="20.333" y="647" type="curve"/>
+      <point x="14.333" y="641"/>
+      <point x="14.333" y="619.833"/>
+      <point x="20.333" y="613.833" type="curve"/>
+      <point x="90.333" y="610.833"/>
       <point x="107.333" y="604.167"/>
       <point x="107.333" y="526.167" type="curve" smooth="yes"/>
       <point x="107.333" y="120.5" type="line" smooth="yes"/>
       <point x="107.333" y="39"/>
-      <point x="90.3333" y="34.1667"/>
-      <point x="20.3333" y="31.1667" type="curve"/>
-      <point x="14.3333" y="25.1667"/>
-      <point x="14.3333" y="4"/>
+      <point x="90.333" y="34.167"/>
+      <point x="20.333" y="31.167" type="curve"/>
+      <point x="14.333" y="25.167"/>
+      <point x="14.333" y="4"/>
     </contour>
     <contour>
       <point x="154.5" y="0" type="line"/>
@@ -46,10 +46,10 @@
       <point x="368.5" y="39.5" type="curve" smooth="yes"/>
       <point x="255" y="39.5" type="line" smooth="yes"/>
       <point x="216.333" y="39.5"/>
-      <point x="201.5" y="56.3333"/>
+      <point x="201.5" y="56.333"/>
       <point x="201.5" y="100" type="curve" smooth="yes"/>
       <point x="201.5" y="543.167" type="line" smooth="yes"/>
-      <point x="201.5" y="583.833"/>
+      <point x="201.5" y="583.834"/>
       <point x="214.333" y="604.667"/>
       <point x="263.333" y="604.667" type="curve" smooth="yes"/>
       <point x="340" y="604.667" type="line" smooth="yes"/>
@@ -71,11 +71,11 @@
       <point x="154.5" y="645" type="line"/>
     </contour>
     <contour>
-      <point x="290.833" y="361.667" type="curve" smooth="yes"/>
-      <point x="186.5" y="361.667" type="line"/>
+      <point x="290.833" y="361.666" type="curve" smooth="yes"/>
+      <point x="186.5" y="361.666" type="line"/>
       <point x="186.5" y="322.333" type="line"/>
       <point x="290.833" y="322.333" type="line" smooth="yes"/>
-      <point x="373.167" y="322.333"/>
+      <point x="373.166" y="322.333"/>
       <point x="378.833" y="300"/>
       <point x="381.833" y="255" type="curve"/>
       <point x="387.833" y="249"/>
@@ -83,15 +83,15 @@
       <point x="416.5" y="255" type="curve"/>
       <point x="415.5" y="282.5"/>
       <point x="414.5" y="309"/>
-      <point x="414.5" y="343" type="curve" smooth="yes"/>
-      <point x="414.5" y="372"/>
+      <point x="414.5" y="342.999" type="curve" smooth="yes"/>
+      <point x="414.5" y="371.999"/>
       <point x="415.5" y="404"/>
       <point x="416.5" y="429" type="curve"/>
       <point x="410.5" y="435"/>
       <point x="387.833" y="435"/>
       <point x="381.833" y="429" type="curve"/>
-      <point x="378.833" y="374"/>
-      <point x="372.833" y="361.667"/>
+      <point x="378.833" y="373.999"/>
+      <point x="372.833" y="361.666"/>
     </contour>
   </outline>
   <lib>
@@ -103,18 +103,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>230d52003b44e99561c6cad12172fadb214513b52a0dbfdfc1b43902b23775a138353b170d92cf71817d16c78ec56d30bf46a3036355378e6d1d5db428c40570</string>
+    <string>472e0460e9b75ef0253dc120d99f06b159107024fea6bb0965e68879e6fa26f01d24af95a293e8120ec45ab04b484bdd2f6c6614e90f4a1acf484119b5484837</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 33.17</string>
           <string>hstem 0 39.5</string>
           <string>hstem 322.33 39.33</string>
-          <string>hstem 429. -20</string>
           <string>hstem 604.67 40.33</string>
+          <string>hstem 613.83 33.17</string>
           <string>hstem 649 -20</string>
           <string>vstem 107.33 94.17</string>
+          <string>vstem 381.83 34.67</string>
         </array>
       </dict>
     </array>

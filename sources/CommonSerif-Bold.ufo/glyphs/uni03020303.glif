@@ -26,7 +26,7 @@
       <point x="-181" y="604"/>
     </contour>
     <contour>
-      <point x="-187.312" y="744.734" type="curve"/>
+      <point x="-187.312" y="744.734" type="curve" smooth="yes"/>
       <point x="-245.676" y="744.734"/>
       <point x="-242.823" y="779.685"/>
       <point x="-302.921" y="779.685" type="curve" smooth="yes"/>
@@ -52,5 +52,26 @@
       <point x="-174.765" y="744.734"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-246" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b5143d33c93c4911d88159c40dc6f00486db4048f37d6725ff3ff26edfb63d2a1e8e8a134ca4acdaff0f16b3fbca49b65359e12eba4b5c8ef71fcf93ce74a618</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 672 72.73</string>
+          <string>hstem 706.05 73.63</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

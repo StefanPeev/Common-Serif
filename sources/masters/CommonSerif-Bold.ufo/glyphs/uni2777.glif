@@ -33,10 +33,10 @@
       <point x="469" y="345" type="curve" smooth="yes"/>
       <point x="455" y="330"/>
       <point x="431" y="308"/>
-      <point x="413" y="292" type="curve" smooth="yes"/>
+      <point x="413" y="292" type="curve"/>
       <point x="411" y="290"/>
       <point x="408" y="288"/>
-      <point x="406" y="286" type="curve" smooth="yes"/>
+      <point x="406" y="286" type="curve"/>
       <point x="394" y="276"/>
       <point x="382" y="265"/>
       <point x="370" y="255" type="curve" smooth="yes"/>
@@ -56,13 +56,13 @@
       <point x="254" y="153" type="line"/>
       <point x="254" y="195"/>
       <point x="279" y="234"/>
-      <point x="313" y="268" type="curve" smooth="yes"/>
+      <point x="313" y="268" type="curve"/>
       <point x="325" y="279"/>
       <point x="338" y="291"/>
-      <point x="350" y="302" type="curve" smooth="yes"/>
+      <point x="350" y="302" type="curve"/>
       <point x="357" y="309"/>
       <point x="365" y="315"/>
-      <point x="372" y="322" type="curve" smooth="yes"/>
+      <point x="372" y="322" type="curve"/>
       <point x="398" y="346"/>
       <point x="409" y="375"/>
       <point x="409" y="397" type="curve"/>
@@ -77,7 +77,7 @@
       <point x="369" y="468" type="curve" smooth="yes"/>
       <point x="347" y="468"/>
       <point x="336" y="463"/>
-      <point x="331" y="450" type="curve" smooth="yes"/>
+      <point x="331" y="450" type="curve"/>
       <point x="330" y="446"/>
       <point x="330" y="433"/>
       <point x="330" y="427" type="curve" smooth="yes"/>
@@ -111,13 +111,11 @@
         <key>stems</key>
         <array>
           <string>hstem -15 168</string>
-          <string>hstem 210 162</string>
           <string>hstem 468 -20</string>
           <string>hstem 498 148</string>
           <string>vstem 49 203</string>
-          <string>vstem 330 79</string>
+          <string>vstem 49 205</string>
           <string>vstem 498 209</string>
-          <string>vstem 519 188</string>
         </array>
       </dict>
     </array>

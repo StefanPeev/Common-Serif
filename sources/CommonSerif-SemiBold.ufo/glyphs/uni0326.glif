@@ -4,9 +4,9 @@
   <anchor x="-253.667" y="-60" name="_b.minus-60"/>
   <outline>
     <contour>
-      <point x="-253.333" y="-60.1339" type="curve" smooth="yes"/>
-      <point x="-279.978" y="-60.1339"/>
-      <point x="-303.882" y="-77.2981"/>
+      <point x="-253.333" y="-60.134" type="curve" smooth="yes"/>
+      <point x="-279.978" y="-60.134"/>
+      <point x="-303.882" y="-77.298"/>
       <point x="-303.882" y="-103.349" type="curve" smooth="yes"/>
       <point x="-303.882" y="-126.917"/>
       <point x="-287.243" y="-138.633"/>
@@ -15,16 +15,16 @@
       <point x="-238.333" y="-146.801"/>
       <point x="-238.333" y="-166.801" type="curve" smooth="yes"/>
       <point x="-238.333" y="-184.801"/>
-      <point x="-263.667" y="-208.801"/>
+      <point x="-263.666" y="-208.801"/>
       <point x="-306.667" y="-219.801" type="curve"/>
       <point x="-309.333" y="-230.801"/>
       <point x="-308.667" y="-240.467"/>
       <point x="-300" y="-246.467" type="curve"/>
-      <point x="-235.667" y="-235.467"/>
-      <point x="-184.667" y="-198.801"/>
-      <point x="-184.667" y="-140.801" type="curve" smooth="yes"/>
-      <point x="-184.667" y="-81.4672"/>
-      <point x="-219.333" y="-60.1339"/>
+      <point x="-235.666" y="-235.467"/>
+      <point x="-184.666" y="-198.801"/>
+      <point x="-184.666" y="-140.801" type="curve" smooth="yes"/>
+      <point x="-184.666" y="-81.467"/>
+      <point x="-219.333" y="-60.134"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +40,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -225.47 -21</string>
+          <string>hstem -60.13 -20</string>
+          <string>vstem -303.88 119.22</string>
           <string>vstem -238.33 53.67</string>
         </array>
       </dict>

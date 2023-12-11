@@ -6,17 +6,17 @@
   <outline>
     <contour>
       <point x="21" y="-2" type="curve"/>
-      <point x="60.1667" y="-1"/>
-      <point x="119.667" y="0"/>
+      <point x="60.166" y="-1"/>
+      <point x="119.666" y="0"/>
       <point x="154.667" y="0" type="curve" smooth="yes"/>
       <point x="850.833" y="0" type="line" smooth="yes"/>
       <point x="889.167" y="0"/>
-      <point x="945.333" y="-1"/>
+      <point x="945.334" y="-1"/>
       <point x="984.5" y="-2" type="curve"/>
       <point x="991.167" y="4"/>
-      <point x="991.167" y="25.1667"/>
-      <point x="984.5" y="31.1667" type="curve"/>
-      <point x="917" y="34.1667"/>
+      <point x="991.167" y="25.167"/>
+      <point x="984.5" y="31.167" type="curve"/>
+      <point x="917" y="34.167"/>
       <point x="898.167" y="39"/>
       <point x="898.167" y="122" type="curve" smooth="yes"/>
       <point x="898.167" y="523" type="line" smooth="yes"/>
@@ -28,7 +28,7 @@
       <point x="984.5" y="647" type="curve"/>
       <point x="944.5" y="646"/>
       <point x="888" y="645"/>
-      <point x="851.333" y="645" type="curve" smooth="yes"/>
+      <point x="851.334" y="645" type="curve" smooth="yes"/>
       <point x="814.667" y="645"/>
       <point x="756.833" y="646"/>
       <point x="717.667" y="647" type="curve"/>
@@ -40,10 +40,10 @@
       <point x="804" y="523" type="curve" smooth="yes"/>
       <point x="804" y="122" type="line" smooth="yes"/>
       <point x="804" y="42"/>
-      <point x="788.5" y="37.8333"/>
-      <point x="732.667" y="37.8333" type="curve" smooth="yes"/>
-      <point x="607.833" y="37.8333" type="line" smooth="yes"/>
-      <point x="567" y="37.8333"/>
+      <point x="788.5" y="37.833"/>
+      <point x="732.667" y="37.833" type="curve" smooth="yes"/>
+      <point x="607.834" y="37.833" type="line" smooth="yes"/>
+      <point x="567" y="37.833"/>
       <point x="548.167" y="42"/>
       <point x="548.167" y="122" type="curve" smooth="yes"/>
       <point x="548.167" y="523" type="line" smooth="yes"/>
@@ -53,7 +53,7 @@
       <point x="641.167" y="619.833"/>
       <point x="641.167" y="641"/>
       <point x="634.5" y="647" type="curve"/>
-      <point x="595.333" y="646"/>
+      <point x="595.334" y="646"/>
       <point x="538" y="645"/>
       <point x="500.5" y="645" type="curve" smooth="yes"/>
       <point x="463.833" y="645"/>
@@ -67,10 +67,10 @@
       <point x="454" y="523" type="curve" smooth="yes"/>
       <point x="454" y="122" type="line" smooth="yes"/>
       <point x="454" y="42"/>
-      <point x="437.667" y="37.8333"/>
-      <point x="397.667" y="37.8333" type="curve" smooth="yes"/>
-      <point x="264.5" y="37.8333" type="line" smooth="yes"/>
-      <point x="220.333" y="37.8333"/>
+      <point x="437.667" y="37.833"/>
+      <point x="397.667" y="37.833" type="curve" smooth="yes"/>
+      <point x="264.5" y="37.833" type="line" smooth="yes"/>
+      <point x="220.333" y="37.833"/>
       <point x="201.5" y="42"/>
       <point x="201.5" y="122" type="curve" smooth="yes"/>
       <point x="201.5" y="523" type="line" smooth="yes"/>
@@ -86,18 +86,18 @@
       <point x="118" y="645"/>
       <point x="61" y="646"/>
       <point x="21" y="647" type="curve"/>
-      <point x="14.3333" y="641"/>
-      <point x="14.3333" y="619.833"/>
+      <point x="14.333" y="641"/>
+      <point x="14.333" y="619.833"/>
       <point x="21" y="613.833" type="curve"/>
       <point x="88.5" y="610.833"/>
       <point x="107.333" y="606"/>
       <point x="107.333" y="523" type="curve" smooth="yes"/>
       <point x="107.333" y="122" type="line" smooth="yes"/>
       <point x="107.333" y="39"/>
-      <point x="88.5" y="34.1667"/>
-      <point x="21" y="31.1667" type="curve"/>
-      <point x="14.3333" y="25.1667"/>
-      <point x="14.3333" y="4"/>
+      <point x="88.5" y="34.167"/>
+      <point x="21" y="31.167" type="curve"/>
+      <point x="14.333" y="25.167"/>
+      <point x="14.333" y="4"/>
     </contour>
   </outline>
   <lib>
@@ -113,8 +113,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 33.17</string>
           <string>hstem 0 37.83</string>
-          <string>hstem 647 -20</string>
+          <string>hstem 613.83 33.17</string>
+          <string>hstem 645 -20</string>
           <string>vstem 107.33 94.17</string>
           <string>vstem 454 94.17</string>
           <string>vstem 804 94.17</string>

@@ -195,50 +195,6 @@ lookup calt_2 {
 #
 # Feature definitions
 #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 3
@@ -316,50 +272,6 @@ feature locl {
     } locl_cyrlBGR;
 
 } locl;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -367,50 +279,6 @@ feature sups {
   sub @frac_sups by @frac_sups2;
 
 } sups;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -418,50 +286,6 @@ feature subs {
   sub @frac_subs by @frac_subs2;
 
 } subs;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -469,50 +293,6 @@ feature case {
   sub @case by @case2;
 
 } case;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature smcp {
 # GSUB feature: Small Capitals
 # Lookups: 3
@@ -756,50 +536,6 @@ feature smcp {
   script grek; # Greek
 
 } smcp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature c2sc {
 # GSUB feature: Small Capitals From Capitals
 # Lookups: 1
@@ -1030,50 +766,6 @@ feature c2sc {
   sub Udieresis.alt by udieresis.sc;
 
 } c2sc;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature hlig {
 # GSUB feature: Historical Ligatures
 # Lookups: 1
@@ -1082,50 +774,6 @@ feature hlig {
   sub s t by s_t;
 
 } hlig;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -1187,50 +835,6 @@ feature dlig {
   sub uni044F grave by uni044F0300;
 
 } dlig;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature onum {
 # GSUB feature: Oldstyle Figures
 # Lookups: 1
@@ -1238,50 +842,6 @@ feature onum {
   sub @frac_onum by @onum;
 
 } onum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature lnum {
 # GSUB feature: Lining Figures
 # Lookups: 1
@@ -1289,50 +849,6 @@ feature lnum {
   sub @lnum by @lnum2;
 
 } lnum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -1340,50 +856,6 @@ feature pnum {
   sub @pnum by @pnum2;
 
 } pnum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -1391,50 +863,6 @@ feature tnum {
   sub @tnum by @tnum2;
 
 } tnum;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature zero {
 # GSUB feature: Slashed Zero
 # Lookups: 1
@@ -1442,50 +870,6 @@ feature zero {
   sub [zero zero.fitted zero.cap zero.cap.fitted] by [zero.slash zero.slash.fitted zero.slash.cap zero.slash.cap.fitted];
 
 } zero;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 3
@@ -1496,50 +880,6 @@ feature salt {
   sub [phi uni0431] by [phi1 uni0431.ital];
 
 } salt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 1
@@ -1548,50 +888,6 @@ feature ccmp {
   sub @ccmp2 @ccmp' lookup ccmp_2;
 
 } ccmp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -1603,50 +899,6 @@ feature ss01 {
   sub [Adieresis Odieresis Udieresis] by [Adieresis.alt Odieresis.alt Udieresis.alt];
 
 } ss01;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -1658,50 +910,6 @@ feature ss02 {
   sub [J K R] by [J.alt K.alt R.alt];
 
 } ss02;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -1713,50 +921,6 @@ feature ss03 {
   sub [germandbls uni1E9E germandbls.sc] by [germandbls.ss03 uni1E9E.alt germandbls.scalt];
 
 } ss03;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -1768,50 +932,6 @@ feature ss04 {
   sub [uni1E9E germandbls.sc] by [uni1E9E.alt germandbls.scalt];
 
 } ss04;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss05 {
 # GSUB feature: Stylistic Set 5
 # Lookups: 1
@@ -1823,50 +943,6 @@ feature ss05 {
   sub W by W.alt;
 
 } ss05;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -1878,50 +954,6 @@ feature ss06 {
   sub ampersand by ampersand.alt;
 
 } ss06;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature ss07 {
 # GSUB feature: Stylistic Set 7
 # Lookups: 1
@@ -1933,50 +965,6 @@ feature ss07 {
   sub [Eng eng.sc Eng.UCStyle Eng.UCStyle.sc] by [Eng.UCStyle Eng.UCStyle.sc Eng eng.sc];
 
 } ss07;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -2011,50 +999,6 @@ feature liga {
   sub longs t by longs_t;
 
 } liga;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -2071,50 +1015,6 @@ feature calt {
 	sub uni0457.calt uni0457' by uni0457.calt;
 
 } calt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature cpsp {
 # GPOS feature: Capital Spacing
 # Lookups: 1
@@ -2123,50 +1023,6 @@ feature cpsp {
   pos I <2 0 6 0>;
 
 } cpsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature mark {
 #> feature
 # GPOS feature : Mark Positioning
@@ -3562,49 +2418,6 @@ feature mark {
   lookup markLTR6;
 #< feature
 } mark;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature mkmk {
 #> feature
 # GPOS feature : Mark to Mark Positioning
@@ -3688,42 +2501,6 @@ feature mkmk {
   lookup mkmkLTR2;
 #< feature
 } mkmk;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 feature numr {
 # Numerator
 
@@ -3740,7 +2517,6 @@ feature numr {
   sub zero by zero.numr;
 #< feature
 } numr;
-
 feature dnom {
 # Denominator
 
@@ -3757,7 +2533,6 @@ feature dnom {
   sub zero by zero.dnom;
 #< feature
 } dnom;
-
 feature ordn {
 # Ordinals
 
@@ -3767,7 +2542,6 @@ feature ordn {
   sub N o period by uni2116;
 #< feature
 } ordn;
-
 feature hist {
 # Historical Forms
 
@@ -3775,7 +2549,6 @@ feature hist {
   sub s by longs;
 #< feature
 } hist;
-
 feature sinf {
 # Scientific Inferiors
 
@@ -3819,7 +2592,6 @@ feature sinf {
   sub zero by uni2080;
 #< feature
 } sinf;
-
 feature frac {
 # Fractions
 
@@ -3906,4 +2678,3 @@ lookup frac_space {
 } frac_space;
 #< feature
 } frac;
-

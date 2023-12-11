@@ -16,18 +16,33 @@
       <point x="175" y="554.667" type="curve"/>
       <point x="140.5" y="591"/>
       <point x="108.667" y="616.667"/>
-      <point x="69.6667" y="643.667" type="curve"/>
-      <point x="49.8333" y="629.833" type="line"/>
-      <point x="84.8333" y="591.5"/>
+      <point x="69.667" y="643.667" type="curve"/>
+      <point x="49.833" y="629.833" type="line"/>
+      <point x="84.833" y="591.5"/>
       <point x="121.667" y="546.833"/>
     </contour>
   </outline>
-  <guideline angle="90" x="175" y="0"/>
-  <guideline angle="0" x="0" y="643"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>=350</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d6078a40cbb7a45f0e23ee414665a4b36b97129bb456770265da804816aea48fca62cbddfb7446310229781880a31185778d624d2a600c17db91b9e2d4814554</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 643.67 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

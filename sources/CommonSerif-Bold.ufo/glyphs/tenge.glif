@@ -75,12 +75,12 @@
     </contour>
     <contour>
       <point x="428.052" y="597.103" type="line"/>
-      <point x="611.877" y="597.177" type="line" smooth="yes"/>
+      <point x="611.877" y="597.178" type="line" smooth="yes"/>
       <point x="622.865" y="597.182"/>
-      <point x="637" y="608.573"/>
-      <point x="637" y="626.028" type="curve" smooth="yes"/>
+      <point x="637" y="608.574"/>
+      <point x="637" y="626.029" type="curve" smooth="yes"/>
       <point x="637" y="635.384"/>
-      <point x="633.567" y="645.116"/>
+      <point x="633.567" y="645.117"/>
       <point x="626.877" y="645.116" type="curve" smooth="yes"/>
       <point x="428.052" y="645.103" type="line"/>
     </contour>
@@ -89,14 +89,13 @@
       <point x="203.722" y="597.638" type="line"/>
       <point x="203.854" y="644.874" type="line"/>
       <point x="42" y="644.874" type="line" smooth="yes"/>
-      <point x="33.0155" y="644.874"/>
+      <point x="33.016" y="644.874"/>
       <point x="17" y="634.324"/>
-      <point x="17" y="613.621" type="curve" smooth="yes"/>
+      <point x="17" y="613.622" type="curve" smooth="yes"/>
       <point x="17" y="605.315"/>
       <point x="20.246" y="597.638"/>
     </contour>
   </outline>
-  <guideline angle="90" x="308" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
@@ -106,13 +105,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>37d207e2ffa5120fd434f2422a3323de2f5c1cc8dd33e64872d199cfc8a1a00d1de44556b261ca33be16a0dbe6ec1b5679ef53f91af9f6fcd3f749490b6ee7e5</string>
+    <string>548183961bf5f4be5a669a251aad89d065b0a8851c77b8149f2075a240a7a0213330af62090852c6c512c36ce6ee6a9d1c93fd3dc72379e24024f643cf585871</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -2 34</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 484 41</string>
           <string>hstem 597.12 48</string>
           <string>vstem 265 140</string>
         </array>

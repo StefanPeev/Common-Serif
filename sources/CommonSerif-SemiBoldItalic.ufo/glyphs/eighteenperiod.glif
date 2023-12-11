@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eighteenperiod" format="2">
-  <advance width="491"/>
+  <advance width="1205"/>
   <unicode hex="2499"/>
   <outline>
     <component base="one"/>
-    <component base="eight" xOffset="10.9336"/>
-    <component base="period" xScale="1" xOffset="143.407"/>
+    <component base="eight" xOffset="490.667"/>
+    <component base="period" xScale="1" xOffset="981.333"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>one+eight+period</string>
+  <string>one_eight_period</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

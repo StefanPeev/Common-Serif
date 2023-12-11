@@ -14,13 +14,13 @@
     </contour>
     <contour>
       <point x="378.723" y="318.957" type="line"/>
-      <point x="534.877" y="319.031" type="line" smooth="yes"/>
+      <point x="534.877" y="319.032" type="line" smooth="yes"/>
       <point x="545.865" y="319.037"/>
-      <point x="560" y="330.427"/>
-      <point x="560" y="347.882" type="curve" smooth="yes"/>
+      <point x="560" y="330.428"/>
+      <point x="560" y="347.883" type="curve" smooth="yes"/>
       <point x="560" y="357.238"/>
       <point x="556.567" y="366.97"/>
-      <point x="549.877" y="366.97" type="curve" smooth="yes"/>
+      <point x="549.877" y="366.97" type="curve"/>
       <point x="378.723" y="366.957" type="line"/>
     </contour>
     <contour>
@@ -28,9 +28,9 @@
       <point x="201.72" y="319.492" type="line"/>
       <point x="201.853" y="366.728" type="line"/>
       <point x="55" y="366.728" type="line" smooth="yes"/>
-      <point x="46.0155" y="366.728"/>
+      <point x="46.016" y="366.728"/>
       <point x="30" y="356.178"/>
-      <point x="30" y="335.475" type="curve" smooth="yes"/>
+      <point x="30" y="335.476" type="curve" smooth="yes"/>
       <point x="30" y="327.169"/>
       <point x="33.246" y="319.492"/>
     </contour>
@@ -39,6 +39,22 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>K</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ecd0b6416a2d657ad2fedce83ebb30bed0c07286d09cf24533d2b1ecadf5075504de2298710dc13ddaf0d43299b517a4d02ee9effd34a5c34a5f22721fd59e8c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 318.97 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

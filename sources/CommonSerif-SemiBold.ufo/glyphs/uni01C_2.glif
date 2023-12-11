@@ -3,18 +3,23 @@
   <advance width="346"/>
   <unicode hex="01C2"/>
   <outline>
-    <component base="uni01C0" xScale="1" xOffset="61.6667"/>
     <contour>
-      <point x="25" y="429.667" type="line"/>
+      <point x="25" y="429.666" type="line"/>
       <point x="25" y="392.333" type="line"/>
-      <point x="304.333" y="392.333" type="line"/>
-      <point x="304.333" y="429.667" type="line"/>
+      <point x="304.334" y="392.333" type="line"/>
+      <point x="304.334" y="429.666" type="line"/>
     </contour>
     <contour>
       <point x="25" y="326.333" type="line"/>
       <point x="25" y="289" type="line"/>
-      <point x="304.333" y="289" type="line"/>
-      <point x="304.333" y="326.333" type="line"/>
+      <point x="304.334" y="289" type="line"/>
+      <point x="304.334" y="326.333" type="line"/>
+    </contour>
+    <contour>
+      <point x="187.667" y="-3.333" type="line"/>
+      <point x="187.667" y="697.999" type="line"/>
+      <point x="134.667" y="697.999" type="line"/>
+      <point x="134.667" y="-3.333" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,14 +29,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w346m25,429.67l25,392.33l304.33,392.33l304.33,429.67m25,326.33l25,289l304.33,289l304.33,326.33</string>
+    <string>84843ac2d4339213a3c63bfc5ec5e606a55a110ed1ef4ff828c9e27a80bec3ca4aa755abdb6bff0fc64c9c1621810e5b0c631efda8fb499b70146596bf8adf06</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 17.67 -21</string>
           <string>hstem 289 37.33</string>
           <string>hstem 392.33 37.33</string>
+          <string>hstem 698. -20</string>
+          <string>vstem 134.67 53</string>
         </array>
       </dict>
     </array>

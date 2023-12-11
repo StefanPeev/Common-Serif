@@ -3,18 +3,71 @@
   <advance width="290"/>
   <unicode hex="2086"/>
   <outline>
-    <component base="uni2076" xOffset="0.4566" yOffset="-624"/>
+    <contour>
+      <point x="259.457" y="-63" type="curve" smooth="yes"/>
+      <point x="259.457" y="-4.595"/>
+      <point x="221.862" y="33"/>
+      <point x="163.506" y="33" type="curve" smooth="yes"/>
+      <point x="136.108" y="33"/>
+      <point x="104.482" y="20.025"/>
+      <point x="86.457" y="2" type="curve"/>
+      <point x="97.457" y="60"/>
+      <point x="132.457" y="127"/>
+      <point x="241.457" y="146" type="curve"/>
+      <point x="241.457" y="165" type="line"/>
+      <point x="88.457" y="154"/>
+      <point x="30.457" y="51"/>
+      <point x="30.457" y="-31" type="curve" smooth="yes"/>
+      <point x="30.457" y="-112.788"/>
+      <point x="77.048" y="-164"/>
+      <point x="151.457" y="-164" type="curve" smooth="yes"/>
+      <point x="215.179" y="-164"/>
+      <point x="259.457" y="-122.433"/>
+    </contour>
+    <contour>
+      <point x="202.457" y="-68" type="curve" smooth="yes"/>
+      <point x="202.457" y="-106"/>
+      <point x="195.457" y="-140"/>
+      <point x="151.457" y="-140" type="curve" smooth="yes"/>
+      <point x="123.457" y="-140"/>
+      <point x="83.457" y="-117"/>
+      <point x="83.457" y="-33" type="curve" smooth="yes"/>
+      <point x="83.457" y="-27"/>
+      <point x="83.457" y="-19"/>
+      <point x="84.457" y="-14" type="curve"/>
+      <point x="105.457" y="3"/>
+      <point x="127.457" y="9"/>
+      <point x="141.457" y="9" type="curve" smooth="yes"/>
+      <point x="198.457" y="9"/>
+      <point x="202.457" y="-46"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="-160"/>
-  <guideline angle="0" x="0" y="161"/>
-  <guideline angle="0" x="0" y="165"/>
-  <guideline angle="0" x="0" y="-164"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni2076</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni2076</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7e91a2182cd43d9e4c02250949e46fae4e9b9d12d8ea32a4b4194bb78f70c5173174e88cd44a50e3ebc844812e5aee8300fa35e90972d47083be5f712c7f6a90</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -164 24</string>
+          <string>hstem 9 24</string>
+          <string>hstem 9 156</string>
+          <string>vstem 30.46 53.</string>
+          <string>vstem 202.46 57</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

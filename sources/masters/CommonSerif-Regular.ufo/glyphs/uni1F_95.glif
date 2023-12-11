@@ -4,6 +4,26 @@
   <unicode hex="1F95"/>
   <outline>
     <contour>
+      <point x="85" y="-9.75849" type="line"/>
+      <point x="95" y="-20" type="line"/>
+      <point x="185" y="-0.0960426" type="line"/>
+      <point x="175" y="311" type="line"/>
+      <point x="175" y="350" type="line" smooth="yes"/>
+      <point x="175" y="413"/>
+      <point x="146.585" y="442"/>
+      <point x="102.208" y="442" type="curve" smooth="yes"/>
+      <point x="71.6444" y="442"/>
+      <point x="45.9826" y="429"/>
+      <point x="28" y="413" type="curve"/>
+      <point x="26" y="407"/>
+      <point x="28" y="391"/>
+      <point x="30" y="385" type="curve"/>
+      <point x="84" y="380"/>
+      <point x="95" y="375"/>
+      <point x="95" y="317" type="curve" smooth="yes"/>
+      <point x="95" y="137.107" type="line"/>
+    </contour>
+    <contour>
       <point x="98" y="-74" type="line"/>
       <point x="98" y="-156" type="line" smooth="yes"/>
       <point x="98" y="-214"/>
@@ -95,23 +115,27 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>02ffaaf340a5370719f963a5906c4f890dad7b7c5eae0e195e58225bb23a946cf7d87816d0cc6f94b1d391a35e8dd4160abe18b503dcea75c8e662681c5928b9</string>
+    <string>f6290822413f79569b1b8b28104f1093644dd1fc20f41ac0037cc0eb0588875c1823136b175b807eb9b0e15d1e3966a1e0bd1134f439a29b5bfc0fcf8367d509</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -238 40</string>
-          <string>hstem -217 -21</string>
-          <string>hstem 11 -21</string>
-          <string>hstem 387 52</string>
-          <string>hstem 442 -20</string>
-          <string>hstem 514 17</string>
+          <string>hstem 385 57</string>
+          <string>hstem 390 52</string>
+          <string>hstem 514 179</string>
           <string>hstem 617 76</string>
           <string>hstem 697 -20</string>
-          <string>vstem 95 79</string>
+          <string>vstem 90 90</string>
+          <string>vstem 95 80</string>
+          <string>vstem 95 85</string>
           <string>vstem 98 75</string>
-          <string>vstem 367 79</string>
+          <string>vstem 176 50</string>
+          <string>vstem 176 107</string>
+          <string>vstem 363 90</string>
+          <string>vstem 368 80</string>
+          <string>vstem 368 85</string>
         </array>
       </dict>
     </array>

@@ -3,31 +3,31 @@
   <anchor x="-244.667" y="500" name="_t.uni0302"/>
   <outline>
     <contour>
-      <point x="-226" y="656.333" type="curve"/>
+      <point x="-226" y="656.334" type="curve"/>
       <point x="-238" y="659.5"/>
-      <point x="-249.333" y="658.833"/>
-      <point x="-261.333" y="656.333" type="curve"/>
+      <point x="-249.333" y="658.834"/>
+      <point x="-261.333" y="656.334" type="curve"/>
       <point x="-290.5" y="610"/>
       <point x="-334.167" y="558"/>
-      <point x="-371.5" y="517.333" type="curve"/>
+      <point x="-371.5" y="517.334" type="curve"/>
       <point x="-366" y="508.167"/>
       <point x="-358.333" y="501.667"/>
       <point x="-349" y="500" type="curve"/>
       <point x="-309" y="523.167"/>
-      <point x="-277.667" y="549.833"/>
+      <point x="-277.667" y="549.834"/>
       <point x="-244.667" y="583" type="curve"/>
       <point x="-213.833" y="551"/>
-      <point x="-179.833" y="524.333"/>
+      <point x="-179.833" y="524.334"/>
       <point x="-141" y="500" type="curve"/>
       <point x="-131.667" y="501.667"/>
       <point x="-122.5" y="510"/>
-      <point x="-117.667" y="517.333" type="curve"/>
-      <point x="-154.333" y="557.833"/>
+      <point x="-117.667" y="517.334" type="curve"/>
+      <point x="-154.333" y="557.834"/>
       <point x="-196.833" y="609"/>
     </contour>
     <contour>
-      <point x="-186.917" y="727.415" type="curve"/>
-      <point x="-232.097" y="727.415"/>
+      <point x="-186.917" y="727.416" type="curve" smooth="yes"/>
+      <point x="-232.097" y="727.416"/>
       <point x="-246.086" y="778.199"/>
       <point x="-290.933" y="778.199" type="curve" smooth="yes"/>
       <point x="-325.55" y="778.199"/>
@@ -45,12 +45,33 @@
       <point x="-160.928" y="670.335"/>
       <point x="-135.581" y="701.978"/>
       <point x="-124.84" y="761.538" type="curve"/>
-      <point x="-128.941" y="766.723"/>
+      <point x="-128.941" y="766.724"/>
       <point x="-137.867" y="770.463"/>
       <point x="-147.476" y="769.615" type="curve"/>
-      <point x="-159.135" y="728.61"/>
-      <point x="-169.79" y="727.415"/>
+      <point x="-159.135" y="728.611"/>
+      <point x="-169.79" y="727.416"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-246" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>007e6ed1b331f659827a96616c57f85e8bef46fb98cab75ec29e2f3c1a8ed3552af544d80359898998390272c99f86b0390b5db0546d775284dba6f42e54a6dc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 670.34 57.08</string>
+          <string>hstem 719.27 58.93</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

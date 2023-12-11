@@ -43,8 +43,28 @@
       <point x="-331" y="574" type="curve" smooth="yes"/>
       <point x="-331" y="584"/>
       <point x="-332" y="590"/>
-      <point x="-337" y="599" type="curve" smooth="yes"/>
+      <point x="-337" y="599" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-238" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d473a4fe348cd8eee5078ad25f86a50459f693300e00422df8fabb3a8f2c5a2c092174b1f159f4ed15d10af6e12cb81e24ba4b4dd7ec113dc8364ed0bf3567b9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 680 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

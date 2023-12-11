@@ -29,8 +29,6 @@
       <point x="71.964" y="500"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="794"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -44,9 +42,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 439 294</string>
+          <string>hstem 521 -21</string>
+          <string>hstem 794 -20</string>
           <string>vstem 44 74</string>
-          <string>vstem 207 10</string>
+          <string>vstem 44 150</string>
         </array>
       </dict>
     </array>

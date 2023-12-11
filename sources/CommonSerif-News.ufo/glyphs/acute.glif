@@ -6,11 +6,11 @@
   <outline>
     <contour>
       <point x="177" y="661.5" type="curve"/>
-      <point x="99.8333" y="540.5" type="line" smooth="yes"/>
-      <point x="92.1667" y="528.167"/>
-      <point x="89.3333" y="521.667"/>
-      <point x="89.3333" y="513.167" type="curve" smooth="yes"/>
-      <point x="89.3333" y="506.333"/>
+      <point x="99.833" y="540.5" type="line" smooth="yes"/>
+      <point x="92.167" y="528.167"/>
+      <point x="89.333" y="521.667"/>
+      <point x="89.333" y="513.167" type="curve" smooth="yes"/>
+      <point x="89.333" y="506.333"/>
       <point x="96.5" y="500"/>
       <point x="103.667" y="500" type="curve" smooth="yes"/>
       <point x="111.167" y="500"/>
@@ -38,7 +38,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 89.33 161.5</string>
+          <string>hstem 521 -21</string>
+          <string>hstem 663.5 -20</string>
         </array>
       </dict>
     </array>

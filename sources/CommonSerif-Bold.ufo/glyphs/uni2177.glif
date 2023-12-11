@@ -3,7 +3,63 @@
   <advance width="1408"/>
   <unicode hex="2177"/>
   <outline>
-    <component base="uni2174"/>
+    <contour>
+      <point x="358" y="402" type="curve"/>
+      <point x="393.487" y="399.371"/>
+      <point x="408.676" y="391.56"/>
+      <point x="408.676" y="372.039" type="curve" smooth="yes"/>
+      <point x="408.676" y="361.855"/>
+      <point x="404.547" y="348.482"/>
+      <point x="397" y="331" type="curve" smooth="yes"/>
+      <point x="320.158" y="153" type="line" smooth="yes"/>
+      <point x="315.327" y="141.81"/>
+      <point x="311.819" y="139.386"/>
+      <point x="307" y="153" type="curve" smooth="yes"/>
+      <point x="244" y="331" type="line" smooth="yes"/>
+      <point x="238.548" y="346.403"/>
+      <point x="230.468" y="373.539"/>
+      <point x="230.468" y="378.887" type="curve" smooth="yes"/>
+      <point x="230.468" y="392.386"/>
+      <point x="240.4" y="398.911"/>
+      <point x="275" y="402" type="curve"/>
+      <point x="281" y="408"/>
+      <point x="281" y="430"/>
+      <point x="275" y="436" type="curve"/>
+      <point x="238" y="435"/>
+      <point x="198" y="434"/>
+      <point x="149" y="434" type="curve" smooth="yes"/>
+      <point x="107.963" y="434"/>
+      <point x="67.015" y="434.586"/>
+      <point x="26" y="436" type="curve"/>
+      <point x="20" y="430"/>
+      <point x="20" y="408"/>
+      <point x="26" y="402" type="curve"/>
+      <point x="66.912" y="396.989"/>
+      <point x="86" y="375"/>
+      <point x="106" y="325" type="curve" smooth="yes"/>
+      <point x="237" y="9" type="line" smooth="yes"/>
+      <point x="243" y="-6"/>
+      <point x="260" y="-12"/>
+      <point x="273" y="-12" type="curve" smooth="yes"/>
+      <point x="283" y="-12"/>
+      <point x="303" y="-10"/>
+      <point x="312" y="11" type="curve" smooth="yes"/>
+      <point x="449" y="324" type="line" smooth="yes"/>
+      <point x="469" y="369"/>
+      <point x="482" y="397"/>
+      <point x="535" y="402" type="curve"/>
+      <point x="541" y="408"/>
+      <point x="541" y="430"/>
+      <point x="535" y="436" type="curve"/>
+      <point x="513" y="435"/>
+      <point x="481" y="434"/>
+      <point x="459" y="434" type="curve" smooth="yes"/>
+      <point x="422" y="434"/>
+      <point x="385" y="435"/>
+      <point x="358" y="436" type="curve"/>
+      <point x="352" y="430"/>
+      <point x="352" y="408"/>
+    </contour>
     <contour>
       <point x="607" y="596" type="curve" smooth="yes"/>
       <point x="607" y="563"/>
@@ -178,13 +234,24 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bf3aab5bbcb4bf5634c8ade593a29c9dcdd7cfaa59f15647164f59dfb1311fc8c67f14d3a62fe9d8515f1d384e8c8ab028b3d85ba2b210de93cebf2dd83b14c0</string>
+    <string>14c7bf0e5f4970b88d19c033c458ac6900b7b1df75edf8ee2e764f096326b55e42b775d663d5cd6059aede927f0072fd7c0ca6f6ddc0bc123ee5aeb6ac300466</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 0 32</string>
+          <string>hstem 9 -21</string>
+          <string>hstem 19 -21</string>
+          <string>hstem 402 34</string>
+          <string>hstem 402 32</string>
           <string>hstem 530 128</string>
+          <string>vstem 607 135</string>
+          <string>vstem 610 130</string>
+          <string>vstem 889 135</string>
+          <string>vstem 892 130</string>
+          <string>vstem 1171 135</string>
+          <string>vstem 1174 130</string>
         </array>
       </dict>
     </array>

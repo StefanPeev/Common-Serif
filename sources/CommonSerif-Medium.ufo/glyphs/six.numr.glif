@@ -2,10 +2,45 @@
 <glyph name="six.numr" format="2">
   <advance width="294"/>
   <outline>
-    <component base="uni2076" xyScale="4.02641e-18" yOffset="-141.667"/>
+    <contour>
+      <point x="265.666" y="423.334" type="curve" smooth="yes"/>
+      <point x="265.666" y="484.154"/>
+      <point x="226.215" y="521.334"/>
+      <point x="161.699" y="521.334" type="curve" smooth="yes"/>
+      <point x="138.434" y="521.334"/>
+      <point x="112.017" y="511.684"/>
+      <point x="95.334" y="497.667" type="curve"/>
+      <point x="108" y="554.334"/>
+      <point x="144.667" y="619.334"/>
+      <point x="248.333" y="638" type="curve"/>
+      <point x="248.333" y="657.667" type="line"/>
+      <point x="88" y="645.667"/>
+      <point x="28" y="540.334"/>
+      <point x="28" y="456" type="curve" smooth="yes"/>
+      <point x="28" y="371.061"/>
+      <point x="76.099" y="318.333"/>
+      <point x="153.333" y="318.333" type="curve" smooth="yes"/>
+      <point x="225.481" y="318.333"/>
+      <point x="265.666" y="370.045"/>
+    </contour>
+    <contour>
+      <point x="199.333" y="418.333" type="curve" smooth="yes"/>
+      <point x="199.333" y="380.333"/>
+      <point x="193.333" y="345"/>
+      <point x="153.333" y="345" type="curve" smooth="yes"/>
+      <point x="125" y="345"/>
+      <point x="90.667" y="369.333"/>
+      <point x="90.667" y="454" type="curve" smooth="yes"/>
+      <point x="90.667" y="461"/>
+      <point x="90.667" y="469"/>
+      <point x="91.334" y="475.334" type="curve"/>
+      <point x="110.334" y="490.667"/>
+      <point x="128.333" y="495.667"/>
+      <point x="143.333" y="495.667" type="curve" smooth="yes"/>
+      <point x="195" y="495.667"/>
+      <point x="199.333" y="440"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="328"/>
-  <guideline angle="0" x="0" y="332"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -14,6 +49,26 @@
   <string>=uni2076</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ebffbace4f2b40de4b3b5390a37b3a2b924ab52916f95f62f7775c41f2b30899ed4cb084ef6b6f1033ee0292b7054efef12f66aaa5967c8228fc76e49530311e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 318.33 26.67</string>
+          <string>hstem 495.67 25.67</string>
+          <string>hstem 495.67 162.</string>
+          <string>vstem 28 62.67</string>
+          <string>vstem 199.33 66.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

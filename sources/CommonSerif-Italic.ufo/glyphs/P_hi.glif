@@ -149,7 +149,7 @@
     </contour>
     <contour>
       <point x="391" y="510" type="curve"/>
-      <point x="326" y="138" type="line" name=".hr01"/>
+      <point x="326" y="138" type="line"/>
       <point x="240" y="146"/>
       <point x="170" y="190"/>
       <point x="170" y="288" type="curve" smooth="yes"/>
@@ -176,56 +176,15 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -1 28</string>
+          <string>hstem 111 27</string>
           <string>hstem 507 29</string>
-          <string>hstem 618 29</string>
-          <string>vstem 91 79</string>
-          <string>hstem 111 27</string>
-          <string>vstem 314 80</string>
-          <string>hstem -1 28</string>
-          <string>vstem 616 78</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 510 26</string>
-          <string>hstem 111 27</string>
-          <string>vstem 91 79</string>
-          <string>hstem -1 28</string>
-          <string>hstem 618 29</string>
-          <string>vstem 314 80</string>
-          <string>vstem 616 78</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 507 29</string>
-          <string>hstem -1 28</string>
-          <string>hstem 111 27</string>
           <string>hstem 618 29</string>
           <string>vstem 91 79</string>
           <string>vstem 314 80</string>
           <string>vstem 616 78</string>
         </array>
-        <key>pointTag</key>
-        <string>lsb</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 510 26</string>
-          <string>hstem -1 28</string>
-          <string>hstem 111 27</string>
-          <string>hstem 618 29</string>
-          <string>vstem 91 79</string>
-          <string>vstem 314 80</string>
-          <string>vstem 616 78</string>
-        </array>
-        <key>pointTag</key>
-        <string>rsb</string>
       </dict>
     </array>
   </dict>

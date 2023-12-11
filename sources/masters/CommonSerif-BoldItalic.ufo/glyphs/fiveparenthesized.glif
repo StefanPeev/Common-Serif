@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fiveparenthesized" format="2">
-  <advance width="315"/>
+  <advance width="1144"/>
   <unicode hex="2478"/>
   <outline>
     <component base="parenleft"/>
-    <component base="five" xOffset="-88.9142"/>
-    <component base="parenright" xOffset="48.7769"/>
+    <component base="five" xOffset="315"/>
+    <component base="parenright" xOffset="829"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>parenleft+five+parenright</string>
+  <string>parenleft_five_parenright</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

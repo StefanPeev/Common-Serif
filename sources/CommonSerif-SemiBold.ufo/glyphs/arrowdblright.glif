@@ -21,13 +21,13 @@
       <point x="894.667" y="346.333" type="curve" smooth="yes"/>
       <point x="845.333" y="390.667"/>
       <point x="810" y="426"/>
-      <point x="791.333" y="449.333" type="curve"/>
-      <point x="731.333" y="449.333" type="line"/>
+      <point x="791.333" y="449.334" type="curve"/>
+      <point x="731.333" y="449.334" type="line"/>
       <point x="740" y="428"/>
       <point x="751.333" y="404.667"/>
       <point x="762.333" y="382.667" type="curve"/>
-      <point x="37.3333" y="382.667" type="line"/>
-      <point x="37.3333" y="325" type="line"/>
+      <point x="37.333" y="382.667" type="line"/>
+      <point x="37.333" y="325" type="line"/>
       <point x="799.667" y="325" type="line"/>
       <point x="816.333" y="303.333"/>
       <point x="837.333" y="281.667"/>
@@ -35,8 +35,8 @@
       <point x="839.333" y="243"/>
       <point x="822.333" y="225.667"/>
       <point x="807.667" y="206.667" type="curve"/>
-      <point x="37.3333" y="206" type="line"/>
-      <point x="37.3333" y="149" type="line"/>
+      <point x="37.333" y="206" type="line"/>
+      <point x="37.333" y="149" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -52,9 +52,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 102 -21</string>
           <string>hstem 149 57</string>
           <string>hstem 325 57.67</string>
-          <string>vstem 37.33 972</string>
+          <string>hstem 449.33 -20</string>
         </array>
       </dict>
     </array>

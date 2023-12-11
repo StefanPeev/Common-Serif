@@ -8,11 +8,11 @@
       <point x="238" y="760.43"/>
       <point x="198.371" y="789"/>
       <point x="144.928" y="789" type="curve" smooth="yes"/>
-      <point x="85.2773" y="789"/>
+      <point x="85.277" y="789"/>
       <point x="45" y="759.707"/>
       <point x="45" y="715" type="curve" smooth="yes"/>
       <point x="45" y="684.232"/>
-      <point x="63.5515" y="659.742"/>
+      <point x="63.551" y="659.742"/>
       <point x="100.856" y="641" type="curve" smooth="yes"/>
       <point x="162.557" y="610" type="line" smooth="yes"/>
       <point x="192.369" y="595.021"/>
@@ -22,17 +22,17 @@
       <point x="183.105" y="486"/>
       <point x="141.99" y="486" type="curve" smooth="yes"/>
       <point x="105.447" y="486"/>
-      <point x="80" y="508.833" name=".hr01"/>
+      <point x="80" y="508.833"/>
       <point x="80" y="542" type="curve" smooth="yes"/>
       <point x="80" y="572.5"/>
       <point x="101.325" y="602.514"/>
       <point x="139.413" y="625.913" type="curve"/>
       <point x="125.159" y="641.226" type="line"/>
-      <point x="61.7267" y="612.318"/>
+      <point x="61.727" y="612.318"/>
       <point x="30" y="579.836"/>
       <point x="30" y="542" type="curve" smooth="yes"/>
       <point x="30" y="492.893"/>
-      <point x="74.9268" y="460"/>
+      <point x="74.927" y="460"/>
       <point x="141.01" y="460" type="curve" smooth="yes"/>
       <point x="208.753" y="460"/>
       <point x="263" y="499.901"/>
@@ -42,7 +42,7 @@
       <point x="211" y="628" type="curve" smooth="yes"/>
       <point x="133.175" y="666" type="line" smooth="yes"/>
       <point x="107.022" y="679.352"/>
-      <point x="94" y="698.631" name=".hr02"/>
+      <point x="94" y="698.631"/>
       <point x="94" y="724" type="curve" smooth="yes"/>
       <point x="94" y="748.75"/>
       <point x="111.177" y="763"/>
@@ -58,9 +58,6 @@
       <point x="238" y="689.207"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="688"/>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="464"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -72,33 +69,19 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bd88bbd48c55d4956bcabd0756d2fb177f53281cec8e730071181aba320a95d39a1164fe6e7025f56b6ef98c61933f6a8d4707923af06a9bf66f20aaf069ee33</string>
+    <string>589ca94137cfc0895c04a493f7489b87b95554043e3be06ad729400fb2fcaf3be2e1fac140b73a3631d5933a8f9ccd034e5e4c0d55dfcad09d8b8f4b2f177fd1</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 45 49</string>
-          <string>vstem 205 58</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem 460 26</string>
+          <string>hstem 763 26</string>
           <string>vstem 30 50</string>
-          <string>vstem 205 58</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 45 49</string>
+          <string>vstem 189 49</string>
           <string>vstem 205 58</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

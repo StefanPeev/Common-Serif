@@ -3,6 +3,41 @@
   <unicode hex="0331"/>
   <anchor x="-243" y="-60" name="_b.minus-60"/>
   <outline>
-    <component base="macron" xOffset="-438.833" yOffset="-661.5"/>
+    <contour>
+      <point x="-123.833" y="-125.667" type="line" smooth="yes"/>
+      <point x="-110.833" y="-125.667"/>
+      <point x="-99.833" y="-106.834"/>
+      <point x="-99.833" y="-94.833" type="curve" smooth="yes"/>
+      <point x="-99.833" y="-88.833"/>
+      <point x="-103.833" y="-80"/>
+      <point x="-113.833" y="-80" type="curve" smooth="yes"/>
+      <point x="-357.833" y="-80" type="line" smooth="yes"/>
+      <point x="-369.833" y="-80"/>
+      <point x="-379.833" y="-97.833"/>
+      <point x="-379.833" y="-109.834" type="curve" smooth="yes"/>
+      <point x="-379.833" y="-116.834"/>
+      <point x="-376.833" y="-125.667"/>
+      <point x="-367.833" y="-125.667" type="curve" smooth="yes"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>37a243f8651ccbd356d5182d550af3542de24c3d87bedf64d6e35a756cf3f135dbf56db94c7bbdc012cc6e842ad59935ecd9342b90133231266fddbedc66b324</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -125.67 45.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

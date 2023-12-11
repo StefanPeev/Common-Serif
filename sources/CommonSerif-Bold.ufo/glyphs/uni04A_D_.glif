@@ -15,7 +15,7 @@
       <point x="388" y="300" type="curve"/>
       <point x="451" y="300" type="line"/>
       <point x="451" y="448" type="line"/>
-      <point x="382" y="439" type="line" name=".hr01"/>
+      <point x="382" y="439" type="line"/>
       <point x="382" y="434"/>
       <point x="383" y="430"/>
       <point x="383" y="430" type="curve"/>
@@ -53,9 +53,9 @@
       <point x="89" y="11" type="curve" smooth="yes"/>
       <point x="89" y="-2" type="line"/>
       <point x="118" y="-2"/>
-      <point x="169" y="0"/>
-      <point x="198" y="0" type="curve"/>
-      <point x="272" y="1"/>
+      <point x="169.001" y="-0.281"/>
+      <point x="198" y="0" type="curve" smooth="yes"/>
+      <point x="272.003" y="0.719"/>
       <point x="295" y="-82"/>
       <point x="303" y="-112" type="curve"/>
       <point x="303" y="-113"/>
@@ -84,32 +84,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b19da09ae2b6abd4baeccece2a60cc055ca613d8cafc7a5b16a89add147d412c1591accc2e0330206ad5b8e0cebc7e5acc530790e06a1ec5c41f35205bc476e0</string>
+    <string>100969d73adc5d719995b1017bf6b65cec65622d05bb88479891aea5363bc3179ff8bddeb42a5230719fe4b0254b15b4380e719cd79119ff650b3ca9ca8d0c9e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 175 117</string>
-          <string>vstem 388 63</string>
-          <string>hstem 448 -20</string>
-          <string>hstem 439 -20</string>
+          <string>hstem -95 -21</string>
           <string>hstem -2 34</string>
           <string>hstem 384 46</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 439 -20</string>
-          <string>vstem 382 69</string>
-          <string>hstem 384 46</string>
           <string>hstem 448 -20</string>
+          <string>vstem 21 271</string>
           <string>vstem 175 117</string>
-          <string>hstem -2 34</string>
+          <string>vstem 175 276</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

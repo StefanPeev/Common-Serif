@@ -3,18 +3,60 @@
   <advance width="285"/>
   <unicode hex="2087"/>
   <outline>
-    <component base="uni2077" xScale="1" xyScale="7.1927e-17" xOffset="0.4887" yOffset="-632.677"/>
+    <contour>
+      <point x="207.564" y="119.656" type="line"/>
+      <point x="169.222" y="73.874"/>
+      <point x="87.155" y="-56.011"/>
+      <point x="44.906" y="-170.198" type="curve"/>
+      <point x="46.071" y="-171.823" type="line"/>
+      <point x="121.489" y="-168.677" type="line"/>
+      <point x="153.155" y="-61.011"/>
+      <point x="218.384" y="77.989"/>
+      <point x="271.384" y="168.323" type="curve"/>
+      <point x="258.384" y="177.99" type="line"/>
+      <point x="239.034" y="174.664"/>
+      <point x="216.081" y="172.323"/>
+      <point x="182.718" y="172.323" type="curve" smooth="yes"/>
+      <point x="85.051" y="172.323" type="line" smooth="yes"/>
+      <point x="70.685" y="172.323"/>
+      <point x="54.301" y="174.929"/>
+      <point x="37.805" y="177.99" type="curve"/>
+      <point x="34.389" y="177.99"/>
+      <point x="31.718" y="175.318"/>
+      <point x="31.718" y="172.051" type="curve"/>
+      <point x="30.718" y="136.051"/>
+      <point x="22.064" y="104.292"/>
+      <point x="14.051" y="64.656" type="curve"/>
+      <point x="41.718" y="62.323" type="line"/>
+      <point x="55.513" y="104.656"/>
+      <point x="81.592" y="119.656"/>
+      <point x="125.624" y="119.656" type="curve" smooth="yes"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="-160"/>
-  <guideline angle="0" x="0" y="161"/>
-  <guideline angle="0" x="0" y="165"/>
-  <guideline angle="0" x="0" y="-164"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni2077</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni2077</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f576c3714a0b06da6ecf56df0c9470b7b33a3813292e3e4513018f16406152b28c32e75799fabbb8411825bae0edf4ff92ca570cb1c915e8810a7f550e22b543</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -150.82 -21</string>
+          <string>hstem 119.66 52.67</string>
+          <string>hstem 177.99 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

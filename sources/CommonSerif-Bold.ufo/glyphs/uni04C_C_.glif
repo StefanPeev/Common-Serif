@@ -106,8 +106,8 @@
       <point x="348" y="1"/>
       <point x="422" y="0" type="curve"/>
       <point x="426" y="0"/>
-      <point x="429" y="0"/>
-      <point x="433" y="0" type="curve"/>
+      <point x="429" y="0.062"/>
+      <point x="433" y="0" type="curve" smooth="yes"/>
       <point x="498" y="-1" type="line"/>
       <point x="507" y="9" type="line"/>
       <point x="507" y="26" type="line" smooth="yes"/>
@@ -131,17 +131,18 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8cea597303534616a2e59d663ee3105e10c5f154015f11b4b4e3ece45d2ed2967fa0dc798deed09454f8271f0f935129c22730ed2fa8249f672d0ef7624f3a53</string>
+    <string>de57deacbbe8a0aa7ff8633598524f7f99c7a78570ce6974bb9bbe73f74d91890725346231811aca9041aa45b34bb930dfd7757fdc200bebf7b7c763a8b3606d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -1 35</string>
+          <string>hstem -95 -21</string>
+          <string>hstem 0 35</string>
           <string>hstem 137 43</string>
-          <string>hstem 398 36</string>
+          <string>hstem 398 26</string>
+          <string>hstem 434 -20</string>
           <string>vstem 67 117</string>
-          <string>vstem 255 61</string>
           <string>vstem 328 117</string>
         </array>
       </dict>

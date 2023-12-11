@@ -4,7 +4,7 @@
   <anchor x="167" y="1" name="_m.uni0316_2"/>
   <outline>
     <contour>
-      <point x="82.3333" y="-107.333" type="line"/>
+      <point x="82.333" y="-107.333" type="line"/>
       <point x="150" y="-107.333" type="line"/>
       <point x="150" y="-149" type="line"/>
       <point x="138" y="-155"/>
@@ -20,9 +20,9 @@
       <point x="196.333" y="-155.667"/>
       <point x="185" y="-149.667" type="curve"/>
       <point x="185" y="-107.333" type="line"/>
-      <point x="251.667" y="-107.333" type="line"/>
-      <point x="251.667" y="-62.6667" type="line"/>
-      <point x="82.3333" y="-62.6667" type="line"/>
+      <point x="251.666" y="-107.333" type="line"/>
+      <point x="251.666" y="-62.666" type="line"/>
+      <point x="82.333" y="-62.666" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -218.67 156.</string>
           <string>hstem -107.33 44.67</string>
+          <string>vstem 130 74.33</string>
           <string>vstem 150 35</string>
         </array>
       </dict>

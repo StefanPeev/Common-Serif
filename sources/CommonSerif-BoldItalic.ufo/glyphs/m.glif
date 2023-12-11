@@ -97,7 +97,7 @@
       <point x="299" y="401"/>
       <point x="299" y="418" type="curve" smooth="yes"/>
       <point x="299" y="430"/>
-      <point x="293" y="436" name=".hr01"/>
+      <point x="293" y="436"/>
       <point x="282" y="436" type="curve"/>
       <point x="251" y="431"/>
       <point x="154" y="423"/>
@@ -114,9 +114,6 @@
       <point x="160" y="332" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="257.106" x="158" y="321"/>
-  <guideline angle="76.0475" x="175" y="72"/>
-  <guideline angle="0" x="0" y="310"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -128,24 +125,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8aa5a75e36e3b82d602e20632b8dfbda94f78798880ac86454519d7ff82d507b35278f07318f002edba21d6d8e3fdac7af3cae2899f6d0a2848d92d7d20cd1fc</string>
+    <string>ab00be5497eac5965e762df5b2dfe437f4309b90ea65a43656749e0dd488452568378a9a00d799dc3e2cb5ce70b11ebfc753cfc8fdb3f30b121a25fd961ff46c</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -10 73</string>
+          <string>hstem 11 -21</string>
           <string>hstem 369 70</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 436 -20</string>
-          <string>hstem -10 73</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

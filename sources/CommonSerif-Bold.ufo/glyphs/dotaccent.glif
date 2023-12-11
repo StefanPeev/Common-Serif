@@ -18,14 +18,29 @@
       <point x="40" y="586"/>
     </contour>
   </outline>
-  <guideline angle="90" x="107" y="0"/>
-  <guideline angle="0" x="0" y="577"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>
   <string>=40</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w190m57,555c57,525 82,500 112,500c143,500 167,525 167,555c167,586 143,610 112,610c82,610 57,586 57,555</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 110</string>
+          <string>vstem 40 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

@@ -118,8 +118,8 @@
       <point x="133" y="536" type="curve" smooth="yes"/>
       <point x="135" y="536"/>
       <point x="139" y="537"/>
-      <point x="141" y="541" type="curve" smooth="yes"/>
-      <point x="217" y="680" type="line" smooth="yes"/>
+      <point x="141" y="541" type="curve"/>
+      <point x="217" y="680" type="line"/>
       <point x="219" y="684"/>
       <point x="220" y="688"/>
       <point x="220" y="692" type="curve" smooth="yes"/>
@@ -140,18 +140,17 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
+          <string>hstem -2 34</string>
+          <string>hstem 21 -21</string>
           <string>hstem 319 48</string>
-          <string>hstem 542 17</string>
+          <string>hstem 542 179</string>
+          <string>hstem 613 34</string>
           <string>hstem 645 76</string>
-          <string>hstem 647 -20</string>
+          <string>hstem 725 -20</string>
           <string>vstem -51 50</string>
-          <string>vstem 264 7</string>
+          <string>vstem -51 107</string>
           <string>vstem 354 140</string>
-          <string>vstem 577 8</string>
-          <string>vstem 714 7</string>
           <string>vstem 804 140</string>
-          <string>vstem 1027 8</string>
         </array>
       </dict>
     </array>

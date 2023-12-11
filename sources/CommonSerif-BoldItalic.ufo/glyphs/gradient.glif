@@ -30,7 +30,7 @@
       <point x="170" y="320"/>
       <point x="145" y="442"/>
       <point x="108" y="611" type="curve"/>
-      <point x="475" y="611" type="line" name=".hr01"/>
+      <point x="475" y="611" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,18 +46,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 611 41</string>
           <string>hstem 628 24</string>
           <string>vstem 23 611</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 611 41</string>
-          <string>vstem 23 611</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

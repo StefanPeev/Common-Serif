@@ -60,7 +60,7 @@
       <point x="537" y="672" type="curve"/>
       <point x="500" y="687"/>
       <point x="434" y="695"/>
-      <point x="379" y="697" type="curve" smooth="yes"/>
+      <point x="379" y="697" type="curve"/>
       <point x="368" y="698"/>
       <point x="358" y="698"/>
       <point x="348" y="698" type="curve" smooth="yes"/>
@@ -89,7 +89,7 @@
       <point x="300" y="656" type="line" smooth="yes"/>
       <point x="305" y="656"/>
       <point x="310" y="655"/>
-      <point x="314" y="654" type="curve" smooth="yes"/>
+      <point x="314" y="654" type="curve"/>
       <point x="326" y="650"/>
       <point x="335" y="640"/>
       <point x="336" y="623" type="curve"/>
@@ -141,9 +141,10 @@
         <key>stems</key>
         <array>
           <string>hstem -10 66</string>
+          <string>hstem 23 33</string>
           <string>hstem 402 42</string>
-          <string>hstem 433 -20</string>
           <string>hstem 656 42</string>
+          <string>hstem 702 -20</string>
           <string>vstem 22 140</string>
           <string>vstem 336 130</string>
         </array>

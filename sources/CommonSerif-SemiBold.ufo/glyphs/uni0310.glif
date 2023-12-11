@@ -4,20 +4,20 @@
   <anchor x="-266.333" y="500" name="_t.uni0302"/>
   <outline>
     <contour>
-      <point x="-374.333" y="651" type="curve"/>
-      <point x="-405.333" y="640.333" type="line"/>
+      <point x="-374.334" y="651" type="curve"/>
+      <point x="-405.334" y="640.333" type="line"/>
       <point x="-396" y="558"/>
       <point x="-343.667" y="500"/>
       <point x="-266.333" y="500" type="curve" smooth="yes"/>
       <point x="-212.667" y="500"/>
-      <point x="-139.333" y="541.667"/>
+      <point x="-139.333" y="541.666"/>
       <point x="-128.667" y="640.333" type="curve"/>
       <point x="-159" y="651" type="line"/>
       <point x="-164.333" y="589"/>
       <point x="-217.667" y="568.333"/>
       <point x="-266.333" y="568.333" type="curve" smooth="yes"/>
-      <point x="-326.333" y="568.333"/>
-      <point x="-369.333" y="597.333"/>
+      <point x="-326.334" y="568.333"/>
+      <point x="-369.334" y="597.333"/>
     </contour>
     <contour>
       <point x="-312.667" y="680" type="curve" smooth="yes"/>
@@ -47,6 +47,9 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 500 68.33</string>
+          <string>hstem 635 91</string>
+          <string>hstem 651 -20</string>
           <string>vstem -312.67 90.67</string>
         </array>
       </dict>

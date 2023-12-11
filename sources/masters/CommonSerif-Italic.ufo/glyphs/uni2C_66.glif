@@ -6,7 +6,7 @@
     <component base="t" xOffset="40"/>
     <contour>
       <point x="235" y="181" type="line"/>
-      <point x="493" y="431" type="line" name=".hr01"/>
+      <point x="493" y="431" type="line"/>
       <point x="491" y="444"/>
       <point x="483" y="454"/>
       <point x="466" y="454" type="curve"/>
@@ -35,19 +35,11 @@
         <key>stems</key>
         <array>
           <string>hstem -10 60</string>
-          <string>hstem 390 39</string>
-          <string>vstem 142 79</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 60</string>
+          <string>hstem 11 -21</string>
           <string>hstem 390 39</string>
           <string>vstem -2 495</string>
+          <string>vstem 142 79</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

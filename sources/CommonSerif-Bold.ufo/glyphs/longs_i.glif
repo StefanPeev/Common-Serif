@@ -144,7 +144,6 @@
       <point x="541" y="39"/>
     </contour>
   </outline>
-  <guideline angle="90" color="0.627451,0.627451,0.643137,1" name="caret.1" x="279" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -159,8 +158,10 @@
         <key>stems</key>
         <array>
           <string>hstem -2 34</string>
+          <string>hstem -2 37</string>
+          <string>hstem 384 32</string>
           <string>hstem 392 42</string>
-          <string>hstem 436 6</string>
+          <string>hstem 441 -20</string>
           <string>hstem 656 42</string>
           <string>vstem 93 134</string>
           <string>vstem 411 130</string>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thirteenparenthesized" format="2">
-  <advance width="312"/>
+  <advance width="1608"/>
   <unicode hex="2480"/>
   <outline>
     <component base="parenleft"/>
-    <component base="one" xOffset="-72.4844"/>
-    <component base="three" xOffset="-58.8997"/>
-    <component base="parenright" xScale="1" xOffset="42.7414"/>
+    <component base="one" xOffset="312"/>
+    <component base="three" xScale="1" xOffset="802.667"/>
+    <component base="parenright" xScale="1" xOffset="1293.33"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>parenleft+one+three+parenright</string>
+  <string>parenleft_one_three_parenright</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

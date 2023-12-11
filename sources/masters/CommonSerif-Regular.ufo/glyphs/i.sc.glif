@@ -7,12 +7,6 @@
   <anchor x="53" y="-3" name="m.uni0327_5"/>
   <outline>
     <contour>
-      <point x="91" y="122" type="line"/>
-      <point x="171" y="122" type="line"/>
-      <point x="171" y="338" type="line"/>
-      <point x="91" y="338" type="line"/>
-    </contour>
-    <contour>
       <point x="19" y="-2" type="curve"/>
       <point x="56" y="-1"/>
       <point x="97" y="0"/>
@@ -54,8 +48,13 @@
       <point x="80" y="425"/>
       <point x="91" y="421"/>
     </contour>
+    <contour>
+      <point x="91" y="122" type="line"/>
+      <point x="171" y="122" type="line"/>
+      <point x="171" y="338" type="line"/>
+      <point x="91" y="338" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="90" x="131" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -67,15 +66,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>61cad38a42ddd7152ea365de1fe1af072aa65d2bd9f18eb2c916d5e6cbf6e552d9fa604245649c24228beb31fd71f4ccce1c6bc89af0ae07e658e2801730aff8</string>
+    <string>16c91d6dbd0787e21f41c9e944391123f78b7cfa86694a8f7acd8e8d402bd119261b014ee02761d30dd81a4d25220451e2ca548051feebdd6de256a76344947e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
-          <string>hstem 462 -20</string>
-          <string>vstem 14 79</string>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 429 33</string>
+          <string>hstem 460 -20</string>
+          <string>vstem 91 80</string>
         </array>
       </dict>
     </array>

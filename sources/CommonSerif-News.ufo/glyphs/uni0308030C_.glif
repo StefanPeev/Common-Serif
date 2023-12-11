@@ -20,33 +20,55 @@
       <point x="-177.333" y="548.167" type="curve" smooth="yes"/>
       <point x="-177.333" y="521.5"/>
       <point x="-155.833" y="500"/>
-      <point x="-129" y="500" type="curve" smooth="yes"/>
+      <point x="-128.999" y="500" type="curve" smooth="yes"/>
       <point x="-102.333" y="500"/>
-      <point x="-80.6667" y="521.5"/>
-      <point x="-80.6667" y="548.167" type="curve" smooth="yes"/>
-      <point x="-80.6667" y="575"/>
+      <point x="-80.666" y="521.5"/>
+      <point x="-80.666" y="548.167" type="curve" smooth="yes"/>
+      <point x="-80.666" y="575"/>
       <point x="-102.333" y="597.333"/>
-      <point x="-129" y="597.333" type="curve" smooth="yes"/>
+      <point x="-128.999" y="597.333" type="curve" smooth="yes"/>
       <point x="-155.833" y="597.333"/>
       <point x="-177.333" y="575"/>
     </contour>
     <contour>
-      <point x="-241.551" y="602.023" type="curve"/>
+      <point x="-241.55" y="602.023" type="curve"/>
       <point x="-192.884" y="602.023" type="line"/>
-      <point x="-163.884" y="648.19"/>
-      <point x="-127.217" y="692.69"/>
-      <point x="-92.0505" y="731.856" type="curve"/>
-      <point x="-111.884" y="745.69" type="line"/>
-      <point x="-149.217" y="718.69"/>
+      <point x="-163.883" y="648.189"/>
+      <point x="-127.217" y="692.689"/>
+      <point x="-92.05" y="731.856" type="curve"/>
+      <point x="-111.883" y="745.689" type="line"/>
+      <point x="-149.217" y="718.689"/>
       <point x="-180.717" y="694.356"/>
-      <point x="-217.217" y="656.69" type="curve"/>
+      <point x="-217.217" y="656.689" type="curve"/>
       <point x="-251.717" y="693.023"/>
-      <point x="-283.551" y="718.69"/>
-      <point x="-322.551" y="745.69" type="curve"/>
+      <point x="-283.551" y="718.689"/>
+      <point x="-322.551" y="745.689" type="curve"/>
       <point x="-342.384" y="731.856" type="line"/>
       <point x="-307.384" y="693.523"/>
       <point x="-270.551" y="648.856"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-213" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>6502cdd759732b89145b6f99bb2652dcf768bc39a33000a30d9f6ca84690e2484c8b062c3ba54fd7251db436240a7a15d8e2fca9acf01b03b0001ed93c319296</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 97.33</string>
+          <string>hstem 745.69 -20</string>
+          <string>vstem -349.17 96.67</string>
+          <string>vstem -177.33 96.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

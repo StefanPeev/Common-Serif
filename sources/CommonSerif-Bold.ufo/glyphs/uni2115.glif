@@ -28,24 +28,24 @@
       <point x="691" y="148"/>
       <point x="684" y="148" type="curve" smooth="yes"/>
       <point x="680" y="148"/>
-      <point x="674.916" y="152.237"/>
+      <point x="674.948" y="152.261"/>
       <point x="667.777" y="161.549" type="curve" smooth="yes"/>
       <point x="293" y="647" type="line"/>
       <point x="32" y="647" type="line"/>
       <point x="26.567" y="641.567"/>
-      <point x="26.6523" y="619.348"/>
+      <point x="26.652" y="619.348"/>
       <point x="32" y="614" type="curve"/>
       <point x="68.32" y="611.342"/>
       <point x="111" y="591.868"/>
       <point x="111" y="550" type="curve" smooth="yes"/>
       <point x="111" y="133" type="line" smooth="yes"/>
-      <point x="111" y="58.0081"/>
-      <point x="106.232" y="39.2232"/>
+      <point x="111" y="58.008"/>
+      <point x="106.232" y="39.223"/>
       <point x="24" y="31" type="curve"/>
       <point x="18.567" y="25.567"/>
-      <point x="18.6523" y="3.34772"/>
+      <point x="18.652" y="3.348"/>
       <point x="24" y="-2" type="curve"/>
-      <point x="82.6735" y="-2"/>
+      <point x="82.674" y="-2"/>
       <point x="141.327" y="0"/>
       <point x="200" y="0" type="curve" smooth="yes"/>
       <point x="243" y="0"/>
@@ -54,8 +54,8 @@
       <point x="379" y="4"/>
       <point x="379" y="25"/>
       <point x="373" y="31" type="curve"/>
-      <point x="296.452" y="40.0056"/>
-      <point x="286" y="46.6056"/>
+      <point x="296.452" y="40.006"/>
+      <point x="286" y="46.606"/>
       <point x="286" y="133" type="curve" smooth="yes"/>
       <point x="286" y="463" type="line" smooth="yes"/>
       <point x="286" y="490"/>
@@ -65,7 +65,7 @@
       <point x="304.169" y="494.136"/>
       <point x="317" y="478" type="curve" smooth="yes"/>
       <point x="678" y="24" type="line" smooth="yes"/>
-      <point x="689.577" y="9.44065"/>
+      <point x="689.577" y="9.441"/>
       <point x="701" y="-2"/>
       <point x="717" y="-2" type="curve" smooth="yes"/>
       <point x="731" y="-2"/>
@@ -85,6 +85,28 @@
   <string>=N</string>
   <key>com.fontlab.metricsRight</key>
   <string>=N</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>aa7e21eeb30716a6ed7e7ae96cdd627e3913227213eabac95f176aa02cc355a5287da68939424afa6eaa47feeba01abaae2af09434fdcdadab7768e7543b6119</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 33</string>
+          <string>hstem 0 39</string>
+          <string>hstem 605 42</string>
+          <string>hstem 614 33</string>
+          <string>vstem 111 80</string>
+          <string>vstem 256 30</string>
+          <string>vstem 691 49</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

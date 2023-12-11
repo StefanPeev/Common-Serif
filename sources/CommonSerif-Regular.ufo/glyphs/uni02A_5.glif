@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A5" format="2">
-  <advance width="817"/>
+  <advance width="818"/>
   <unicode hex="02A5"/>
   <outline>
     <component base="d"/>
@@ -21,7 +21,7 @@
       <point x="674" y="397" type="line"/>
       <point x="676" y="395" type="line"/>
       <point x="429" y="34" type="line" smooth="yes"/>
-      <point x="421" y="22"/>
+      <point x="420.856" y="22.097"/>
       <point x="420" y="19"/>
       <point x="420" y="15" type="curve" smooth="yes"/>
       <point x="420" y="5"/>
@@ -56,7 +56,7 @@
       <point x="583" y="-50"/>
       <point x="600" y="-4" type="curve"/>
       <point x="660" y="-5" type="line" smooth="yes"/>
-      <point x="744" y="-6"/>
+      <point x="743.994" y="-6.4"/>
       <point x="798" y="31"/>
       <point x="798" y="88" type="curve" smooth="yes"/>
       <point x="798" y="132"/>
@@ -70,7 +70,7 @@
     <contour>
       <point x="768" y="91" type="curve" smooth="yes"/>
       <point x="768" y="61"/>
-      <point x="733" y="40"/>
+      <point x="733.003" y="39.8"/>
       <point x="681" y="39" type="curve" smooth="yes"/>
       <point x="616" y="38" type="line"/>
       <point x="638" y="97"/>
@@ -82,20 +82,26 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=d</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=z</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>bf68e382739a83753c1a8d3827b4a8f8a5a8cf5ffebf4744abc85cd556ff0bd82be082fa6c936c9484e497037f1f8d1827fba09dabec8329f2cd0077432402ce</string>
+    <string>733dcdcc14da0bd385583505641fc39d2d41e2dd10b1ed2b8a37309d2cacd00f70442bef2ede126748185ccfd9dad8369bffa1ef9123fa59051f5305b8902fc7</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 39</string>
-          <string>hstem 404 35</string>
-          <string>vstem 535 31</string>
+          <string>hstem -101 -21</string>
+          <string>hstem -5 44</string>
+          <string>hstem 129 35</string>
+          <string>hstem 395 34</string>
+          <string>hstem 431 -20</string>
           <string>vstem 768 30</string>
         </array>
       </dict>

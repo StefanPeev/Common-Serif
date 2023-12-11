@@ -7,6 +7,28 @@
   <anchor x="387" y="652" name="apostrophe"/>
   <outline>
     <contour>
+      <point x="27" y="-2" type="curve"/>
+      <point x="76" y="-1"/>
+      <point x="172" y="0"/>
+      <point x="182" y="0" type="curve"/>
+      <point x="182" y="645" type="line"/>
+      <point x="172" y="645"/>
+      <point x="77" y="646"/>
+      <point x="27" y="647" type="curve"/>
+      <point x="21" y="641"/>
+      <point x="21" y="619"/>
+      <point x="27" y="613" type="curve"/>
+      <point x="97" y="610"/>
+      <point x="114" y="605"/>
+      <point x="114" y="522" type="curve" smooth="yes"/>
+      <point x="114" y="123" type="line" smooth="yes"/>
+      <point x="114" y="39"/>
+      <point x="97" y="35"/>
+      <point x="27" y="32" type="curve"/>
+      <point x="21" y="26"/>
+      <point x="21" y="4"/>
+    </contour>
+    <contour>
       <point x="182" y="0" type="line"/>
       <point x="405" y="0" type="line" smooth="yes"/>
       <point x="434" y="0"/>
@@ -36,30 +58,7 @@
       <point x="222" y="645"/>
       <point x="182" y="645" type="curve"/>
     </contour>
-    <contour>
-      <point x="27" y="-2" type="curve"/>
-      <point x="76" y="-1"/>
-      <point x="172" y="0"/>
-      <point x="182" y="0" type="curve"/>
-      <point x="182" y="645" type="line"/>
-      <point x="172" y="645"/>
-      <point x="77" y="646"/>
-      <point x="27" y="647" type="curve"/>
-      <point x="21" y="641"/>
-      <point x="21" y="619"/>
-      <point x="27" y="613" type="curve"/>
-      <point x="97" y="610"/>
-      <point x="114" y="605"/>
-      <point x="114" y="522" type="curve" smooth="yes"/>
-      <point x="114" y="123" type="line" smooth="yes"/>
-      <point x="114" y="39"/>
-      <point x="97" y="35"/>
-      <point x="27" y="32" type="curve"/>
-      <point x="21" y="26"/>
-      <point x="21" y="4"/>
-    </contour>
   </outline>
-  <guideline angle="90" x="149" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -69,16 +68,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>59261d5e6a5149403db59c53b623c3ad83ded7a7a1f41e7a042bb9c7a9cffd04f0c7f72aa2928b74a0a53d1c7319109770c510f813ec41ba73e4571505184d94</string>
+    <string>80cc9d79a35618eee4385038649519cf44e1322c9dfc904e864f9088b6a58b955480b432ffb2a772f45a1f1e906310ab98bd35c13e71a27d428a6c04711867e6</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 34</string>
           <string>hstem 0 42</string>
-          <string>hstem 647 -20</string>
-          <string>vstem 113 140</string>
-          <string>vstem 336 8</string>
+          <string>hstem 613 34</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 114 137</string>
         </array>
       </dict>
     </array>

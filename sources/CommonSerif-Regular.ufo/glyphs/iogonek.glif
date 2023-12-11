@@ -4,7 +4,6 @@
   <unicode hex="012F"/>
   <anchor x="132" y="825" name="m.uni0302"/>
   <outline>
-    <component base="ogonek" xOffset="-7.5"/>
     <contour>
       <point x="30" y="-2" type="curve"/>
       <point x="63" y="-1"/>
@@ -27,6 +26,30 @@
       <point x="24" y="4"/>
     </contour>
     <contour>
+      <point x="254.5" y="-135" type="curve"/>
+      <point x="250.5" y="-128"/>
+      <point x="244.5" y="-124"/>
+      <point x="235.5" y="-124" type="curve"/>
+      <point x="213.5" y="-146"/>
+      <point x="197.5" y="-162"/>
+      <point x="168.5" y="-162" type="curve" smooth="yes"/>
+      <point x="131.5" y="-162"/>
+      <point x="118.5" y="-141"/>
+      <point x="118.5" y="-115" type="curve" smooth="yes"/>
+      <point x="118.5" y="-69"/>
+      <point x="152.5" y="-37"/>
+      <point x="214.5" y="14" type="curve"/>
+      <point x="200.5" y="31" type="line"/>
+      <point x="120.5" y="-18"/>
+      <point x="56.5" y="-70"/>
+      <point x="56.5" y="-126" type="curve" smooth="yes"/>
+      <point x="56.5" y="-180"/>
+      <point x="94.5" y="-200"/>
+      <point x="144.5" y="-200" type="curve" smooth="yes"/>
+      <point x="185.5" y="-200"/>
+      <point x="225.5" y="-180"/>
+    </contour>
+    <contour>
       <point x="102" y="320" type="curve"/>
       <point x="182" y="320" type="line"/>
       <point x="182" y="370"/>
@@ -36,12 +59,12 @@
       <point x="181" y="442"/>
       <point x="173" y="442" type="curve"/>
       <point x="145" y="431"/>
-      <point x="86" y="417"/>
-      <point x="35" y="413" type="curve"/>
-      <point x="33" y="406"/>
-      <point x="35" y="391"/>
-      <point x="37" y="385" type="curve"/>
-      <point x="93.65" y="379.85"/>
+      <point x="85.9995" y="417"/>
+      <point x="34.9995" y="413" type="curve"/>
+      <point x="32.9995" y="406"/>
+      <point x="34.9995" y="391"/>
+      <point x="36.9995" y="385" type="curve"/>
+      <point x="93.6495" y="379.85"/>
       <point x="102" y="371.5"/>
     </contour>
     <contour>
@@ -72,19 +95,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f50bb1db32dc8d02e56239ac2f492693573825dbc2e20d5a4efc2c94cf46198bd2a82c6ab84ec7560e53abd257228887554125f42a046a5a4a51b56b2b0a4113</string>
+    <string>de3f6730d976d9f58a3532806dadceca09bb05cd39bd2be0f74d134a5a66b2d536dd8bcac04ae83a49aab0907b90acaeabd1548088188a898f4b057cea7fdf2d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 435 7</string>
+          <string>hstem -200 38</string>
+          <string>hstem -2 33</string>
+          <string>hstem 0 31</string>
+          <string>hstem 385 28</string>
           <string>hstem 442 -20</string>
           <string>hstem 547 100</string>
-          <string>hstem 647 -20</string>
+          <string>vstem 56.5 62</string>
           <string>vstem 90 100</string>
+          <string>vstem 102 80</string>
         </array>
       </dict>
     </array>

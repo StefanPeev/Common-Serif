@@ -15,18 +15,18 @@
       <point x="130" y="632.029"/>
       <point x="139" y="632.029" type="curve" smooth="yes"/>
       <point x="180" y="632.029"/>
-      <point x="214" y="620.029" name=".hr01"/>
+      <point x="214" y="620.029"/>
       <point x="214" y="576.029" type="curve" smooth="yes"/>
       <point x="214" y="531.999"/>
       <point x="181.791" y="490.029"/>
       <point x="148" y="490.029" type="curve" smooth="yes"/>
       <point x="125.655" y="490.029"/>
-      <point x="116.764" y="492.321"/>
+      <point x="116.764" y="492.32"/>
       <point x="106.512" y="507.754" type="curve"/>
       <point x="100.496" y="533.453"/>
       <point x="85.273" y="546.029"/>
       <point x="61" y="546.029" type="curve" smooth="yes"/>
-      <point x="40.7593" y="546.029"/>
+      <point x="40.759" y="546.029"/>
       <point x="24" y="531.143"/>
       <point x="24" y="510.029" type="curve" smooth="yes"/>
       <point x="24" y="465.582"/>
@@ -42,7 +42,7 @@
       <point x="235" y="672.029"/>
       <point x="236" y="673.029" type="curve"/>
       <point x="265" y="692.029"/>
-      <point x="283" y="721.029" name=".hr02"/>
+      <point x="283" y="721.029"/>
       <point x="283" y="746.029" type="curve" smooth="yes"/>
       <point x="283" y="788.029"/>
       <point x="237" y="820.029"/>
@@ -63,8 +63,6 @@
       <point x="197" y="770.029"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="460"/>
-  <guideline angle="0" x="0" y="464"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
@@ -80,24 +78,15 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 460.03 30</string>
+          <string>hstem 460.03 209</string>
+          <string>hstem 632.03 26</string>
+          <string>hstem 790.03 30</string>
+          <string>vstem 24 285</string>
+          <string>vstem 35 248</string>
           <string>vstem 197 86</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 214 95</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 197 86</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

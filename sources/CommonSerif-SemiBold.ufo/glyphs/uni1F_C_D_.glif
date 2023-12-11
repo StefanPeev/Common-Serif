@@ -4,27 +4,71 @@
   <unicode hex="1FCD"/>
   <anchor x="163" y="510" name="_t.gr"/>
   <outline>
-    <component base="uni1FBD" xOffset="-0.832567"/>
+    <contour>
+      <point x="81.834" y="689" type="curve" smooth="yes"/>
+      <point x="47.834" y="689"/>
+      <point x="35.834" y="671"/>
+      <point x="35.834" y="655" type="curve" smooth="yes"/>
+      <point x="35.834" y="639"/>
+      <point x="40.834" y="615"/>
+      <point x="81.834" y="615" type="curve" smooth="yes"/>
+      <point x="89.167" y="615"/>
+      <point x="93.834" y="607"/>
+      <point x="93.834" y="596" type="curve" smooth="yes"/>
+      <point x="93.834" y="573"/>
+      <point x="74.834" y="536"/>
+      <point x="32.834" y="527" type="curve"/>
+      <point x="32.936" y="520.046"/>
+      <point x="34.257" y="514.9"/>
+      <point x="37.167" y="510" type="curve"/>
+      <point x="121.167" y="516"/>
+      <point x="141.834" y="586.667"/>
+      <point x="141.834" y="616" type="curve" smooth="yes"/>
+      <point x="141.834" y="652"/>
+      <point x="119.834" y="689"/>
+    </contour>
     <contour>
       <point x="195" y="650" type="curve"/>
       <point x="277" y="515" type="line" smooth="yes"/>
-      <point x="278.915" y="511.946"/>
+      <point x="278.914" y="511.946"/>
       <point x="281.102" y="510"/>
       <point x="285" y="510" type="curve" smooth="yes"/>
       <point x="295" y="510"/>
       <point x="300" y="517"/>
       <point x="300" y="522" type="curve"/>
       <point x="260" y="678" type="line" smooth="yes"/>
-      <point x="257.168" y="689.044"/>
+      <point x="257.167" y="689.044"/>
       <point x="247" y="696"/>
       <point x="229" y="696" type="curve" smooth="yes"/>
       <point x="206" y="696"/>
       <point x="192" y="679"/>
       <point x="192" y="663" type="curve" smooth="yes"/>
       <point x="192" y="659"/>
-      <point x="192.786" y="653.882"/>
+      <point x="192.785" y="653.882"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
-  <guideline angle="90" x="163" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0f72de5400bfb6a06952be3a0f1a9a19da84d79f5cc21c69b1a4a8527a9b5e38dc6a0f12b674dd01a61d623a1d36e4753e5e5afad0c3cdc8d2d06ee291d5bf40</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 510 179</string>
+          <string>hstem 615 74</string>
+          <string>hstem 696 -20</string>
+          <string>vstem 35.83 106</string>
+          <string>vstem 93.83 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -4,31 +4,31 @@
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="107.833" y="739" type="curve" smooth="yes"/>
-      <point x="76.1218" y="739"/>
-      <point x="53.1667" y="716.878"/>
-      <point x="53.1667" y="687.667" type="curve" smooth="yes"/>
-      <point x="53.1667" y="660.209"/>
-      <point x="72.5097" y="647.22"/>
-      <point x="90.6667" y="642.167" type="curve"/>
+      <point x="107.834" y="739" type="curve" smooth="yes"/>
+      <point x="76.122" y="739"/>
+      <point x="53.167" y="716.878"/>
+      <point x="53.167" y="687.667" type="curve" smooth="yes"/>
+      <point x="53.167" y="660.209"/>
+      <point x="72.51" y="647.22"/>
+      <point x="90.667" y="642.167" type="curve"/>
       <point x="98" y="641" type="line" smooth="yes"/>
-      <point x="113.448" y="638.863"/>
-      <point x="127.5" y="633.833"/>
+      <point x="113.418" y="638.63"/>
+      <point x="127.501" y="633.833"/>
       <point x="131.667" y="618.333" type="curve" smooth="yes"/>
       <point x="142.325" y="578.98"/>
-      <point x="75.4825" y="533.416"/>
-      <point x="43.1667" y="525.167" type="curve"/>
-      <point x="42.3333" y="514.667"/>
-      <point x="44.1667" y="507.167"/>
-      <point x="51.8333" y="500" type="curve"/>
-      <point x="119.043" y="512.926"/>
-      <point x="177.333" y="566.187"/>
-      <point x="177.333" y="636" type="curve" smooth="yes"/>
-      <point x="177.333" y="699.195"/>
-      <point x="150.5" y="739"/>
+      <point x="75.483" y="533.416"/>
+      <point x="43.167" y="525.167" type="curve"/>
+      <point x="42.334" y="514.667"/>
+      <point x="44.167" y="507.167"/>
+      <point x="51.834" y="500" type="curve"/>
+      <point x="119.044" y="512.926"/>
+      <point x="177.334" y="566.187"/>
+      <point x="177.334" y="636" type="curve" smooth="yes"/>
+      <point x="177.334" y="699.195"/>
+      <point x="150.501" y="739"/>
     </contour>
     <contour>
-      <point x="269.833" y="739" type="curve" smooth="yes"/>
+      <point x="269.834" y="739" type="curve" smooth="yes"/>
       <point x="238.337" y="739"/>
       <point x="215.167" y="716.663"/>
       <point x="215.167" y="687.667" type="curve" smooth="yes"/>
@@ -36,22 +36,43 @@
       <point x="234.798" y="647.156"/>
       <point x="252.667" y="642.167" type="curve"/>
       <point x="260" y="641" type="line" smooth="yes"/>
-      <point x="275.448" y="638.863"/>
-      <point x="289.5" y="633.833"/>
+      <point x="275.449" y="638.863"/>
+      <point x="289.501" y="633.833"/>
       <point x="293.667" y="618.333" type="curve" smooth="yes"/>
       <point x="304.325" y="579.075"/>
-      <point x="237.37" y="533.385"/>
+      <point x="237.371" y="533.385"/>
       <point x="205.167" y="525.167" type="curve"/>
-      <point x="204.333" y="514.667"/>
+      <point x="204.334" y="514.667"/>
       <point x="206.167" y="507.167"/>
-      <point x="213.833" y="500" type="curve"/>
-      <point x="281.043" y="512.926"/>
-      <point x="339.333" y="566.187"/>
-      <point x="339.333" y="636" type="curve" smooth="yes"/>
-      <point x="339.333" y="699.195"/>
-      <point x="312.5" y="739"/>
+      <point x="213.834" y="500" type="curve"/>
+      <point x="281.044" y="512.926"/>
+      <point x="339.334" y="566.187"/>
+      <point x="339.334" y="636" type="curve" smooth="yes"/>
+      <point x="339.334" y="699.195"/>
+      <point x="312.501" y="739"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="728"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>09bc9a6dec176f7fe43fa02510d387ba104ec8b9d02cdbe19536f9f98dd8638a251a7db5ec7f5ab894e3d878e3c8cd1bf02e5fdf11250461cc7ec93a609dd8e1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 641 98</string>
+          <string>vstem 53.17 124.17</string>
+          <string>vstem 215.17 124.17</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

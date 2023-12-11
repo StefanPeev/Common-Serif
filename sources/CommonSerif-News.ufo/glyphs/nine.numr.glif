@@ -2,10 +2,43 @@
 <glyph name="nine.numr" format="2">
   <advance width="310"/>
   <outline>
-    <component base="uni2079" xyScale="-3.88904e-18" yOffset="-136.833"/>
+    <contour>
+      <point x="37.333" y="553.804" type="curve" smooth="yes"/>
+      <point x="37.333" y="536.608"/>
+      <point x="46.333" y="457.362"/>
+      <point x="145.666" y="457.362" type="curve" smooth="yes"/>
+      <point x="169" y="457.362"/>
+      <point x="194.167" y="472.195"/>
+      <point x="209" y="484.662" type="curve"/>
+      <point x="196.333" y="427.362"/>
+      <point x="161.333" y="361.195"/>
+      <point x="55" y="342.528" type="curve"/>
+      <point x="55" y="323.195" type="line"/>
+      <point x="211.667" y="335.528"/>
+      <point x="272.333" y="439.529"/>
+      <point x="272.333" y="522.553" type="curve" smooth="yes"/>
+      <point x="272.333" y="601.648"/>
+      <point x="228.433" y="657.362"/>
+      <point x="146.666" y="657.362" type="curve" smooth="yes"/>
+      <point x="66" y="657.362"/>
+      <point x="37.333" y="590.346"/>
+    </contour>
+    <contour>
+      <point x="98.166" y="558.765" type="curve" smooth="yes"/>
+      <point x="98.166" y="596.469"/>
+      <point x="104.666" y="630.862"/>
+      <point x="146.666" y="630.862" type="curve" smooth="yes"/>
+      <point x="174.833" y="630.862"/>
+      <point x="212" y="607.219"/>
+      <point x="212" y="524.537" type="curve" smooth="yes"/>
+      <point x="212" y="503.706" type="line"/>
+      <point x="191.167" y="487.661"/>
+      <point x="171.166" y="483.028"/>
+      <point x="156.666" y="483.028" type="curve" smooth="yes"/>
+      <point x="103.166" y="483.028"/>
+      <point x="98.166" y="536.937"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="328"/>
-  <guideline angle="0" x="0" y="332"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -14,6 +47,26 @@
   <string>=uni2079</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>57ddc8f91c884718090a564aefa0b907318845b42e329dc433081db4f2db0963c88c50a903daee58d82348537c9186929f845388812b3c2377b5915f53a110c8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 323.19 159.83</string>
+          <string>hstem 457.36 25.67</string>
+          <string>hstem 630.86 26.5</string>
+          <string>vstem 37.33 60.83</string>
+          <string>vstem 212 60.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

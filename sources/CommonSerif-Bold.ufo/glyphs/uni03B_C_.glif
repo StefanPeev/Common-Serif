@@ -6,47 +6,47 @@
     <contour>
       <point x="343" y="49" type="line"/>
       <point x="351.089" y="1.623"/>
-      <point x="384.306" y="-9.85732"/>
-      <point x="421.912" y="-9.77792" type="curve" smooth="yes"/>
-      <point x="474.194" y="-9.66752"/>
-      <point x="518.124" y="9.38644"/>
+      <point x="384.306" y="-9.857"/>
+      <point x="421.912" y="-9.778" type="curve" smooth="yes"/>
+      <point x="474.194" y="-9.668"/>
+      <point x="518.124" y="9.386"/>
       <point x="556" y="46" type="curve"/>
       <point x="556" y="58"/>
       <point x="550" y="64"/>
       <point x="538" y="74" type="curve"/>
-      <point x="525.669" y="65.3682"/>
-      <point x="512.303" y="58.8906"/>
+      <point x="525.669" y="65.368"/>
+      <point x="512.303" y="58.891"/>
       <point x="497" y="59" type="curve" smooth="yes"/>
-      <point x="465.685" y="59.2239"/>
-      <point x="464" y="99.6459"/>
+      <point x="465.685" y="59.224"/>
+      <point x="464" y="99.646"/>
       <point x="464" y="127" type="curve"/>
       <point x="334" y="98" type="line"/>
       <point x="312" y="68"/>
-      <point x="261" y="53" name=".hr01"/>
+      <point x="261" y="53"/>
       <point x="220" y="53" type="curve" smooth="yes"/>
       <point x="185" y="53"/>
       <point x="177" y="107"/>
       <point x="177" y="170" type="curve"/>
       <point x="47" y="170" type="line"/>
-      <point x="47" y="99.8322" type="line"/>
+      <point x="47" y="99.832" type="line"/>
       <point x="34" y="-212" type="line"/>
       <point x="54" y="-232" type="line"/>
       <point x="180" y="-202" type="line"/>
       <point x="167" y="-37" type="line"/>
       <point x="167" y="1" type="line"/>
       <point x="157.334" y="0" type="line"/>
-      <point x="167.511" y="-6.87664"/>
+      <point x="167.511" y="-6.877"/>
       <point x="187.959" y="-10"/>
       <point x="200" y="-10" type="curve" smooth="yes"/>
       <point x="250.615" y="-10"/>
-      <point x="290.531" y="3.31845"/>
+      <point x="290.531" y="3.318"/>
       <point x="339" y="49" type="curve"/>
     </contour>
     <contour>
       <point x="177" y="150.073" type="line"/>
       <point x="198" y="429" type="line"/>
       <point x="178" y="446" type="line"/>
-      <point x="36.9772" y="415.537" type="line"/>
+      <point x="36.977" y="415.537" type="line"/>
       <point x="47" y="150" type="line"/>
     </contour>
     <contour>
@@ -57,14 +57,6 @@
       <point x="334" y="90" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="324" y="0"/>
-  <guideline angle="90" x="403" y="0"/>
-  <guideline angle="90" x="54" y="0"/>
-  <guideline angle="90" x="133" y="0"/>
-  <guideline angle="12.5288" x="368" y="-168.889"/>
-  <guideline angle="191.421" x="169" y="445.879"/>
-  <guideline angle="191.421" x="419" y="442"/>
-  <guideline angle="191.421" x="419" y="442"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -78,22 +70,10 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -9.78 68.78</string>
-          <string>vstem 334 130</string>
           <string>hstem -211 -21</string>
-          <string>vstem 47 130</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem -10 63</string>
-          <string>vstem 47 130</string>
-          <string>hstem -211 -21</string>
-          <string>vstem 334 130</string>
+          <string>hstem 446 -20</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

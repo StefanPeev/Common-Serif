@@ -9,9 +9,9 @@
       <point x="98" y="-200" type="line"/>
       <point x="447" y="-200" type="line"/>
       <point x="447" y="-151" type="line"/>
-      <point x="301" y="-151" type="line" name=".hr01"/>
+      <point x="301" y="-151" type="line"/>
       <point x="301" y="641" type="line"/>
-      <point x="447" y="641" type="line" name=".hr02"/>
+      <point x="447" y="641" type="line"/>
     </contour>
     <contour>
       <point x="228" y="-151" type="line"/>
@@ -33,33 +33,11 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -200 49</string>
           <string>hstem 641 48</string>
-          <string>vstem 228 219</string>
           <string>vstem 98 73</string>
-          <string>hstem -200 49</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -200 49</string>
           <string>vstem 228 73</string>
-          <string>hstem 641 48</string>
-          <string>vstem 98 73</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 641 48</string>
-          <string>vstem 228 219</string>
-          <string>hstem -200 49</string>
-          <string>vstem 98 73</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

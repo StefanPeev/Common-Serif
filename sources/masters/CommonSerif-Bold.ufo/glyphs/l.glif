@@ -7,12 +7,6 @@
   <anchor x="284" y="652" name="apostrophe"/>
   <outline>
     <contour>
-      <point x="102" y="122" type="line"/>
-      <point x="232" y="122" type="line"/>
-      <point x="232" y="576" type="line"/>
-      <point x="102" y="576" type="line"/>
-    </contour>
-    <contour>
       <point x="30" y="-2" type="curve"/>
       <point x="72" y="-1"/>
       <point x="114" y="0"/>
@@ -34,6 +28,12 @@
       <point x="24" y="4.25"/>
     </contour>
     <contour>
+      <point x="102" y="122" type="line"/>
+      <point x="232" y="122" type="line"/>
+      <point x="232" y="576" type="line"/>
+      <point x="102" y="576" type="line"/>
+    </contour>
+    <contour>
       <point x="102" y="576" type="curve"/>
       <point x="232" y="576" type="line"/>
       <point x="232" y="626"/>
@@ -52,7 +52,6 @@
       <point x="102" y="620"/>
     </contour>
   </outline>
-  <guideline angle="90" x="167" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -60,16 +59,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>65608c8d948d64c7dd5bf684b20555ca440aca827e1be7e836ec47b89c347f66de7a1efb450e55c2a836dc538cc8f5e5fb32908ff629960b360f62a90bf48b97</string>
+    <string>09b67b0a7a27a34463b49edd16de6be28cb840947d828c417fa0322ef505dc04501f85a8ed4348b55e12e5de518861863214f234ac680efbd5d774e0d3ce0a51</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
-          <string>hstem 685 13</string>
+          <string>hstem -2 34</string>
+          <string>hstem 636 34</string>
           <string>hstem 698 -20</string>
-          <string>vstem 100 130</string>
+          <string>vstem 102 130</string>
         </array>
       </dict>
     </array>

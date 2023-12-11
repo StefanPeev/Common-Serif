@@ -14,31 +14,47 @@
     </contour>
     <contour>
       <point x="348.723" y="314.957" type="line"/>
-      <point x="504.877" y="315.031" type="line" smooth="yes"/>
+      <point x="504.877" y="315.032" type="line" smooth="yes"/>
       <point x="515.865" y="315.037"/>
-      <point x="530" y="326.427"/>
-      <point x="530" y="343.882" type="curve" smooth="yes"/>
+      <point x="530" y="326.428"/>
+      <point x="530" y="343.883" type="curve" smooth="yes"/>
       <point x="530" y="353.238"/>
       <point x="526.567" y="362.97"/>
-      <point x="519.877" y="362.97" type="curve" smooth="yes"/>
+      <point x="519.877" y="362.97" type="curve"/>
       <point x="348.723" y="362.957" type="line"/>
     </contour>
     <contour>
-      <point x="36.6667" y="315.492" type="curve" smooth="yes"/>
+      <point x="36.667" y="315.492" type="curve" smooth="yes"/>
       <point x="181.72" y="315.492" type="line"/>
       <point x="181.853" y="362.728" type="line"/>
-      <point x="51.6667" y="362.728" type="line" smooth="yes"/>
-      <point x="42.6822" y="362.728"/>
-      <point x="26.6667" y="352.178"/>
-      <point x="26.6667" y="331.475" type="curve" smooth="yes"/>
-      <point x="26.6667" y="323.169"/>
-      <point x="29.9127" y="315.492"/>
+      <point x="51.667" y="362.728" type="line" smooth="yes"/>
+      <point x="42.682" y="362.728"/>
+      <point x="26.667" y="352.178"/>
+      <point x="26.667" y="331.476" type="curve" smooth="yes"/>
+      <point x="26.667" y="323.169"/>
+      <point x="29.913" y="315.492"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>K</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4774a3adfc4486cecf8a7f3fa9628bb16321261d835ee992b6e42999e0b8e4aa8868e8d810baa2edd8e45caa574a3cac7ebd4590c3cb47dc6e839b6ec5b843b1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 314.97 48</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

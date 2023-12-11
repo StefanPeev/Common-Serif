@@ -8,6 +8,28 @@
   <anchor x="357" y="0" name="b.cedilla"/>
   <outline>
     <contour>
+      <point x="19" y="-2" type="curve"/>
+      <point x="56" y="-1"/>
+      <point x="116.5" y="0"/>
+      <point x="149" y="0" type="curve"/>
+      <point x="149" y="645" type="line"/>
+      <point x="119" y="645"/>
+      <point x="59" y="646"/>
+      <point x="19" y="647" type="curve"/>
+      <point x="13" y="641"/>
+      <point x="13" y="620"/>
+      <point x="19" y="614" type="curve"/>
+      <point x="89" y="611"/>
+      <point x="106" y="604"/>
+      <point x="106" y="527" type="curve" smooth="yes"/>
+      <point x="106" y="120" type="line" smooth="yes"/>
+      <point x="106" y="39"/>
+      <point x="89" y="34"/>
+      <point x="19" y="31" type="curve"/>
+      <point x="13" y="25"/>
+      <point x="13" y="4"/>
+    </contour>
+    <contour>
       <point x="149" y="0" type="line"/>
       <point x="364" y="0" type="line" smooth="yes"/>
       <point x="412" y="0"/>
@@ -71,28 +93,6 @@
       <point x="370" y="374"/>
       <point x="367" y="361"/>
     </contour>
-    <contour>
-      <point x="19" y="-2" type="curve"/>
-      <point x="56" y="-1"/>
-      <point x="116.5" y="0"/>
-      <point x="149" y="0" type="curve"/>
-      <point x="149" y="645" type="line"/>
-      <point x="119" y="645"/>
-      <point x="59" y="646"/>
-      <point x="19" y="647" type="curve"/>
-      <point x="13" y="641"/>
-      <point x="13" y="620"/>
-      <point x="19" y="614" type="curve"/>
-      <point x="89" y="611"/>
-      <point x="106" y="604"/>
-      <point x="106" y="527" type="curve" smooth="yes"/>
-      <point x="106" y="120" type="line" smooth="yes"/>
-      <point x="106" y="39"/>
-      <point x="89" y="34"/>
-      <point x="19" y="31" type="curve"/>
-      <point x="13" y="25"/>
-      <point x="13" y="4"/>
-    </contour>
   </outline>
   <lib>
   <dict>
@@ -103,19 +103,20 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0dd375689d444ee8012fae860b8f4bb1f1775f22a6d94ac6d0eaa8274527b3cecc952a3d01611f441a7b9c4a537aee41809f8b0e55b42ef34203f9e717df616e</string>
+    <string>0cf7ef0e0eaaae6fc13b7fced1c46436e826b3d4e61a8ffe6416c2e2ca1e5de1aae1f553e847eea64cb45545f9ea90f13204593dde440c3ce82580ab4d07ea48</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 33</string>
           <string>hstem 0 39</string>
           <string>hstem 323 38</string>
-          <string>hstem 429 -20</string>
-          <string>hstem 433 -20</string>
           <string>hstem 605 40</string>
+          <string>hstem 614 33</string>
           <string>hstem 649 -20</string>
           <string>vstem 106 85</string>
+          <string>vstem 373 33</string>
         </array>
       </dict>
     </array>

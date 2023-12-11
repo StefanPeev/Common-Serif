@@ -7,7 +7,7 @@
       <point x="202" y="-50" type="line"/>
       <point x="170" y="-24"/>
       <point x="171" y="-27"/>
-      <point x="156" y="-17" type="curve" smooth="yes"/>
+      <point x="156" y="-17" type="curve"/>
       <point x="125" y="2"/>
       <point x="89" y="21"/>
       <point x="47" y="39" type="curve"/>
@@ -70,6 +70,8 @@
         <key>stems</key>
         <array>
           <string>hstem -211 -21</string>
+          <string>hstem 765 -20</string>
+          <string>vstem 47 240</string>
           <string>vstem 202 85</string>
           <string>vstem 202 239</string>
         </array>

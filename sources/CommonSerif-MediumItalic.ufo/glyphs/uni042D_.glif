@@ -7,10 +7,10 @@
     <contour>
       <point x="484" y="307" type="curve"/>
       <point x="453" y="169"/>
-      <point x="379" y="24.3333"/>
-      <point x="257" y="24.3333" type="curve" smooth="yes"/>
-      <point x="188" y="24.3333"/>
-      <point x="148" y="51.3333"/>
+      <point x="379" y="24.333"/>
+      <point x="257" y="24.333" type="curve" smooth="yes"/>
+      <point x="188" y="24.333"/>
+      <point x="148" y="51.333"/>
       <point x="140" y="123.333" type="curve" smooth="yes"/>
       <point x="137" y="155.333"/>
       <point x="129" y="165"/>
@@ -47,7 +47,7 @@
       <point x="446.333" y="333"/>
       <point x="420.333" y="333" type="curve" smooth="yes"/>
       <point x="364.333" y="333"/>
-      <point x="357.667" y="364" name=".hr01"/>
+      <point x="357.667" y="364"/>
       <point x="293.667" y="364" type="curve" smooth="yes"/>
       <point x="237.667" y="364"/>
       <point x="175" y="332"/>
@@ -59,7 +59,7 @@
       <point x="198.333" y="308.667"/>
       <point x="234.333" y="308.667" type="curve" smooth="yes"/>
       <point x="291.333" y="308.667"/>
-      <point x="309" y="270.667" name=".hr02"/>
+      <point x="309" y="270.667"/>
       <point x="369" y="270.667" type="curve" smooth="yes"/>
       <point x="381" y="270.667"/>
       <point x="424" y="273"/>
@@ -80,28 +80,9 @@
         <array>
           <string>hstem -12 36.33</string>
           <string>hstem 270.67 62.33</string>
-          <string>hstem 617.33 40.67</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 308.67 55.33</string>
-          <string>hstem -12 36.33</string>
           <string>hstem 617.33 40.67</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 270.67 62.33</string>
-          <string>hstem -12 36.33</string>
-          <string>hstem 617.33 40.67</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

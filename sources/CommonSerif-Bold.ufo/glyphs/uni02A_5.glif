@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A5" format="2">
-  <advance width="841"/>
+  <advance width="885"/>
   <unicode hex="02A5"/>
   <outline>
     <component base="d"/>
@@ -82,20 +82,26 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=d</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=z</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>abf5ef9fd6d73e298ed7dc68591973d1cecb643cbf03414030284f068aacab4a74efdd5776db79464c9f1d3fceefa1cbc97905765fb2729c275d8273d7412d3a</string>
+    <string>21c67172ffa9fcb5c77f551af567e113cefd5121552166e8af47d863cb5f7cb632f352fcc0aa72008dd0f3f743c89a5b077f4557d1537456b260c40011800b04</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 0 42</string>
-          <string>hstem 405 41</string>
-          <string>vstem 556 74</string>
+          <string>hstem -104 -21</string>
+          <string>hstem -3 45</string>
+          <string>hstem 127 41</string>
+          <string>hstem 395 41</string>
+          <string>hstem 438 -20</string>
           <string>vstem 787 73</string>
         </array>
       </dict>

@@ -3,7 +3,6 @@
   <advance width="582"/>
   <unicode hex="2159"/>
   <outline>
-    <component base="uni2076" xScale="1" xOffset="249.833" yOffset="-464"/>
     <contour>
       <point x="95" y="585.692" type="curve" smooth="yes"/>
       <point x="107" y="585.692"/>
@@ -31,15 +30,15 @@
       <point x="168.667" y="545.624" type="line" smooth="yes"/>
       <point x="168.667" y="581.204"/>
       <point x="168.4" y="617.541"/>
-      <point x="172.667" y="654.345" type="curve"/>
-      <point x="170.376" y="656.925"/>
+      <point x="172.667" y="654.346" type="curve"/>
+      <point x="170.377" y="656.925"/>
       <point x="166.629" y="657.847"/>
-      <point x="162.902" y="657.855" type="curve" smooth="yes"/>
-      <point x="158.527" y="657.866"/>
+      <point x="162.902" y="657.856" type="curve" smooth="yes"/>
+      <point x="158.528" y="657.866"/>
       <point x="154.353" y="656.611"/>
-      <point x="151.667" y="655.025" type="curve" smooth="yes"/>
+      <point x="151.667" y="655.026" type="curve" smooth="yes"/>
       <point x="110.63" y="630.223"/>
-      <point x="75.4319" y="615.072"/>
+      <point x="75.432" y="615.073"/>
       <point x="28" y="598.692" type="curve"/>
       <point x="28" y="586.692"/>
       <point x="30" y="576.692"/>
@@ -49,9 +48,47 @@
     </contour>
     <contour>
       <point x="510.522" y="656.764" type="line"/>
-      <point x="43.4623" y="-10" type="line"/>
-      <point x="84.4623" y="-10" type="line"/>
+      <point x="43.462" y="-10" type="line"/>
+      <point x="84.462" y="-10" type="line"/>
       <point x="552.522" y="656.764" type="line"/>
+    </contour>
+    <contour>
+      <point x="512.167" y="99" type="curve" smooth="yes"/>
+      <point x="512.167" y="158.613"/>
+      <point x="473.644" y="196"/>
+      <point x="412.207" y="196" type="curve" smooth="yes"/>
+      <point x="386.876" y="196"/>
+      <point x="357.854" y="184.688"/>
+      <point x="340.499" y="168.667" type="curve"/>
+      <point x="352.333" y="226"/>
+      <point x="388.166" y="292"/>
+      <point x="494.5" y="310.833" type="curve"/>
+      <point x="494.5" y="330.167" type="line"/>
+      <point x="337.833" y="318.667"/>
+      <point x="278.833" y="214.5"/>
+      <point x="278.833" y="131.333" type="curve" smooth="yes"/>
+      <point x="278.833" y="47.97"/>
+      <point x="326.178" y="-4"/>
+      <point x="402" y="-4" type="curve" smooth="yes"/>
+      <point x="469.935" y="-4"/>
+      <point x="512.167" y="42.639"/>
+    </contour>
+    <contour>
+      <point x="450.5" y="94" type="curve" smooth="yes"/>
+      <point x="450.5" y="56"/>
+      <point x="444" y="21.333"/>
+      <point x="402" y="21.333" type="curve" smooth="yes"/>
+      <point x="373.833" y="21.333"/>
+      <point x="336.666" y="45"/>
+      <point x="336.666" y="129.333" type="curve" smooth="yes"/>
+      <point x="336.666" y="135.834"/>
+      <point x="336.666" y="143.834"/>
+      <point x="337.499" y="149.5" type="curve"/>
+      <point x="357.499" y="165.667"/>
+      <point x="377.5" y="171.167"/>
+      <point x="392" y="171.167" type="curve" smooth="yes"/>
+      <point x="446.333" y="171.167"/>
+      <point x="450.5" y="115.833"/>
     </contour>
   </outline>
   <lib>
@@ -65,13 +102,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>10628b37a7529d6b877cbfee3290940abf240732ce336f8a61e6978218eb6e7d89c0bed0a7d011c944eed4c3ad1abcfe242cd9368254be0c11255a0f9011d92a</string>
+    <string>cab3026f7332905e3be6fb9dbcdbf9a20afd85c2289aa3305bf96f47eb5b029fc395a3f5c2ad807877939049a426db2f0cdf3351d790e4808b1b28c97b2fc7ce</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -4 25.33</string>
+          <string>hstem 11 -21</string>
+          <string>hstem 171.17 24.83</string>
+          <string>hstem 327.19 28.17</string>
+          <string>hstem 656.76 -20</string>
+          <string>hstem 657.86 -20</string>
           <string>vstem 109 59.67</string>
+          <string>vstem 278.83 57.83</string>
+          <string>vstem 450.5 61.67</string>
         </array>
       </dict>
     </array>

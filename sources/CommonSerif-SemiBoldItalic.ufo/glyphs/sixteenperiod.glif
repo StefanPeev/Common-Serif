@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sixteenperiod" format="2">
-  <advance width="491"/>
+  <advance width="1205"/>
   <unicode hex="2497"/>
   <outline>
     <component base="one"/>
-    <component base="six" xOffset="1.281"/>
-    <component base="period" xScale="1" xOffset="143.407"/>
+    <component base="six" xOffset="490.667"/>
+    <component base="period" xScale="1" xOffset="981.333"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
-  <string>one+six+period</string>
+  <string>one_six_period</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
   </dict>

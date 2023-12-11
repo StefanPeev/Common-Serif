@@ -6,7 +6,7 @@
   <outline>
     <contour>
       <point x="349" y="287" type="line"/>
-      <point x="445" y="510" type="line" smooth="yes"/>
+      <point x="445" y="510" type="line"/>
       <point x="464" y="548.522"/>
       <point x="487" y="564"/>
       <point x="532" y="568" type="curve"/>
@@ -126,8 +126,6 @@
       <point x="478" y="160.922" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="246.801" x="398" y="531"/>
-  <guideline angle="115.393" x="298" y="373"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -142,12 +140,12 @@
         <key>stems</key>
         <array>
           <string>hstem -2 34</string>
+          <string>hstem 0 177</string>
           <string>hstem 135 42</string>
           <string>hstem 245 42</string>
           <string>hstem 568 34</string>
+          <string>hstem 600 -20</string>
           <string>vstem 219 130</string>
-          <string>vstem 344 193</string>
-          <string>vstem 401 136</string>
         </array>
       </dict>
     </array>

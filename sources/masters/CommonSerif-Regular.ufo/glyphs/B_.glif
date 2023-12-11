@@ -6,6 +6,28 @@
   <anchor x="274" y="-60" name="b.minus-60"/>
   <outline>
     <contour>
+      <point x="19" y="-2" type="curve"/>
+      <point x="56" y="-1"/>
+      <point x="116.5" y="0"/>
+      <point x="149" y="0" type="curve"/>
+      <point x="149" y="645" type="line"/>
+      <point x="119" y="645"/>
+      <point x="59" y="646"/>
+      <point x="19" y="647" type="curve"/>
+      <point x="13" y="641"/>
+      <point x="13" y="620"/>
+      <point x="19" y="614" type="curve"/>
+      <point x="89" y="611"/>
+      <point x="106" y="604"/>
+      <point x="106" y="527" type="curve" smooth="yes"/>
+      <point x="106" y="120" type="line" smooth="yes"/>
+      <point x="106" y="39"/>
+      <point x="89" y="34"/>
+      <point x="19" y="31" type="curve"/>
+      <point x="13" y="25"/>
+      <point x="13" y="4"/>
+    </contour>
+    <contour>
       <point x="149" y="645" type="curve"/>
       <point x="149" y="0" type="line"/>
       <point x="185" y="0"/>
@@ -23,7 +45,7 @@
       <point x="488" y="493" type="curve" smooth="yes"/>
       <point x="488" y="560"/>
       <point x="459" y="647"/>
-      <point x="273" y="647" type="curve" smooth="yes" name=".hr01"/>
+      <point x="273" y="647" type="curve" smooth="yes"/>
       <point x="238" y="647"/>
       <point x="185" y="645"/>
     </contour>
@@ -53,30 +75,7 @@
       <point x="265" y="366" type="curve" smooth="yes"/>
       <point x="191" y="366" type="line"/>
     </contour>
-    <contour>
-      <point x="19" y="-2" type="curve"/>
-      <point x="56" y="-1"/>
-      <point x="116.5" y="0"/>
-      <point x="149" y="0" type="curve"/>
-      <point x="149" y="645" type="line"/>
-      <point x="119" y="645"/>
-      <point x="59" y="646"/>
-      <point x="19" y="647" type="curve"/>
-      <point x="13" y="641"/>
-      <point x="13" y="620"/>
-      <point x="19" y="614" type="curve"/>
-      <point x="89" y="611"/>
-      <point x="106" y="604"/>
-      <point x="106" y="527" type="curve" smooth="yes"/>
-      <point x="106" y="120" type="line" smooth="yes"/>
-      <point x="106" y="39"/>
-      <point x="89" y="34"/>
-      <point x="19" y="31" type="curve"/>
-      <point x="13" y="25"/>
-      <point x="13" y="4"/>
-    </contour>
   </outline>
-  <guideline angle="90" x="274" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -88,30 +87,21 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1668fa033f4784b8d19fa4ebaf7c52ca836c2a939baa2f935fce72ac6e574b926f6aa587a3e5333c40a3640512fcab3372286ecedba502f0151be886f79122d5</string>
+    <string>b9b41c03b12e5e1d51fc39efbc0d317d3ca968a4b29df6cc8b91539e95f632c628087c18366320f6454817aef27401f78ff46ac335dac72f3bbdf924eef51d18</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem -28 85</string>
-          <string>vstem 320 93</string>
           <string>hstem -2 33</string>
-          <string>hstem 613 34</string>
+          <string>hstem 21 -21</string>
           <string>hstem 332 34</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 613 34</string>
-          <string>vstem 273 81</string>
-          <string>vstem -28 85</string>
-          <string>hstem 332 34</string>
-          <string>hstem -2 33</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 106 85</string>
+          <string>vstem 407 81</string>
+          <string>vstem 454 93</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

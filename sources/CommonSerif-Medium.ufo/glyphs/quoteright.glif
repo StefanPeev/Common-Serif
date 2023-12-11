@@ -4,38 +4,55 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="80.2691" y="750" type="curve" smooth="yes"/>
-      <point x="46.8601" y="750"/>
-      <point x="23.9358" y="727.738"/>
-      <point x="23.9358" y="696.333" type="curve" smooth="yes"/>
-      <point x="23.9358" y="667.508"/>
-      <point x="40.4964" y="651.998"/>
-      <point x="61.9358" y="648.333" type="curve" smooth="yes"/>
-      <point x="69.6024" y="647" type="line" smooth="yes"/>
-      <point x="86.3564" y="644.271"/>
-      <point x="102.615" y="636.819"/>
-      <point x="102.952" y="616.27" type="curve" smooth="yes"/>
-      <point x="103.505" y="583.701"/>
-      <point x="44.5038" y="534.725"/>
-      <point x="11.9358" y="526.333" type="curve"/>
-      <point x="10.2691" y="515.333"/>
-      <point x="11.9358" y="507.333"/>
-      <point x="20.2691" y="500" type="curve"/>
-      <point x="87.8893" y="512.587"/>
-      <point x="153.269" y="570.422"/>
-      <point x="153.269" y="643" type="curve" smooth="yes"/>
-      <point x="153.269" y="712.552"/>
-      <point x="127.844" y="750"/>
+      <point x="80.269" y="750" type="curve" smooth="yes"/>
+      <point x="46.86" y="750"/>
+      <point x="23.936" y="727.738"/>
+      <point x="23.936" y="696.333" type="curve" smooth="yes"/>
+      <point x="23.936" y="667.508"/>
+      <point x="40.497" y="651.998"/>
+      <point x="61.936" y="648.333" type="curve" smooth="yes"/>
+      <point x="69.602" y="647" type="line" smooth="yes"/>
+      <point x="86.356" y="644.271"/>
+      <point x="102.614" y="636.819"/>
+      <point x="102.951" y="616.27" type="curve" smooth="yes"/>
+      <point x="103.504" y="583.701"/>
+      <point x="44.503" y="534.725"/>
+      <point x="11.935" y="526.333" type="curve"/>
+      <point x="10.269" y="515.333"/>
+      <point x="11.935" y="507.333"/>
+      <point x="20.269" y="500" type="curve"/>
+      <point x="87.889" y="512.587"/>
+      <point x="153.268" y="570.422"/>
+      <point x="153.268" y="643" type="curve" smooth="yes"/>
+      <point x="153.268" y="712.552"/>
+      <point x="127.843" y="750"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="728"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=10</string>
   <key>com.fontlab.metricsRight</key>
   <string>=17</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8e72a81b61f3fd0781994db46dc96a2bedc969492f9a8e481009c70ed49c99990173679a455467cf4a5f0d1786dac23148559a67a9270f25e64630b7aed43ff2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 750 -20</string>
+          <string>vstem 23.94 129.33</string>
+          <string>vstem 102.95 50.32</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

@@ -60,8 +60,8 @@
       <point x="745" y="684"/>
       <point x="741" y="689" type="curve"/>
       <point x="738" y="692"/>
-      <point x="735" y="694" name=".hr01"/>
-      <point x="731" y="696" type="curve" name=".hr02"/>
+      <point x="735" y="694"/>
+      <point x="731" y="696" type="curve"/>
       <point x="728" y="697"/>
       <point x="723" y="698"/>
       <point x="717" y="698" type="curve" smooth="yes"/>
@@ -165,7 +165,6 @@
       <point x="374" y="32"/>
     </contour>
   </outline>
-  <guideline angle="90" color="0.627451,0.627451,0.643137,1" name="caret.1" x="387" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
@@ -183,42 +182,15 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 837 129</string>
-          <string>hstem 689 7</string>
           <string>hstem -9 76</string>
           <string>hstem 402 42</string>
           <string>hstem 632 40</string>
-          <string>vstem 72 132</string>
-          <string>vstem 364 110</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
+          <string>hstem 689 7</string>
           <string>hstem 694 -20</string>
-          <string>hstem -9 76</string>
-          <string>hstem 402 42</string>
-          <string>hstem 632 40</string>
           <string>vstem 72 132</string>
           <string>vstem 364 110</string>
           <string>vstem 837 129</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 689 7</string>
-          <string>hstem 632 40</string>
-          <string>hstem -9 76</string>
-          <string>vstem 72 132</string>
-          <string>hstem 402 42</string>
-          <string>vstem 364 110</string>
-          <string>vstem 837 129</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

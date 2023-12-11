@@ -3,7 +3,43 @@
   <unicode hex="030C"/>
   <anchor x="-200" y="500" name="_t.uni0302"/>
   <outline>
-    <component base="caron" xOffset="-374.667"/>
+    <contour>
+      <point x="-225" y="500" type="curve"/>
+      <point x="-174.333" y="500" type="line"/>
+      <point x="-145.333" y="546.667"/>
+      <point x="-109.667" y="589.667"/>
+      <point x="-74" y="629.333" type="curve"/>
+      <point x="-96.333" y="645.667" type="line"/>
+      <point x="-134.667" y="618.667"/>
+      <point x="-164.667" y="596.333"/>
+      <point x="-199.667" y="559.667" type="curve"/>
+      <point x="-235.667" y="597"/>
+      <point x="-264" y="618.667"/>
+      <point x="-303" y="645.667" type="curve"/>
+      <point x="-325.333" y="629.333" type="line"/>
+      <point x="-290.333" y="590"/>
+      <point x="-254" y="546.333"/>
+    </contour>
   </outline>
-  <guideline angle="90" x="-200" y="0"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>37eabe2bee24e3233dbfc538b1ca3ba4938c849b2f8d1b0f40a64aa0a7ba5c24ef3287ec8417f1103fa740e56765b5bf0259622635b67c595bfb6870cea5a743</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 645.67 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

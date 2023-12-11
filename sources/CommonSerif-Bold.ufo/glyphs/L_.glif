@@ -59,7 +59,6 @@
       <point x="182" y="645" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="90" x="149" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -75,8 +74,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 34</string>
           <string>hstem 0 42</string>
-          <string>hstem 647 -20</string>
+          <string>hstem 613 34</string>
+          <string>hstem 645 -20</string>
           <string>vstem 114 137</string>
         </array>
       </dict>

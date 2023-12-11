@@ -6,12 +6,6 @@
   <anchor x="139" y="-114" name="m.uni0316_2"/>
   <outline>
     <contour>
-      <point x="244" y="312" type="line"/>
-      <point x="114" y="312" type="line"/>
-      <point x="114" y="122" type="line"/>
-      <point x="244" y="122" type="line"/>
-    </contour>
-    <contour>
       <point x="42" y="-2" type="curve"/>
       <point x="84" y="-1"/>
       <point x="126" y="0"/>
@@ -53,6 +47,12 @@
       <point x="126.001" y="433.644"/>
       <point x="84" y="435"/>
     </contour>
+    <contour>
+      <point x="244" y="312" type="line"/>
+      <point x="114" y="312" type="line"/>
+      <point x="114" y="122" type="line"/>
+      <point x="244" y="122" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -61,14 +61,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>13ad58752e567dc5cadc88583ea2da1380a427d393c58fdddd15f89d5c9bb7b3b40edc263739a4b7ec79433febd121ceef08e5f9d5c9801da8312439f3b876b2</string>
+    <string>c560eb004147f9b390b81f1e2e10364af8872a4756a77ff81cb1b5881b174009eca251167753b70a7fa4ed7a8c1af0f7b93582de5d11bb1e7881dcefd6b5011a</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
-          <string>hstem 436 -20</string>
+          <string>hstem -2 34</string>
+          <string>hstem 402 34</string>
+          <string>hstem 434 -20</string>
           <string>vstem 114 130</string>
         </array>
       </dict>

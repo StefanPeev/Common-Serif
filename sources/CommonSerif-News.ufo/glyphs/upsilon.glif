@@ -5,7 +5,7 @@
   <anchor x="265.333" y="510" name="t.uni0302"/>
   <outline>
     <contour>
-      <point x="451.903" y="249.64" type="curve"/>
+      <point x="451.903" y="249.64" type="curve" smooth="yes"/>
       <point x="451.903" y="338.379"/>
       <point x="424.466" y="409.018"/>
       <point x="380.37" y="441.967" type="curve"/>
@@ -18,34 +18,31 @@
       <point x="344.712" y="84.348"/>
       <point x="248.301" y="84.348" type="curve" smooth="yes"/>
       <point x="181.433" y="84.348"/>
-      <point x="137.96" y="121.352"/>
-      <point x="137.96" y="185.848" type="curve" smooth="yes"/>
-      <point x="137.96" y="265.139"/>
+      <point x="137.959" y="121.352"/>
+      <point x="137.959" y="185.848" type="curve" smooth="yes"/>
+      <point x="137.959" y="265.139"/>
       <point x="170.456" y="335.328"/>
       <point x="170.684" y="386.196" type="curve" smooth="yes"/>
-      <point x="170.832" y="420.814"/>
+      <point x="170.833" y="420.814"/>
       <point x="152.261" y="442.039"/>
-      <point x="121.76" y="442.039" type="curve" smooth="yes"/>
-      <point x="94.6539" y="442.039"/>
+      <point x="121.759" y="442.039" type="curve" smooth="yes"/>
+      <point x="94.654" y="442.039"/>
       <point x="39.824" y="431.638"/>
-      <point x="14.7976" y="421.6" type="curve"/>
-      <point x="13.1309" y="414.933"/>
-      <point x="14.9033" y="387.709"/>
-      <point x="17.0864" y="381.524" type="curve"/>
-      <point x="72.0597" y="378.477"/>
-      <point x="86.2106" y="351.836"/>
-      <point x="86.2077" y="318.495" type="curve" smooth="yes"/>
-      <point x="86.1935" y="166.066" type="line" smooth="yes"/>
-      <point x="86.1816" y="32.2493"/>
-      <point x="164.991" y="-11.5757"/>
-      <point x="256.409" y="-11.7237" type="curve" smooth="yes"/>
+      <point x="14.797" y="421.6" type="curve"/>
+      <point x="13.13" y="414.933"/>
+      <point x="14.903" y="387.709"/>
+      <point x="17.086" y="381.524" type="curve"/>
+      <point x="72.059" y="378.477"/>
+      <point x="86.211" y="351.836"/>
+      <point x="86.208" y="318.495" type="curve" smooth="yes"/>
+      <point x="86.193" y="166.066" type="line" smooth="yes"/>
+      <point x="86.181" y="32.249"/>
+      <point x="164.991" y="-11.576"/>
+      <point x="256.409" y="-11.724" type="curve" smooth="yes"/>
       <point x="381.16" y="-11.936"/>
-      <point x="451.903" y="83.4045"/>
+      <point x="451.903" y="83.404"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
-  <guideline angle="90" x="258" y="0"/>
-  <guideline angle="191.421" x="419" y="452.091"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
@@ -55,13 +52,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>106de08edc2f53f7ef23dd4c3753018d9055bb8884008fe7faca8f07541846530e3f408bb96209f93aba844dc5ae8e6592d55ca6ef75bbb56da597e8c2ceb758</string>
+    <string>2d57f93e774f8504d1bf90db91d344f57e8f24abfb8fafa39345e9caff85dcfd629aa65023e8499a468e796d75f98315909da06c48fa5207746f5c31e7e2763d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -11.72 96.07</string>
           <string>hstem 441.97 -20</string>
+          <string>vstem 86.19 51.77</string>
+          <string>vstem 86.21 84.48</string>
           <string>vstem 408.44 43.46</string>
         </array>
       </dict>

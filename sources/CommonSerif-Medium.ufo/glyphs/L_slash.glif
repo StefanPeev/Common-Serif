@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="23" y="-2" type="curve"/>
-      <point x="53" y="-1.33333"/>
-      <point x="125.333" y="0"/>
+      <point x="53" y="-1.333"/>
+      <point x="125.334" y="0"/>
       <point x="161" y="0" type="curve" smooth="yes"/>
       <point x="377.333" y="0" type="line" smooth="yes"/>
       <point x="405" y="0"/>
@@ -34,45 +34,40 @@
       <point x="297.667" y="647" type="curve"/>
       <point x="240.333" y="646"/>
       <point x="199" y="645"/>
-      <point x="160.333" y="645" type="curve" smooth="yes"/>
+      <point x="160.334" y="645" type="curve" smooth="yes"/>
       <point x="123" y="645"/>
-      <point x="57.3333" y="646.333"/>
+      <point x="57.334" y="646.333"/>
       <point x="23" y="647" type="curve"/>
-      <point x="15.6667" y="641"/>
-      <point x="15.6667" y="619.667"/>
+      <point x="15.667" y="641"/>
+      <point x="15.667" y="619.667"/>
       <point x="23" y="613.667" type="curve"/>
       <point x="88" y="610.667"/>
       <point x="108.667" y="606"/>
       <point x="108.667" y="523" type="curve" smooth="yes"/>
       <point x="108.667" y="122" type="line" smooth="yes"/>
       <point x="108.667" y="39"/>
-      <point x="88" y="34.3333"/>
-      <point x="23" y="31.3333" type="curve"/>
-      <point x="15.6667" y="25.3333"/>
-      <point x="15.6667" y="4"/>
+      <point x="88" y="34.333"/>
+      <point x="23" y="31.333" type="curve"/>
+      <point x="15.667" y="25.333"/>
+      <point x="15.667" y="4"/>
     </contour>
     <contour>
-      <point x="198.725" y="338.268" type="line"/>
+      <point x="198.726" y="338.268" type="line"/>
       <point x="333.333" y="416" type="line"/>
-      <point x="333.333" y="427.252"/>
+      <point x="333.333" y="427.253"/>
       <point x="325.546" y="444.961"/>
       <point x="312.938" y="450.407" type="curve"/>
       <point x="198.786" y="382.729" type="line"/>
     </contour>
     <contour>
-      <point x="29.6667" y="238.333" type="curve"/>
+      <point x="29.667" y="238.333" type="curve"/>
       <point x="121.957" y="293.506" type="line"/>
-      <point x="122.08" y="337.657" type="line"/>
-      <point x="9.11419" y="273.587" type="line"/>
-      <point x="9.11419" y="256.916"/>
-      <point x="18.9026" y="244.309"/>
+      <point x="122.081" y="337.657" type="line"/>
+      <point x="9.115" y="273.588" type="line"/>
+      <point x="9.115" y="256.917"/>
+      <point x="18.903" y="244.309"/>
     </contour>
   </outline>
-  <guideline angle="120.964" x="-81.2" y="419"/>
-  <guideline angle="120.964" x="328" y="419"/>
-  <guideline angle="209.604" x="310" y="449"/>
-  <guideline angle="209.691" x="119" y="340"/>
-  <guideline angle="30.2564" x="23" y="244"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -80,14 +75,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a2a0c251a53e756bdbe8b5c0147b85c54c006668a2beee43a6594c977946410f1ae0a2a7eeef343a3a44c86d341a5e8f69bab0532ba2ebac65c4ff149f4d0582</string>
+    <string>7cfff1effe198885aa0eef862dd09d78c38df4f6633ab136f12786f5b5f65f58c57616590984114b1959751c1d8c98d2f9e241035235857cf0d6e32ff61f5e26</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 33.33</string>
           <string>hstem 0 40</string>
-          <string>hstem 647 -20</string>
+          <string>hstem 613.67 33.33</string>
+          <string>hstem 645 -20</string>
           <string>vstem 108.67 103.33</string>
         </array>
       </dict>

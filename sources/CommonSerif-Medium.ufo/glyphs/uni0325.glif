@@ -4,36 +4,34 @@
   <anchor x="-217" y="-60" name="_b.minus-60"/>
   <outline>
     <contour>
-      <point x="-304" y="-144.014" type="curve" smooth="yes"/>
+      <point x="-304" y="-144.015" type="curve" smooth="yes"/>
       <point x="-304" y="-190.348"/>
       <point x="-263" y="-228.681"/>
       <point x="-217" y="-228.681" type="curve" smooth="yes"/>
       <point x="-169" y="-228.681"/>
-      <point x="-129.667" y="-189.014"/>
-      <point x="-129.667" y="-144.014" type="curve" smooth="yes"/>
-      <point x="-129.667" y="-97.3476"/>
-      <point x="-171" y="-59.6809"/>
-      <point x="-217" y="-59.6809" type="curve" smooth="yes"/>
-      <point x="-263.333" y="-59.6809"/>
-      <point x="-304" y="-98.3476"/>
+      <point x="-129.667" y="-189.015"/>
+      <point x="-129.667" y="-144.015" type="curve" smooth="yes"/>
+      <point x="-129.667" y="-97.348"/>
+      <point x="-171" y="-59.681"/>
+      <point x="-217" y="-59.681" type="curve" smooth="yes"/>
+      <point x="-263.333" y="-59.681"/>
+      <point x="-304" y="-98.348"/>
     </contour>
     <contour>
       <point x="-199" y="-108.681" type="curve" smooth="yes"/>
       <point x="-179" y="-118.348"/>
       <point x="-174.667" y="-142.348"/>
-      <point x="-185" y="-163.014" type="curve"/>
+      <point x="-185" y="-163.015" type="curve"/>
       <point x="-195.333" y="-181.681"/>
-      <point x="-214.333" y="-189.014"/>
+      <point x="-214.333" y="-189.015"/>
       <point x="-235" y="-179.348" type="curve" smooth="yes"/>
       <point x="-255.667" y="-169.681"/>
-      <point x="-259.333" y="-144.014"/>
+      <point x="-259.333" y="-144.015"/>
       <point x="-249" y="-125.348" type="curve"/>
       <point x="-239.333" y="-105.348"/>
-      <point x="-219.667" y="-98.3476"/>
+      <point x="-219.667" y="-98.348"/>
     </contour>
   </outline>
-  <guideline angle="240.546" x="-217" y="-32"/>
-  <guideline angle="90" x="-217" y="0"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -47,6 +45,8 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -228.68 49.33</string>
+          <string>hstem -108.68 49</string>
           <string>vstem -304 55</string>
           <string>vstem -185 55.33</string>
         </array>

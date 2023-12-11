@@ -3,11 +3,19 @@
   <advance width="336"/>
   <unicode hex="2225"/>
   <outline>
-    <component base="uni2223"/>
-    <component base="uni2223" xOffset="132"/>
+    <contour>
+      <point x="124" y="-232" type="line"/>
+      <point x="124" y="698" type="line"/>
+      <point x="80" y="698" type="line"/>
+      <point x="80" y="-232" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="-232" type="line"/>
+      <point x="256" y="698" type="line"/>
+      <point x="212" y="698" type="line"/>
+      <point x="212" y="-232" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="720"/>
-  <guideline angle="0" x="0" y="-240"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -15,7 +23,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w336</string>
+    <string>w336m124,-232l124,698l80,698l80,-232m256,-232l256,698l212,698l212,-232</string>
     <key>hintSetList</key>
     <array>
       <dict>

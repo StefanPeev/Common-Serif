@@ -6,31 +6,29 @@
   <outline>
     <contour>
       <point x="136.333" y="500" type="curve" smooth="yes"/>
-      <point x="168.61" y="500"/>
-      <point x="192.667" y="523.39"/>
-      <point x="192.667" y="553.667" type="curve" smooth="yes"/>
-      <point x="192.667" y="578.233"/>
-      <point x="176.789" y="597.941"/>
-      <point x="154.667" y="601.667" type="curve" smooth="yes"/>
+      <point x="168.609" y="500"/>
+      <point x="192.666" y="523.39"/>
+      <point x="192.666" y="553.667" type="curve" smooth="yes"/>
+      <point x="192.666" y="578.233"/>
+      <point x="176.788" y="597.941"/>
+      <point x="154.666" y="601.667" type="curve" smooth="yes"/>
       <point x="147" y="603" type="line" smooth="yes"/>
       <point x="125.529" y="606.403"/>
       <point x="114" y="615.617"/>
       <point x="114" y="634" type="curve" smooth="yes"/>
       <point x="114" y="660.427"/>
       <point x="151.901" y="710.174"/>
-      <point x="204.667" y="723.667" type="curve"/>
+      <point x="204.666" y="723.667" type="curve"/>
       <point x="206.333" y="734.667"/>
-      <point x="204.667" y="743"/>
+      <point x="204.666" y="743"/>
       <point x="196.333" y="750" type="curve"/>
       <point x="128.198" y="738.644"/>
-      <point x="63.3333" y="665.679"/>
-      <point x="63.3333" y="596.275" type="curve" smooth="yes"/>
-      <point x="63.3333" y="533.377"/>
-      <point x="88.5885" y="500"/>
+      <point x="63.333" y="665.679"/>
+      <point x="63.333" y="596.275" type="curve" smooth="yes"/>
+      <point x="63.333" y="533.377"/>
+      <point x="88.588" y="500"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="728"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -44,8 +42,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 750 -20</string>
           <string>vstem 63.33 50.67</string>
-          <string>vstem 196.33 8.33</string>
+          <string>vstem 63.33 129.33</string>
         </array>
       </dict>
     </array>

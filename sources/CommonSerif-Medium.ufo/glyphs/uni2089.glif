@@ -3,18 +3,69 @@
   <advance width="309"/>
   <unicode hex="2089"/>
   <outline>
-    <component base="uni2079" xScale="1" xyScale="7.14488e-17" xOffset="0.558" yOffset="-628.47"/>
+    <contour>
+      <point x="35.225" y="65.285" type="curve" smooth="yes"/>
+      <point x="35.225" y="47.777"/>
+      <point x="44.225" y="-32.079"/>
+      <point x="145.892" y="-32.079" type="curve" smooth="yes"/>
+      <point x="167.558" y="-32.079"/>
+      <point x="190.891" y="-19.413"/>
+      <point x="205.558" y="-8.44" type="curve"/>
+      <point x="192.225" y="-65.079"/>
+      <point x="156.225" y="-130.413"/>
+      <point x="52.558" y="-148.746" type="curve"/>
+      <point x="52.558" y="-168.413" type="line"/>
+      <point x="212.891" y="-155.746"/>
+      <point x="274.225" y="-50.746"/>
+      <point x="274.225" y="33.572" type="curve" smooth="yes"/>
+      <point x="274.225" y="115.116"/>
+      <point x="231.38" y="170.921"/>
+      <point x="146.892" y="170.921" type="curve" smooth="yes"/>
+      <point x="64.558" y="170.921"/>
+      <point x="35.225" y="102.612"/>
+    </contour>
+    <contour>
+      <point x="100.892" y="70.241" type="curve" smooth="yes"/>
+      <point x="100.892" y="107.905"/>
+      <point x="106.892" y="142.921"/>
+      <point x="146.892" y="142.921" type="curve" smooth="yes"/>
+      <point x="175.225" y="142.921"/>
+      <point x="209.558" y="118.479"/>
+      <point x="209.558" y="35.554" type="curve" smooth="yes"/>
+      <point x="209.558" y="13.757" type="line"/>
+      <point x="189.891" y="-1.448"/>
+      <point x="171.892" y="-5.746"/>
+      <point x="156.892" y="-5.746" type="curve" smooth="yes"/>
+      <point x="105.892" y="-5.746"/>
+      <point x="100.892" y="48.435"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="-160"/>
-  <guideline angle="0" x="0" y="161"/>
-  <guideline angle="0" x="0" y="165"/>
-  <guideline angle="0" x="0" y="-164"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni2079</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni2079</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>53ddd2153f87e8eb9325d9ef100e83c7375e2bfdb70ed4d0427db13e3735ee91a054c92b495ad92eeb5c1befb1055b65ad00508fb2f21f68ca1b3e934f4ba138</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -168.41 162.67</string>
+          <string>hstem -32.08 26.33</string>
+          <string>hstem 142.92 28</string>
+          <string>vstem 35.23 65.67</string>
+          <string>vstem 209.56 64.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

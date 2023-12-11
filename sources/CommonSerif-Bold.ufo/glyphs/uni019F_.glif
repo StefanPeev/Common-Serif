@@ -4,7 +4,34 @@
   <unicode hex="019F"/>
   <anchor x="350" y="-110" name="m.uni0316_2"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="694" y="322.684" type="curve" smooth="yes"/>
+      <point x="694" y="528"/>
+      <point x="546" y="658"/>
+      <point x="365.082" y="658" type="curve" smooth="yes"/>
+      <point x="165" y="658"/>
+      <point x="37" y="499"/>
+      <point x="37" y="314.896" type="curve" smooth="yes"/>
+      <point x="37" y="111"/>
+      <point x="194" y="-10"/>
+      <point x="372.41" y="-10" type="curve" smooth="yes"/>
+      <point x="565" y="-10"/>
+      <point x="694" y="131"/>
+    </contour>
+    <contour>
+      <point x="354.246" y="618" type="curve" smooth="yes"/>
+      <point x="458" y="618"/>
+      <point x="543" y="512.64"/>
+      <point x="543" y="308.945" type="curve" smooth="yes"/>
+      <point x="543" y="142.377"/>
+      <point x="485" y="32"/>
+      <point x="379.259" y="32" type="curve" smooth="yes"/>
+      <point x="274" y="32"/>
+      <point x="188" y="141.373"/>
+      <point x="188" y="330.017" type="curve" smooth="yes"/>
+      <point x="188" y="534.716"/>
+      <point x="262" y="618"/>
+    </contour>
     <contour>
       <point x="173" y="309" type="line"/>
       <point x="557.5" y="309" type="line"/>
@@ -19,13 +46,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w730m173,309l557.5,309l557.5,353l173,353</string>
+    <string>60fd29301a5d3c4896a351b54489a3bf80e53395eca61b4e90bc2049f4e506a7d2edf74899d5af78751eb690a3d8a1f7c8761948273d2e20b3cc1b4d6adb4264</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -10 42</string>
           <string>hstem 309 44</string>
+          <string>hstem 618 40</string>
+          <string>vstem 37 151</string>
+          <string>vstem 543 151</string>
         </array>
       </dict>
     </array>

@@ -4,7 +4,7 @@
   <unicode hex="204A"/>
   <outline>
     <contour>
-      <point x="60.3333" y="336.667" type="line"/>
+      <point x="60.333" y="336.667" type="line"/>
       <point x="103" y="328.333"/>
       <point x="149.333" y="323"/>
       <point x="197" y="323" type="curve" smooth="yes"/>
@@ -21,25 +21,25 @@
       <point x="403.333" y="391.333" type="curve" smooth="yes"/>
       <point x="406" y="400"/>
       <point x="409.333" y="412.333"/>
-      <point x="410" y="422.667" type="curve" smooth="yes"/>
+      <point x="410" y="422.666" type="curve" smooth="yes"/>
       <point x="410.333" y="428.333"/>
       <point x="410" y="432.333"/>
       <point x="409.333" y="436" type="curve"/>
-      <point x="408.667" y="441.667"/>
+      <point x="408.667" y="441.666"/>
       <point x="404.333" y="445"/>
       <point x="395.333" y="445" type="curve" smooth="yes"/>
       <point x="369.667" y="445"/>
-      <point x="343.667" y="419.667"/>
-      <point x="343.667" y="419.667" type="curve"/>
+      <point x="343.667" y="419.666"/>
+      <point x="343.667" y="419.666" type="curve"/>
       <point x="340.667" y="419"/>
-      <point x="338" y="418.667"/>
+      <point x="338" y="418.666"/>
       <point x="335" y="418" type="curve"/>
       <point x="304.333" y="413.333"/>
       <point x="272" y="410.333"/>
       <point x="239" y="410.333" type="curve" smooth="yes"/>
       <point x="180.667" y="410.333"/>
       <point x="116.333" y="420"/>
-      <point x="51.6667" y="441.333" type="curve"/>
+      <point x="51.667" y="441.333" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -55,9 +55,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -108.33 -21</string>
           <string>hstem 323 87.33</string>
           <string>hstem 441.33 -20</string>
-          <string>vstem 51.67 358.33</string>
+          <string>hstem 445 -20</string>
         </array>
       </dict>
     </array>

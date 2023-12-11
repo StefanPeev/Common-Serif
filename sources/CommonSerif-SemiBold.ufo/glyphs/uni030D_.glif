@@ -4,10 +4,32 @@
   <anchor x="-155" y="500" name="_t.uni0302"/>
   <outline>
     <contour>
-      <point x="-128.333" y="500" type="line"/>
-      <point x="-128.333" y="680" type="line"/>
+      <point x="-128.334" y="500" type="line"/>
+      <point x="-128.334" y="680" type="line"/>
       <point x="-183.667" y="680" type="line"/>
       <point x="-183.667" y="500" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-128.33,500l-128.33,680l-183.67,680l-183.67,500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 680 -20</string>
+          <string>vstem -183.67 55.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -4,15 +4,55 @@
   <unicode hex="1FBF"/>
   <anchor x="70" y="510" name="_t.gr"/>
   <outline>
-    <component base="uni1FBD" xOffset="-0.497667"/>
+    <contour>
+      <point x="87.502" y="689" type="curve" smooth="yes"/>
+      <point x="57.502" y="689"/>
+      <point x="43.502" y="671"/>
+      <point x="43.502" y="655" type="curve" smooth="yes"/>
+      <point x="43.502" y="639"/>
+      <point x="48.502" y="617"/>
+      <point x="89.502" y="617" type="curve" smooth="yes"/>
+      <point x="97.502" y="617"/>
+      <point x="103.502" y="609"/>
+      <point x="103.502" y="596" type="curve" smooth="yes"/>
+      <point x="103.502" y="573"/>
+      <point x="82.502" y="536"/>
+      <point x="40.502" y="527" type="curve"/>
+      <point x="40.394" y="519.862"/>
+      <point x="42.152" y="514.478"/>
+      <point x="45.502" y="510" type="curve"/>
+      <point x="115.502" y="518"/>
+      <point x="147.502" y="580"/>
+      <point x="147.502" y="616" type="curve" smooth="yes"/>
+      <point x="147.502" y="652"/>
+      <point x="125.502" y="689"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni1FBD</string>
   <key>com.fontlab.metricsRight</key>
   <string>=uni1FBD</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>392b5d1777380f28469de0f05a14224eaf1b5f4660be8c0382fc23716f07595b44daaac005d61552a41e47e1d01bb744b930eafe19e73523f1017420e0922fc8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 510 179</string>
+          <string>hstem 617 72</string>
+          <string>vstem 43.5 104</string>
+          <string>vstem 103.5 44</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

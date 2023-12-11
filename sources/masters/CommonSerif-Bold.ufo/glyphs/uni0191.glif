@@ -10,7 +10,7 @@
       <point x="68" y="-128" type="curve" smooth="yes"/>
       <point x="45.7099" y="-128"/>
       <point x="24.6704" y="-113.341"/>
-      <point x="15" y="-94" type="curve" smooth="yes"/>
+      <point x="15" y="-94" type="curve"/>
       <point x="6" y="-78"/>
       <point x="-4" y="-60"/>
       <point x="-36" y="-60" type="curve" smooth="yes"/>
@@ -101,10 +101,13 @@
         <key>stems</key>
         <array>
           <string>hstem -187 59</string>
+          <string>hstem -187 127</string>
           <string>hstem 297 50</string>
           <string>hstem 603 42</string>
+          <string>hstem 613 34</string>
           <string>hstem 649 -20</string>
           <string>vstem 117 140</string>
+          <string>vstem 429 43</string>
         </array>
       </dict>
     </array>

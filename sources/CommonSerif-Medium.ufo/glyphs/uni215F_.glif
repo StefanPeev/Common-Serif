@@ -3,17 +3,80 @@
   <advance width="339"/>
   <unicode hex="215F"/>
   <outline>
-    <component base="uni00B9" xyScale="4.02668e-18" yOffset="-141.676"/>
-    <component base="fraction" xOffset="264.667"/>
+    <contour>
+      <point x="95" y="584.344" type="curve" smooth="yes"/>
+      <point x="107" y="584.344"/>
+      <point x="109" y="575.344"/>
+      <point x="109" y="543.344" type="curve" smooth="yes"/>
+      <point x="109" y="406.677" type="line" smooth="yes"/>
+      <point x="109" y="355.677"/>
+      <point x="78" y="352.677"/>
+      <point x="38" y="350.677" type="curve"/>
+      <point x="33" y="342.677"/>
+      <point x="34" y="327.344"/>
+      <point x="38" y="321.344" type="curve"/>
+      <point x="68" y="322.344"/>
+      <point x="105.333" y="322.344"/>
+      <point x="140.333" y="322.344" type="curve" smooth="yes"/>
+      <point x="175.333" y="322.344"/>
+      <point x="199.333" y="322.344"/>
+      <point x="229.333" y="321.344" type="curve"/>
+      <point x="233.333" y="328.344"/>
+      <point x="233.333" y="342.677"/>
+      <point x="229.333" y="350.677" type="curve"/>
+      <point x="195.333" y="352.677"/>
+      <point x="174.333" y="355.677"/>
+      <point x="174.333" y="406.677" type="curve" smooth="yes"/>
+      <point x="174.333" y="543.803" type="line" smooth="yes"/>
+      <point x="174.333" y="579.432"/>
+      <point x="174.12" y="615.548"/>
+      <point x="178.334" y="653.65" type="curve"/>
+      <point x="175.953" y="656.608"/>
+      <point x="171.246" y="657.598"/>
+      <point x="166.646" y="657.61" type="curve" smooth="yes"/>
+      <point x="161.529" y="657.623"/>
+      <point x="156.921" y="656.477"/>
+      <point x="154.333" y="655.01" type="curve" smooth="yes"/>
+      <point x="116.288" y="632.361"/>
+      <point x="75.864" y="614.104"/>
+      <point x="28" y="598.344" type="curve"/>
+      <point x="28" y="586.344"/>
+      <point x="30" y="575.344"/>
+      <point x="38" y="569.344" type="curve"/>
+      <point x="63" y="578.344"/>
+      <point x="82" y="584.344"/>
+    </contour>
+    <contour>
+      <point x="517.248" y="656.811" type="line"/>
+      <point x="50.323" y="-10" type="line"/>
+      <point x="91.323" y="-10" type="line"/>
+      <point x="559.248" y="656.811" type="line"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="657"/>
-  <guideline angle="0" x="0" y="-10"/>
-  <guideline angle="0" x="0" y="328"/>
-  <guideline angle="0" x="0" y="332"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=uni00B9</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>86dcc0bdf8a45da1daf5b6ae75ff617bb25db3636dbd0dea865a641a422322c71675d6dc285b1cc7b872cfa971cba26b72da585f13849105f30e6ba64326b224</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 11 -21</string>
+          <string>hstem 322.34 28.33</string>
+          <string>hstem 656.81 -20</string>
+          <string>hstem 657.61 -20</string>
+          <string>vstem 109 65.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

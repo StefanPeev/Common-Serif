@@ -14,7 +14,7 @@
       <point x="115" y="-6"/>
       <point x="163" y="-10" type="curve" smooth="yes"/>
       <point x="175" y="-11"/>
-      <point x="189" y="-12" name=".hr01"/>
+      <point x="189" y="-12"/>
       <point x="204" y="-12" type="curve" smooth="yes"/>
       <point x="288" y="-12"/>
       <point x="356" y="41"/>
@@ -44,7 +44,7 @@
       <point x="229" y="444"/>
       <point x="280" y="444" type="curve" smooth="yes"/>
       <point x="326" y="444"/>
-      <point x="375" y="412" name=".hr02"/>
+      <point x="375" y="412"/>
       <point x="375" y="350" type="curve" smooth="yes"/>
       <point x="375" y="346"/>
       <point x="375" y="342"/>
@@ -61,7 +61,7 @@
       <point x="388" y="448"/>
       <point x="369" y="469"/>
       <point x="307" y="473" type="curve"/>
-      <point x="300" y="474" name=".hr03"/>
+      <point x="300" y="474"/>
       <point x="293" y="474"/>
       <point x="285" y="474" type="curve" smooth="yes"/>
       <point x="240" y="474"/>
@@ -108,7 +108,7 @@
       <point x="149" y="-62"/>
       <point x="124" y="-81"/>
       <point x="119" y="-105" type="curve" smooth="yes"/>
-      <point x="115" y="-125" name=".hr04"/>
+      <point x="115" y="-125"/>
       <point x="127" y="-135"/>
       <point x="140" y="-140" type="curve" smooth="yes"/>
       <point x="145" y="-142"/>
@@ -116,7 +116,7 @@
       <point x="153" y="-144" type="curve"/>
       <point x="168" y="-146"/>
       <point x="179" y="-149"/>
-      <point x="180" y="-161" type="curve" name=".hr05"/>
+      <point x="180" y="-161" type="curve"/>
       <point x="180" y="-164"/>
       <point x="180" y="-167"/>
       <point x="179" y="-170" type="curve"/>
@@ -149,77 +149,17 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 63 28</string>
+          <string>hstem -12 29</string>
           <string>hstem 20 -21</string>
           <string>hstem 339 109</string>
-          <string>vstem 106 71</string>
-          <string>vstem 179 46</string>
-          <string>vstem 305 80</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 29</string>
-          <string>vstem 305 80</string>
-          <string>vstem 106 71</string>
           <string>hstem 444 30</string>
           <string>vstem 63 28</string>
-          <string>vstem 179 46</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 375 32</string>
-          <string>hstem 339 109</string>
-          <string>hstem -12 29</string>
-          <string>vstem 63 28</string>
           <string>vstem 106 71</string>
-          <string>vstem 179 46</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 444 30</string>
-          <string>vstem 106 71</string>
-          <string>vstem 305 80</string>
-          <string>hstem -12 29</string>
-          <string>vstem 63 28</string>
-          <string>vstem 179 46</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 119 106</string>
-          <string>hstem -12 29</string>
-          <string>hstem 339 109</string>
-          <string>vstem 63 28</string>
-          <string>vstem 305 80</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 179 46</string>
-          <string>vstem 63 28</string>
-          <string>hstem -12 29</string>
-          <string>hstem 339 109</string>
-          <string>vstem 106 71</string>
           <string>vstem 305 80</string>
+          <string>vstem 375 32</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr05</string>
       </dict>
     </array>
   </dict>

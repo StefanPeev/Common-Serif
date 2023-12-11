@@ -24,7 +24,7 @@
       <point x="273" y="-216" type="curve" smooth="yes"/>
       <point x="333" y="-216"/>
       <point x="381" y="-182"/>
-      <point x="389" y="-138" type="curve" smooth="yes"/>
+      <point x="389" y="-138" type="curve"/>
       <point x="390" y="-134"/>
       <point x="390" y="-130"/>
       <point x="390" y="-126" type="curve" smooth="yes"/>
@@ -47,10 +47,10 @@
       <point x="358" y="325" type="line" smooth="yes"/>
       <point x="358" y="342"/>
       <point x="358" y="356"/>
-      <point x="359" y="367" type="curve" smooth="yes"/>
+      <point x="359" y="367" type="curve"/>
       <point x="361" y="402"/>
       <point x="366" y="414"/>
-      <point x="384" y="418" type="curve" smooth="yes"/>
+      <point x="384" y="418" type="curve"/>
       <point x="390" y="420"/>
       <point x="397" y="420"/>
       <point x="406" y="420" type="curve" smooth="yes"/>
@@ -87,10 +87,10 @@
       <point x="164" y="420" type="curve" smooth="yes"/>
       <point x="176" y="420"/>
       <point x="186" y="419"/>
-      <point x="194" y="418" type="curve" smooth="yes"/>
+      <point x="194" y="418" type="curve"/>
       <point x="218" y="413"/>
       <point x="227" y="399"/>
-      <point x="231" y="367" type="curve" smooth="yes"/>
+      <point x="231" y="367" type="curve"/>
       <point x="232" y="356"/>
       <point x="232" y="343"/>
       <point x="232" y="328" type="curve" smooth="yes"/>
@@ -124,9 +124,9 @@
         <key>stems</key>
         <array>
           <string>hstem -216 29</string>
+          <string>hstem -2 34</string>
           <string>hstem 21 -21</string>
           <string>hstem 420 40</string>
-          <string>hstem 468 -20</string>
           <string>vstem 232 126</string>
           <string>vstem 327 63</string>
         </array>

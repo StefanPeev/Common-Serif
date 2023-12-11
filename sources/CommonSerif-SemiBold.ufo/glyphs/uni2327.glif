@@ -4,34 +4,34 @@
   <unicode hex="2327"/>
   <outline>
     <contour>
-      <point x="646" y="143.333" type="line"/>
-      <point x="453.667" y="430" type="line"/>
-      <point x="73" y="286.667" type="line" name=".hr01"/>
-      <point x="265.333" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="646" y="0" type="line"/>
+      <point x="646" y="430" type="line"/>
+      <point x="73" y="430" type="line"/>
     </contour>
     <contour>
-      <point x="282.333" y="154" type="line"/>
-      <point x="163.333" y="42" type="line"/>
-      <point x="122" y="162.667" type="line" name=".hr02"/>
-      <point x="146.667" y="387.333" type="line"/>
-      <point x="238.667" y="326.667" type="line"/>
+      <point x="122" y="42" type="line"/>
+      <point x="122" y="387.333" type="line"/>
+      <point x="188" y="387.333" type="line"/>
+      <point x="332.667" y="214" type="line"/>
+      <point x="188.333" y="42" type="line"/>
     </contour>
     <contour>
-      <point x="462.333" y="154" type="line" name=".hr03"/>
-      <point x="531.667" y="266.667" type="line"/>
-      <point x="522" y="326.667" type="line"/>
-      <point x="572.667" y="162.667" type="line"/>
-      <point x="555.667" y="162.667" type="line"/>
+      <point x="531" y="42" type="line"/>
+      <point x="387.333" y="214" type="line"/>
+      <point x="532" y="387.333" type="line"/>
+      <point x="597" y="387.333" type="line"/>
+      <point x="597" y="42" type="line"/>
     </contour>
     <contour>
-      <point x="402.667" y="297.333" type="line"/>
-      <point x="284.667" y="336.333" type="line"/>
-      <point x="393" y="387.333" type="line"/>
+      <point x="360" y="246.333" type="line"/>
+      <point x="241.667" y="387.333" type="line"/>
+      <point x="478.667" y="387.333" type="line"/>
     </contour>
     <contour>
-      <point x="317.667" y="131.333" type="line"/>
-      <point x="434.667" y="92.6667" type="line"/>
-      <point x="327.667" y="42" type="line" name=".hr04"/>
+      <point x="243" y="42" type="line"/>
+      <point x="360" y="182" type="line"/>
+      <point x="477" y="42" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,51 +41,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0bfc08965efe35217065c7e685f8bebbd72b5024ce1dccbf8ccd2c554d7b895215d3a557028c564760f09b99e4f88a59336e4023de3706d298e5e21d215bd778</string>
+    <string>7b508615c78d67312ca74ed910c2e761190d63334b705650ea3fb41453963ccc6d6667e6ab94ab1f2e05074ac19771ef8a1a9c2b6b0f76f29c91482a6fd3129f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 162.67 267.33</string>
-          <string>vstem 122 331.67</string>
+          <string>hstem 0 42</string>
+          <string>hstem 387.33 42.67</string>
+          <string>vstem 73 49</string>
+          <string>vstem 597 49</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 42 244.67</string>
-          <string>vstem 265.33 197</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 162.67 267.33</string>
-          <string>vstem 122 331.67</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 265.33 197</string>
-          <string>hstem 162.67 267.33</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 42 244.67</string>
-          <string>vstem 122 331.67</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
       </dict>
     </array>
   </dict>

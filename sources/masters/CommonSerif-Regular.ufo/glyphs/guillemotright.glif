@@ -3,68 +3,18 @@
   <advance width="543"/>
   <unicode hex="00BB"/>
   <outline>
-    <contour>
-      <point x="207" y="215" type="curve"/>
-      <point x="170" y="173"/>
-      <point x="132" y="124"/>
-      <point x="80" y="45" type="curve"/>
-      <point x="83" y="35"/>
-      <point x="94" y="27"/>
-      <point x="104" y="26" type="curve"/>
-      <point x="184" y="112"/>
-      <point x="234" y="160"/>
-      <point x="289" y="209" type="curve"/>
-      <point x="289" y="221" type="line"/>
-      <point x="234" y="270"/>
-      <point x="184" y="319"/>
-      <point x="104" y="404" type="curve"/>
-      <point x="94" y="403"/>
-      <point x="83" y="395"/>
-      <point x="80" y="385" type="curve"/>
-      <point x="132" y="306"/>
-      <point x="170" y="258"/>
-    </contour>
-    <contour>
-      <point x="387" y="215" type="curve"/>
-      <point x="350" y="173"/>
-      <point x="312" y="124"/>
-      <point x="260" y="45" type="curve"/>
-      <point x="263" y="35"/>
-      <point x="274" y="27"/>
-      <point x="284" y="26" type="curve"/>
-      <point x="364" y="112"/>
-      <point x="414" y="160"/>
-      <point x="469" y="209" type="curve"/>
-      <point x="469" y="221" type="line"/>
-      <point x="414" y="270"/>
-      <point x="364" y="319"/>
-      <point x="284" y="404" type="curve"/>
-      <point x="274" y="403"/>
-      <point x="263" y="395"/>
-      <point x="260" y="385" type="curve"/>
-      <point x="312" y="306"/>
-      <point x="350" y="258"/>
-    </contour>
+    <component base="guillemotleft" xScale="-1" yScale="-1" xOffset="543" yOffset="430"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8a35a6bcafaf7be4873aa2099fb80dfd8dae651f089bd150a41ab104c6ba4823f655d875a088028b2d90da97951695a11b417c194d269a0eca46c77fe211c397</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 26 378</string>
-          <string>vstem 80 389</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|guillemotleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|guillemotleft</string>
+  <key>com.fontlab.recipe</key>
+  <string>=guillemotleft@~,~</string>
   </dict>
   </lib>
 </glyph>

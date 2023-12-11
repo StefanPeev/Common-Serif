@@ -4,28 +4,43 @@
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="53.3333" y="549.667" type="curve" smooth="yes"/>
-      <point x="53.3333" y="522.333"/>
+      <point x="53.3327" y="549.666" type="curve" smooth="yes"/>
+      <point x="53.3327" y="522.333"/>
       <point x="75.6667" y="500"/>
       <point x="103" y="500" type="curve" smooth="yes"/>
-      <point x="130.667" y="500"/>
-      <point x="152.667" y="522.333"/>
-      <point x="152.667" y="549.667" type="curve" smooth="yes"/>
-      <point x="152.667" y="577.333"/>
-      <point x="130.667" y="599.333"/>
+      <point x="130.666" y="500"/>
+      <point x="152.666" y="522.333"/>
+      <point x="152.666" y="549.666" type="curve" smooth="yes"/>
+      <point x="152.666" y="577.333"/>
+      <point x="130.666" y="599.333"/>
       <point x="103" y="599.333" type="curve" smooth="yes"/>
       <point x="75.6667" y="599.333"/>
-      <point x="53.3333" y="577.333"/>
+      <point x="53.3327" y="577.333"/>
     </contour>
   </outline>
-  <guideline angle="90" x="107" y="0"/>
-  <guideline angle="0" x="0" y="577"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=53</string>
   <key>com.fontlab.metricsRight</key>
   <string>=53</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b718779149e2636f3e88f853ea0eabe059416d01064b81821a2d71076aa7519eb715015c237b3bdf8696217bd48f50c100e619c2920025c146b905e9f9bf9a32</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 99.33</string>
+          <string>vstem 53.33 99.33</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

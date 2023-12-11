@@ -26,8 +26,8 @@
       <point x="264.526" y="229.667"/>
       <point x="248.231" y="250"/>
       <point x="206.996" y="250" type="curve" smooth="yes"/>
-      <point x="181.73" y="250"/>
-      <point x="155.466" y="242.667"/>
+      <point x="181.729" y="250"/>
+      <point x="155.465" y="242.667"/>
       <point x="139.5" y="233" type="curve"/>
       <point x="140.499" y="318"/>
       <point x="158.101" y="409"/>
@@ -38,9 +38,9 @@
     <contour>
       <point x="140.333" y="203" type="curve"/>
       <point x="145.323" y="204.667"/>
-      <point x="151.972" y="207"/>
+      <point x="151.971" y="207"/>
       <point x="159.282" y="207" type="curve" smooth="yes"/>
-      <point x="191.537" y="207"/>
+      <point x="191.536" y="207"/>
       <point x="219.138" y="178"/>
       <point x="259.374" y="178" type="curve" smooth="yes"/>
       <point x="288.631" y="178"/>
@@ -67,9 +67,11 @@
         <key>stems</key>
         <array>
           <string>hstem -12 35</string>
+          <string>hstem 178 51.67</string>
           <string>hstem 207 43</string>
           <string>hstem 409 33</string>
           <string>vstem 37 103.33</string>
+          <string>vstem 340.5 102</string>
         </array>
       </dict>
     </array>

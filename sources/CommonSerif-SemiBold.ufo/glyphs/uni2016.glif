@@ -3,17 +3,50 @@
   <advance width="323"/>
   <unicode hex="2016"/>
   <outline>
-    <component base="bar"/>
-    <component base="bar" xScale="1" xOffset="134.667"/>
+    <contour>
+      <point x="121.334" y="-240.116" type="curve"/>
+      <point x="121.334" y="720.103" type="line"/>
+      <point x="109.294" y="725.987"/>
+      <point x="78.707" y="725.987"/>
+      <point x="66.667" y="720.103" type="curve"/>
+      <point x="66.667" y="-240.116" type="line"/>
+      <point x="78.707" y="-246"/>
+      <point x="109.294" y="-246"/>
+    </contour>
+    <contour>
+      <point x="255.999" y="-240.116" type="curve"/>
+      <point x="255.999" y="720.103" type="line"/>
+      <point x="243.959" y="725.987"/>
+      <point x="213.373" y="725.987"/>
+      <point x="201.333" y="720.103" type="curve"/>
+      <point x="201.333" y="-240.116" type="line"/>
+      <point x="213.373" y="-246"/>
+      <point x="243.959" y="-246"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="860"/>
-  <guideline angle="0" x="0" y="-230"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=bar</string>
   <key>com.fontlab.metricsRight</key>
   <string>=bar</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>766abce7092e3dfbd18b6757298f888a447778979a492c5df7f434ea09dfabf330117e59f3582d3ebd66454c4e1cbdfc62cf0f7e59a176ccab56a4a69cfcf382</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 66.67 54.67</string>
+          <string>vstem 201.33 54.67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

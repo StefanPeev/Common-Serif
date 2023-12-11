@@ -73,7 +73,7 @@
       <point x="396" y="122" type="line"/>
     </contour>
     <contour>
-      <point x="98.0633" y="576" type="curve"/>
+      <point x="98.063" y="576" type="curve"/>
       <point x="228.063" y="576" type="line"/>
       <point x="228.063" y="626"/>
       <point x="229.063" y="655"/>
@@ -82,16 +82,15 @@
       <point x="223.063" y="698"/>
       <point x="209.063" y="698" type="curve"/>
       <point x="179.063" y="686"/>
-      <point x="94.0633" y="673"/>
-      <point x="31.0633" y="670" type="curve"/>
-      <point x="29.0633" y="664"/>
-      <point x="31.0633" y="642"/>
-      <point x="33.0633" y="636" type="curve"/>
-      <point x="85.4782" y="631.235"/>
-      <point x="98.0633" y="620"/>
+      <point x="94.063" y="673"/>
+      <point x="31.063" y="670" type="curve"/>
+      <point x="29.063" y="664"/>
+      <point x="31.063" y="642"/>
+      <point x="33.063" y="636" type="curve"/>
+      <point x="85.478" y="631.235"/>
+      <point x="98.063" y="620"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="576"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -109,9 +108,13 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
+          <string>hstem -2 34</string>
+          <string>hstem 21 -21</string>
           <string>hstem 370 74</string>
+          <string>hstem 636 34</string>
           <string>hstem 698 -20</string>
+          <string>vstem 98 130</string>
+          <string>vstem 396 130</string>
         </array>
       </dict>
     </array>

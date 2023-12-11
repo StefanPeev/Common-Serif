@@ -5,10 +5,10 @@
   <outline>
     <contour>
       <point x="203.667" y="160" type="line"/>
-      <point x="97.3333" y="121.333" type="line"/>
-      <point x="88.6667" y="108.667"/>
+      <point x="97.333" y="121.333" type="line"/>
+      <point x="88.667" y="108.667"/>
       <point x="88" y="74"/>
-      <point x="97.3333" y="67.3333" type="curve"/>
+      <point x="97.333" y="67.333" type="curve"/>
       <point x="183" y="98" type="line"/>
       <point x="136" y="-41" type="line"/>
       <point x="174" y="-53" type="line"/>
@@ -21,10 +21,10 @@
       <point x="378" y="557" type="line"/>
       <point x="340" y="567" type="line"/>
       <point x="265.667" y="345.333" type="line"/>
-      <point x="97.3333" y="406.667" type="line"/>
+      <point x="97.333" y="406.667" type="line"/>
       <point x="88" y="400"/>
-      <point x="88.6667" y="365.333"/>
-      <point x="97.3333" y="352.667" type="curve"/>
+      <point x="88.667" y="365.333"/>
+      <point x="97.333" y="352.667" type="curve"/>
       <point x="249.333" y="297" type="line"/>
     </contour>
     <contour>
@@ -46,7 +46,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -53 620</string>
+          <string>hstem -32 -21</string>
+          <string>hstem 567 -20</string>
         </array>
       </dict>
     </array>

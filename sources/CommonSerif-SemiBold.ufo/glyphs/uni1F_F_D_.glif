@@ -2,23 +2,23 @@
 <glyph name="uni1FFD" format="2">
   <advance width="199"/>
   <unicode hex="1FFD"/>
-  <anchor x="80.3333" y="510" name="_t.gr"/>
+  <anchor x="80.333" y="510" name="_t.gr"/>
   <outline>
     <contour>
       <point x="117.667" y="693" type="curve" smooth="yes"/>
       <point x="106" y="693"/>
-      <point x="93.5755" y="687.033"/>
-      <point x="89.6667" y="676" type="curve" smooth="yes"/>
+      <point x="93.575" y="687.033"/>
+      <point x="89.667" y="676" type="curve" smooth="yes"/>
       <point x="39" y="533" type="line" smooth="yes"/>
       <point x="37.944" y="530.019"/>
-      <point x="37.6667" y="525.333"/>
-      <point x="37.6667" y="523.667" type="curve" smooth="yes"/>
-      <point x="37.6667" y="516.667"/>
-      <point x="54.3333" y="510"/>
-      <point x="62.3333" y="510" type="curve" smooth="yes"/>
-      <point x="66.3333" y="510"/>
-      <point x="70.5007" y="514.133"/>
-      <point x="73.6667" y="518" type="curve" smooth="yes"/>
+      <point x="37.667" y="525.333"/>
+      <point x="37.667" y="523.667" type="curve" smooth="yes"/>
+      <point x="37.667" y="516.667"/>
+      <point x="54.333" y="510"/>
+      <point x="62.333" y="510" type="curve" smooth="yes"/>
+      <point x="66.333" y="510"/>
+      <point x="70.501" y="514.133"/>
+      <point x="73.667" y="518" type="curve" smooth="yes"/>
       <point x="173.667" y="640" type="line" smooth="yes"/>
       <point x="177.721" y="644.953"/>
       <point x="179" y="651"/>
@@ -27,7 +27,6 @@
       <point x="137.667" y="693"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -41,7 +40,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 37.67 141.33</string>
+          <string>hstem 531 -21</string>
+          <string>hstem 693 -20</string>
         </array>
       </dict>
     </array>

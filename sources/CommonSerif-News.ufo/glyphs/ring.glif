@@ -5,23 +5,23 @@
   <anchor x="177" y="500" name="_t.ring"/>
   <outline>
     <contour>
-      <point x="84.8711" y="587.833" type="curve" smooth="yes"/>
-      <point x="84.8711" y="540.134"/>
+      <point x="84.871" y="587.833" type="curve" smooth="yes"/>
+      <point x="84.871" y="540.134"/>
       <point x="127.249" y="500"/>
       <point x="177" y="500" type="curve" smooth="yes"/>
       <point x="226.751" y="500"/>
       <point x="269.129" y="540.134"/>
       <point x="269.129" y="587.833" type="curve" smooth="yes"/>
-      <point x="269.129" y="635.533"/>
-      <point x="226.751" y="675.667"/>
-      <point x="177" y="675.667" type="curve" smooth="yes"/>
-      <point x="127.249" y="675.667"/>
-      <point x="84.8711" y="635.533"/>
+      <point x="269.129" y="635.532"/>
+      <point x="226.751" y="675.666"/>
+      <point x="177" y="675.666" type="curve" smooth="yes"/>
+      <point x="127.249" y="675.666"/>
+      <point x="84.871" y="635.532"/>
     </contour>
     <contour>
       <point x="177" y="636.235" type="curve" smooth="yes"/>
       <point x="206.041" y="636.235"/>
-      <point x="225.402" y="616.875"/>
+      <point x="225.402" y="616.874"/>
       <point x="225.402" y="587.833" type="curve" smooth="yes"/>
       <point x="225.402" y="559.818"/>
       <point x="205.015" y="539.431"/>
@@ -29,10 +29,31 @@
       <point x="148.985" y="539.431"/>
       <point x="128.598" y="559.818"/>
       <point x="128.598" y="587.833" type="curve" smooth="yes"/>
-      <point x="128.598" y="616.875"/>
+      <point x="128.598" y="616.874"/>
       <point x="147.959" y="636.235"/>
     </contour>
   </outline>
-  <guideline angle="90.0236" x="177" y="177"/>
-  <guideline angle="0" x="0" y="671"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c49f65117aa0f841aa8c38741e94d8c514d6aa9058e4e6ae36c1da179c66e9e155b5a2377aefe6c4fffac38d2055c2691dbbd73fa16bca2fe0265b40c84966e1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 39.43</string>
+          <string>hstem 636.24 39.43</string>
+          <string>vstem 84.87 43.73</string>
+          <string>vstem 225.4 43.73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

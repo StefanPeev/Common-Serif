@@ -21,9 +21,9 @@
       <point x="623" y="-2"/>
       <point x="705" y="-2" type="curve"/>
       <point x="730" y="-1"/>
-      <point x="756" y="-1"/>
+      <point x="755.99" y="-0.6996"/>
       <point x="781" y="0" type="curve" smooth="yes"/>
-      <point x="899" y="3"/>
+      <point x="898.992" y="3.30047"/>
       <point x="992" y="87"/>
       <point x="992" y="193" type="curve" smooth="yes"/>
       <point x="992" y="269"/>
@@ -74,7 +74,7 @@
       <point x="162" y="79" type="curve" smooth="yes"/>
       <point x="151" y="79"/>
       <point x="141" y="85"/>
-      <point x="131" y="96" type="curve" smooth="yes"/>
+      <point x="131" y="96" type="curve"/>
       <point x="122" y="107"/>
       <point x="104" y="116"/>
       <point x="85" y="116" type="curve" smooth="yes"/>
@@ -86,17 +86,17 @@
       <point x="107" y="-10" type="curve"/>
       <point x="113" y="-10"/>
       <point x="118" y="-10"/>
-      <point x="124" y="-9" type="curve" smooth="yes"/>
+      <point x="124" y="-9" type="curve"/>
       <point x="175" y="-2"/>
       <point x="230" y="34"/>
       <point x="256" y="77" type="curve" smooth="yes"/>
       <point x="259" y="82"/>
       <point x="262" y="87"/>
-      <point x="264" y="92" type="curve" smooth="yes"/>
+      <point x="264" y="92" type="curve"/>
       <point x="288" y="147"/>
-      <point x="292" y="186"/>
+      <point x="292.37" y="185.986"/>
       <point x="296" y="284" type="curve" smooth="yes"/>
-      <point x="298" y="348"/>
+      <point x="298.37" y="347.987"/>
       <point x="300" y="413"/>
       <point x="300" y="502" type="curve" smooth="yes"/>
       <point x="300" y="512"/>
@@ -140,20 +140,23 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a718bd46d05a53674f5b4983dd64613158eaf7d766c15b8d7a205f181888e37de7951556221514f91b49c9eb3c2cff29cd874673e5ac2af9f574fa29d516fc05</string>
+    <string>fadd70965567dab7eafb764d589fb043a7932a9aaccc10d3fd4479789ccdd246db2ab8468d01b83dbb53c851d20c9fc1bc85921593017f43748c3c4ff1cf4348</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -10 89</string>
-          <string>hstem -10 126</string>
-          <string>hstem -2 36</string>
+          <string>hstem -9 88</string>
+          <string>hstem -9 125</string>
+          <string>hstem -2 34</string>
+          <string>hstem 0 34</string>
           <string>hstem 327 48</string>
           <string>hstem 598 47</string>
+          <string>hstem 613 34</string>
+          <string>hstem 648 -20</string>
+          <string>vstem 218 78</string>
           <string>vstem 222 78</string>
           <string>vstem 492 140</string>
-          <string>vstem 715 8</string>
           <string>vstem 842 150</string>
         </array>
       </dict>

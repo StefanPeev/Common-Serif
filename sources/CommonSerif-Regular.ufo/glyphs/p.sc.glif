@@ -20,7 +20,7 @@
       <point x="171" y="122" type="curve"/>
       <point x="171.057" y="460.056" type="line"/>
       <point x="142.771" y="459.732"/>
-      <point x="64.3561" y="460.866"/>
+      <point x="64.356" y="460.866"/>
       <point x="19" y="462" type="curve"/>
       <point x="13" y="456"/>
       <point x="13" y="435"/>
@@ -83,9 +83,12 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
           <string>hstem 184 33</string>
           <string>hstem 429 33</string>
+          <string>vstem 91 80</string>
+          <string>vstem 322 87</string>
         </array>
       </dict>
     </array>

@@ -5,8 +5,8 @@
   <anchor x="302" y="510" name="t.uni0302"/>
   <outline>
     <contour>
-      <point x="481.421" y="252.839" type="curve"/>
-      <point x="481.421" y="336.225"/>
+      <point x="481.42" y="252.839" type="curve" smooth="yes"/>
+      <point x="481.42" y="336.225"/>
       <point x="464.201" y="387.702"/>
       <point x="434.241" y="441.801" type="curve"/>
       <point x="266.887" y="405.873" type="line"/>
@@ -17,7 +17,7 @@
       <point x="425.664" y="171.324"/>
       <point x="376.134" y="124"/>
       <point x="275.581" y="124" type="curve" smooth="yes"/>
-      <point x="223.474" y="124"/>
+      <point x="223.475" y="124"/>
       <point x="165.531" y="185.077"/>
       <point x="165.531" y="244.957" type="curve" smooth="yes"/>
       <point x="165.531" y="314.98"/>
@@ -27,25 +27,22 @@
       <point x="172.694" y="442.237"/>
       <point x="134.685" y="442.237" type="curve" smooth="yes"/>
       <point x="110.598" y="442.237"/>
-      <point x="38.3311" y="430.146"/>
-      <point x="11.1859" y="419.561" type="curve"/>
-      <point x="11.1859" y="409.561"/>
+      <point x="38.331" y="430.146"/>
+      <point x="11.186" y="419.561" type="curve"/>
+      <point x="11.186" y="409.561"/>
       <point x="11.82" y="326.214"/>
-      <point x="14.9187" y="319.106" type="curve"/>
-      <point x="85.6047" y="319.331"/>
+      <point x="14.919" y="319.106" type="curve"/>
+      <point x="85.605" y="319.331"/>
       <point x="110.018" y="307.079"/>
       <point x="110.018" y="275.97" type="curve" smooth="yes"/>
       <point x="110.018" y="181.566" type="line" smooth="yes"/>
-      <point x="110.018" y="58.9631"/>
+      <point x="110.018" y="58.963"/>
       <point x="166.108" y="-10"/>
       <point x="281.085" y="-10" type="curve" smooth="yes"/>
       <point x="407.621" y="-10"/>
-      <point x="481.42" y="91.4344"/>
+      <point x="481.42" y="91.434"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
-  <guideline angle="90" x="258" y="0"/>
-  <guideline angle="191.421" x="419" y="452.091"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
@@ -55,13 +52,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3502dca855ecdaa4a2e9fb2b7e324352f5f6fef27fc7a9c32db8b233ef838f736cffe81978dfb3fbf76ac1341792a499e485a4f189862e7002521a3553613776</string>
+    <string>8b9c139766bb222513a143dbafe716dc5c5dc9a70c31a203d854cf85d53e4d91a1509f75ef639d62fa913aac875653956d30d918d241279070cde30e84a461f2</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -10 134</string>
           <string>hstem 441.8 -20</string>
+          <string>vstem 110.02 55.51</string>
+          <string>vstem 110.02 84.08</string>
           <string>vstem 425.66 55.76</string>
         </array>
       </dict>

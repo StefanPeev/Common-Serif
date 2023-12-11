@@ -1,69 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04C0" format="2">
-  <advance width="300"/>
+  <advance width="309"/>
   <unicode hex="04C0"/>
+  <anchor x="153.833" y="740" name="t.uni0302"/>
+  <anchor x="197.333" y="10" name="b.ogonek"/>
+  <anchor x="154.5" y="-60" name="b.minus-60"/>
   <outline>
-    <contour>
-      <point x="180.167" y="188.833" type="curve" smooth="yes"/>
-      <point x="180.167" y="456.167" type="line" smooth="yes"/>
-      <point x="180.167" y="511.5"/>
-      <point x="189.667" y="515"/>
-      <point x="238.833" y="517" type="curve"/>
-      <point x="242.167" y="521"/>
-      <point x="242.167" y="534.833"/>
-      <point x="238.833" y="538.833" type="curve"/>
-      <point x="208.833" y="538.167"/>
-      <point x="182" y="537.5"/>
-      <point x="156.167" y="537.5" type="curve" smooth="yes"/>
-      <point x="135.333" y="537.5"/>
-      <point x="106.5" y="538.167"/>
-      <point x="74" y="538.833" type="curve"/>
-      <point x="70.6667" y="534.833"/>
-      <point x="70.6667" y="521"/>
-      <point x="74" y="517" type="curve"/>
-      <point x="123.167" y="515"/>
-      <point x="132.667" y="511.5"/>
-      <point x="132.667" y="456.167" type="curve" smooth="yes"/>
-      <point x="132.667" y="188.833" type="line" smooth="yes"/>
-      <point x="132.667" y="133.5"/>
-      <point x="123.167" y="130"/>
-      <point x="74" y="128" type="curve"/>
-      <point x="70.6667" y="124"/>
-      <point x="70.6667" y="110.167"/>
-      <point x="74" y="106.167" type="curve"/>
-      <point x="104.833" y="106.833"/>
-      <point x="133.667" y="107.5"/>
-      <point x="157" y="107.5" type="curve" smooth="yes"/>
-      <point x="180.333" y="107.5"/>
-      <point x="208" y="106.833"/>
-      <point x="238.833" y="106.167" type="curve"/>
-      <point x="242.167" y="110.167"/>
-      <point x="242.167" y="124"/>
-      <point x="238.833" y="128" type="curve"/>
-      <point x="189.667" y="130"/>
-      <point x="180.167" y="133.5"/>
-    </contour>
+    <component base="I"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>da9e4c3118b21c4c529552084d1c8a0342a93537cb36fad6595936ca7e3e7d20db2dc14753ebeedaad5730663016cbfb1f3f950861a4db861adc949443875636</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 127.17 -21</string>
-          <string>hstem 538.83 -20</string>
-          <string>vstem 132.67 47.5</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I</string>
   </dict>
   </lib>
 </glyph>

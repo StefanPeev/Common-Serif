@@ -109,9 +109,9 @@
       <point x="145" y="-10"/>
       <point x="166" y="-10" type="curve" smooth="yes"/>
       <point x="173" y="-10"/>
-      <point x="181" y="-9"/>
+      <point x="180.996" y="-8.9728"/>
       <point x="188" y="-8" type="curve" smooth="yes"/>
-      <point x="217" y="-4"/>
+      <point x="216.996" y="-3.97275"/>
       <point x="248" y="9"/>
       <point x="275" y="31" type="curve"/>
       <point x="275" y="5" type="line"/>
@@ -149,24 +149,26 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=t</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6fb257f1b4d84b2e177d7cb0f53ebdd97522d9f95bbd1a9b3b059cc7170613155d9ee581f0283e892fd014ee35b30ba1df0ba2dee9cf5bfd0da364c2be9c97d8</string>
+    <string>eeb0d81a7cfa173757a43d45193614e9474492b82200c1ed6007c276405e468ff52809b2dff379e809cffa5710a7f105f674491882e9660af449bd132ca50c6d</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem -223 38</string>
-          <string>hstem -10 55</string>
+          <string>hstem -8 53</string>
+          <string>hstem 11 -21</string>
           <string>hstem 390 39</string>
-          <string>hstem 573 9</string>
+          <string>hstem 588 101</string>
           <string>hstem 655 34</string>
           <string>vstem 89 79</string>
-          <string>vstem 275 75</string>
         </array>
       </dict>
     </array>

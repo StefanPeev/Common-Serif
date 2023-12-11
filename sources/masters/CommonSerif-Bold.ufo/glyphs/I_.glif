@@ -7,12 +7,6 @@
   <anchor x="187" y="-60" name="b.minus-60"/>
   <outline>
     <contour>
-      <point x="113" y="122" type="line"/>
-      <point x="253" y="122" type="line"/>
-      <point x="253" y="523" type="line"/>
-      <point x="113" y="523" type="line"/>
-    </contour>
-    <contour>
       <point x="30" y="-2" type="curve"/>
       <point x="70" y="-1"/>
       <point x="144" y="0"/>
@@ -34,8 +28,15 @@
       <point x="20" y="4"/>
     </contour>
     <contour>
+      <point x="113" y="122" type="line"/>
+      <point x="253" y="122" type="line"/>
       <point x="253" y="523" type="line"/>
-      <point x="253" y="573.15"/>
+      <point x="113" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="523" type="curve"/>
+      <point x="253" y="523" type="line"/>
+      <point x="253" y="573"/>
       <point x="281" y="610"/>
       <point x="336" y="613" type="curve"/>
       <point x="346" y="619"/>
@@ -51,11 +52,9 @@
       <point x="20" y="619"/>
       <point x="30" y="613" type="curve"/>
       <point x="85" y="610"/>
-      <point x="113.324" y="573.15"/>
-      <point x="113" y="523" type="curve"/>
+      <point x="113" y="573"/>
     </contour>
   </outline>
-  <guideline angle="90" x="148" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -67,17 +66,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6012042b70222a81b2830f459d88c2f8311daf002af020ce7d7d934aff7dd6c7e5ab2cd24f85a041bc99a728ba55cb93ff916e2114fbfd6d1dc11d30f293669c</string>
+    <string>115b272111d6d0485d4b141d0c923ee6c6d625323bf32e92fafd21b6056901e09267ccadbbc264567e519f4c5ff15eacdcf1c1b1f26f572eee5cfbe4818da0da</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 19 -21</string>
-          <string>hstem 647 -20</string>
-          <string>vstem 23 7</string>
+          <string>hstem -2 34</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 613 34</string>
+          <string>hstem 645 -20</string>
           <string>vstem 113 140</string>
-          <string>vstem 336 8</string>
         </array>
       </dict>
     </array>

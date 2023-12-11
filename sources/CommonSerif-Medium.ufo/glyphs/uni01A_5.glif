@@ -4,34 +4,34 @@
   <unicode hex="01A5"/>
   <outline>
     <contour>
-      <point x="180" y="485.333" type="line" smooth="yes"/>
-      <point x="180" y="637.333"/>
+      <point x="180" y="485.334" type="line" smooth="yes"/>
+      <point x="180" y="637.334"/>
       <point x="202.667" y="660.667"/>
       <point x="235.333" y="660.667" type="curve" smooth="yes"/>
       <point x="257.667" y="660.667"/>
       <point x="263.667" y="650"/>
-      <point x="277.333" y="615.333" type="curve" smooth="yes"/>
-      <point x="286" y="594.333"/>
-      <point x="300.333" y="577.333"/>
-      <point x="322" y="577.333" type="curve" smooth="yes"/>
-      <point x="345.667" y="577.333"/>
+      <point x="277.333" y="615.334" type="curve" smooth="yes"/>
+      <point x="286" y="594.334"/>
+      <point x="300.334" y="577.334"/>
+      <point x="322" y="577.334" type="curve" smooth="yes"/>
+      <point x="345.667" y="577.334"/>
       <point x="368.667" y="599"/>
       <point x="368.667" y="630" type="curve" smooth="yes"/>
       <point x="368.667" y="669.667"/>
       <point x="305" y="698"/>
       <point x="243.667" y="698" type="curve" smooth="yes"/>
       <point x="143.333" y="698"/>
-      <point x="84" y="605.333"/>
+      <point x="84" y="605.334"/>
       <point x="84" y="465.667" type="curve" smooth="yes"/>
-      <point x="84" y="-108.667" type="line" smooth="yes"/>
-      <point x="84" y="-191.667"/>
-      <point x="73" y="-195.667"/>
+      <point x="84" y="-108.666" type="line" smooth="yes"/>
+      <point x="84" y="-191.666"/>
+      <point x="73" y="-195.666"/>
       <point x="12" y="-199.333" type="curve"/>
       <point x="6" y="-205.333"/>
       <point x="6" y="-228"/>
       <point x="12" y="-234" type="curve"/>
       <point x="54" y="-233"/>
-      <point x="85.3333" y="-232"/>
+      <point x="85.333" y="-232"/>
       <point x="133" y="-232" type="curve" smooth="yes"/>
       <point x="181.333" y="-232"/>
       <point x="215.667" y="-233"/>
@@ -40,36 +40,36 @@
       <point x="264.667" y="-205.333"/>
       <point x="258.667" y="-199.333" type="curve"/>
       <point x="191" y="-195.333"/>
-      <point x="180" y="-191.667"/>
-      <point x="180" y="-108.667" type="curve" smooth="yes"/>
+      <point x="180" y="-191.666"/>
+      <point x="180" y="-108.666" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="160.333" y="18.3333" type="line"/>
-      <point x="211.667" y="-3.66667"/>
+      <point x="160.333" y="18.333" type="line"/>
+      <point x="211.667" y="-3.667"/>
       <point x="234.667" y="-10"/>
       <point x="265" y="-10" type="curve" smooth="yes"/>
       <point x="413.667" y="-10"/>
-      <point x="500.667" y="98.6667"/>
+      <point x="500.667" y="98.666"/>
       <point x="500.667" y="234.333" type="curve" smooth="yes"/>
       <point x="500.667" y="346.667"/>
       <point x="425.667" y="440.667"/>
       <point x="321.667" y="440.667" type="curve" smooth="yes"/>
       <point x="263.333" y="440.667"/>
       <point x="205.667" y="395"/>
-      <point x="167" y="353.333" type="curve"/>
-      <point x="167" y="316.333" type="line"/>
+      <point x="167" y="353.334" type="curve"/>
+      <point x="167" y="316.334" type="line"/>
       <point x="210.667" y="359"/>
       <point x="249.333" y="387.667"/>
-      <point x="290.333" y="387.667" type="curve" smooth="yes"/>
+      <point x="290.334" y="387.667" type="curve" smooth="yes"/>
       <point x="344" y="387.667"/>
       <point x="396.667" y="323"/>
       <point x="396.667" y="211" type="curve" smooth="yes"/>
       <point x="396.667" y="126.667"/>
-      <point x="367.333" y="27.3333"/>
-      <point x="260.333" y="27.3333" type="curve" smooth="yes"/>
-      <point x="226.667" y="27.3333"/>
-      <point x="194.667" y="39.6667"/>
-      <point x="160.333" y="79.6667" type="curve"/>
+      <point x="367.334" y="27.333"/>
+      <point x="260.333" y="27.333" type="curve" smooth="yes"/>
+      <point x="226.667" y="27.333"/>
+      <point x="194.667" y="39.666"/>
+      <point x="160.333" y="79.666" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -85,8 +85,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -213 -21</string>
+          <string>hstem -234 34.67</string>
+          <string>hstem -211 -21</string>
+          <string>hstem -10 37.33</string>
           <string>hstem 387.67 53</string>
+          <string>hstem 660.67 37.33</string>
           <string>vstem 84 96</string>
           <string>vstem 396.67 104</string>
         </array>

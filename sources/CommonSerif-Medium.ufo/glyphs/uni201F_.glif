@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="133.667" y="648.667" type="curve"/>
-      <point x="111" y="650.333"/>
+      <point x="111" y="650.334"/>
       <point x="95" y="627.667"/>
-      <point x="94" y="592.333" type="curve"/>
+      <point x="94" y="592.334" type="curve"/>
       <point x="78.499" y="553.03"/>
       <point x="108.667" y="540.148"/>
       <point x="148.667" y="546" type="curve"/>
@@ -23,20 +23,20 @@
       <point x="123.346" y="690"/>
       <point x="125" y="682.869"/>
       <point x="125" y="676.333" type="curve" smooth="yes"/>
-      <point x="125" y="665.659"/>
+      <point x="125" y="665.66"/>
       <point x="131.59" y="656.84"/>
     </contour>
     <contour>
-      <point x="303.333" y="648.667" type="curve"/>
-      <point x="280.667" y="650.333"/>
+      <point x="303.334" y="648.667" type="curve"/>
+      <point x="280.667" y="650.334"/>
       <point x="264.667" y="627.667"/>
-      <point x="263.667" y="592.333" type="curve"/>
+      <point x="263.667" y="592.334" type="curve"/>
       <point x="248.166" y="553.03"/>
-      <point x="278.333" y="540.148"/>
-      <point x="318.333" y="546" type="curve"/>
+      <point x="278.334" y="540.148"/>
+      <point x="318.334" y="546" type="curve"/>
       <point x="323" y="558.667"/>
       <point x="334.667" y="566"/>
-      <point x="335.333" y="573" type="curve"/>
+      <point x="335.334" y="573" type="curve"/>
       <point x="307" y="582.667"/>
       <point x="294.667" y="621"/>
       <point x="294.667" y="644" type="curve" smooth="yes"/>
@@ -46,12 +46,10 @@
       <point x="293.013" y="690"/>
       <point x="294.667" y="682.869"/>
       <point x="294.667" y="676.333" type="curve" smooth="yes"/>
-      <point x="294.667" y="665.659"/>
-      <point x="301.256" y="656.84"/>
+      <point x="294.667" y="665.66"/>
+      <point x="301.257" y="656.84"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="728"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -65,6 +63,8 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 567 -21</string>
+          <string>hstem 648.67 39.33</string>
           <string>vstem 94 31</string>
           <string>vstem 263.67 31</string>
         </array>

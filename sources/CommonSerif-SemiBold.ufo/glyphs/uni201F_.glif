@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="152.333" y="569.333" type="curve"/>
-      <point x="147" y="572.667"/>
+      <point x="147" y="572.666"/>
       <point x="141" y="566.333"/>
-      <point x="139" y="555.667" type="curve"/>
+      <point x="139" y="555.666" type="curve"/>
       <point x="107.998" y="547.059"/>
       <point x="108.333" y="569.296"/>
       <point x="128.333" y="592" type="curve"/>
@@ -27,31 +27,29 @@
       <point x="117.179" y="585.68"/>
     </contour>
     <contour>
-      <point x="335.667" y="569.333" type="curve"/>
-      <point x="330.333" y="572.667"/>
+      <point x="335.666" y="569.333" type="curve"/>
+      <point x="330.333" y="572.666"/>
       <point x="324.333" y="566.333"/>
-      <point x="322.333" y="555.667" type="curve"/>
+      <point x="322.333" y="555.666" type="curve"/>
       <point x="291.331" y="547.059"/>
-      <point x="291.667" y="569.296"/>
-      <point x="311.667" y="592" type="curve"/>
+      <point x="291.666" y="569.296"/>
+      <point x="311.666" y="592" type="curve"/>
       <point x="314" y="611.333"/>
       <point x="335.333" y="617"/>
-      <point x="340.667" y="621" type="curve"/>
+      <point x="340.666" y="621" type="curve"/>
       <point x="336" y="627.333"/>
       <point x="345.333" y="659"/>
       <point x="345.333" y="684" type="curve" smooth="yes"/>
       <point x="345.333" y="717.715"/>
       <point x="334.082" y="740.333"/>
       <point x="312" y="741" type="curve" smooth="yes"/>
-      <point x="288.026" y="742"/>
+      <point x="288.025" y="742"/>
       <point x="265.333" y="717.737"/>
       <point x="265.333" y="673.667" type="curve" smooth="yes"/>
       <point x="265.333" y="624.319"/>
-      <point x="300.513" y="585.68"/>
+      <point x="300.512" y="585.68"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="728"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -59,13 +57,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3f121c8383a50288004329355b37a80877b86432415215439c3f9fdd9ed1d389235c75f91dc619d39bbb48d53be5f4d642a896be2721dbf34cd97693ef4f6d83</string>
+    <string>6c9d91b230e95b2d328a763ea142852a1a488125e962a909bd201bbecab295e47fe8ade24ef14750205b23f06fd883566ef87ae5b05c1614c6ff0b07933df069</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem 569.33 171.67</string>
+          <string>hstem 613 -21</string>
+          <string>vstem 82 57</string>
           <string>vstem 139 23</string>
+          <string>vstem 265.33 57</string>
           <string>vstem 322.33 23</string>
         </array>
       </dict>

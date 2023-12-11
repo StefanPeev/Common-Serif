@@ -7,11 +7,11 @@
   <outline>
     <component base="P"/>
     <contour>
-      <point x="20.3333" y="176.168" type="curve" smooth="yes"/>
+      <point x="20.333" y="176.168" type="curve" smooth="yes"/>
       <point x="194.763" y="176.168" type="line"/>
       <point x="194.786" y="216.707" type="line"/>
       <point x="29.5" y="216.707" type="line" smooth="yes"/>
-      <point x="20.5026" y="216.707"/>
+      <point x="20.503" y="216.707"/>
       <point x="9.5" y="202.449"/>
       <point x="9.5" y="190.665" type="curve" smooth="yes"/>
       <point x="9.5" y="184.28"/>
@@ -33,6 +33,22 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>P</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b0a9a747c0ece503c1f76e6c6e8165f5c1a34cdb037401bcfebc27981949a6c1f1ad9506a009f36c21cf3ced8db85eb6ae61621ccdd07f8895b472f20251843b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 176.17 40.54</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

@@ -3,12 +3,37 @@
   <advance width="326"/>
   <unicode hex="2080"/>
   <outline>
-    <component base="uni2070" xOffset="0.3421" yOffset="-623.834"/>
+    <contour>
+      <point x="160.858" y="-163.834" type="curve" smooth="yes"/>
+      <point x="253.592" y="-163.834"/>
+      <point x="285.342" y="-77.9335"/>
+      <point x="285.342" y="4.16602" type="curve" smooth="yes"/>
+      <point x="285.342" y="86.2216"/>
+      <point x="255.823" y="165.166"/>
+      <point x="163.834" y="165.166" type="curve" smooth="yes"/>
+      <point x="79.8681" y="165.166"/>
+      <point x="40.3421" y="71.0367"/>
+      <point x="40.3421" y="-0.833984" type="curve" smooth="yes"/>
+      <point x="40.3421" y="-76.0464"/>
+      <point x="73.4296" y="-163.834"/>
+    </contour>
+    <contour>
+      <point x="163.834" y="141.166" type="curve" smooth="yes"/>
+      <point x="197.696" y="141.166"/>
+      <point x="225.342" y="100.15"/>
+      <point x="225.342" y="27.666" type="curve" smooth="yes"/>
+      <point x="225.342" y="-2.33398" type="line" smooth="yes"/>
+      <point x="225.342" y="-92.9774"/>
+      <point x="199.088" y="-139.834"/>
+      <point x="161.85" y="-139.834" type="curve" smooth="yes"/>
+      <point x="125.541" y="-139.834"/>
+      <point x="100.342" y="-101.274"/>
+      <point x="100.342" y="-21.3055" type="curve" smooth="yes"/>
+      <point x="100.342" y="8.69452" type="line" smooth="yes"/>
+      <point x="100.342" y="94.2867"/>
+      <point x="127.604" y="141.166"/>
+    </contour>
   </outline>
-  <guideline angle="0" x="0" y="-160"/>
-  <guideline angle="0" x="0" y="161"/>
-  <guideline angle="0" x="0" y="165"/>
-  <guideline angle="0" x="0" y="-164"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -20,14 +45,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w326</string>
+    <string>af789f0eecc8d25b581c3640bdf3269c6c446ae309ae17c138685b40f88306de61e587923653f5fa9430b9105e4392d0213e4e804b40daea277247fcae42dc60</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 40 59</string>
-          <string>vstem 226 59</string>
+          <string>hstem -163.83 24</string>
+          <string>hstem 141.17 24</string>
+          <string>vstem 40.34 60.</string>
+          <string>vstem 225.34 60</string>
         </array>
       </dict>
     </array>

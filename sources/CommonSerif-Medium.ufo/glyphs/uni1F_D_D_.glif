@@ -4,7 +4,29 @@
   <unicode hex="1FDD"/>
   <anchor x="178" y="510" name="_t.gr"/>
   <outline>
-    <component base="uni1FFE" xOffset="9.5"/>
+    <contour>
+      <point x="98.5" y="689" type="curve" smooth="yes"/>
+      <point x="60.5" y="689"/>
+      <point x="38.5" y="651"/>
+      <point x="38.5" y="616" type="curve" smooth="yes"/>
+      <point x="38.5" y="590"/>
+      <point x="53.5" y="514"/>
+      <point x="144.5" y="510" type="curve"/>
+      <point x="147.094" y="514.819"/>
+      <point x="148.266" y="520.321"/>
+      <point x="148.5" y="527" type="curve"/>
+      <point x="106.5" y="535"/>
+      <point x="88.5" y="572.333"/>
+      <point x="88.5" y="595" type="curve" smooth="yes"/>
+      <point x="88.5" y="606"/>
+      <point x="92.5" y="613"/>
+      <point x="99.5" y="613" type="curve" smooth="yes"/>
+      <point x="140.5" y="613"/>
+      <point x="145.5" y="638"/>
+      <point x="145.5" y="655" type="curve" smooth="yes"/>
+      <point x="145.5" y="671"/>
+      <point x="134.5" y="689"/>
+    </contour>
     <contour>
       <point x="185" y="650" type="curve" smooth="yes"/>
       <point x="267" y="515" type="line" smooth="yes"/>
@@ -25,5 +47,28 @@
       <point x="182.678" y="653.822"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>093fc0078208920c99ea11aa9323973810f84a93ee33b39a5f0b94c966a2a546f66f6eda9e75c6970bf0d26245edb7c8404d0d9667e22df75ec46e9997c63a5a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 510 179</string>
+          <string>hstem 613 76</string>
+          <string>hstem 696 -20</string>
+          <string>vstem 38.5 50</string>
+          <string>vstem 38.5 107</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -4,22 +4,22 @@
   <unicode hex="20C0"/>
   <outline>
     <contour>
-      <point x="306.542" y="658" type="curve"/>
-      <point x="157.678" y="658"/>
+      <point x="306.542" y="658" type="curve" smooth="yes"/>
+      <point x="157.678" y="658.043"/>
       <point x="37" y="537.322"/>
       <point x="37" y="388.458" type="curve" smooth="yes"/>
       <point x="37" y="239.594"/>
-      <point x="157.678" y="118.916"/>
-      <point x="306.542" y="118.916" type="curve"/>
-      <point x="378.005" y="118.979"/>
+      <point x="157.678" y="118.873"/>
+      <point x="306.542" y="118.916" type="curve" smooth="yes"/>
+      <point x="378.005" y="118.937"/>
       <point x="446.518" y="147.419"/>
       <point x="497.018" y="197.982" type="curve"/>
       <point x="440.997" y="254.003" type="line"/>
       <point x="405.349" y="218.311"/>
-      <point x="356.987" y="198.236"/>
+      <point x="356.987" y="198.237"/>
       <point x="306.542" y="198.193" type="curve"/>
       <point x="201.462" y="198.193"/>
-      <point x="116.277" y="283.377"/>
+      <point x="116.277" y="283.378"/>
       <point x="116.277" y="388.458" type="curve" smooth="yes"/>
       <point x="116.277" y="493.538"/>
       <point x="201.462" y="578.723"/>
@@ -27,15 +27,15 @@
       <point x="356.987" y="578.679"/>
       <point x="405.349" y="558.605"/>
       <point x="440.997" y="522.913" type="curve"/>
-      <point x="497.018" y="578.933" type="line"/>
+      <point x="497.018" y="578.934" type="line"/>
       <point x="446.518" y="629.497"/>
-      <point x="378.005" y="657.937"/>
+      <point x="378.005" y="657.979"/>
     </contour>
     <contour>
-      <point x="37" y="79.2771" type="line"/>
+      <point x="37" y="79.277" type="line"/>
       <point x="37" y="0" type="line"/>
       <point x="497.018" y="0" type="line"/>
-      <point x="497.018" y="79.2771" type="line"/>
+      <point x="497.018" y="79.277" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,6 +46,25 @@
   <string>=C</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>156ad12985a5dbaa134a7142db9c0d5e333fa52a5a8b765278e8786b8bf6bf9539743b468505c34b8820e9649ad93fdfbc7da03dbaac0fe360de48984043b4c1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 79.28</string>
+          <string>hstem 118.92 79.28</string>
+          <string>hstem 578.72 79.28</string>
+          <string>vstem 37 79.28</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

@@ -7,18 +7,18 @@
     <contour>
       <point x="275.667" y="559.667" type="curve" smooth="yes"/>
       <point x="256.667" y="559.667"/>
-      <point x="241.666" y="570.316"/>
+      <point x="241.666" y="570.317"/>
       <point x="225.667" y="582" type="curve" smooth="yes"/>
-      <point x="206.996" y="595.652"/>
+      <point x="206.996" y="595.653"/>
       <point x="186.333" y="609.667"/>
       <point x="156.667" y="609.667" type="curve" smooth="yes"/>
       <point x="115" y="609.667"/>
-      <point x="93.6667" y="575.333"/>
-      <point x="80.3333" y="517" type="curve"/>
-      <point x="86.0702" y="513.344"/>
-      <point x="94.5118" y="511.13"/>
+      <point x="93.667" y="575.334"/>
+      <point x="80.333" y="517" type="curve"/>
+      <point x="86.07" y="513.344"/>
+      <point x="94.512" y="511.13"/>
       <point x="103.667" y="511" type="curve"/>
-      <point x="114" y="543.333"/>
+      <point x="114" y="543.334"/>
       <point x="127.333" y="558.667"/>
       <point x="150" y="558.667" type="curve" smooth="yes"/>
       <point x="168.333" y="558.667"/>
@@ -37,7 +37,6 @@
       <point x="296" y="559.667"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="510"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -51,7 +50,8 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 80.33 266</string>
+          <string>hstem 510 49.67</string>
+          <string>hstem 558.67 51</string>
         </array>
       </dict>
     </array>

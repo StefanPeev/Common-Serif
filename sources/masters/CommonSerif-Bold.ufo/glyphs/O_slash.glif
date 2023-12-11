@@ -6,7 +6,34 @@
   <anchor x="350" y="-110" name="m.uni0316_2"/>
   <anchor x="350" y="0" name="b.uni0327_5"/>
   <outline>
-    <component base="O"/>
+    <contour>
+      <point x="694" y="322.684" type="curve" smooth="yes"/>
+      <point x="694" y="528"/>
+      <point x="546" y="658"/>
+      <point x="365.082" y="658" type="curve" smooth="yes"/>
+      <point x="165" y="658"/>
+      <point x="37" y="499"/>
+      <point x="37" y="314.896" type="curve" smooth="yes"/>
+      <point x="37" y="111"/>
+      <point x="194" y="-10"/>
+      <point x="372.41" y="-10" type="curve" smooth="yes"/>
+      <point x="565" y="-10"/>
+      <point x="694" y="131"/>
+    </contour>
+    <contour>
+      <point x="354.246" y="618" type="curve" smooth="yes"/>
+      <point x="458" y="618"/>
+      <point x="543" y="512.64"/>
+      <point x="543" y="308.945" type="curve" smooth="yes"/>
+      <point x="543" y="142.377"/>
+      <point x="485" y="32"/>
+      <point x="379.259" y="32" type="curve" smooth="yes"/>
+      <point x="274" y="32"/>
+      <point x="188" y="141.373"/>
+      <point x="188" y="330.017" type="curve" smooth="yes"/>
+      <point x="188" y="534.716"/>
+      <point x="262" y="618"/>
+    </contour>
     <contour>
       <point x="200.552" y="168.349" type="line"/>
       <point x="221.529" y="120.368" type="line"/>
@@ -37,15 +64,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d9baf6417f6ddfbd96179aa7717e8584ee3f8cc80f388a9ae12d4a17453a555084feaa19543c8b052d0f2dcf6fd5ca382b1086c23080c0cb45bc293c86706f6c</string>
+    <string>fec545f9ce86a10766a8e66865e32bf8810f7ea99b684cb2abad90bd73eaf30b1bc71cde4582cd7f4814b4b15b2e4c9b80876f69513505f567b7fa2da6d0cebe</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -24 -21</string>
           <string>hstem -10 42</string>
-          <string>hstem 603 -20</string>
-          <string>hstem 616 42</string>
+          <string>hstem 618 40</string>
+          <string>hstem 670 -20</string>
           <string>vstem 37 151</string>
           <string>vstem 543 151</string>
         </array>

@@ -22,12 +22,27 @@
       <point x="122" y="547"/>
     </contour>
   </outline>
-  <guideline angle="90" x="175" y="0"/>
-  <guideline angle="0" x="0" y="643"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>=350</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c179950494e794a77ba26d333db943e844b84d171b6783dd73e6f378a680bd32116bf59cf84ca25280a6d52a8f21bce9659f2f8b6b302995beb9b0fcb983889c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 643 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

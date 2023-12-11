@@ -6,17 +6,17 @@
   <outline>
     <contour>
       <point x="27" y="-2" type="curve"/>
-      <point x="66.6667" y="-1"/>
-      <point x="133.667" y="0"/>
-      <point x="171.667" y="0" type="curve" smooth="yes"/>
-      <point x="943.333" y="0" type="line" smooth="yes"/>
+      <point x="66.666" y="-1"/>
+      <point x="133.666" y="0"/>
+      <point x="171.666" y="0" type="curve" smooth="yes"/>
+      <point x="943.334" y="0" type="line" smooth="yes"/>
       <point x="982.667" y="0"/>
       <point x="1048.33" y="-1"/>
       <point x="1088" y="-2" type="curve"/>
       <point x="1096.67" y="4"/>
-      <point x="1096.67" y="25.6667"/>
-      <point x="1088" y="31.6667" type="curve"/>
-      <point x="1028" y="34.6667"/>
+      <point x="1096.67" y="25.667"/>
+      <point x="1088" y="31.667" type="curve"/>
+      <point x="1028" y="34.667"/>
       <point x="1003.67" y="39"/>
       <point x="1003.67" y="122" type="curve" smooth="yes"/>
       <point x="1003.67" y="523" type="line" smooth="yes"/>
@@ -40,10 +40,10 @@
       <point x="882" y="523" type="curve" smooth="yes"/>
       <point x="882" y="122" type="line" smooth="yes"/>
       <point x="882" y="48"/>
-      <point x="859" y="40.3333"/>
-      <point x="803.667" y="40.3333" type="curve" smooth="yes"/>
-      <point x="691.333" y="40.3333" type="line" smooth="yes"/>
-      <point x="642" y="40.3333"/>
+      <point x="859" y="40.333"/>
+      <point x="803.667" y="40.333" type="curve" smooth="yes"/>
+      <point x="691.334" y="40.333" type="line" smooth="yes"/>
+      <point x="642" y="40.333"/>
       <point x="617.667" y="48"/>
       <point x="617.667" y="122" type="curve" smooth="yes"/>
       <point x="617.667" y="523" type="line" smooth="yes"/>
@@ -53,7 +53,7 @@
       <point x="710.667" y="619.333"/>
       <point x="710.667" y="641"/>
       <point x="702" y="647" type="curve"/>
-      <point x="662.333" y="646"/>
+      <point x="662.334" y="646"/>
       <point x="595" y="645"/>
       <point x="556" y="645" type="curve" smooth="yes"/>
       <point x="517.333" y="645"/>
@@ -67,10 +67,10 @@
       <point x="496" y="523" type="curve" smooth="yes"/>
       <point x="496" y="122" type="line" smooth="yes"/>
       <point x="496" y="48"/>
-      <point x="472.667" y="40.3333"/>
-      <point x="423.667" y="40.3333" type="curve" smooth="yes"/>
-      <point x="308" y="40.3333" type="line" smooth="yes"/>
-      <point x="257.333" y="40.3333"/>
+      <point x="472.667" y="40.333"/>
+      <point x="423.667" y="40.333" type="curve" smooth="yes"/>
+      <point x="308" y="40.333" type="line" smooth="yes"/>
+      <point x="257.333" y="40.333"/>
       <point x="233" y="48"/>
       <point x="233" y="122" type="curve" smooth="yes"/>
       <point x="233" y="523" type="line" smooth="yes"/>
@@ -86,18 +86,18 @@
       <point x="133" y="645"/>
       <point x="67" y="646"/>
       <point x="27" y="647" type="curve"/>
-      <point x="18.3333" y="641"/>
-      <point x="18.3333" y="619.333"/>
+      <point x="18.333" y="641"/>
+      <point x="18.333" y="619.333"/>
       <point x="27" y="613.333" type="curve"/>
       <point x="87" y="610.333"/>
       <point x="111.333" y="606"/>
       <point x="111.333" y="523" type="curve" smooth="yes"/>
       <point x="111.333" y="122" type="line" smooth="yes"/>
       <point x="111.333" y="39"/>
-      <point x="87" y="34.6667"/>
-      <point x="27" y="31.6667" type="curve"/>
-      <point x="18.3333" y="25.6667"/>
-      <point x="18.3333" y="4"/>
+      <point x="87" y="34.667"/>
+      <point x="27" y="31.667" type="curve"/>
+      <point x="18.333" y="25.667"/>
+      <point x="18.333" y="4"/>
     </contour>
   </outline>
   <lib>
@@ -113,8 +113,10 @@
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 33.67</string>
           <string>hstem 0 40.33</string>
-          <string>hstem 647 -20</string>
+          <string>hstem 613.33 33.67</string>
+          <string>hstem 645 -20</string>
           <string>vstem 111.33 121.67</string>
           <string>vstem 496 121.67</string>
           <string>vstem 882 121.67</string>

@@ -3,7 +3,65 @@
   <advance width="602"/>
   <unicode hex="2153"/>
   <outline>
-    <component base="uni00B3" xOffset="288" yOffset="-464"/>
+    <contour>
+      <point x="474" y="261" type="curve" smooth="yes"/>
+      <point x="474" y="220.88"/>
+      <point x="447.987" y="194.135"/>
+      <point x="403" y="188" type="curve"/>
+      <point x="400" y="179"/>
+      <point x="400" y="168"/>
+      <point x="405" y="161" type="curve"/>
+      <point x="410.246" y="162.06"/>
+      <point x="418" y="163"/>
+      <point x="425" y="163" type="curve" smooth="yes"/>
+      <point x="472.041" y="163"/>
+      <point x="500" y="140.26"/>
+      <point x="500" y="102" type="curve" smooth="yes"/>
+      <point x="500" y="54.275"/>
+      <point x="471.721" y="26"/>
+      <point x="425.622" y="26" type="curve" smooth="yes"/>
+      <point x="403.362" y="26"/>
+      <point x="393.097" y="28.963"/>
+      <point x="386.181" y="37.385" type="curve"/>
+      <point x="381.916" y="54.298"/>
+      <point x="371.66" y="61.424"/>
+      <point x="352.768" y="61.155" type="curve" smooth="yes"/>
+      <point x="339.038" y="60.959"/>
+      <point x="326" y="52.003"/>
+      <point x="326" y="40.271" type="curve" smooth="yes"/>
+      <point x="326" y="17.487"/>
+      <point x="374.958" y="-4"/>
+      <point x="426.873" y="-4" type="curve" smooth="yes"/>
+      <point x="505.475" y="-4"/>
+      <point x="562" y="43.106"/>
+      <point x="562" y="110" type="curve" smooth="yes"/>
+      <point x="562" y="155.237"/>
+      <point x="527.969" y="191.821"/>
+      <point x="482" y="196" type="curve" smooth="yes"/>
+      <point x="480.4" y="196.145"/>
+      <point x="480.359" y="199.089"/>
+      <point x="482" y="200" type="curve" smooth="yes"/>
+      <point x="516.096" y="218.921"/>
+      <point x="533" y="240.796"/>
+      <point x="533" y="266" type="curve" smooth="yes"/>
+      <point x="533" y="302.547"/>
+      <point x="500.653" y="325"/>
+      <point x="448" y="325" type="curve" smooth="yes"/>
+      <point x="389.592" y="325"/>
+      <point x="334" y="293.303"/>
+      <point x="334" y="260" type="curve" smooth="yes"/>
+      <point x="334" y="257"/>
+      <point x="338" y="242"/>
+      <point x="357" y="242" type="curve" smooth="yes"/>
+      <point x="372.735" y="242"/>
+      <point x="380.946" y="250.819"/>
+      <point x="384" y="271" type="curve"/>
+      <point x="391" y="287"/>
+      <point x="419" y="295"/>
+      <point x="436" y="295" type="curve" smooth="yes"/>
+      <point x="458.529" y="295"/>
+      <point x="474" y="281.158"/>
+    </contour>
     <contour>
       <point x="95" y="587.031" type="curve" smooth="yes"/>
       <point x="107" y="587.031"/>
@@ -49,13 +107,11 @@
     </contour>
     <contour>
       <point x="503.794" y="656.717" type="line"/>
-      <point x="36.6015" y="-10" type="line"/>
-      <point x="77.6015" y="-10" type="line"/>
+      <point x="36.602" y="-10" type="line"/>
+      <point x="77.602" y="-10" type="line"/>
       <point x="545.794" y="656.717" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-10"/>
-  <guideline angle="0" x="0" y="657"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -67,13 +123,22 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8e3ef83d6384f5085cb78ce84acf4613c98b3753361de8104bcee2b62ae3f77038394cb4693277136a1ed6e885a7e27c86bf6d6d9193120907ce39f0c82bc4c1</string>
+    <string>198971f1366788f6cd9a1bbd0c92eac39bdaeab80eddd4279c5690b1fd280cc03f2d2397b4c9e4eae71c1604def01c1cbe1b61a4c8ddcebe2e14cfe30e129c88</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -4 30</string>
+          <string>hstem 11 -21</string>
+          <string>hstem 163 25</string>
+          <string>hstem 656.72 -20</string>
+          <string>hstem 658.09 -20</string>
           <string>vstem 109 54</string>
+          <string>vstem 326 236</string>
+          <string>vstem 334 199</string>
+          <string>vstem 474 59</string>
+          <string>vstem 500 62</string>
         </array>
       </dict>
     </array>

@@ -5,17 +5,17 @@
   <outline>
     <contour>
       <point x="379.014" y="500" type="curve" smooth="yes"/>
-      <point x="415.79" y="500"/>
+      <point x="415.789" y="500"/>
       <point x="453.014" y="526.692"/>
       <point x="453.014" y="564" type="curve" smooth="yes"/>
       <point x="453.014" y="594.338"/>
       <point x="441.443" y="616.375"/>
-      <point x="417.495" y="623.325" type="curve" smooth="yes"/>
+      <point x="417.494" y="623.325" type="curve" smooth="yes"/>
       <point x="408.158" y="626.035"/>
-      <point x="399.493" y="633.591"/>
+      <point x="399.492" y="633.591"/>
       <point x="399.451" y="648.772" type="curve" smooth="yes"/>
       <point x="399.352" y="684.928"/>
-      <point x="484.272" y="754.458"/>
+      <point x="484.271" y="754.458"/>
       <point x="517.014" y="763" type="curve"/>
       <point x="525.014" y="776"/>
       <point x="526.014" y="787"/>
@@ -28,7 +28,7 @@
     </contour>
     <contour>
       <point x="205.014" y="500" type="curve" smooth="yes"/>
-      <point x="241.79" y="500"/>
+      <point x="241.789" y="500"/>
       <point x="279.014" y="526.692"/>
       <point x="279.014" y="564" type="curve" smooth="yes"/>
       <point x="279.014" y="594.749"/>
@@ -40,7 +40,7 @@
       <point x="225.421" y="684.974"/>
       <point x="310.216" y="754.444"/>
       <point x="343.014" y="763" type="curve"/>
-      <point x="351.014" y="776" name=".hr01"/>
+      <point x="351.014" y="776"/>
       <point x="352.014" y="787"/>
       <point x="343.014" y="794" type="curve"/>
       <point x="243.466" y="777.857"/>
@@ -50,8 +50,6 @@
       <point x="166.772" y="500"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="728"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>
@@ -59,26 +57,17 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7c68357b78de05d141d080e2ef0e3a7a43cddd208fbcbd2a43d8613d0167f387e1ba3daeafcafe4979d541dd1238e432ae34f0321a7b738d9e95e1e0c116437e</string>
+    <string>78ed42251325620b8e78744a293d049e5de495c69202a7fda3bb0027f1aaff9e58f986f2bf720c0422559506fe6a14bb91f8d8ef647a2f5ece60e215bc186999</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>vstem 141.75 83.69</string>
           <string>vstem 315.75 83.7</string>
-          <string>vstem 517.01 0</string>
-          <string>vstem 141.75 83.69</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 343.01 0</string>
-          <string>vstem 141.75 83.69</string>
           <string>vstem 517.01 0</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

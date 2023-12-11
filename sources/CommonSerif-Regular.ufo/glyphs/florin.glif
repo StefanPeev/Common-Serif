@@ -4,12 +4,12 @@
   <unicode hex="0192"/>
   <outline>
     <contour>
-      <point x="132.272" y="-30.4476" type="line" smooth="yes"/>
+      <point x="132.272" y="-30.448" type="line" smooth="yes"/>
       <point x="117.422" y="-169.766"/>
-      <point x="88.5814" y="-206.539"/>
+      <point x="88.581" y="-206.539"/>
       <point x="59" y="-206.539" type="curve" smooth="yes"/>
       <point x="28.054" y="-206.539"/>
-      <point x="53.3916" y="-142"/>
+      <point x="53.392" y="-142"/>
       <point x="2" y="-142" type="curve" smooth="yes"/>
       <point x="-18" y="-142"/>
       <point x="-30" y="-161"/>
@@ -19,7 +19,7 @@
       <point x="56" y="-232" type="curve" smooth="yes"/>
       <point x="141.048" y="-232"/>
       <point x="177.479" y="-128.019"/>
-      <point x="203.553" y="75.0291" type="curve" smooth="yes"/>
+      <point x="203.553" y="75.029" type="curve" smooth="yes"/>
       <point x="264" y="541" type="line"/>
       <point x="277" y="647"/>
       <point x="307" y="669"/>
@@ -52,10 +52,10 @@
       <point x="235" y="429" type="line"/>
     </contour>
     <contour>
-      <point x="83.2588" y="397.128" type="line"/>
+      <point x="83.259" y="397.128" type="line"/>
       <point x="188.651" y="390" type="line"/>
       <point x="194.594" y="429" type="line"/>
-      <point x="86.9134" y="422.007" type="line"/>
+      <point x="86.913" y="422.007" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -65,13 +65,16 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>07cb4666c0fdfeb1aaab36d32a882c046303c34d3d1d430dcffb27ef5ece88eb841cc5e7c34c427251adb6d1b35a03f753c1153c1c8d12aa43b3fbbabe2fc833</string>
+    <string>6a701a8e6c91ef951e690995d32f43ecb5b4cdb322d60b1f4350c50262723b9a4d9da971e73eb32b08fd98e98dbd7dd18404130c114bfbee205f9ee9a73602d1</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -232 25.46</string>
+          <string>hstem -232 90</string>
           <string>hstem 390 39</string>
+          <string>hstem 593 105</string>
           <string>hstem 669 29</string>
         </array>
       </dict>
