@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="400" tag="wght" maximum="700" default="400" name="weight">
+  <axis default="400" name="weight" minimum="400" maximum="700" tag="wght">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
  </axes>
  <sources>
-  <source stylename="Bold Italic" familyname="Common Serif" filename="masters/CommonSerif-BoldItalic.ufo" name="Bold Italic">
+  <source name="Bold Italic" stylename="Bold Italic" familyname="Common Serif" filename="masters/CommonSerif-BoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </source>
-  <source stylename="Italic" familyname="Common Serif" filename="masters/CommonSerif-Italic.ufo" name="Italic">
+  <source name="Italic" stylename="Italic" familyname="Common Serif" filename="masters/CommonSerif-Italic.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -22,27 +22,27 @@
   </source>
  </sources>
  <instances>
-  <instance stylename="Italic" familyname="Common Serif" filename="instances/CommonSerif-Italic.ufo" name="Italic">
+  <instance name="Italic" stylename="Italic" familyname="Common Serif" filename="instances/CommonSerif-Italic.ufo">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance stylename="News Italic" familyname="Common Serif" filename="instances/CommonSerif-NewsItalic.ufo" name="NewsItalic">
+  <instance name="NewsItalic" stylename="News Italic" familyname="Common Serif" filename="instances/CommonSerif-NewsItalic.ufo">
    <location>
     <dimension name="weight" xvalue="450"/>
    </location>
   </instance>
-  <instance stylename="Medium Italic" familyname="Common Serif" filename="instances/CommonSerif-MediumItalic.ufo" name="MediumItalic">
+  <instance name="MediumItalic" stylename="Medium Italic" familyname="Common Serif" filename="instances/CommonSerif-MediumItalic.ufo">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance stylename="SemiBold Italic" familyname="Common Serif" filename="instances/CommonSerif-SemiBoldItalic.ufo" name="SemiBoldItalic">
+  <instance name="SemiBoldItalic" stylename="SemiBold Italic" familyname="Common Serif" filename="instances/CommonSerif-SemiBoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance stylename="Bold Italic" familyname="Common Serif" filename="instances/CommonSerif-BoldItalic.ufo" name="BoldItalic">
+  <instance name="BoldItalic" stylename="Bold Italic" familyname="Common Serif" filename="instances/CommonSerif-BoldItalic.ufo">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>

@@ -1,4 +1,4 @@
-#> classes
+#/> classes
 #/> otclasses
 @calt = [parenright question T V W Y bracketright b h i j k l bar braceright brokenbar ordfeminine paragraph Yacute agrave atilde adieresis egrave edieresis igrave iacute icircumflex idieresis ograve otilde odieresis ugrave udieresis thorn ydieresis amacron abreve emacron ebreve ecaron hcircumflex hbar itilde imacron ibreve iogonek ij jcircumflex lacute lcaron ldot lslash omacron umacron ubreve uni0180 uni0185 uni0196 uni019A uni01D0 uni01F0 uni0209 uni020B uni021F uni0234 uni0249 uni1E03 uni1E05 uni1E07 uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E2D uni1E2F uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1EC9 uni1ECB quoteleft quoteright quotedblleft quotedblright uni2047 uni2048 uni2C61 uni013C uni00B2 uni00B3 uni00B9 h.alt];
 @case = [parenleft parenright hyphen zero one two three four five six seven eight nine bracketleft bracketright braceleft braceright exclamdown guillemotleft guillemotright questiondown guilsinglleft guilsinglright];
@@ -128,8 +128,9 @@
 @degree = [degree q.superior uni00B2 uni00B3 uni00B9 uni2070 uni2071 uni2074 uni2075 uni2076 uni2077 uni2078 uni2079 uni207A uni207B uni207C uni207D uni207E uni207F];
 @A2 = [A AE AEacute Aacute Abreve Acircumflex Adieresis Adieresis.alt Agrave Amacron Aogonek Aring Aringacute Atilde uni01CD uni01DE uni01E0 uni01E2 uni0200 uni0202 uni0226];
 @C = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcaron Gcircumflex Gdotaccent O OE Oacute Obreve Ocircumflex Odieresis.alt Ograve Ohorn Ohungarumlaut Omacron Oslash Oslashacute Otilde Q Q.u six.fitted uni0122 uni0187 uni0193 uni019F uni01EA uni01EC uni01F4 uni020C uni020E uni022A uni022C uni022E uni0230 zero.fitted zero.slash.fitted];
+@uni0414.loclBGR = [uni0414.loclBGR uni041B.loclBGR];
 #/< kernclasses
-#< classes
+#/< classes
 
 ###
 # OpenType Layout feature definitions
