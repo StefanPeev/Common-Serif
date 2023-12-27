@@ -22,7 +22,7 @@ First, unification of the glyphs was achieved. Practice shows (compare for examp
 Glyphs ΄(/uni0384, Greek Tonos) `(/uni1FEF, Greek Varia) ´(/uni1FFD, Greek Oxia) are also unified in the same way.  
   
   | **alpha psili** | **alpha dasia** | **центриран** | **центриран** |  
-  | **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1F00.png" width="200" />** | **![alpha dasia](./images/uni1F01.svg | width=100)** | **центриран** | **центриран** |    
+  | **alpha psili  <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1F00.png" width="200" />** | **alpha dasia  <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1F01.png" width="200" />** | **центриран** | **центриран** |    
 
 ## To do list  
 
