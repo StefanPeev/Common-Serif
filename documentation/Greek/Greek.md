@@ -25,6 +25,7 @@ The following font families were used as control fonts:
 First, unification of the glyphs was achieved. Practice shows (compare for example with such fonts as Brill and Gentium) that glyphs ᾽(/uni1FBD, Greek Koronis) ᾿(/uni1FBF, Greek Psili) ῾(/uni1FFE, Greek Dasia) are identical in construction, applying only the corresponding rotation around the vertical axis.  
 Glyphs ΄(/uni0384, Greek Tonos) `(/uni1FEF, Greek Varia) ´(/uni1FFD, Greek Oxia) are also unified in the same way.  
   
+  **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="200" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFE_Dasia.png" width="200" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FEF_Varia.png" width="200" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFD_Oxia.png" width="200" />** 
   **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1F00.png" width="200" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1F01.png" width="200" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1F70.png" width="200" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1F71.png" width="200" />**    
 
 ## To do list  
