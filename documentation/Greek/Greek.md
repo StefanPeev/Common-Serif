@@ -3,16 +3,23 @@
 ## Introduction  
   
 From v.1.032 onwards, special attention is paid to both Polytonic and Monotonic Greek in Common Serif. Major sources for glyph editing decisions are: 
-
+  
++ Gerry Leonidas. [Designing Greek typefaces](https://medium.com/@gerryleonidas/designing-greek-typefaces-eac0de7767cc)  
++ Gerry Leonidas. [Greek type and typography](https://youtu.be/jALb3fPLTRk?si=-umDfehWaq2DPJZS)  
++ Yannis Haralambous. [Guidelines and Suggested Amendments to the Greek Unicode Tables. TwentyFirst International Unicode Conference, Unicode Consortium, May 2002, Dublin, Ireland. ffhal02112005](https://hal.science/hal-02112005/document)  
 + Irene Vlachou. [Polytonic Greek: a guide for type designers](https://github.com/irenevlachou/Polytonic-tutorial)  
 + Irene Vlachou. [Greek type Anatomy](https://www.type-together.com/greek-type-anatomy)  
 + Wikipedia. [Greek diacritics](https://en.wikipedia.org/wiki/Greek_diacritics)  
 + Wikipedia. [Smooth breathing](https://en.wikipedia.org/wiki/Smooth_breathing)  
 + Wikipedia. [Rough breathing](https://en.wikipedia.org/wiki/Rough_breathing) 
++ Wikipedia. [Iota subscript](https://en.wikipedia.org/wiki/Iota_subscript) 
++ Wikipedia. [Hypodiastole](https://en.wikipedia.org/wiki/Hypodiastole) 
 + Typedrawers. [Tonos and oxia](https://typedrawers.com/discussion/3633/tonos-and-oxia)  
 + Typedrawers. [A question about the Greek Tonos](https://typedrawers.com/discussion/3139/a-question-about-the-greek-tonos)  
 + Typedrawers. [Support for polytonic Greek](https://typedrawers.com/discussion/3611/support-for-polytonic-greek)  
-+ Gerry Leonidas. [Greek type and typography](https://youtu.be/jALb3fPLTRk?si=-umDfehWaq2DPJZS)  
++ Polytoniko. [Re-introduction of the Polytonic System](https://www.polytoniko.org/index.php?newlang=en)  
++ Thomas Linard. [Comments of Irene Vlachou's "Polytonic Greek". OpenType features](https://github.com/irenevlachou/Polytonic-tutorial/issues/1)  
++ Kostas Bartsokas. [Comments of Irene Vlachou's "Polytonic Greek". Disjunctive Eta](https://github.com/irenevlachou/Polytonic-tutorial/issues/2)  
 
 The following font families were used as control fonts:  
 
@@ -41,14 +48,16 @@ About the code syntaxes and its use in FontLab see:
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="200" />  | &nbsp; | **Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ**  | &nbsp; | **ἀ ἐ ἠ ἰ ὀ ὠ** |  
 | &nbsp; | &nbsp; | /uni1F08 /uni1F18 /uni1F28 /uni1F38 /uni1F48 /uni1F68 | &nbsp; | /uni1F00 /uni1F10 /uni1F20 /uni1F30 /uni1F40 /uni1F60 |
-
-  
-Uppercase letters: Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ  
-Lowercase letters: ἀ ἐ ἠ ἰ ὀ ὠ  
   
 ## The rough breathing diacritical mark Dasia (/uni1FFE)  
   
-Uppercase letters: Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ  
+| **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
+| :----------- | :----------- | :----------- | :----------- | :----------- |
+| <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFE_Dasia.png" width="200" />  | &nbsp; | **Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ**  | &nbsp; | **ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ** |  
+| &nbsp; | &nbsp; | /uni1F09 /uni1F19 /uni1F29 /uni1F39 /uni1F49 /uni1F59 /uni1F69 /uni1F89 /uni1F99 /uni1FA9 /uni1FEC | &nbsp; | /uni1F01 /uni1F11 /uni1F21 /uni1F31 /uni1F41 /uni1F51 /uni1F61 /uni1F81 /uni1F91 /uni1FA1 /uni1FE5 |  
+  
+  
+  Uppercase letters: Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ  
 Lowercase letters: ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ  
 
 ## Accent mark Oxia (/uni1FFD)   
