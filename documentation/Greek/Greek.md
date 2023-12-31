@@ -30,6 +30,16 @@ First, unification of the glyphs was achieved. Practice shows (compare for examp
 We must notice that tonos, oxia, varia, koronis, psili, dasia are placed on top of the lowercase Greek letters. However, the following positioning exists for the Greek uppercase letters: tonos, oxia, varia, koronis, psili, dasia are placed on the left of the uppercase letters. This raises the question of what tactic to choose for the successful positioning of diacritics in upper and lowercase letters. Two approaches are possible: a) using anchors, b) using code syntaxes. Using anchors is a safe way to position elements via mark to base positioning, but it implies much more limited options for flexibility with different types of diacritics. It is why the code syntaxes is prefered in Common Serif project. As an example we can point to Alpha with Psili (see next image).   
   
 **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/Alpha_Psili_UC.png" width="100%" />**  
+
+## The smooth breathing diacritical mark Psili  
+
+Uppercase letters: Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ  
+Lowercase letters: ἀ ἐ ἠ ἰ ὀ ὠ  
+  
+## The smooth breathing diacritical mark Dasia  
+  
+Uppercase letters: Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ  
+Lowercase letters: ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ  
   
 ## To do list   
 
