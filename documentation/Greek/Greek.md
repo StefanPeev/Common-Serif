@@ -63,13 +63,12 @@ About the code syntaxes and its use in FontLab see:
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFD_Oxia.png" width="200" />  | &nbsp; | **Ά Έ Ή Ί Ό Ύ Ώ**  | &nbsp; | **ά έ ή ί ό ύ ώ** |  
 | &nbsp; | &nbsp; | /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F | &nbsp; | /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE |  
   
-Uppercase letters: ΆΈΉΊΌΎΏ  
-Lowercase letters: ά έ ή ί ό ύ ώ 
-
 ## Accent mark Varia (/uni1FEF)  
- 
-Uppercase letters: Ὰ Ὲ Ὴ Ὶ Ὸ Ὺ Ὼ  
-Lowercase letters: ὰ ὲ ὴ ὶ ὸ ὺ ὼ  
+    
+| **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
+| :----------- | :----------- | :----------- | :----------- | :----------- |
+| <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FEF_Varia.png" width="200" />  | &nbsp; | **Ὰ Ὲ Ὴ Ὶ Ὸ Ὺ Ὼ**  | &nbsp; | **ὰ ὲ ὴ ὶ ὸ ὺ ὼ** |  
+| &nbsp; | &nbsp; | /uni1FBA /uni1FC8 /uni1FCA /uni1FDA /uni1FF8 /uni1FEA /uni1FFA | &nbsp; | /uni1F70 /uni1F72 /uni1F74 /uni1F76 /uni1F78 /uni1F7A /uni1F7C |  
   
 ## To do list   
 
