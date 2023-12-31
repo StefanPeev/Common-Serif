@@ -37,6 +37,12 @@ About the code syntaxes and its use in FontLab see:
   
 ## The smooth breathing diacritical mark Psili (/uni1FBF)  
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="150" />      | Uppercase letters: Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ       |
+| Paragraph   | Lowercase letters: ἀ ἐ ἠ ἰ ὀ ὠ        |
+
+
 Uppercase letters: Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ  
 Lowercase letters: ἀ ἐ ἠ ἰ ὀ ὠ  
   
