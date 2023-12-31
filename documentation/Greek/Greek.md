@@ -37,10 +37,10 @@ About the code syntaxes and its use in FontLab see:
   
 ## The smooth breathing diacritical mark Psili (/uni1FBF)  
 
-| **Glyph Image**     | &nbsp;&nbsp;&nbsp; |  **Uppercase Letters** | &nbsp;&nbsp;&nbsp; | **Lowercase Letters** |
+| **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
-| <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="200" />  | &nbsp;&nbsp;&nbsp; | **Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ**  | &nbsp; | **ἀ ἐ ἠ ἰ ὀ ὠ** |  
-| &nbsp; | &nbsp;&nbsp;&nbsp; | /uni1F08 /uni1F18 /uni1F28 /uni1F38 /uni1F48 /uni1F68 | &nbsp; | /uni1F00 /uni1F10 /uni1F20 /uni1F30 /uni1F40 /uni1F60 |
+| <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="200" />  | &nbsp; | **Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ**  | &nbsp; | **ἀ ἐ ἠ ἰ ὀ ὠ** |  
+| &nbsp; | &nbsp; | /uni1F08 /uni1F18 /uni1F28 /uni1F38 /uni1F48 /uni1F68 | &nbsp; | /uni1F00 /uni1F10 /uni1F20 /uni1F30 /uni1F40 /uni1F60 |
 
   
 Uppercase letters: Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ  
