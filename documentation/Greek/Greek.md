@@ -56,13 +56,14 @@ About the code syntaxes and its use in FontLab see:
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFE_Dasia.png" width="200" />  | &nbsp; | **Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ**  | &nbsp; | **ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ** |  
 | &nbsp; | &nbsp; | /uni1F09 /uni1F19 /uni1F29 /uni1F39 /uni1F49 /uni1F59 /uni1F69 /uni1F89 /uni1F99 /uni1FA9 /uni1FEC | &nbsp; | /uni1F01 /uni1F11 /uni1F21 /uni1F31 /uni1F41 /uni1F51 /uni1F61 /uni1F81 /uni1F91 /uni1FA1 /uni1FE5 |  
   
-  
-  Uppercase letters: Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ  
-Lowercase letters: ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ  
-
 ## Accent mark Oxia (/uni1FFD)   
+    
+| **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
+| :----------- | :----------- | :----------- | :----------- | :----------- |
+| <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFD_Oxia.png" width="200" />  | &nbsp; | **Ά Έ Ή Ί Ό Ύ Ώ**  | &nbsp; | **ά έ ή ί ό ύ ώ** |  
+| &nbsp; | &nbsp; | /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F | &nbsp; | /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE |  
   
-Uppercase letters: Ά Έ Ή Ί Ό Ύ Ώ  
+Uppercase letters: ΆΈΉΊΌΎΏ  
 Lowercase letters: ά έ ή ί ό ύ ώ 
 
 ## Accent mark Varia (/uni1FEF)  
