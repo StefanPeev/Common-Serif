@@ -35,22 +35,22 @@ About the code syntaxes and its use in FontLab see:
 + [Glyph Recipe Syntax](https://help.fontlab.com/fontlab/7/manual/Glyph-Recipe-Syntax/)  
 + [Making uppercase accented characters using custom recipes](https://help.fontlab.com/fontlab-vi/Tutorial-Using-Recipes-2/)  
   
-## The smooth breathing diacritical mark Psili  
+## The smooth breathing diacritical mark Psili (/uni1FBF)  
 
 Uppercase letters: Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ  
 Lowercase letters: ἀ ἐ ἠ ἰ ὀ ὠ  
   
-## The rough breathing diacritical mark Dasia  
+## The rough breathing diacritical mark Dasia (/uni1FFE)  
   
 Uppercase letters: Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ  
 Lowercase letters: ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ  
 
-## Accent mark ´(/uni1FFD, Oxia)   
+## Accent mark Oxia (/uni1FFD)   
   
 Uppercase letters: Ά Έ Ή Ί Ό Ύ Ώ  
 Lowercase letters: ά έ ή ί ό ύ ώ 
 
-## Accent mark `(/uni1FEF, Varia)  
+## Accent mark Varia (/uni1FEF)  
  
 Uppercase letters: Ὰ Ὲ Ὴ Ὶ Ὸ Ὺ Ὼ  
 Lowercase letters: ὰ ὲ ὴ ὶ ὸ ὺ ὼ  
