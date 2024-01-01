@@ -107,6 +107,29 @@ As of Unicode version 15.1
 | U+1FEx | ῠ | ῡ | ῢ | ΰ | ῤ | ῥ | ῦ | ῧ | Ῠ | Ῡ | Ὺ | Ύ | Ῥ | ῭ | ΅ | ` |  
 | U+1FFx | &nbsp; | &nbsp; | ῲ | ῳ | ῴ | &nbsp; | ῶ | ῷ | Ὸ | Ό | Ὼ | Ώ | ῼ | ´ | ῾ | &nbsp; |    
   
+#### Polytonic Greek uppercase letters (96)  
+  
+ἈἉἊἋἌἍἎἏᾺΆᾸᾹᾼᾈᾉᾊᾋᾌᾍᾎᾏ  
+ἘἙἚἛἜἝῈΈ  
+ἨἩἪἫἬἭἮἯῊΉῌᾘᾙᾚᾛᾜᾝᾞᾟ  
+ἸἹἺἻἼἽἾἿῚΊῘῙ  
+ὈὉὊὋὌὍῸΌ  
+Ῥ  
+ὙὛὝὟῪΎῨῩ  
+ὨὩὪὫὬὭὮὯῺΏῼᾨᾩᾪᾫᾬᾭᾮᾯ  
+  
+  
+#### Polytonic Greek lowercase letters (121)
+
+ἀἁἂἃἄἅἆἇὰάᾰᾱᾶᾳᾲᾴᾀᾁᾂᾃᾄᾅᾆᾇᾷ  
+ἐἑἒἓἔἕὲέ  
+ἠἡἢἣἤἥἦἧὴήῆῃῂῄᾐᾑᾒᾓᾔᾕᾖᾗῇ  
+ἰἱἲἳἴἵἶἷὶίῐῑῖῒΐῗ  
+ὀὁὂὃὄὅὸό  
+ῥῤ  
+ὑὓὕὗὺύῠῡὐὒὔὖῦῢΰῧ  
+ὠὡὢὣὤὥὦὧὼώῶῳῲῴᾠᾡᾢᾣᾤᾥᾦᾧῷ  
+    
 ## To do list   
 
 - [ ] To prepare a full description of all available Greek glyphs according to latest Unicode standard.
