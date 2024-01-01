@@ -28,7 +28,9 @@ The following font families were used as control fonts:
 + [Source Serif](https://github.com/adobe-fonts/source-serif)  
 + [Colvert](https://d3qx8f8l5aa3yc.cloudfront.net/images/Colvert.pdf)  
 + [GFS Artemisia](https://greekfontsociety-gfs.gr/typefaces/20th_21st_century#GFS_Artemisia)  
-
+  
+## Single diacritics  
+  
 First, unification of the glyphs was achieved. Practice shows (compare for example with such fonts as Brill and Gentium) that glyphs ᾽(/uni1FBD, Greek Koronis) ᾿(/uni1FBF, Greek Psili) ῾(/uni1FFE, Greek Dasia) are identical in construction, applying only the corresponding rotation around the vertical axis. Glyphs ΄(/uni0384, Greek Tonos) ´(/uni1FFD, Greek Oxia) `(/uni1FEF, Greek Varia) are also unified in the same way.  
   
   **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBD_Koronis.png" width="150" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="150" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFE_Dasia.png" width="150" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni0384_Tonos.png" width="150" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFD_Oxia.png" width="150" />** **<img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FEF_Varia.png" width="150" />**  
@@ -42,7 +44,7 @@ About the code syntaxes and its use in FontLab see:
 + [Glyph Recipe Syntax](https://help.fontlab.com/fontlab/7/manual/Glyph-Recipe-Syntax/)  
 + [Making uppercase accented characters using custom recipes](https://help.fontlab.com/fontlab-vi/Tutorial-Using-Recipes-2/)  
   
-## The smooth breathing diacritical mark Psili (/uni1FBF)  
+### The smooth breathing diacritical mark Psili (/uni1FBF)  
 
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
@@ -52,7 +54,7 @@ About the code syntaxes and its use in FontLab see:
 **• Uppercase letters:** ἈἘἨἸὈὨ  
 **• Lowercase letters:** ἀἐἠἰὀὠ  
   
-## The rough breathing diacritical mark Dasia (/uni1FFE)  
+### The rough breathing diacritical mark Dasia (/uni1FFE)  
   
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
@@ -62,7 +64,7 @@ About the code syntaxes and its use in FontLab see:
 **• Uppercase letters:** ἉἙἩἹὉὙὩᾉᾙᾩῬ  
 **• Lowercase letters:** ἁἑἡἱὁὑὡᾁᾑᾡῥ  
   
-## Accent mark Oxia (/uni1FFD)   
+### Accent mark Oxia (/uni1FFD)   
     
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
@@ -72,7 +74,7 @@ About the code syntaxes and its use in FontLab see:
 **• Uppercase letters:** ΆΈΉΊΌΎΏ  
 **• Lowercase letters:** άέήίόύώ  
   
-## Accent mark Varia (/uni1FEF)  
+### Accent mark Varia (/uni1FEF)  
     
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
@@ -81,6 +83,25 @@ About the code syntaxes and its use in FontLab see:
 
 **• Uppercase letters:** ᾺῈῊῚῸῪῺ  
 **• Lowercase letters:** ὰὲὴὶὸὺὼ  
+  
+| &nbsp; | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |  
+| :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- |  
+| U+1F0x | ἀ | ἁ | ἂ | ἃ | ἄ | ἅ | ἆ | ἇ | Ἀ | Ἁ | Ἂ | Ἃ | Ἄ | Ἅ | Ἆ | Ἇ |  
+| U+1F1x | ἐ | ἑ | ἒ | ἓ | ἔ | ἕ | &nbsp; | &nbsp; | Ἐ | Ἑ | Ἒ | Ἓ | Ἔ | Ἕ | &nbsp; | &nbsp; |  
+| U+1F2x | ἠ | ἡ | ἢ | ἣ | ἤ | ἥ | ἦ | ἧ | Ἠ | Ἡ | Ἢ | Ἣ | Ἤ | Ἥ | Ἦ | Ἧ |  
+| U+1F3x | ἰ | ἱ | ἲ | ἳ | ἴ | ἵ | ἶ | ἷ | Ἰ | Ἱ | Ἲ | Ἳ | Ἴ | Ἵ | Ἶ | Ἷ |  
+| U+1F4x | ὀ | ὁ | ὂ | ὃ | ὄ | ὅ | &nbsp; | &nbsp; | Ὀ | Ὁ | Ὂ | Ὃ | Ὄ | Ὅ | &nbsp; | &nbsp; |  
+| U+1F5x | ὐ | ὑ | ὒ | ὓ | ὔ | ὕ | ὖ | ὗ | &nbsp; | Ὑ | &nbsp; | &nbsp; | &nbsp; | Ὕ | &nbsp; | Ὗ |  
+| U+1F6x | ὠ | ὡ | ὢ | ὣ | ὤ | ὥ | ὦ | ὧ | Ὠ | Ὡ | Ὢ | Ὣ | Ὤ | Ὥ | Ὦ | Ὧ |  
+| U+1F7x | ὰ | ά | ὲ | έ | ὴ | ή | ὶ | ί | ὸ | ό | ὺ | ύ | ὼ | ώ | &nbsp; | &nbsp; |  
+| U+1F8x | ᾀ | ᾁ | ᾂ | ᾃ | ᾄ | ᾅ | ᾆ | ᾇ | ᾈ | ᾉ | ᾊ | ᾋ | ᾌ | ᾍ | ᾎ |  |  
+| U+1F9x | ᾐ | ᾑ | ᾒ | ᾓ | ᾔ | ᾕ | ᾖ | ᾗ | ᾘ | ᾙ | ᾚ | ᾛ | ᾜ | ᾝ | ᾞ | ᾟ |  
+| U+1FAx | ᾠ | ᾡ | ᾢ | ᾣ | ᾤ | ᾥ | ᾦ | ᾧ | ᾨ | ᾩ | ᾪ | ᾫ | ᾬ | ᾭ | ᾮ | ᾯ |  
+| U+1FBx | ᾰ | ᾱ | ᾲ | ᾳ | ᾴ | &nbsp; | ᾶ | ᾷ | Ᾰ | Ᾱ | Ὰ | Ά | ᾼ | ᾽ | ι | ᾿ |  
+| U+1FCx | ῀ | ῁ | ῂ | ῃ | ῄ | &nbsp; | ῆ | ῇ | Ὲ | Έ | Ὴ | Ή | ῌ | ῍ | ῎ | ῏ |  
+| U+1FDx | ῐ | ῑ | ῒ | ΐ | &nbsp; | &nbsp; | ῖ | ῗ | Ῐ | Ῑ | Ὶ | Ί | &nbsp; | ῝ | ῞ | ῟ |  
+| U+1FEx | ῠ | ῡ | ῢ | ΰ | ῤ | ῥ | ῦ | ῧ | Ῠ | Ῡ | Ὺ | Ύ | Ῥ | ῭ | ΅ | ` |  
+| U+1FFx | &nbsp; | &nbsp; | ῲ | ῳ | ῴ |  | ῶ | ῷ | Ὸ | Ό | Ὼ | Ώ | ῼ | ´ | ῾ | &nbsp; |    
   
 ## To do list   
 
