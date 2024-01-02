@@ -84,6 +84,28 @@ About the code syntaxes and its use in FontLab see:
 **• Uppercase letters:** ᾺῈῊῚῸῪῺ  
 **• Lowercase letters:** ὰὲὴὶὸὺὼ  
   
+## Combined diacritics    
+  
+### Psili and Varia (/uni1FCD)    
+  
+**• Uppercase letters:** ἊἚἪἺὊὛὪ    
+**• Lowercase letters:** ἂἒἢἲὂὓὢ  
+  
+### Dasia and Varia (/uni1FDD)    
+  
+**• Uppercase letters:** ἋἛἫἻὋὫ    
+**• Lowercase letters:** ἃἓἣἳὃὣ  
+  
+### Psili and Oxia (/uni1FCE)    
+  
+**• Uppercase letters:** ἌἜἬἼὌὬ    
+**• Lowercase letters:** ἄἔἤἴὄὤ  
+  
+### Dasia and Oxia (/uni1FCE)    
+  
+**• Uppercase letters:** ἍἝἭἽὍὝὭ    
+**• Lowercase letters:** ἅἕἥἵὅὕὥ  
+  
 ### Greek Extended  
 Official Unicode Consortium code chart: [PDF](https://www.unicode.org/charts/PDF/U1F00.pdf) 
 As of Unicode version 15.1   
