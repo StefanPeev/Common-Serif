@@ -101,7 +101,7 @@ About the code syntaxes and its use in FontLab see:
 **• Uppercase letters:** ἌἜἬἼὌὬ    
 **• Lowercase letters:** ἄἔἤἴὄὤ  
   
-### Dasia and Oxia (/uni1FCE)    
+### Dasia and Oxia (/uni1FDE)    
   
 **• Uppercase letters:** ἍἝἭἽὍὝὭ    
 **• Lowercase letters:** ἅἕἥἵὅὕὥ  
