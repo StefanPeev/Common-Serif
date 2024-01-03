@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FEC" format="2">
-  <advance width="597"/>
+  <advance width="680"/>
   <unicode hex="1FEC"/>
+  <anchor x="391.667" y="740" name="t.uni0302"/>
+  <anchor x="391.333" y="-60" name="b.minus-60"/>
   <outline>
-    <component base="P" xScale="1" xOffset="78.667"/>
-    <contour>
-      <point x="29" y="723" type="curve" smooth="yes"/>
-      <point x="-9" y="723"/>
-      <point x="-31" y="685"/>
-      <point x="-31" y="650" type="curve" smooth="yes"/>
-      <point x="-31" y="624"/>
-      <point x="-16" y="548"/>
-      <point x="75" y="544" type="curve"/>
-      <point x="79" y="561" type="line"/>
-      <point x="37" y="569"/>
-      <point x="19" y="606.167"/>
-      <point x="19" y="629" type="curve" smooth="yes"/>
-      <point x="19" y="640"/>
-      <point x="23" y="647"/>
-      <point x="30" y="647" type="curve" smooth="yes"/>
-      <point x="71" y="647"/>
-      <point x="76" y="672"/>
-      <point x="76" y="689" type="curve" smooth="yes"/>
-      <point x="76" y="705"/>
-      <point x="65" y="723"/>
-    </contour>
+    <component base="Rho" xScale="1" xOffset="124.167"/>
+    <component base="uni1FFE" xOffset="-21.892" yOffset="-20"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7fcb637c932fed461198e84def47b3f588b2e4195f543cc8a159447c1790fae4ff9c56fc0f8675d556a705d0dc67662cf606add0d05a99ee533e9b7a761a8d00</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 544 179</string>
-          <string>hstem 647 76</string>
-          <string>vstem -31 50</string>
-          <string>vstem -31 107</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=P</string>
+  <key>com.fontlab.recipe</key>
+  <string>=Rho@140,-2+uni1FFE@10,480</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0422"/>
   <anchor x="315.667" y="740" name="t.uni0302"/>
   <anchor x="315.333" y="-60" name="b.minus-60"/>
-  <anchor x="356" y="0" name="b.cedilla"/>
+  <anchor x="311" y="0" name="b.cedilla"/>
   <outline>
     <component base="T"/>
   </outline>
@@ -12,6 +12,10 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=T</string>
   <key>com.fontlab.recipe</key>
   <string>T</string>
   <key>public.markColor</key>

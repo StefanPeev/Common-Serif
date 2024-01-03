@@ -2,119 +2,20 @@
 <glyph name="uni1F90" format="2">
   <advance width="621"/>
   <unicode hex="1F90"/>
+  <anchor x="316" y="510" name="t.gr"/>
+  <anchor x="302" y="510" name="t.uni0302"/>
   <outline>
-    <contour>
-      <point x="89" y="-20" type="line"/>
-      <point x="99.04" y="-30" type="line"/>
-      <point x="238" y="0" type="line"/>
-      <point x="227" y="326" type="line"/>
-      <point x="227" y="366" type="line" smooth="yes"/>
-      <point x="227" y="408.897"/>
-      <point x="202.567" y="442"/>
-      <point x="171.577" y="442" type="curve" smooth="yes"/>
-      <point x="134.577" y="442"/>
-      <point x="90.21" y="430.546"/>
-      <point x="32" y="411" type="curve"/>
-      <point x="30.072" y="400.907"/>
-      <point x="32" y="384"/>
-      <point x="34" y="379" type="curve"/>
-      <point x="89" y="374"/>
-      <point x="99" y="366"/>
-      <point x="99" y="309" type="curve" smooth="yes"/>
-      <point x="99" y="137.708" type="line"/>
-    </contour>
-    <contour>
-      <point x="99" y="-62" type="line"/>
-      <point x="99" y="-154" type="line" smooth="yes"/>
-      <point x="99" y="-212"/>
-      <point x="164" y="-236"/>
-      <point x="213" y="-236" type="curve" smooth="yes"/>
-      <point x="237" y="-236"/>
-      <point x="307" y="-225"/>
-      <point x="322" y="-156" type="curve"/>
-      <point x="317" y="-149"/>
-      <point x="303" y="-144"/>
-      <point x="293" y="-145" type="curve"/>
-      <point x="286" y="-172"/>
-      <point x="271" y="-186"/>
-      <point x="253" y="-186" type="curve" smooth="yes"/>
-      <point x="250" y="-186"/>
-      <point x="247.145" y="-185.631"/>
-      <point x="245" y="-185" type="curve" smooth="yes"/>
-      <point x="230.107" y="-180.62"/>
-      <point x="220" y="-165"/>
-      <point x="220" y="-118" type="curve" smooth="yes"/>
-      <point x="220" y="-56" type="line"/>
-      <point x="198" y="-49" type="line"/>
-    </contour>
-    <contour>
-      <point x="321" y="697" type="curve" smooth="yes"/>
-      <point x="285" y="697"/>
-      <point x="274" y="679"/>
-      <point x="274" y="663" type="curve" smooth="yes"/>
-      <point x="274" y="647"/>
-      <point x="279" y="622"/>
-      <point x="320" y="622" type="curve" smooth="yes"/>
-      <point x="327" y="622"/>
-      <point x="331" y="614"/>
-      <point x="331" y="604" type="curve" smooth="yes"/>
-      <point x="331" y="581"/>
-      <point x="313" y="544"/>
-      <point x="271" y="535" type="curve"/>
-      <point x="275" y="518" type="line"/>
-      <point x="366" y="523"/>
-      <point x="381" y="598"/>
-      <point x="381" y="624" type="curve" smooth="yes"/>
-      <point x="381" y="660"/>
-      <point x="359" y="697"/>
-    </contour>
-    <contour>
-      <point x="215.104" y="315.997" type="line"/>
-      <point x="253.321" y="347.836"/>
-      <point x="302.831" y="368"/>
-      <point x="341" y="368" type="curve" smooth="yes"/>
-      <point x="384" y="368"/>
-      <point x="396" y="329"/>
-      <point x="396" y="267" type="curve"/>
-      <point x="378.362" y="-198" type="line"/>
-      <point x="396.068" y="-218" type="line"/>
-      <point x="535.956" y="-188" type="line"/>
-      <point x="526" y="284" type="line"/>
-      <point x="526" y="393"/>
-      <point x="479.587" y="445"/>
-      <point x="409" y="445" type="curve" smooth="yes"/>
-      <point x="338.622" y="445"/>
-      <point x="268" y="398.63"/>
-      <point x="215.936" y="357.384" type="curve"/>
-    </contour>
+    <component base="uni1F20"/>
+    <component base="uni0345" xOffset="353"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>223aade29191453ee6ee5461b1043fc489a65302daa042d21fe5022592f7bb8477157e106dc2d99ba6e60f1568d6f54e78630177ff711493b6f8765fafd25db6</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -236 51</string>
-          <string>hstem 368 77</string>
-          <string>hstem 379 63</string>
-          <string>hstem 518 179</string>
-          <string>hstem 622 75</string>
-          <string>vstem 99 128</string>
-          <string>vstem 99 121</string>
-          <string>vstem 274 107</string>
-          <string>vstem 331 50</string>
-          <string>vstem 396 130</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1F20+uni0345</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

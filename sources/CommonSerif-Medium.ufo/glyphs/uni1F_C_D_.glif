@@ -1,74 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCD" format="2">
-  <advance width="338"/>
+  <advance width="341"/>
   <unicode hex="1FCD"/>
-  <anchor x="163" y="510" name="_t.gr"/>
+  <anchor x="165" y="510" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="81.668" y="689" type="curve" smooth="yes"/>
-      <point x="49.668" y="689"/>
-      <point x="36.668" y="671"/>
-      <point x="36.668" y="655" type="curve" smooth="yes"/>
-      <point x="36.668" y="639"/>
-      <point x="41.668" y="616"/>
-      <point x="82.668" y="616" type="curve" smooth="yes"/>
-      <point x="90.335" y="616"/>
-      <point x="95.668" y="608"/>
-      <point x="95.668" y="596" type="curve" smooth="yes"/>
-      <point x="95.668" y="573"/>
-      <point x="75.668" y="536"/>
-      <point x="33.668" y="527" type="curve"/>
-      <point x="33.665" y="519.954"/>
-      <point x="35.204" y="514.689"/>
-      <point x="38.335" y="510" type="curve"/>
-      <point x="115.335" y="517"/>
-      <point x="141.668" y="583.333"/>
-      <point x="141.668" y="616" type="curve" smooth="yes"/>
-      <point x="141.668" y="652"/>
-      <point x="119.668" y="689"/>
-    </contour>
-    <contour>
-      <point x="195" y="650" type="curve"/>
-      <point x="277" y="515" type="line"/>
-      <point x="278.957" y="511.973"/>
-      <point x="281.15" y="510"/>
-      <point x="285" y="510" type="curve" smooth="yes"/>
-      <point x="295" y="510"/>
-      <point x="300" y="517"/>
-      <point x="300" y="522" type="curve"/>
-      <point x="260" y="678" type="line" smooth="yes"/>
-      <point x="257.167" y="689.044"/>
-      <point x="247" y="696"/>
-      <point x="229" y="696" type="curve" smooth="yes"/>
-      <point x="206" y="696"/>
-      <point x="192" y="679"/>
-      <point x="192" y="663" type="curve" smooth="yes"/>
-      <point x="192" y="659"/>
-      <point x="192.893" y="653.941"/>
-    </contour>
+    <component base="uni02BC" xOffset="8.833"/>
+    <component base="uni1FEF" xScale="1" xOffset="138.667"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>49ffe0ddafa994228d849108eec5f5cac3435da5ac15e76d3a32a2ba1f16ae252d4d1f27c606f7048d122a13a935f9c29d9e353315baf4f11825afa1aba72792</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 510 179</string>
-          <string>hstem 616 73</string>
-          <string>hstem 696 -20</string>
-          <string>vstem 36.67 105</string>
-          <string>vstem 95.67 46</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=37</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=37</string>
   </dict>
   </lib>
 </glyph>

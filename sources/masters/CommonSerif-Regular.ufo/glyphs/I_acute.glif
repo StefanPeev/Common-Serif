@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="2">
-  <advance width="297"/>
+  <advance width="299"/>
   <unicode hex="00CD"/>
   <anchor x="191" y="10" name="b.ogonek"/>
   <anchor x="148" y="-60" name="b.minus-60"/>
@@ -12,6 +12,10 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
   <key>com.fontlab.recipe</key>
   <string>I+acute.cap</string>
   <key>public.markColor</key>

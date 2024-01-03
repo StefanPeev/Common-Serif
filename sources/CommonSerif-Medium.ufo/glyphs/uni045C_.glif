@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045C" format="2">
-  <advance width="509"/>
+  <advance width="519"/>
   <unicode hex="045C"/>
   <outline>
     <component base="uni043A"/>
-    <component base="acutecomb" xOffset="491.667"/>
+    <component base="acutecomb" xOffset="494"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=dotlessi</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043A</string>
   <key>com.fontlab.recipe</key>
   <string>uni043A+acutecomb</string>
   <key>public.markColor</key>

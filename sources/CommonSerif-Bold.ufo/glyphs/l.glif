@@ -1,65 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="325"/>
+  <advance width="314"/>
   <unicode hex="006C"/>
-  <anchor x="154" y="740" name="t.uni0302"/>
-  <anchor x="167" y="-60" name="b.minus-60"/>
-  <anchor x="284" y="652" name="apostrophe"/>
+  <anchor x="143" y="740" name="t.uni0302"/>
+  <anchor x="156" y="-60" name="b.minus-60"/>
+  <anchor x="273" y="652" name="apostrophe"/>
   <outline>
     <contour>
-      <point x="30" y="-2" type="curve"/>
-      <point x="72" y="-1"/>
-      <point x="114" y="0"/>
-      <point x="167" y="0" type="curve"/>
-      <point x="212.21" y="-0.66"/>
-      <point x="258.79" y="-1"/>
-      <point x="304" y="-2" type="curve"/>
-      <point x="310" y="4.25"/>
-      <point x="310" y="25.625"/>
-      <point x="304" y="32" type="curve"/>
-      <point x="243" y="35"/>
-      <point x="232" y="39"/>
-      <point x="232" y="122" type="curve"/>
-      <point x="102" y="122" type="line"/>
-      <point x="102" y="39"/>
-      <point x="91" y="35"/>
-      <point x="30" y="32" type="curve"/>
-      <point x="24" y="25.625"/>
-      <point x="24" y="4.25"/>
+      <point x="19" y="-2" type="curve"/>
+      <point x="61" y="-1"/>
+      <point x="108" y="0"/>
+      <point x="161" y="0" type="curve"/>
+      <point x="161" y="122" type="line"/>
+      <point x="91" y="122" type="line"/>
+      <point x="91" y="39"/>
+      <point x="80" y="35"/>
+      <point x="19" y="32" type="curve"/>
+      <point x="13" y="26"/>
+      <point x="13" y="4"/>
     </contour>
     <contour>
-      <point x="102" y="122" type="line"/>
-      <point x="232" y="122" type="line"/>
-      <point x="232" y="576" type="line"/>
-      <point x="102" y="576" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="196" y="-1"/>
+      <point x="248" y="-1"/>
+      <point x="293" y="-2" type="curve"/>
+      <point x="299" y="4"/>
+      <point x="299" y="26"/>
+      <point x="293" y="32" type="curve"/>
+      <point x="232" y="35"/>
+      <point x="221" y="39"/>
+      <point x="221" y="122" type="curve"/>
+      <point x="151" y="122" type="line"/>
     </contour>
     <contour>
-      <point x="102" y="576" type="curve"/>
-      <point x="232" y="576" type="line"/>
-      <point x="232" y="626"/>
-      <point x="233" y="655"/>
-      <point x="236" y="681" type="curve"/>
-      <point x="236" y="692"/>
-      <point x="227" y="698"/>
-      <point x="213" y="698" type="curve"/>
-      <point x="183" y="686"/>
-      <point x="97.9997" y="673"/>
-      <point x="34.9997" y="670" type="curve"/>
-      <point x="32.9997" y="664"/>
-      <point x="34.9997" y="642"/>
-      <point x="36.9997" y="636" type="curve"/>
-      <point x="89.4147" y="631.235"/>
-      <point x="102" y="620"/>
+      <point x="91" y="110" type="line"/>
+      <point x="221" y="110" type="line"/>
+      <point x="221" y="590" type="line"/>
+      <point x="91" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.9367" y="576" type="curve"/>
+      <point x="220.937" y="576" type="line"/>
+      <point x="220.937" y="627.375"/>
+      <point x="222.015" y="655.678"/>
+      <point x="224.937" y="681" type="curve"/>
+      <point x="224.937" y="691.674"/>
+      <point x="216.378" y="698"/>
+      <point x="201.937" y="698" type="curve"/>
+      <point x="172.701" y="686.306"/>
+      <point x="88.6267" y="673.08"/>
+      <point x="23.9367" y="670" type="curve"/>
+      <point x="22.2367" y="664.9"/>
+      <point x="23.5077" y="643.286"/>
+      <point x="25.9367" y="636" type="curve"/>
+      <point x="78.5417" y="630.942"/>
+      <point x="90.9367" y="619.5"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=dotlessi-8</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b4e42a0666df5416051c2e90beb07f48bc80cac85285fb7b4dd8f7936b531febf90e2a1c60b6ca6346d7417b0c88f3b61e6472a9dc3e1bf37bf2b159878fbefa</string>
+    <string>419702997cac83de1ed68f19ef41b28f3462bafd317a16858e2fb1017c65e42f730380389d3cec736005fa50933b88141f9a61c57176dff479dc0b88f4fe7232</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -69,7 +76,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 636 34</string>
           <string>hstem 698 -20</string>
-          <string>vstem 102 130</string>
+          <string>vstem 91 130</string>
         </array>
       </dict>
     </array>

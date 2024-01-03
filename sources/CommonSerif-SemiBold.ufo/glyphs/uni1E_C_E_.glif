@@ -2,16 +2,20 @@
 <glyph name="uni1ECE" format="2">
   <advance width="721"/>
   <unicode hex="1ECE"/>
-  <anchor x="396" y="10" name="b.ogonek"/>
-  <anchor x="349.333" y="-60" name="b.minus-60"/>
+  <anchor x="397" y="10" name="b.ogonek"/>
+  <anchor x="350.333" y="-60" name="b.minus-60"/>
   <outline>
     <component base="O"/>
-    <component base="hookabovecomb" xyScale="-6.29067e-18" yScale="1" xOffset="508.841" yOffset="221.333"/>
+    <component base="hookabovecomb" xyScale="-6.29067e-18" yScale="1" xOffset="509.174" yOffset="221.333"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>O+hookabovecomb</string>
   <key>public.markColor</key>

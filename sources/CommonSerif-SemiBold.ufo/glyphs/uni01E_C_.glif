@@ -2,16 +2,20 @@
 <glyph name="uni01EC" format="2">
   <advance width="721"/>
   <unicode hex="01EC"/>
-  <anchor x="349.333" y="-60" name="b.minus-60"/>
-  <anchor x="353.333" y="846.667" name="top"/>
+  <anchor x="350.333" y="-60" name="b.minus-60"/>
+  <anchor x="354.333" y="846.667" name="top"/>
   <outline>
     <component base="uni01EA"/>
-    <component base="uni0304" xOffset="553" yOffset="240"/>
+    <component base="uni0304" xOffset="554" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>uni01EA+uni0304</string>
   <key>public.markColor</key>

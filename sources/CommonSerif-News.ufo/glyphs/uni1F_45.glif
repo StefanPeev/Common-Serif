@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F45" format="2">
-  <advance width="512"/>
+  <advance width="508"/>
   <unicode hex="1F45"/>
-  <anchor x="241.667" y="510" name="t.uni0302"/>
-  <anchor x="342.667" y="10" name="b.ogonek"/>
-  <anchor x="254" y="-60" name="b.minus-60"/>
+  <anchor x="239.667" y="510" name="t.uni0302"/>
+  <anchor x="340.667" y="10" name="b.ogonek"/>
+  <anchor x="252" y="-60" name="b.minus-60"/>
+  <anchor x="252" y="-60" name="ypogegrammeni"/>
   <outline>
     <component base="omicron"/>
-    <component base="uni1FDE" xScale="1" xOffset="93.417"/>
+    <component base="uni1FDE" xScale="1" xOffset="82.667"/>
   </outline>
   <lib>
   <dict>
@@ -16,7 +17,7 @@
   <key>com.fontlab.recipe</key>
   <string>omicron+uni1FDE</string>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

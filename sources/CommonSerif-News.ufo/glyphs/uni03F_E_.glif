@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03FE" format="2">
-  <advance width="602"/>
+  <advance width="600"/>
   <unicode hex="03FE"/>
   <outline>
     <component base="uni03F9"/>
     <contour>
-      <point x="355" y="267" type="curve" smooth="yes"/>
-      <point x="388.333" y="267"/>
-      <point x="415" y="294.167"/>
-      <point x="415" y="326" type="curve" smooth="yes"/>
-      <point x="415" y="358"/>
-      <point x="387" y="387"/>
-      <point x="355" y="387" type="curve" smooth="yes"/>
-      <point x="322" y="387"/>
-      <point x="295" y="358"/>
-      <point x="295" y="326" type="curve" smooth="yes"/>
-      <point x="295" y="292.667"/>
-      <point x="321.333" y="267"/>
+      <point x="353.5" y="267" type="curve" smooth="yes"/>
+      <point x="386.833" y="267"/>
+      <point x="413.5" y="294.167"/>
+      <point x="413.5" y="326" type="curve" smooth="yes"/>
+      <point x="413.5" y="358"/>
+      <point x="385.5" y="387"/>
+      <point x="353.5" y="387" type="curve" smooth="yes"/>
+      <point x="320.5" y="387"/>
+      <point x="293.5" y="358"/>
+      <point x="293.5" y="326" type="curve" smooth="yes"/>
+      <point x="293.5" y="292.667"/>
+      <point x="319.833" y="267"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w602m355,267c388.33,267 415,294.17 415,326c415,358 387,387 355,387c322,387 295,358 295,326c295,292.67 321.33,267 355,267</string>
+    <string>c975affe2ba612037f9707d7d6f01b1a5aed41b7c8a954f8beac6c87fec433ee6bc84830af67a78ce58d050c61a006c896d20381446cc6b9b987cb4ade63c629</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 267 120</string>
-          <string>vstem 295 120</string>
+          <string>vstem 293.5 120</string>
         </array>
       </dict>
     </array>

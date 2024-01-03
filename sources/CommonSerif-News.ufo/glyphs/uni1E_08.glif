@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E08" format="2">
-  <advance width="656"/>
+  <advance width="655"/>
   <unicode hex="1E08"/>
-  <anchor x="342" y="-60" name="b.minus-60"/>
+  <anchor x="341.333" y="-60" name="b.minus-60"/>
   <outline>
     <component base="Ccedilla"/>
-    <component base="acute.cap" xScale="1" xOffset="586.833"/>
+    <component base="acute.cap" xScale="1" xOffset="586.167"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>Ccedilla+~acute.case</string>
   <key>public.markColor</key>

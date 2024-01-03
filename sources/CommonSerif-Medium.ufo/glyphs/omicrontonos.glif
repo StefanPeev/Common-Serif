@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="520"/>
+  <advance width="514"/>
   <unicode hex="03CC"/>
-  <anchor x="245.333" y="510" name="t.uni0302"/>
-  <anchor x="346.333" y="10" name="b.ogonek"/>
-  <anchor x="257" y="-60" name="b.minus-60"/>
+  <anchor x="242.333" y="510" name="t.uni0302"/>
+  <anchor x="343.333" y="10" name="b.ogonek"/>
+  <anchor x="254" y="-60" name="b.minus-60"/>
+  <anchor x="254" y="-60" name="ypogegrammeni"/>
   <outline>
     <component base="omicron"/>
-    <component base="uni1FFD" xScale="1" xOffset="155.167"/>
+    <component base="uni1FFD" xScale="1" xOffset="170.667" yOffset="10"/>
   </outline>
   <lib>
   <dict>

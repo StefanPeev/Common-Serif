@@ -1,54 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFE" format="2">
-  <advance width="168"/>
+  <advance width="209"/>
   <unicode hex="1FFE"/>
-  <anchor x="94" y="510" name="_t.gr"/>
+  <anchor x="166.189" y="641" name="_apostrophe"/>
+  <anchor x="115" y="500" name="_t.uni0302"/>
+  <anchor x="115" y="500" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="89" y="689" type="curve" smooth="yes"/>
-      <point x="51" y="689"/>
-      <point x="29" y="651"/>
-      <point x="29" y="616" type="curve" smooth="yes"/>
-      <point x="29" y="590"/>
-      <point x="44" y="514"/>
-      <point x="135" y="510" type="curve"/>
-      <point x="137.476" y="514.324"/>
-      <point x="138.925" y="520.64"/>
-      <point x="139" y="527" type="curve"/>
-      <point x="97" y="535"/>
-      <point x="79" y="573"/>
-      <point x="79" y="595" type="curve" smooth="yes"/>
-      <point x="79" y="606"/>
-      <point x="83" y="613"/>
-      <point x="90" y="613" type="curve" smooth="yes"/>
-      <point x="131" y="613"/>
-      <point x="136" y="638"/>
-      <point x="136" y="655" type="curve" smooth="yes"/>
-      <point x="136" y="671"/>
-      <point x="125" y="689"/>
-    </contour>
+    <component base="uni0313" xScale="-1" xOffset="21.1888"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6c22edf913f2ac8d4bc6ee126b4eb9a6ebbbf64ef78881c5a54aba6481e451bce73354bdf3eb795dd8d3b05fff3ef59ca509ae9cd29f21752b8eff0b84a8838f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 510 179</string>
-          <string>hstem 613 76</string>
-          <string>vstem 29 50</string>
-          <string>vstem 29 107</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni1FBD</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni1FBD</string>
+  <key>com.fontlab.recipe</key>
+  <string>=uni0313@~,500</string>
   </dict>
   </lib>
 </glyph>

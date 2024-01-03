@@ -1,121 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FBC" format="2">
-  <advance width="919"/>
+  <advance width="703"/>
   <unicode hex="1FBC"/>
+  <anchor x="354" y="740" name="t.uni0302"/>
+  <anchor x="361.833" y="615" name="t.ring"/>
+  <anchor x="352.833" y="-60" name="b.minus-60"/>
+  <anchor x="603.667" y="10" name="b.ogonek"/>
   <outline>
-    <contour>
-      <point x="156.667" y="79" type="curve" smooth="yes"/>
-      <point x="211.334" y="223" type="line" smooth="yes"/>
-      <point x="216.334" y="236"/>
-      <point x="222.334" y="240"/>
-      <point x="246.334" y="240" type="curve" smooth="yes"/>
-      <point x="453.834" y="240" type="line"/>
-      <point x="511.5" y="72" type="line" smooth="yes"/>
-      <point x="521.834" y="42.667"/>
-      <point x="496.167" y="35.833"/>
-      <point x="459.834" y="33" type="curve"/>
-      <point x="453" y="32.167"/>
-      <point x="445.167" y="32"/>
-      <point x="437.5" y="31.167" type="curve"/>
-      <point x="431.5" y="25.167"/>
-      <point x="431.5" y="4"/>
-      <point x="437.5" y="-2" type="curve"/>
-      <point x="474.5" y="-1"/>
-      <point x="536.167" y="0"/>
-      <point x="575.167" y="0" type="curve" smooth="yes"/>
-      <point x="616.167" y="0"/>
-      <point x="657.167" y="-1"/>
-      <point x="692.5" y="-2" type="curve"/>
-      <point x="698.5" y="4"/>
-      <point x="698.5" y="25.167"/>
-      <point x="692.5" y="31.167" type="curve"/>
-      <point x="653.5" y="35.167"/>
-      <point x="619.933" y="37.595"/>
-      <point x="602.5" y="86" type="curve" smooth="yes"/>
-      <point x="396.5" y="658" type="line"/>
-      <point x="381.5" y="649"/>
-      <point x="349" y="634"/>
-      <point x="332.334" y="634" type="curve"/>
-      <point x="107" y="102" type="line" smooth="yes"/>
-      <point x="81" y="40"/>
-      <point x="51" y="34.167"/>
-      <point x="7" y="31.167" type="curve"/>
-      <point x="1" y="25.167"/>
-      <point x="1" y="4"/>
-      <point x="7" y="-2" type="curve"/>
-      <point x="34.834" y="-1"/>
-      <point x="65.334" y="0"/>
-      <point x="96.834" y="0" type="curve" smooth="yes"/>
-      <point x="137.834" y="0"/>
-      <point x="188.667" y="-1"/>
-      <point x="225.667" y="-2" type="curve"/>
-      <point x="231.667" y="4"/>
-      <point x="231.667" y="25.167"/>
-      <point x="225.667" y="31.167" type="curve"/>
-      <point x="187.667" y="34.167"/>
-      <point x="140.667" y="38"/>
-    </contour>
-    <contour>
-      <point x="737.667" y="303" type="line"/>
-      <point x="737.667" y="90.667" type="line" smooth="yes"/>
-      <point x="737.667" y="85"/>
-      <point x="737.834" y="78.667"/>
-      <point x="738" y="73.333" type="curve" smooth="yes"/>
-      <point x="739.167" y="21"/>
-      <point x="767.167" y="-4.167"/>
-      <point x="804.667" y="-9.167" type="curve"/>
-      <point x="809.5" y="-10"/>
-      <point x="814.5" y="-10"/>
-      <point x="820.167" y="-10" type="curve"/>
-      <point x="863" y="-9.5"/>
-      <point x="897.5" y="5.5"/>
-      <point x="913.5" y="74.833" type="curve"/>
-      <point x="906.167" y="78.5"/>
-      <point x="897.667" y="79.667"/>
-      <point x="889" y="81.5" type="curve"/>
-      <point x="882.5" y="47.833"/>
-      <point x="872.834" y="33"/>
-      <point x="848.667" y="33" type="curve" smooth="yes"/>
-      <point x="827.667" y="33"/>
-      <point x="818.667" y="53"/>
-      <point x="818.667" y="115" type="curve" smooth="yes"/>
-      <point x="818.667" y="315" type="line"/>
-      <point x="807.667" y="332" type="line"/>
-    </contour>
-    <contour>
-      <point x="264.667" y="283" type="line" smooth="yes"/>
-      <point x="242.667" y="283"/>
-      <point x="235.667" y="286"/>
-      <point x="239.667" y="296" type="curve" smooth="yes"/>
-      <point x="339.334" y="549.167" type="line"/>
-      <point x="345.5" y="549.167" type="line"/>
-      <point x="437.5" y="283" type="line"/>
-    </contour>
+    <component base="Alpha"/>
+    <component base="uni0345" xOffset="511.667"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9ad5e0a9eb0c2aa7bbe78c449977e87ba3c769ad9713e3d7c5d7b42288a20ee52d4ea634c7cdb6cfef3c559bce85c15ad93f7a98c820563911920c5f5c4343db</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 43</string>
-          <string>hstem -2 33.17</string>
-          <string>hstem -2 35</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 240 43</string>
-          <string>hstem 658 -20</string>
-          <string>vstem 737.67 81</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Alpha+uni0345</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

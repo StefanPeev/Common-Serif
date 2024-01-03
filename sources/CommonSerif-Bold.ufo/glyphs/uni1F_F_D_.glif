@@ -1,51 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFD" format="2">
-  <advance width="199"/>
+  <advance width="198"/>
   <unicode hex="1FFD"/>
-  <anchor x="88" y="510" name="_t.gr"/>
+  <anchor x="83" y="500" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="116" y="693" type="curve" smooth="yes"/>
-      <point x="105" y="693"/>
-      <point x="91.863" y="687.049"/>
-      <point x="88" y="676" type="curve" smooth="yes"/>
-      <point x="38" y="533" type="line" smooth="yes"/>
-      <point x="36.956" y="530.015"/>
-      <point x="37" y="525"/>
-      <point x="37" y="524" type="curve"/>
-      <point x="37" y="517"/>
-      <point x="59" y="510"/>
-      <point x="67" y="510" type="curve" smooth="yes"/>
-      <point x="71" y="510"/>
-      <point x="74.756" y="514.195"/>
-      <point x="78" y="518" type="curve" smooth="yes"/>
-      <point x="182" y="640" type="line" smooth="yes"/>
-      <point x="186.154" y="644.873"/>
-      <point x="187" y="650"/>
-      <point x="187" y="655" type="curve" smooth="yes"/>
-      <point x="187" y="675"/>
-      <point x="136" y="693"/>
-    </contour>
+    <component base="tonos" xOffset="0.5"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5189a63a2e2a47837774b327a73a7b9fd83fb5450ecfe2fcd14dd75ea7aa4220550db4e455aa5b0b60b2c2f5ad7c807870d64bda39b489ca1a05ec6a894e78ac</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 531 -21</string>
-          <string>hstem 693 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
   </dict>
   </lib>
 </glyph>

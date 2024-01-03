@@ -3,54 +3,7 @@
   <advance width="528"/>
   <unicode hex="0141"/>
   <outline>
-    <contour>
-      <point x="19" y="-2" type="curve"/>
-      <point x="58" y="-1"/>
-      <point x="115" y="0"/>
-      <point x="149" y="0" type="curve" smooth="yes"/>
-      <point x="362" y="0" type="line" smooth="yes"/>
-      <point x="389" y="0"/>
-      <point x="472" y="-2"/>
-      <point x="481" y="-2" type="curve"/>
-      <point x="491" y="48"/>
-      <point x="501" y="113"/>
-      <point x="507" y="165" type="curve"/>
-      <point x="497" y="170"/>
-      <point x="486" y="172"/>
-      <point x="474" y="170" type="curve"/>
-      <point x="454" y="98"/>
-      <point x="417" y="39"/>
-      <point x="311" y="39" type="curve" smooth="yes"/>
-      <point x="248" y="39" type="line" smooth="yes"/>
-      <point x="209" y="39"/>
-      <point x="191" y="58"/>
-      <point x="191" y="109" type="curve" smooth="yes"/>
-      <point x="191" y="523" type="line" smooth="yes"/>
-      <point x="191" y="606"/>
-      <point x="208" y="611"/>
-      <point x="278" y="614" type="curve"/>
-      <point x="284" y="620"/>
-      <point x="284" y="641"/>
-      <point x="278" y="647" type="curve"/>
-      <point x="233" y="646"/>
-      <point x="186" y="645"/>
-      <point x="148" y="645" type="curve" smooth="yes"/>
-      <point x="112" y="645"/>
-      <point x="65" y="646"/>
-      <point x="19" y="647" type="curve"/>
-      <point x="13" y="641"/>
-      <point x="13" y="620"/>
-      <point x="19" y="614" type="curve"/>
-      <point x="89" y="611"/>
-      <point x="106" y="606"/>
-      <point x="106" y="523" type="curve" smooth="yes"/>
-      <point x="106" y="122" type="line" smooth="yes"/>
-      <point x="106" y="39"/>
-      <point x="89" y="34"/>
-      <point x="19" y="31" type="curve"/>
-      <point x="13" y="25"/>
-      <point x="13" y="4"/>
-    </contour>
+    <component base="L"/>
     <contour>
       <point x="178.006" y="332.507" type="line"/>
       <point x="328" y="419" type="line"/>
@@ -68,28 +21,4 @@
       <point x="13.705" y="249.27"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c42bdf2623370555a7352f808b902eaa71a803ae495bf6762be3135bc8cda615870e6b883997135b35a94d405b27a596ae4032fbe00ba73e2907630e49757f1b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -2 33</string>
-          <string>hstem 0 39</string>
-          <string>hstem 614 33</string>
-          <string>hstem 645 -20</string>
-          <string>vstem 106 85</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

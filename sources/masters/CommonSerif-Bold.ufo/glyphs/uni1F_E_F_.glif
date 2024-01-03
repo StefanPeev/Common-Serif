@@ -1,44 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FEF" format="2">
-  <advance width="239"/>
+  <advance width="198"/>
   <unicode hex="1FEF"/>
-  <anchor x="148" y="510" name="_t.gr"/>
+  <anchor x="132" y="500" name="_t.gr"/>
   <outline>
     <contour>
-      <point x="53" y="649" type="curve" smooth="yes"/>
-      <point x="53" y="644"/>
-      <point x="54.827" y="639.864"/>
-      <point x="58" y="636" type="curve" smooth="yes"/>
-      <point x="159" y="513" type="line" smooth="yes"/>
-      <point x="160.795" y="510.814"/>
-      <point x="164" y="510"/>
-      <point x="167" y="510" type="curve" smooth="yes"/>
-      <point x="173.235" y="510"/>
-      <point x="181" y="515.184"/>
-      <point x="181" y="522" type="curve"/>
-      <point x="118" y="671" type="line" smooth="yes"/>
-      <point x="113.295" y="682.079"/>
-      <point x="102.453" y="687"/>
-      <point x="91" y="687" type="curve" smooth="yes"/>
-      <point x="71.3715" y="687"/>
-      <point x="53" y="668.778"/>
+      <point x="152" y="500" type="curve" smooth="yes"/>
+      <point x="159" y="500"/>
+      <point x="168" y="506"/>
+      <point x="168" y="513" type="curve" smooth="yes"/>
+      <point x="168" y="519"/>
+      <point x="166" y="525"/>
+      <point x="164" y="531" type="curve"/>
+      <point x="111" y="674" type="line"/>
+      <point x="106" y="686"/>
+      <point x="87" y="690"/>
+      <point x="72" y="690" type="curve" smooth="yes"/>
+      <point x="47" y="690"/>
+      <point x="30" y="678"/>
+      <point x="30" y="658" type="curve" smooth="yes"/>
+      <point x="30" y="649"/>
+      <point x="32" y="641"/>
+      <point x="37" y="635" type="curve"/>
+      <point x="131" y="510" type="line" smooth="yes"/>
+      <point x="136" y="503"/>
+      <point x="142" y="500"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>65aa92f983bde568511f325b423440d8e04f5dbe733806c40db9c16b2cc290240e128d7f4189304575661750714104c8a6d5ac3866350cb07b4cf5ea926f64e4</string>
+    <string>82b257e0af4e1057d04c2717bb3903523ef2518f041fa8d53e76bcf721286554465331eea17d75ddac4da76f0655f6f2f3b2828843be7728b008afc6c21824df</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 531 -21</string>
-          <string>hstem 687 -20</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 690 -20</string>
         </array>
       </dict>
     </array>

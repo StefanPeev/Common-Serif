@@ -1,65 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0315" format="2">
   <unicode hex="0315"/>
-  <anchor x="-116" y="500" name="_t.uni0302"/>
+  <anchor x="-137.345" y="641" name="_apostrophe"/>
   <outline>
-    <contour>
-      <point x="-95.7173" y="687" type="curve" smooth="yes"/>
-      <point x="-118.717" y="687"/>
-      <point x="-146.717" y="666"/>
-      <point x="-146.717" y="649" type="curve"/>
-      <point x="-146.717" y="649"/>
-      <point x="-146.717" y="649"/>
-      <point x="-146.717" y="649" type="curve"/>
-      <point x="-146.717" y="624"/>
-      <point x="-135.655" y="609.265"/>
-      <point x="-113.717" y="604" type="curve" smooth="yes"/>
-      <point x="-110.642" y="603.262"/>
-      <point x="-105.639" y="603.221"/>
-      <point x="-99.7173" y="601" type="curve" smooth="yes"/>
-      <point x="-97.6236" y="600.215"/>
-      <point x="-95.0189" y="598.644"/>
-      <point x="-92.7173" y="597" type="curve" smooth="yes"/>
-      <point x="-87.9724" y="593.611"/>
-      <point x="-84.7172" y="589"/>
-      <point x="-84.7172" y="581" type="curve" smooth="yes"/>
-      <point x="-84.7172" y="563"/>
-      <point x="-109.717" y="539"/>
-      <point x="-149.717" y="528" type="curve"/>
-      <point x="-153.717" y="516"/>
-      <point x="-153.717" y="506"/>
-      <point x="-143.717" y="500" type="curve"/>
-      <point x="-106.717" y="507"/>
-      <point x="-73.7172" y="522"/>
-      <point x="-51.7172" y="543" type="curve"/>
-      <point x="-34.7172" y="561"/>
-      <point x="-23.7172" y="583"/>
-      <point x="-23.7172" y="609" type="curve" smooth="yes"/>
-      <point x="-23.7172" y="672"/>
-      <point x="-63.7172" y="687"/>
-    </contour>
+    <component base="uni0313" xOffset="7.65505"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9435d02a36e23049697cf7d6aeff88463ef306bf82598e7eab150d9ffa398f81060dfd46b08e5fba00efdbbd990ed15e350436a267608ec8f5723d9a9680c847</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 521 -21</string>
-          <string>hstem 687 -20</string>
-          <string>vstem -146.72 123.</string>
-          <string>vstem -84.72 61.</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=uni0313@-140,500</string>
   </dict>
   </lib>
 </glyph>

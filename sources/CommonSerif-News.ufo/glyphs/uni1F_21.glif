@@ -2,9 +2,11 @@
 <glyph name="uni1F21" format="2">
   <advance width="544"/>
   <unicode hex="1F21"/>
+  <anchor x="276.833" y="510" name="t.gr"/>
+  <anchor x="149.5" y="-60" name="ypogegrammeni"/>
   <outline>
     <component base="eta"/>
-    <component base="uni1FFE" xScale="1" xOffset="187.833"/>
+    <component base="uni1FFE" xOffset="164.5" yOffset="10"/>
   </outline>
   <lib>
   <dict>
@@ -13,7 +15,7 @@
   <key>com.fontlab.recipe</key>
   <string>eta+uni1FFE</string>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

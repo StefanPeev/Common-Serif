@@ -1,47 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFD" format="2">
-  <advance width="199"/>
+  <advance width="204"/>
   <unicode hex="1FFD"/>
-  <anchor x="65" y="510" name="_t.gr"/>
+  <anchor x="66" y="500" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="121" y="693" type="curve" smooth="yes"/>
-      <point x="108" y="693"/>
-      <point x="97" y="687"/>
-      <point x="93" y="676" type="curve" smooth="yes"/>
-      <point x="41" y="533" type="line" smooth="yes"/>
-      <point x="39.9193" y="530.028"/>
-      <point x="39" y="526"/>
-      <point x="39" y="523" type="curve" smooth="yes"/>
-      <point x="39" y="516"/>
-      <point x="45" y="510"/>
-      <point x="53" y="510" type="curve" smooth="yes"/>
-      <point x="57" y="510"/>
-      <point x="61.9895" y="514.008"/>
-      <point x="65" y="518" type="curve" smooth="yes"/>
-      <point x="157" y="640" type="line" smooth="yes"/>
-      <point x="160.855" y="645.112"/>
-      <point x="163" y="653"/>
-      <point x="163" y="658" type="curve" smooth="yes"/>
-      <point x="163" y="678"/>
-      <point x="141" y="693"/>
-    </contour>
+    <component base="tonos" xOffset="-0.5"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c8c7b416569c51eb26811a6057c11cb62f1294ffc7a1ba1973fc7e90636ddd7342a5e4dbe632dce2aecb2903a133e277c3fa8ea47063db539b6d8cca0023757e</string>
+    <string>w204</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 531 -21</string>
-          <string>hstem 693 -20</string>
+          <string>hstem 521 -21</string>
+          <string>hstem 683 -20</string>
         </array>
       </dict>
     </array>

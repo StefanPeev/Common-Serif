@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E27" format="2">
-  <advance width="570"/>
+  <advance width="567"/>
   <unicode hex="1E27"/>
-  <anchor x="336" y="-60" name="b.minus-60"/>
-  <anchor x="292" y="3.333" name="b.cedilla"/>
+  <anchor x="283" y="-60" name="b.minus-60"/>
+  <anchor x="142.333" y="3.333" name="b.cedilla"/>
   <outline>
     <component base="h"/>
-    <component base="uni0308" xScale="1" xOffset="514.333" yOffset="240"/>
+    <component base="uni0308" xOffset="511.333" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=h</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=h</string>
   <key>com.fontlab.recipe</key>
   <string>h+uni0308</string>
   <key>public.markColor</key>

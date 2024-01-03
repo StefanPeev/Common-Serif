@@ -2,9 +2,10 @@
 <glyph name="uni041D" format="2">
   <advance width="785"/>
   <unicode hex="041D"/>
-  <anchor x="356" y="740" name="t.uni0302"/>
+  <anchor x="392.667" y="740" name="t.uni0302"/>
   <anchor x="396" y="-60" name="b.minus-60"/>
   <anchor x="173.667" y="10" name="b.cedilla"/>
+  <anchor x="396.667" y="-60" name="ypogegrammeni"/>
   <outline>
     <component base="H"/>
   </outline>
@@ -12,6 +13,10 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>com.fontlab.recipe</key>
   <string>H</string>
   <key>public.markColor</key>

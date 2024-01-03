@@ -1,74 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCD" format="2">
-  <advance width="338"/>
+  <advance width="344"/>
   <unicode hex="1FCD"/>
-  <anchor x="163" y="510" name="_t.gr"/>
+  <anchor x="171" y="510" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="82" y="689" type="curve" smooth="yes"/>
-      <point x="46" y="689"/>
-      <point x="35" y="671"/>
-      <point x="35" y="655" type="curve" smooth="yes"/>
-      <point x="35" y="639"/>
-      <point x="40" y="614"/>
-      <point x="81" y="614" type="curve" smooth="yes"/>
-      <point x="88" y="614"/>
-      <point x="92" y="606"/>
-      <point x="92" y="596" type="curve" smooth="yes"/>
-      <point x="92" y="573"/>
-      <point x="74" y="536"/>
-      <point x="32" y="527" type="curve"/>
-      <point x="32.207" y="520.138"/>
-      <point x="33.309" y="515.111"/>
-      <point x="36" y="510" type="curve"/>
-      <point x="127" y="515"/>
-      <point x="142" y="590"/>
-      <point x="142" y="616" type="curve" smooth="yes"/>
-      <point x="142" y="652"/>
-      <point x="120" y="689"/>
-    </contour>
-    <contour>
-      <point x="195" y="650" type="curve" smooth="yes"/>
-      <point x="277" y="515" type="line" smooth="yes"/>
-      <point x="278.872" y="511.918"/>
-      <point x="281.053" y="510"/>
-      <point x="285" y="510" type="curve" smooth="yes"/>
-      <point x="295" y="510"/>
-      <point x="300" y="517"/>
-      <point x="300" y="522" type="curve"/>
-      <point x="260" y="678" type="line" smooth="yes"/>
-      <point x="257.168" y="689.044"/>
-      <point x="247" y="696"/>
-      <point x="229" y="696" type="curve" smooth="yes"/>
-      <point x="206" y="696"/>
-      <point x="192" y="679"/>
-      <point x="192" y="663" type="curve" smooth="yes"/>
-      <point x="192" y="659"/>
-      <point x="192.678" y="653.822"/>
-    </contour>
+    <component base="uni02BC" xOffset="7.5"/>
+    <component base="uni1FEF" xOffset="146"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>42046aa7936e59556b3ed20fe38f19ab47b4844247808a6fd2802173396874712086fda8238a8349d6f959aefba79476a8d6faec92fa5133e403cfd17a669341</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 510 179</string>
-          <string>hstem 614 75</string>
-          <string>hstem 696 -20</string>
-          <string>vstem 35 107</string>
-          <string>vstem 92 50</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=30</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=30</string>
   </dict>
   </lib>
 </glyph>

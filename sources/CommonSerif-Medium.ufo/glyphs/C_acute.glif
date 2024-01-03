@@ -2,16 +2,18 @@
 <glyph name="Cacute" format="2">
   <advance width="666"/>
   <unicode hex="0106"/>
-  <anchor x="344" y="-60" name="b.minus-60"/>
-  <anchor x="356" y="0" name="b.cedilla"/>
+  <anchor x="343.667" y="-60" name="b.minus-60"/>
+  <anchor x="355.667" y="0" name="b.cedilla"/>
   <outline>
     <component base="C"/>
-    <component base="acute.cap" xScale="1" xOffset="588.667"/>
+    <component base="acute.cap" xScale="1" xOffset="588.333"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>C+acute.cap</string>
   <key>public.markColor</key>

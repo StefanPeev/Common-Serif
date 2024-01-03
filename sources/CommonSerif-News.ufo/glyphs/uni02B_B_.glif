@@ -1,51 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BB" format="2">
-  <advance width="168"/>
+  <advance width="173"/>
   <unicode hex="02BB"/>
+  <anchor x="146.367" y="541.802" name="_apostrophe"/>
   <outline>
-    <contour>
-      <point x="89" y="471" type="curve" smooth="yes"/>
-      <point x="120" y="471"/>
-      <point x="133.5" y="489"/>
-      <point x="133.5" y="505" type="curve" smooth="yes"/>
-      <point x="133.5" y="521"/>
-      <point x="128.5" y="543.5"/>
-      <point x="87.5" y="543.5" type="curve" smooth="yes"/>
-      <point x="79.667" y="543.5"/>
-      <point x="74" y="551.5"/>
-      <point x="74" y="564" type="curve" smooth="yes"/>
-      <point x="74" y="587"/>
-      <point x="94.5" y="624"/>
-      <point x="136.5" y="633" type="curve"/>
-      <point x="131.667" y="650" type="line"/>
-      <point x="58.167" y="642.5"/>
-      <point x="29" y="578.333"/>
-      <point x="29" y="544" type="curve" smooth="yes"/>
-      <point x="29" y="508"/>
-      <point x="51" y="471"/>
-    </contour>
+    <component base="uni0312" xOffset="165.5"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5259a878fda41ef0fda4d533b933ece3311e2aaf9ec4b4eae42a917975d72627bff5ec65acc5dc1c18434196d73c3dc87ace9951e9fc730cb2b77c99b57e4623</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 471 72.5</string>
-          <string>hstem 471 179</string>
-          <string>vstem 29 45</string>
-          <string>vstem 29 104.5</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>=uni0312</string>
   </dict>
   </lib>
 </glyph>

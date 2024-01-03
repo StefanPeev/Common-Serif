@@ -4,16 +4,25 @@
   <unicode hex="00AC"/>
   <outline>
     <contour>
+      <point x="187.333" y="344.667" type="line"/>
+      <point x="187.333" y="389.667" type="line"/>
+      <point x="45" y="389.667" type="line" smooth="yes"/>
+      <point x="36" y="389.667"/>
+      <point x="22" y="378"/>
+      <point x="22" y="360.667" type="curve" smooth="yes"/>
+      <point x="22" y="353.334"/>
+      <point x="25" y="344.667"/>
+      <point x="32.333" y="344.667" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="475" y="121.667" type="line"/>
-      <point x="490.652" y="118.667"/>
-      <point x="528.676" y="119.667"/>
+      <point x="496.155" y="114.667"/>
+      <point x="520.689" y="114.667"/>
       <point x="542.333" y="121.667" type="curve"/>
       <point x="542.333" y="389.667" type="line"/>
-      <point x="29.333" y="389.667" type="line"/>
-      <point x="27" y="375.964"/>
-      <point x="28" y="348.759"/>
-      <point x="29.333" y="339" type="curve"/>
-      <point x="475" y="339" type="line"/>
+      <point x="122.667" y="389.667" type="line"/>
+      <point x="122.667" y="344.667" type="line"/>
+      <point x="475" y="344.667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,13 +32,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w573m475,121.67c490.65,118.67 528.68,119.67 542.33,121.67l542.33,389.67l29.33,389.67c27,375.96 28,348.76 29.33,339l475,339</string>
+    <string>89d0db95cb3455ee4d0391dd74c60aad125ad4afa0c65d15e25fbffd95591d629fe7e3d50f89ee149575cf9b56e6bb396a37df233d21abc27349bd25d72eac11</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 339 50.67</string>
+          <string>hstem 344.67 45</string>
           <string>vstem 475 67.33</string>
         </array>
       </dict>

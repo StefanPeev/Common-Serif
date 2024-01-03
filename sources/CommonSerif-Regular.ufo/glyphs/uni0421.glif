@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0421" format="2">
-  <advance width="646"/>
+  <advance width="645"/>
   <unicode hex="0421"/>
-  <anchor x="340" y="740" name="t.uni0302"/>
-  <anchor x="340" y="-60" name="b.minus-60"/>
-  <anchor x="356" y="0" name="b.cedilla"/>
+  <anchor x="339" y="740" name="t.uni0302"/>
+  <anchor x="339" y="-60" name="b.minus-60"/>
+  <anchor x="355" y="0" name="b.cedilla"/>
   <outline>
     <component base="C"/>
   </outline>
@@ -12,6 +12,8 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>C</string>
   <key>public.markColor</key>

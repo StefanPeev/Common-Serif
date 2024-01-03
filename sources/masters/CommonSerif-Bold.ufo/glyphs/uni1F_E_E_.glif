@@ -1,68 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FEE" format="2">
-  <advance width="368"/>
+  <advance width="376"/>
   <unicode hex="1FEE"/>
-  <anchor x="196" y="510" name="_t.gr"/>
+  <anchor x="200" y="510" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="259" y="777" type="curve" smooth="yes"/>
-      <point x="248" y="777"/>
-      <point x="234.863" y="771.049"/>
-      <point x="231" y="760" type="curve" smooth="yes"/>
-      <point x="181" y="617" type="line" smooth="yes"/>
-      <point x="179.956" y="614.015"/>
-      <point x="180" y="609"/>
-      <point x="180" y="608" type="curve" smooth="yes"/>
-      <point x="180" y="601"/>
-      <point x="202" y="594"/>
-      <point x="210" y="594" type="curve" smooth="yes"/>
-      <point x="214" y="594"/>
-      <point x="217.756" y="598.195"/>
-      <point x="221" y="602" type="curve" smooth="yes"/>
-      <point x="325" y="724" type="line" smooth="yes"/>
-      <point x="329.154" y="728.873"/>
-      <point x="330" y="734"/>
-      <point x="330" y="739" type="curve" smooth="yes"/>
-      <point x="330" y="759"/>
-      <point x="279" y="777"/>
-    </contour>
-    <contour>
-      <point x="57" y="564" type="curve" smooth="yes"/>
-      <point x="57" y="534"/>
-      <point x="82" y="510"/>
-      <point x="112" y="510" type="curve" smooth="yes"/>
-      <point x="143" y="510"/>
-      <point x="167" y="534"/>
-      <point x="167" y="564" type="curve" smooth="yes"/>
-      <point x="167" y="595"/>
-      <point x="143" y="619"/>
-      <point x="112" y="619" type="curve" smooth="yes"/>
-      <point x="82" y="619"/>
-      <point x="57" y="595"/>
-    </contour>
-    <contour>
-      <point x="243" y="564" type="curve" smooth="yes"/>
-      <point x="243" y="534"/>
-      <point x="267" y="510"/>
-      <point x="298" y="510" type="curve" smooth="yes"/>
-      <point x="328" y="510"/>
-      <point x="353" y="534"/>
-      <point x="353" y="564" type="curve" smooth="yes"/>
-      <point x="353" y="595"/>
-      <point x="328" y="619"/>
-      <point x="298" y="619" type="curve" smooth="yes"/>
-      <point x="267" y="619"/>
-      <point x="243" y="595"/>
-    </contour>
+    <component base="dieresistonos" xOffset="-17"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>047bd9986a5fc0b76449f7b7249669096c58dae85bda6e21a4eeb270e37df8e9f6fb0e5c44cff912cc63801576ff616390c715391bb5b2a993859bdfc6282a0b</string>
+    <string>w376</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -70,8 +25,8 @@
         <array>
           <string>hstem 510 109</string>
           <string>hstem 777 -20</string>
-          <string>vstem 57 110</string>
-          <string>vstem 243 110</string>
+          <string>vstem 40 110</string>
+          <string>vstem 226 110</string>
         </array>
       </dict>
     </array>

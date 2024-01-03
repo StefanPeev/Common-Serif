@@ -4,12 +4,14 @@
   <unicode hex="040C"/>
   <outline>
     <component base="uni041A"/>
-    <component base="acutecomb" xScale="1" xOffset="580.667" yOffset="240"/>
+    <component base="acutecomb" xOffset="580.5" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
   <key>com.fontlab.recipe</key>
   <string>uni041A+acutecomb</string>
   <key>public.markColor</key>

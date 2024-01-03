@@ -8,29 +8,8 @@
   <anchor x="167" y="-3" name="m.uni0327_5"/>
   <outline>
     <contour>
-      <point x="80" y="-2" type="curve"/>
-      <point x="125" y="-1"/>
-      <point x="174" y="0"/>
-      <point x="210" y="0" type="curve" smooth="yes"/>
-      <point x="246" y="0"/>
-      <point x="294" y="-1"/>
-      <point x="339" y="-2" type="curve"/>
-      <point x="345" y="4"/>
-      <point x="345" y="25"/>
-      <point x="339" y="31" type="curve"/>
-      <point x="269" y="34"/>
-      <point x="252" y="37"/>
-      <point x="252" y="120" type="curve"/>
-      <point x="167" y="120" type="line"/>
-      <point x="167" y="37"/>
-      <point x="150" y="34"/>
-      <point x="80" y="31" type="curve"/>
-      <point x="74" y="25"/>
-      <point x="74" y="4"/>
-    </contour>
-    <contour>
-      <point x="167" y="120" type="line"/>
-      <point x="252" y="120" type="line"/>
+      <point x="167" y="110" type="line"/>
+      <point x="252" y="110" type="line"/>
       <point x="252" y="240" type="line" smooth="yes"/>
       <point x="252" y="397"/>
       <point x="394" y="373"/>
@@ -76,6 +55,32 @@
       <point x="50" y="251"/>
       <point x="46.9377" y="238"/>
     </contour>
+    <contour>
+      <point x="95" y="-2" type="curve"/>
+      <point x="128" y="-1"/>
+      <point x="172" y="0"/>
+      <point x="212" y="0" type="curve"/>
+      <point x="212" y="122" type="line"/>
+      <point x="167" y="122" type="line"/>
+      <point x="167" y="40"/>
+      <point x="156" y="35"/>
+      <point x="95" y="31" type="curve"/>
+      <point x="89" y="25"/>
+      <point x="89" y="4"/>
+    </contour>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="247" y="0"/>
+      <point x="291" y="-1"/>
+      <point x="324" y="-2" type="curve"/>
+      <point x="330" y="4"/>
+      <point x="330" y="25"/>
+      <point x="324" y="31" type="curve"/>
+      <point x="263" y="35"/>
+      <point x="252" y="40"/>
+      <point x="252" y="122" type="curve"/>
+      <point x="207" y="122" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -84,7 +89,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4827082d481f08b103433b6d403f84b64b2b8805fbdbb7d6d63f30f9c62f3fa91d199fed5e32da3c8b90c00d0a01ee88c92400458826c9c742ad9aeff5b25a9a</string>
+    <string>a9b4c108a1de74a2b2c1d18b0dbf7551af6daa9eb68a8374a3edd8465747a2b6dff598890938ee40ff0854179e7e431a85d7daa5b8d37dc4521cc6be27748272</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -96,7 +101,7 @@
           <string>hstem 620 36</string>
           <string>vstem 28 73</string>
           <string>vstem 28 80</string>
-          <string>vstem 167 85</string>
+          <string>vstem 228 85</string>
           <string>vstem 315 79</string>
         </array>
       </dict>

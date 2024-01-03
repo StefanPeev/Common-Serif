@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omacron" format="2">
-  <advance width="730"/>
+  <advance width="732"/>
   <unicode hex="014C"/>
-  <anchor x="402" y="10" name="b.ogonek"/>
-  <anchor x="352" y="-60" name="b.minus-60"/>
-  <anchor x="353" y="850" name="top"/>
+  <anchor x="404" y="10" name="b.ogonek"/>
+  <anchor x="354" y="-60" name="b.minus-60"/>
+  <anchor x="355" y="850" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="uni0304" xOffset="553" yOffset="240"/>
+    <component base="uni0304" xOffset="555" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>O+uni0304</string>
   <key>public.markColor</key>

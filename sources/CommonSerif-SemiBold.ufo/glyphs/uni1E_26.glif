@@ -4,14 +4,19 @@
   <unicode hex="1E26"/>
   <anchor x="396" y="-60" name="b.minus-60"/>
   <anchor x="173.667" y="10" name="b.cedilla"/>
+  <anchor x="396.667" y="-60" name="ypogegrammeni"/>
   <outline>
     <component base="H"/>
-    <component base="uni0308" xOffset="566" yOffset="240"/>
+    <component base="uni0308" xScale="1" xOffset="602.667" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>com.fontlab.recipe</key>
   <string>H+uni0308</string>
   <key>public.markColor</key>

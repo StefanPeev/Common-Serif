@@ -1,75 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDE" format="2">
-  <advance width="331"/>
+  <advance width="337"/>
   <unicode hex="1FDE"/>
-  <anchor x="163" y="510" name="_t.gr"/>
+  <anchor x="166" y="510" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="97.833" y="689" type="curve" smooth="yes"/>
-      <point x="59.833" y="689"/>
-      <point x="37.833" y="651"/>
-      <point x="37.833" y="616" type="curve" smooth="yes"/>
-      <point x="37.833" y="590"/>
-      <point x="52.833" y="514"/>
-      <point x="143.833" y="510" type="curve"/>
-      <point x="146.368" y="514.572"/>
-      <point x="147.679" y="520.481"/>
-      <point x="147.833" y="527" type="curve"/>
-      <point x="105.833" y="535"/>
-      <point x="87.833" y="572.667"/>
-      <point x="87.833" y="595" type="curve" smooth="yes"/>
-      <point x="87.833" y="606"/>
-      <point x="91.833" y="613"/>
-      <point x="98.833" y="613" type="curve" smooth="yes"/>
-      <point x="139.833" y="613"/>
-      <point x="144.833" y="638"/>
-      <point x="144.833" y="655" type="curve" smooth="yes"/>
-      <point x="144.833" y="671"/>
-      <point x="133.833" y="689"/>
-    </contour>
-    <contour>
-      <point x="252" y="699" type="curve" smooth="yes"/>
-      <point x="241.666" y="699"/>
-      <point x="224" y="695"/>
-      <point x="220" y="679" type="curve"/>
-      <point x="187" y="524" type="line"/>
-      <point x="187" y="523" type="line"/>
-      <point x="187" y="520"/>
-      <point x="189" y="510"/>
-      <point x="201.666" y="510" type="curve" smooth="yes"/>
-      <point x="204" y="510"/>
-      <point x="207.861" y="511.072"/>
-      <point x="210" y="515" type="curve" smooth="yes"/>
-      <point x="285.666" y="654" type="line" smooth="yes"/>
-      <point x="287.804" y="657.928"/>
-      <point x="288.666" y="662"/>
-      <point x="288.666" y="666" type="curve" smooth="yes"/>
-      <point x="288.666" y="677"/>
-      <point x="280" y="699"/>
-    </contour>
+    <component base="tonos" xScale="1" xOffset="137.333"/>
+    <component base="uni0313" xScale="-1" xOffset="13.463"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2dbc4b06771dd590d2811640c462510ee334c9accacf67a39ef1d9880843e73357005ce0efd796026174308cd4342516f3f1760b8d3427272737285ab4c24faa</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 510 179</string>
-          <string>hstem 613 76</string>
-          <string>hstem 699 -20</string>
-          <string>vstem 37.83 50</string>
-          <string>vstem 37.83 107</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=33</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=33</string>
   </dict>
   </lib>
 </glyph>

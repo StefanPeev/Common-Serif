@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni042F" format="2">
-  <advance width="580"/>
+  <advance width="584"/>
   <unicode hex="042F"/>
   <anchor x="327" y="740" name="t.uni0302"/>
   <outline>
@@ -23,27 +23,9 @@
       <point x="285" y="4"/>
       <point x="291" y="-2" type="curve"/>
       <point x="341" y="-1"/>
-      <point x="379" y="0"/>
-      <point x="435" y="0" type="curve" smooth="yes"/>
-      <point x="486" y="0"/>
-      <point x="516" y="-1"/>
-      <point x="565" y="-2" type="curve"/>
-      <point x="571" y="4"/>
-      <point x="571" y="25"/>
-      <point x="565" y="31" type="curve"/>
-      <point x="495" y="34"/>
-      <point x="478" y="39"/>
-      <point x="478" y="122" type="curve" smooth="yes"/>
-      <point x="478" y="523" type="line" smooth="yes"/>
-      <point x="478" y="606"/>
-      <point x="495" y="611"/>
-      <point x="565" y="614" type="curve"/>
-      <point x="571" y="620"/>
-      <point x="571" y="641"/>
-      <point x="565" y="647" type="curve"/>
-      <point x="515" y="646"/>
-      <point x="486" y="645"/>
-      <point x="436" y="645" type="curve" smooth="yes"/>
+      <point x="380" y="0"/>
+      <point x="436" y="0" type="curve"/>
+      <point x="436" y="645" type="line"/>
       <point x="402" y="645"/>
       <point x="343" y="646"/>
       <point x="308" y="646" type="curve" smooth="yes"/>
@@ -76,15 +58,39 @@
       <point x="231" y="362"/>
       <point x="169" y="396"/>
     </contour>
+    <contour>
+      <point x="436" y="0" type="line"/>
+      <point x="487" y="0"/>
+      <point x="516" y="-1"/>
+      <point x="565" y="-2" type="curve"/>
+      <point x="571" y="4"/>
+      <point x="571" y="25"/>
+      <point x="565" y="31" type="curve"/>
+      <point x="495" y="34"/>
+      <point x="478" y="39"/>
+      <point x="478" y="122" type="curve" smooth="yes"/>
+      <point x="478" y="523" type="line" smooth="yes"/>
+      <point x="478" y="606"/>
+      <point x="495" y="611"/>
+      <point x="565" y="614" type="curve"/>
+      <point x="571" y="620"/>
+      <point x="571" y="641"/>
+      <point x="565" y="647" type="curve"/>
+      <point x="515" y="646"/>
+      <point x="486" y="645"/>
+      <point x="436" y="645" type="curve"/>
+    </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2b880b464ade76e8eaf03102521ad7bff762bb0bd1b53be27d5c098d715aa54f8f430ec3f3f17a56e34665d15254e8c32b9db9dd89a752cad78399da05876c86</string>
+    <string>b1161a15add94ae45ddbfd6db01bdeb7d6b0217d7aa3e4afbf3bc57ef96a0ea38d137327aae9d455f525226fb4d1726ff82e86364c3892b3faf0db3804c91720</string>
     <key>hintSetList</key>
     <array>
       <dict>

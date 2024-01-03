@@ -1,64 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0312" format="2">
   <unicode hex="0312"/>
-  <anchor x="-110" y="500" name="_t.uni0302"/>
+  <anchor x="-19.668" y="542.642" name="_apostrophe"/>
   <outline>
-    <contour>
-      <point x="-110" y="500.138" type="curve" smooth="yes"/>
-      <point x="-81.666" y="500.138"/>
-      <point x="-61.666" y="520.471"/>
-      <point x="-59.666" y="536.138" type="curve"/>
-      <point x="-59" y="537.471"/>
-      <point x="-59" y="538.805"/>
-      <point x="-59" y="540.138" type="curve" smooth="yes"/>
-      <point x="-59" y="558.472"/>
-      <point x="-68.02" y="577.383"/>
-      <point x="-95.333" y="581.805" type="curve"/>
-      <point x="-98.358" y="582.718"/>
-      <point x="-103.359" y="582.731"/>
-      <point x="-108" y="583.472" type="curve"/>
-      <point x="-112.698" y="583.733"/>
-      <point x="-116.899" y="584.257"/>
-      <point x="-119.666" y="584.138" type="curve"/>
-      <point x="-129.248" y="584.601"/>
-      <point x="-132.333" y="586.138"/>
-      <point x="-132.333" y="598.805" type="curve" smooth="yes"/>
-      <point x="-132.333" y="620.138"/>
-      <point x="-110.666" y="649.472"/>
-      <point x="-59.333" y="661.138" type="curve"/>
-      <point x="-58" y="669.805"/>
-      <point x="-58.666" y="679.138"/>
-      <point x="-64.666" y="683.805" type="curve"/>
-      <point x="-102.333" y="678.138"/>
-      <point x="-132.039" y="661.837"/>
-      <point x="-150.666" y="640.805" type="curve" smooth="yes"/>
-      <point x="-167.039" y="621.503"/>
-      <point x="-175.333" y="599.472"/>
-      <point x="-175.333" y="574.805" type="curve" smooth="yes"/>
-      <point x="-175.333" y="529.805"/>
-      <point x="-146.666" y="500.138"/>
-    </contour>
+    <component base="uni0313" xScale="-1" yScale="-1" xOffset="-160.002" yOffset="1183.64"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6dd27b841bd10d4e42a49049cd049537a9b8c60f042e3b44c4bd9810d469d66b81de5f8dcde0642afc7ecad74fb896db993eb2cbbf04e7c370a54c58413782ee</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 500.14 81.67</string>
-          <string>hstem 500.14 183.67</string>
-          <string>vstem -175.33 43</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=uni0313@~,~</string>
   </dict>
   </lib>
 </glyph>

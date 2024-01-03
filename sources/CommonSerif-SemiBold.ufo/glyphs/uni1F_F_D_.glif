@@ -1,51 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFD" format="2">
-  <advance width="199"/>
+  <advance width="200"/>
   <unicode hex="1FFD"/>
-  <anchor x="80.333" y="510" name="_t.gr"/>
+  <anchor x="77.333" y="500" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="117.667" y="693" type="curve" smooth="yes"/>
-      <point x="106" y="693"/>
-      <point x="93.575" y="687.033"/>
-      <point x="89.667" y="676" type="curve" smooth="yes"/>
-      <point x="39" y="533" type="line" smooth="yes"/>
-      <point x="37.944" y="530.019"/>
-      <point x="37.667" y="525.333"/>
-      <point x="37.667" y="523.667" type="curve" smooth="yes"/>
-      <point x="37.667" y="516.667"/>
-      <point x="54.333" y="510"/>
-      <point x="62.333" y="510" type="curve" smooth="yes"/>
-      <point x="66.333" y="510"/>
-      <point x="70.501" y="514.133"/>
-      <point x="73.667" y="518" type="curve" smooth="yes"/>
-      <point x="173.667" y="640" type="line" smooth="yes"/>
-      <point x="177.721" y="644.953"/>
-      <point x="179" y="651"/>
-      <point x="179" y="656" type="curve" smooth="yes"/>
-      <point x="179" y="676"/>
-      <point x="137.667" y="693"/>
-    </contour>
+    <component base="tonos" xOffset="0.166"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>93b7b4952e4d29d243111ac53880c279519fe4b089e9f94ff1af68220f737c65d693b5020d8a1c3dcb7a49e6a1f115179d0c20569aaa44d0234908f0cf7681f4</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 531 -21</string>
-          <string>hstem 693 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=33</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=33</string>
   </dict>
   </lib>
 </glyph>

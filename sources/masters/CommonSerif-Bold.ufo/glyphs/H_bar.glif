@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-  <advance width="817"/>
+  <advance width="816"/>
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="37" y="492.005" type="curve" smooth="yes"/>
-      <point x="179.36" y="492.005" type="line"/>
-      <point x="179.493" y="540.242" type="line"/>
-      <point x="52" y="540.242" type="line" smooth="yes"/>
-      <point x="43.0155" y="540.242"/>
-      <point x="27" y="529.691"/>
-      <point x="27" y="508.989" type="curve" smooth="yes"/>
-      <point x="27" y="500.682"/>
-      <point x="30.246" y="492.005"/>
+      <point x="179" y="492" type="line"/>
+      <point x="179" y="540" type="line"/>
+      <point x="52" y="540" type="line" smooth="yes"/>
+      <point x="43" y="540"/>
+      <point x="27" y="530"/>
+      <point x="27" y="509" type="curve" smooth="yes"/>
+      <point x="27" y="501"/>
+      <point x="30" y="492"/>
+      <point x="37" y="492" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="30" y="-2" type="curve"/>
@@ -103,25 +103,29 @@
       <point x="583.305" y="492.362" type="line"/>
     </contour>
     <contour>
-      <point x="597.853" y="491.987" type="line"/>
-      <point x="732.877" y="492.062" type="line" smooth="yes"/>
-      <point x="743.865" y="492.068"/>
-      <point x="758" y="503.458"/>
-      <point x="758" y="520.913" type="curve" smooth="yes"/>
-      <point x="758" y="530.268"/>
-      <point x="754.567" y="540"/>
-      <point x="747.877" y="540" type="curve" smooth="yes"/>
-      <point x="597.853" y="539.987" type="line"/>
+      <point x="598" y="492" type="line"/>
+      <point x="733" y="492" type="line" smooth="yes"/>
+      <point x="744" y="492"/>
+      <point x="758" y="504"/>
+      <point x="758" y="521" type="curve" smooth="yes"/>
+      <point x="758" y="530"/>
+      <point x="755" y="540"/>
+      <point x="748" y="540" type="curve" smooth="yes"/>
+      <point x="598" y="540" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>176e4e9f1d5ef622e6818099b8306f070b6976db78a59786e117d11c97a33655feb47fa13fcb7bd27ff18a2a0b125772db0e9257b9d4b3e806e2ddd4dc2bcb81</string>
+    <string>e68ab5402c85c7ccf76913f80c8a815a36f7a254d1a208299f14e80549ef994e30a4c59ac9dcfb65cd5330518411944ab617b10fb6e639f137542749b5fb73a2</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -130,9 +134,9 @@
           <string>hstem -2 34</string>
           <string>hstem 21 -21</string>
           <string>hstem 319 48</string>
-          <string>hstem 491.99 48.</string>
           <string>hstem 613 34</string>
           <string>hstem 645 -20</string>
+          <string>hstem 701.99 48.</string>
           <string>vstem 113 140</string>
           <string>vstem 563 140</string>
         </array>

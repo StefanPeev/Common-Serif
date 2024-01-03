@@ -4,29 +4,8 @@
   <unicode hex="02A1"/>
   <outline>
     <contour>
-      <point x="41" y="-2" type="curve"/>
-      <point x="81" y="-1"/>
-      <point x="155" y="0"/>
-      <point x="195" y="0" type="curve" smooth="yes"/>
-      <point x="235" y="0"/>
-      <point x="307" y="-1"/>
-      <point x="347" y="-2" type="curve"/>
-      <point x="357" y="4"/>
-      <point x="357" y="26"/>
-      <point x="347" y="32" type="curve"/>
-      <point x="292" y="35.005"/>
-      <point x="264" y="39.012"/>
-      <point x="264" y="122.152" type="curve"/>
-      <point x="124" y="122.152" type="line"/>
-      <point x="124" y="39.012"/>
-      <point x="96" y="35.005"/>
-      <point x="41" y="32" type="curve"/>
-      <point x="31" y="26"/>
-      <point x="31" y="4"/>
-    </contour>
-    <contour>
-      <point x="124" y="122" type="line"/>
-      <point x="264" y="122" type="line"/>
+      <point x="124" y="110" type="line"/>
+      <point x="264" y="110" type="line"/>
       <point x="264" y="187" type="line" smooth="yes"/>
       <point x="264" y="369"/>
       <point x="407.848" y="422.472"/>
@@ -72,6 +51,32 @@
       <point x="36" y="251"/>
       <point x="37" y="245"/>
     </contour>
+    <contour>
+      <point x="52" y="-2" type="curve"/>
+      <point x="94" y="-1"/>
+      <point x="141" y="0"/>
+      <point x="194" y="0" type="curve"/>
+      <point x="194" y="122" type="line"/>
+      <point x="124" y="122" type="line"/>
+      <point x="124" y="39"/>
+      <point x="113" y="35"/>
+      <point x="52" y="32" type="curve"/>
+      <point x="46" y="26"/>
+      <point x="46" y="4"/>
+    </contour>
+    <contour>
+      <point x="194" y="0" type="line"/>
+      <point x="239" y="-1"/>
+      <point x="291" y="-1"/>
+      <point x="336" y="-2" type="curve"/>
+      <point x="342" y="4"/>
+      <point x="342" y="26"/>
+      <point x="336" y="32" type="curve"/>
+      <point x="275" y="35"/>
+      <point x="264" y="39"/>
+      <point x="264" y="122" type="curve"/>
+      <point x="194" y="122" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -80,7 +85,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c999f82ee4ff83f54d6941a30f3d8554769af4bef12e6ae6082987ff842f1b1053840c6043f6d680ef88c04e9de58a1cf3a1cb6e89accde435a031b23a015df4</string>
+    <string>965336c90c91aeb1ff19681783794d765d0e3efd5da2c0e731621b37f7338a3671d1e6e1a68e4e1363cf648e535555b47345be545b69ce8d944f0ba178899dd8</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -92,7 +97,6 @@
           <string>hstem 624 34</string>
           <string>vstem 17 124</string>
           <string>vstem 17 128</string>
-          <string>vstem 124 140</string>
           <string>vstem 278 130</string>
         </array>
       </dict>

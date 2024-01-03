@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rho" format="2">
-  <advance width="537"/>
+  <advance width="534"/>
   <unicode hex="03C1"/>
   <anchor x="269" y="510" name="t.uni0302"/>
+  <anchor x="269" y="510" name="t.gr"/>
   <outline>
     <contour>
       <point x="174.961" y="-216" type="line"/>
@@ -41,12 +42,14 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=omicron</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>74b86b29c767a41d5757119828bde9c7b510dc0bc8f94a18df60e311d5d3b92f25188a482eb5b065f800172adc5920918b3e5864a709112413cc234681fe273f</string>
+    <string>49768ba2b43068b2a6bea930b3eb43f6b046d7773bb894603f232f738142db951ee8cf207da2a5c50d50b7dfb00f224e70ed38741c32efb5e6226b236a3c367e</string>
     <key>hintSetList</key>
     <array>
       <dict>

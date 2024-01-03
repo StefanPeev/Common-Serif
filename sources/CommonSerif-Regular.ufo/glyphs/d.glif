@@ -17,25 +17,11 @@
       <point x="503" y="36"/>
       <point x="503" y="51"/>
       <point x="497" y="57" type="curve"/>
-      <point x="433" y="62"/>
-      <point x="424" y="81"/>
-      <point x="424" y="130" type="curve" smooth="yes"/>
-      <point x="424" y="583" type="line" smooth="yes"/>
-      <point x="424" y="648"/>
-      <point x="428" y="684"/>
-      <point x="428" y="688" type="curve" smooth="yes"/>
-      <point x="428" y="695"/>
-      <point x="424" y="698"/>
-      <point x="415" y="698" type="curve"/>
-      <point x="390" y="688"/>
-      <point x="315" y="674"/>
-      <point x="275" y="671" type="curve"/>
-      <point x="273" y="663"/>
-      <point x="275" y="647"/>
-      <point x="281" y="641" type="curve"/>
-      <point x="329" y="641"/>
-      <point x="345" y="629"/>
-      <point x="345" y="595" type="curve" smooth="yes"/>
+      <point x="434" y="62"/>
+      <point x="425" y="81"/>
+      <point x="425" y="130" type="curve" smooth="yes"/>
+      <point x="425" y="590" type="line"/>
+      <point x="345" y="590" type="line"/>
       <point x="345" y="107" type="line" smooth="yes"/>
       <point x="345" y="61"/>
       <point x="349" y="34"/>
@@ -68,6 +54,24 @@
       <point x="311" y="390.176"/>
       <point x="361" y="330" type="curve"/>
     </contour>
+    <contour>
+      <point x="345" y="576" type="curve"/>
+      <point x="425" y="576" type="line"/>
+      <point x="425" y="627.125"/>
+      <point x="426.065" y="657.732"/>
+      <point x="429" y="691" type="curve"/>
+      <point x="429" y="695.154"/>
+      <point x="423.714" y="698"/>
+      <point x="416" y="698" type="curve"/>
+      <point x="383.618" y="685.278"/>
+      <point x="322.921" y="672.523"/>
+      <point x="278" y="669" type="curve"/>
+      <point x="276.371" y="663.3"/>
+      <point x="277.409" y="648.773"/>
+      <point x="280" y="641" type="curve"/>
+      <point x="337" y="636"/>
+      <point x="345" y="628"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -76,7 +80,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>26f7149eb836fecea7aac192d8957d0b142611ee4961b1d64af221adf4a59a4a1fa6602df23c85a9f818738830dacfa9c3fcd9ae7f0b259252741b91c67260d6</string>
+    <string>52eca2771e81b91935195f37a913e88f530a177e4d970df8b9d75d694cf963c40a3b9bea2f3aac47ba8831059a7c854ffc0e55eaa52ac3fac4718559317e33b3</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -85,10 +89,9 @@
           <string>hstem -10 47</string>
           <string>hstem 30 27</string>
           <string>hstem 403 36</string>
-          <string>hstem 641 30</string>
           <string>hstem 698 -20</string>
           <string>vstem 39 86</string>
-          <string>vstem 345 79</string>
+          <string>vstem 345 80</string>
         </array>
       </dict>
     </array>

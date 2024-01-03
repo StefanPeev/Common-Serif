@@ -1,84 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0492" format="2">
-  <advance width="497"/>
+  <advance width="510"/>
   <unicode hex="0492"/>
   <outline>
+    <component base="uni0413" xOffset="1.333"/>
     <contour>
-      <point x="344.167" y="604.667" type="line" smooth="yes"/>
-      <point x="424.167" y="604.667"/>
-      <point x="443.667" y="553.667"/>
-      <point x="464.501" y="484.167" type="curve"/>
-      <point x="474.834" y="483"/>
-      <point x="485.834" y="484.167"/>
-      <point x="495.834" y="488.334" type="curve"/>
-      <point x="491.501" y="567"/>
-      <point x="485.667" y="610.333"/>
-      <point x="479.001" y="647" type="curve"/>
-      <point x="446.501" y="646.167"/>
-      <point x="363.834" y="645"/>
-      <point x="359.001" y="645" type="curve" smooth="yes"/>
-      <point x="151" y="645" type="line" smooth="yes"/>
-      <point x="144.5" y="645"/>
-      <point x="59.5" y="646.167"/>
-      <point x="17.834" y="647" type="curve"/>
-      <point x="11.167" y="641"/>
-      <point x="11.167" y="619.833"/>
-      <point x="17.834" y="613.833" type="curve"/>
-      <point x="85.334" y="610.833"/>
-      <point x="104.167" y="606"/>
-      <point x="104.167" y="523" type="curve" smooth="yes"/>
-      <point x="104.167" y="326" type="line"/>
-      <point x="19" y="326" type="line"/>
-      <point x="19" y="287" type="line"/>
-      <point x="104.167" y="287" type="line"/>
-      <point x="104.167" y="122" type="line" smooth="yes"/>
-      <point x="104.167" y="39"/>
-      <point x="85.334" y="34.167"/>
-      <point x="17.834" y="31.167" type="curve"/>
-      <point x="11.167" y="25.167"/>
-      <point x="11.167" y="4"/>
-      <point x="17.834" y="-2" type="curve"/>
-      <point x="50.334" y="-1.167"/>
-      <point x="113.5" y="0"/>
-      <point x="151.834" y="0" type="curve" smooth="yes"/>
-      <point x="190.167" y="0"/>
-      <point x="237.667" y="-1"/>
-      <point x="284.667" y="-2" type="curve"/>
-      <point x="291.334" y="4"/>
-      <point x="291.334" y="25.167"/>
-      <point x="284.667" y="31.167" type="curve"/>
-      <point x="217.167" y="34.167"/>
-      <point x="198.334" y="39"/>
-      <point x="198.334" y="122" type="curve" smooth="yes"/>
-      <point x="198.334" y="287" type="line"/>
-      <point x="289.001" y="287" type="line"/>
-      <point x="289.001" y="326" type="line"/>
-      <point x="198.334" y="326" type="line"/>
-      <point x="198.334" y="563.167" type="line" smooth="yes"/>
-      <point x="198.334" y="593.167"/>
-      <point x="210.667" y="604.667"/>
-      <point x="234.167" y="604.667" type="curve" smooth="yes"/>
+      <point x="203.166" y="286.167" type="line"/>
+      <point x="203.166" y="326.667" type="line"/>
+      <point x="37.8333" y="326.667" type="line" smooth="yes"/>
+      <point x="28.8333" y="326.667"/>
+      <point x="17.8333" y="312.5"/>
+      <point x="17.8333" y="300.667" type="curve" smooth="yes"/>
+      <point x="17.8333" y="294.334"/>
+      <point x="20.8333" y="286.167"/>
+      <point x="28.6663" y="286.167" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="126.916" y="326.667" type="line"/>
+      <point x="126.916" y="286.167" type="line"/>
+      <point x="243.139" y="286.167" type="line"/>
+      <point x="243.139" y="326.667" type="line"/>
+    </contour>
+    <contour>
+      <point x="180.5" y="286.167" type="line"/>
+      <point x="313.833" y="286.167" type="line" smooth="yes"/>
+      <point x="325.666" y="286.167"/>
+      <point x="335.5" y="300.667"/>
+      <point x="335.5" y="312.667" type="curve" smooth="yes"/>
+      <point x="335.5" y="318.334"/>
+      <point x="332.5" y="326.667"/>
+      <point x="323.833" y="326.667" type="curve" smooth="yes"/>
+      <point x="180.5" y="326.667" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0413</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0413</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f18515911072313b10fae2970ef215d01ccf346f42dfca9bb05a13145f3bb9b73a4579995dba30db5c99a5915e51a41a5b220a1a2bea8143fef5b6188a74fadc</string>
+    <string>e20525de445e9701b9ba79b2ba92fc4e0988063f6c200f7f362583c1c0deedbe37ab614220d54fe8cc695081dc24e95ef27c34820b01e9e0879afd851a717a3e</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -2 33.17</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 287 39</string>
-          <string>hstem 604.67 40.33</string>
-          <string>hstem 613.83 33.17</string>
-          <string>vstem 104.17 94.17</string>
+          <string>hstem 286.17 40.5</string>
         </array>
       </dict>
     </array>

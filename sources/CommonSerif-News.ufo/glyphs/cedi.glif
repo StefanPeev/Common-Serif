@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedi" format="2">
-  <advance width="656"/>
+  <advance width="655"/>
   <unicode hex="20B5"/>
-  <anchor x="342.333" y="740" name="t.uni0302"/>
-  <anchor x="342" y="-60" name="b.minus-60"/>
-  <anchor x="356" y="0" name="b.cedilla"/>
+  <anchor x="341.667" y="740" name="t.uni0302"/>
+  <anchor x="341.333" y="-60" name="b.minus-60"/>
+  <anchor x="355.333" y="0" name="b.cedilla"/>
   <outline>
     <component base="C"/>
-    <component base="bar" xyScale="2.19084e-18" yScale="1" xOffset="213" yOffset="61.667"/>
+    <component base="bar" xScale="1" xyScale="2.19084e-18" yScale="1" xOffset="212.333" yOffset="61.667"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>C+bar</string>
   </dict>

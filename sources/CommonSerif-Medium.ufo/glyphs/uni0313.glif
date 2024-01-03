@@ -3,51 +3,6 @@
   <unicode hex="0313"/>
   <anchor x="-140.333" y="641" name="_apostrophe"/>
   <outline>
-    <contour>
-      <point x="-131.584" y="500" type="curve"/>
-      <point x="-73.73" y="508.693"/>
-      <point x="-20.918" y="545.98"/>
-      <point x="-20.918" y="609" type="curve" smooth="yes"/>
-      <point x="-20.918" y="658.313"/>
-      <point x="-52.837" y="683.642"/>
-      <point x="-88.924" y="683.642" type="curve" smooth="yes"/>
-      <point x="-117.291" y="683.642"/>
-      <point x="-137.251" y="666.01"/>
-      <point x="-137.251" y="640.995" type="curve" smooth="yes"/>
-      <point x="-137.251" y="613.549"/>
-      <point x="-112.751" y="599.981"/>
-      <point x="-87.112" y="599.997" type="curve" smooth="yes"/>
-      <point x="-71.223" y="600.007"/>
-      <point x="-63.637" y="593.39"/>
-      <point x="-63.637" y="580.787" type="curve" smooth="yes"/>
-      <point x="-63.637" y="558.848"/>
-      <point x="-97.652" y="531.601"/>
-      <point x="-136.918" y="522.667" type="curve"/>
-      <point x="-138.251" y="514"/>
-      <point x="-137.584" y="504.667"/>
-    </contour>
+    <component base="uni02BC" xOffset="-167.501"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>05dbc6e2a0bd7c948c6d21f7a5bd2e6d51783622ca5add13d563a9778a40b7b8da227ba6535c4e61d46db0bc7309ce189e0e1af7fd45b6f87ba173423b89012f</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 500 183.64</string>
-          <string>hstem 600. 83.64</string>
-          <string>vstem -137.25 116.33</string>
-          <string>vstem -63.64 42.72</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

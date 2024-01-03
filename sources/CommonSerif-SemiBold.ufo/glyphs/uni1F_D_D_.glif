@@ -1,74 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDD" format="2">
-  <advance width="335"/>
+  <advance width="332"/>
   <unicode hex="1FDD"/>
-  <anchor x="175" y="510" name="_t.gr"/>
+  <anchor x="171" y="510" name="_t.gr"/>
   <outline>
-    <contour>
-      <point x="98.5" y="689" type="curve" smooth="yes"/>
-      <point x="60.5" y="689"/>
-      <point x="38.5" y="651"/>
-      <point x="38.5" y="616" type="curve" smooth="yes"/>
-      <point x="38.5" y="590"/>
-      <point x="53.5" y="514"/>
-      <point x="144.5" y="510" type="curve"/>
-      <point x="147.035" y="514.572"/>
-      <point x="148.346" y="520.481"/>
-      <point x="148.5" y="527" type="curve"/>
-      <point x="106.5" y="535"/>
-      <point x="88.5" y="572.667"/>
-      <point x="88.5" y="595" type="curve" smooth="yes"/>
-      <point x="88.5" y="606"/>
-      <point x="92.5" y="613"/>
-      <point x="99.5" y="613" type="curve" smooth="yes"/>
-      <point x="140.5" y="613"/>
-      <point x="145.5" y="638"/>
-      <point x="145.5" y="655" type="curve" smooth="yes"/>
-      <point x="145.5" y="671"/>
-      <point x="134.5" y="689"/>
-    </contour>
-    <contour>
-      <point x="185" y="650" type="curve" smooth="yes"/>
-      <point x="267" y="515" type="line" smooth="yes"/>
-      <point x="268.872" y="511.918"/>
-      <point x="270" y="510"/>
-      <point x="275" y="510" type="curve" smooth="yes"/>
-      <point x="285" y="510"/>
-      <point x="290" y="517"/>
-      <point x="290" y="522" type="curve"/>
-      <point x="250" y="678" type="line" smooth="yes"/>
-      <point x="247.168" y="689.044"/>
-      <point x="237" y="696"/>
-      <point x="219.667" y="696" type="curve" smooth="yes"/>
-      <point x="195.333" y="696"/>
-      <point x="182" y="679"/>
-      <point x="182" y="663" type="curve" smooth="yes"/>
-      <point x="182" y="658.333"/>
-      <point x="182.678" y="653.822"/>
-    </contour>
+    <component base="uni0313" xScale="-1" xOffset="13.463"/>
+    <component base="uni1FEF" xScale="1" xOffset="131.833"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a3749225171c15efb064f88b6b01eee36fadedcafc69f78e5083601e92082e77c37b6130781666dd76a8f410d12eb7e2ae8e728d496a2164232fdef4e2d273d0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 510 179</string>
-          <string>hstem 613 76</string>
-          <string>hstem 696 -20</string>
-          <string>vstem 38.5 50</string>
-          <string>vstem 38.5 107</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=33</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=33</string>
   </dict>
   </lib>
 </glyph>

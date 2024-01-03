@@ -2,16 +2,20 @@
 <glyph name="uni1ECC" format="2">
   <advance width="721"/>
   <unicode hex="1ECC"/>
-  <anchor x="344" y="740" name="t.uni0302"/>
-  <anchor x="396" y="10" name="b.ogonek"/>
+  <anchor x="345" y="740" name="t.uni0302"/>
+  <anchor x="397" y="10" name="b.ogonek"/>
   <outline>
     <component base="O"/>
-    <component base="dotbelowcomb" xOffset="566"/>
+    <component base="dotbelowcomb" xOffset="567"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>O+dotbelowcomb</string>
   <key>public.markColor</key>

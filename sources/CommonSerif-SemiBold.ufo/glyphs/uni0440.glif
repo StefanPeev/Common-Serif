@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0440" format="2">
-  <advance width="560"/>
+  <advance width="564"/>
   <unicode hex="0440"/>
-  <anchor x="240.667" y="500" name="t.uni0302"/>
-  <anchor x="340.333" y="-60" name="b.minus-60"/>
+  <anchor x="249.333" y="500" name="t.uni0302"/>
+  <anchor x="349" y="-60" name="b.minus-60"/>
   <outline>
-    <component base="p"/>
+    <component base="p" xOffset="8.667"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=dotlessi</string>
   <key>com.fontlab.recipe</key>
   <string>p</string>
   <key>public.markColor</key>

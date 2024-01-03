@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="2">
-  <advance width="646"/>
+  <advance width="645"/>
   <unicode hex="010C"/>
-  <anchor x="340" y="-60" name="b.minus-60"/>
-  <anchor x="356" y="0" name="b.cedilla"/>
+  <anchor x="339" y="-60" name="b.minus-60"/>
+  <anchor x="355" y="0" name="b.cedilla"/>
   <outline>
     <component base="C"/>
-    <component base="caron.cap" xOffset="486"/>
+    <component base="caron.cap" xOffset="485.5"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>C+caron.cap</string>
   <key>public.markColor</key>

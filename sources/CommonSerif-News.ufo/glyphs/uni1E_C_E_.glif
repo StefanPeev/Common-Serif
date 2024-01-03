@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1ECE" format="2">
-  <advance width="707"/>
+  <advance width="705"/>
   <unicode hex="1ECE"/>
-  <anchor x="387" y="10" name="b.ogonek"/>
-  <anchor x="345.333" y="-60" name="b.minus-60"/>
+  <anchor x="386.5" y="10" name="b.ogonek"/>
+  <anchor x="344.833" y="-60" name="b.minus-60"/>
   <outline>
     <component base="O"/>
-    <component base="hookabovecomb" xyScale="-6.68858e-18" yScale="1" xOffset="505.21" yOffset="235.333"/>
+    <component base="hookabovecomb" xyScale="-6.68858e-18" yScale="1" xOffset="504.544" yOffset="235.333"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>O+hookabovecomb</string>
   <key>public.markColor</key>

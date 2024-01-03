@@ -1,94 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="376"/>
+  <advance width="484"/>
   <unicode hex="038A"/>
+  <anchor x="311.5" y="740" name="t.uni0302"/>
+  <anchor x="356.5" y="10" name="b.ogonek"/>
+  <anchor x="314.167" y="-60" name="b.minus-60"/>
   <outline>
-    <contour>
-      <point x="222.667" y="389.333" type="curve" smooth="yes"/>
-      <point x="222.667" y="255.667" type="line" smooth="yes"/>
-      <point x="222.667" y="228"/>
-      <point x="209.667" y="227"/>
-      <point x="196.334" y="226" type="curve"/>
-      <point x="191.667" y="224"/>
-      <point x="191.667" y="216.333"/>
-      <point x="196.334" y="214.333" type="curve"/>
-      <point x="208.334" y="214.666"/>
-      <point x="242" y="215"/>
-      <point x="255.667" y="215" type="curve" smooth="yes"/>
-      <point x="271.334" y="215"/>
-      <point x="303" y="214.666"/>
-      <point x="314" y="214.333" type="curve"/>
-      <point x="318.667" y="216.333"/>
-      <point x="318.667" y="224"/>
-      <point x="314" y="226" type="curve"/>
-      <point x="300.667" y="227"/>
-      <point x="287.667" y="228"/>
-      <point x="287.667" y="255.667" type="curve" smooth="yes"/>
-      <point x="287.667" y="389.333" type="line" smooth="yes"/>
-      <point x="287.667" y="417"/>
-      <point x="300.667" y="418"/>
-      <point x="314" y="419" type="curve"/>
-      <point x="318.667" y="421"/>
-      <point x="318.667" y="428.667"/>
-      <point x="314" y="430.667" type="curve"/>
-      <point x="302.334" y="430.334"/>
-      <point x="270.667" y="430"/>
-      <point x="256" y="430" type="curve" smooth="yes"/>
-      <point x="241.334" y="430"/>
-      <point x="208" y="430.334"/>
-      <point x="196.334" y="430.667" type="curve"/>
-      <point x="191.667" y="428.667"/>
-      <point x="191.667" y="421"/>
-      <point x="196.334" y="419" type="curve"/>
-      <point x="209.667" y="418"/>
-      <point x="222.667" y="417"/>
-    </contour>
-    <contour>
-      <point x="42.667" y="725" type="curve" smooth="yes"/>
-      <point x="31" y="725"/>
-      <point x="18.667" y="719"/>
-      <point x="14.667" y="708" type="curve" smooth="yes"/>
-      <point x="-36" y="565" type="line" smooth="yes"/>
-      <point x="-37" y="562"/>
-      <point x="-37.333" y="557.334"/>
-      <point x="-37.333" y="555.667" type="curve" smooth="yes"/>
-      <point x="-37.333" y="548.667"/>
-      <point x="-20.666" y="542"/>
-      <point x="-12.666" y="542" type="curve" smooth="yes"/>
-      <point x="-8.666" y="542"/>
-      <point x="-4.333" y="546"/>
-      <point x="-1.333" y="550" type="curve"/>
-      <point x="98.667" y="672" type="line" smooth="yes"/>
-      <point x="102.667" y="677"/>
-      <point x="104" y="683"/>
-      <point x="104" y="688" type="curve" smooth="yes"/>
-      <point x="104" y="708"/>
-      <point x="62.667" y="725"/>
-    </contour>
+    <component base="Iota" xScale="1" xOffset="140.167"/>
+    <component base="tonos" xyScale="-7.81469e-19" xOffset="-23.691" yOffset="-19.997"/>
   </outline>
   <lib>
   <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d7757df1f23223628106e140332eceb17b887e3f86c55a333b49101d02bb2f407416d79121a8e778d703a1ba7155972c77f5ced4dbb35bc47bb32bcd3a461293</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 214.33 11.67</string>
-          <string>hstem 215 -20</string>
-          <string>hstem 419 11.67</string>
-          <string>hstem 451 -21</string>
-          <string>hstem 725 -20</string>
-          <string>vstem 222.67 65</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>com.fontlab.recipe</key>
+  <string>=Iota@160,-2+tonos@10,480</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

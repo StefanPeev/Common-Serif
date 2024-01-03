@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="2">
-  <advance width="529"/>
+  <advance width="530"/>
   <unicode hex="0070"/>
   <anchor x="222.167" y="500" name="t.uni0302"/>
   <anchor x="333.333" y="-60" name="b.minus-60"/>
   <outline>
     <contour>
-      <point x="82.5" y="-110" type="line"/>
-      <point x="170.833" y="-110" type="line"/>
+      <point x="82.5" y="-120" type="line"/>
+      <point x="170.833" y="-120" type="line"/>
       <point x="170.833" y="312.667" type="line" smooth="yes"/>
       <point x="170.833" y="363.5"/>
       <point x="164.276" y="407.821"/>
@@ -57,33 +57,40 @@
     <contour>
       <point x="10.5" y="-234" type="curve"/>
       <point x="45" y="-233"/>
-      <point x="84.5" y="-232"/>
-      <point x="126.666" y="-232" type="curve"/>
-      <point x="167.535" y="-232.11"/>
-      <point x="207.798" y="-233"/>
-      <point x="242.833" y="-234" type="curve"/>
-      <point x="248.833" y="-227.958"/>
-      <point x="248.833" y="-206.896"/>
-      <point x="242.833" y="-200.834" type="curve"/>
-      <point x="181.833" y="-197"/>
-      <point x="170.833" y="-192.167"/>
-      <point x="170.833" y="-110" type="curve"/>
+      <point x="89.5" y="-232"/>
+      <point x="131.666" y="-232" type="curve"/>
+      <point x="131.666" y="-110" type="line"/>
       <point x="82.5" y="-110" type="line"/>
       <point x="82.5" y="-192.167"/>
       <point x="71.5" y="-197"/>
       <point x="10.5" y="-200.834" type="curve"/>
-      <point x="4.5" y="-206.896"/>
-      <point x="4.5" y="-227.958"/>
+      <point x="4.5" y="-206.834"/>
+      <point x="4.5" y="-228"/>
+    </contour>
+    <contour>
+      <point x="121.666" y="-232" type="line"/>
+      <point x="162.5" y="-232.167"/>
+      <point x="207.833" y="-233"/>
+      <point x="242.833" y="-234" type="curve"/>
+      <point x="248.833" y="-228"/>
+      <point x="248.833" y="-206.834"/>
+      <point x="242.833" y="-200.834" type="curve"/>
+      <point x="181.833" y="-197"/>
+      <point x="170.833" y="-192.167"/>
+      <point x="170.833" y="-110" type="curve"/>
+      <point x="121.666" y="-110" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f354f2f109dd5abed6d5d6a14fa0b32d5a06574f4a6baff9ded09e2c37af2ee07646e9431666743e6559676b0b34cde83f90ce98e36c0f0d6fee48039d148f17</string>
+    <string>4fd9d2785785c592d90514f6c9d83ae43bc755ba943195b6cafc274fda3e83d1c0d0dcf8edbf1a4e5edbd1eb9a2b11782c4319e08f354b8d0dc378038a787cb4</string>
     <key>hintSetList</key>
     <array>
       <dict>

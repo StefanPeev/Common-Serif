@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="2">
-  <advance width="730"/>
+  <advance width="724"/>
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="39" y="507" type="curve" smooth="yes"/>
-      <point x="219.844" y="507" type="line"/>
-      <point x="219.844" y="546" type="line"/>
+      <point x="220" y="507" type="line"/>
+      <point x="220" y="546" type="line"/>
       <point x="47" y="546" type="line" smooth="yes"/>
       <point x="38" y="546"/>
       <point x="28" y="531"/>
       <point x="28" y="521" type="curve" smooth="yes"/>
       <point x="28" y="515"/>
       <point x="31" y="507"/>
+      <point x="39" y="507" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="19" y="-2" type="curve"/>
@@ -103,7 +103,7 @@
       <point x="547.495" y="507" type="line"/>
     </contour>
     <contour>
-      <point x="526.268" y="507" type="line"/>
+      <point x="526" y="507" type="line"/>
       <point x="659" y="507" type="line" smooth="yes"/>
       <point x="671" y="507"/>
       <point x="680" y="522"/>
@@ -111,17 +111,21 @@
       <point x="680" y="538"/>
       <point x="677" y="546"/>
       <point x="668" y="546" type="curve" smooth="yes"/>
-      <point x="526.234" y="546" type="line"/>
+      <point x="526" y="546" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>142f74b6540dd9b4898f6dd9564d4977c2c878a05302a9d475e70375e873e9015ef1b9b446da8c62c35c08e4f8d9d9f5ba97d7d3087bb568fc8244bc625cec73</string>
+    <string>14902d9b1cb3464126e4a8cbbd5cb73c4e97e00cc7b2554f55afeeb25f7471365554ca50163c7887358700186938d43df37d1c7e35534be11e2daf9cf8456a33</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -130,9 +134,9 @@
           <string>hstem -2 33</string>
           <string>hstem 21 -21</string>
           <string>hstem 321 42</string>
-          <string>hstem 507 39</string>
           <string>hstem 507 138</string>
           <string>hstem 614 33</string>
+          <string>hstem 727 39</string>
           <string>vstem 106 85</string>
           <string>vstem 533 85</string>
         </array>

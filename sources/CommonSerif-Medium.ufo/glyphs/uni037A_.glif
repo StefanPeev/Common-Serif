@@ -1,46 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni037A" format="2">
-  <advance width="333"/>
+  <advance width="263"/>
   <unicode hex="037A"/>
+  <anchor x="85.667" y="-60" name="_ypogegrammeni"/>
   <outline>
     <contour>
-      <point x="120.667" y="-76.667" type="line"/>
-      <point x="120.667" y="-162" type="line" smooth="yes"/>
-      <point x="120.667" y="-220"/>
-      <point x="168.333" y="-244"/>
-      <point x="216.667" y="-244" type="curve" smooth="yes"/>
-      <point x="241.333" y="-244"/>
-      <point x="295.333" y="-231"/>
-      <point x="310.333" y="-162" type="curve"/>
-      <point x="306.667" y="-159"/>
-      <point x="290" y="-153.334"/>
-      <point x="284" y="-153" type="curve"/>
-      <point x="277" y="-180"/>
-      <point x="261.333" y="-200.667"/>
-      <point x="243.333" y="-200.667" type="curve" smooth="yes"/>
-      <point x="223.333" y="-200.667"/>
-      <point x="211" y="-181"/>
-      <point x="211" y="-126" type="curve" smooth="yes"/>
-      <point x="211" y="-70.667" type="line"/>
-      <point x="189" y="-63.667" type="line"/>
+      <point x="36.667" y="-73" type="line"/>
+      <point x="36.667" y="-158.333" type="line" smooth="yes"/>
+      <point x="36.667" y="-216.333"/>
+      <point x="84.333" y="-240.333"/>
+      <point x="132.667" y="-240.333" type="curve" smooth="yes"/>
+      <point x="157.333" y="-240.333"/>
+      <point x="211.333" y="-227.333"/>
+      <point x="226.333" y="-158.333" type="curve"/>
+      <point x="222.667" y="-155.333"/>
+      <point x="206" y="-149.667"/>
+      <point x="200" y="-149.333" type="curve"/>
+      <point x="193" y="-176.333"/>
+      <point x="177.333" y="-197"/>
+      <point x="159.333" y="-197" type="curve" smooth="yes"/>
+      <point x="139.333" y="-197"/>
+      <point x="127" y="-177.333"/>
+      <point x="127" y="-122.333" type="curve" smooth="yes"/>
+      <point x="127" y="-67" type="line"/>
+      <point x="105" y="-60" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=37</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=37</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>eb1f24b44838857d708acba6c74758bd03573b9b7495b43d0a28cf60cefeeb839ba7bf3910ae0f0a7576b15551b8c8ebf7e4c1b9b9fe79ac48e29eabf4f3f2d6</string>
+    <string>8cfe4f87561377a50ed41b96a6830aa10f004c59003c4f8d86d97f07db33d6b45d9dfd8e477daca8a6ecaed4e11031bd81b59a88c8cc078a7cff5c00fbecb7ad</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem -244 43.33</string>
-          <string>hstem -63.67 -20</string>
-          <string>vstem 120.67 90.33</string>
+          <string>hstem -240.33 43.33</string>
+          <string>vstem 36.67 90.33</string>
         </array>
       </dict>
     </array>

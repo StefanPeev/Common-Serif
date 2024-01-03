@@ -2,15 +2,19 @@
 <glyph name="uni1ED8" format="2">
   <advance width="721"/>
   <unicode hex="1ED8"/>
-  <anchor x="396" y="10" name="b.ogonek"/>
+  <anchor x="397" y="10" name="b.ogonek"/>
   <outline>
     <component base="uni1ECC"/>
-    <component base="circumflex.cap" xOffset="477"/>
+    <component base="circumflex.cap" xOffset="478"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>uni1ECC+~circumflex.case</string>
   <key>public.markColor</key>
