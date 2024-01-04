@@ -29,7 +29,7 @@ The following font families were used as control fonts:
 + [Colvert](https://d3qx8f8l5aa3yc.cloudfront.net/images/Colvert.pdf)  
 + [GFS Artemisia](https://greekfontsociety-gfs.gr/typefaces/20th_21st_century#GFS_Artemisia)  
   
-## Single diacritics  
+## Diacritics  
   
 First, unification of the glyphs was achieved. Practice shows (compare for example with such fonts as Brill and Gentium) that glyphs ᾽(/uni1FBD, Greek Koronis) ᾿(/uni1FBF, Greek Psili) ῾(/uni1FFE, Greek Dasia) are identical in construction, applying only the corresponding rotation around the vertical axis. Glyphs ΄(/uni0384, Greek Tonos) ´(/uni1FFD, Greek Oxia) `(/uni1FEF, Greek Varia) are also unified in the same way.  
   
@@ -43,70 +43,78 @@ We must notice that tonos, oxia, varia, koronis, psili, dasia are placed on top 
 About the code syntaxes and its use in FontLab see:  
 + [Glyph Recipe Syntax](https://help.fontlab.com/fontlab/7/manual/Glyph-Recipe-Syntax/)  
 + [Making uppercase accented characters using custom recipes](https://help.fontlab.com/fontlab-vi/Tutorial-Using-Recipes-2/)  
++ [Code Syntaxes in FontLab 8](https://youtu.be/dyQkrFk8EGA?si=tunqz9Hbhms5XXrV)  
   
-### The smooth breathing diacritical mark Psili (/uni1FBF)  
+## The smooth breathing diacritical mark Psili (/uni1FBF)  
 
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="200" />  | &nbsp; | **Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ**  | &nbsp; | **ἀ ἐ ἠ ἰ ὀ ὠ** |  
-| &nbsp; | &nbsp; | /uni1F08 /uni1F18 /uni1F28 /uni1F38 /uni1F48 /uni1F68 | &nbsp; | /uni1F00 /uni1F10 /uni1F20 /uni1F30 /uni1F40 /uni1F60 |  
+| &nbsp; | &nbsp; | code points: /uni1F08 /uni1F18 /uni1F28 /uni1F38 /uni1F48 /uni1F68 | &nbsp; | code points: /uni1F00 /uni1F10 /uni1F20 /uni1F30 /uni1F40 /uni1F60 |  
 
-**• Uppercase letters:** ἈἘἨἸὈὨ  
-**• Lowercase letters:** ἀἐἠἰὀὠ  
+**• Uppercase letters (9):** ἈἘἨἸὈὨᾈᾘᾨ  
+**• Lowercase letters (11):** ἀἐἠἰὀὐὠῤᾀᾐᾠ  
   
-### The rough breathing diacritical mark Dasia (/uni1FFE)  
+## The rough breathing diacritical mark Dasia (/uni1FFE)  
   
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFE_Dasia.png" width="200" />  | &nbsp; | **Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ**  | &nbsp; | **ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ** |  
-| &nbsp; | &nbsp; | /uni1F09 /uni1F19 /uni1F29 /uni1F39 /uni1F49 /uni1F59 /uni1F69 /uni1F89 /uni1F99 /uni1FA9 /uni1FEC | &nbsp; | /uni1F01 /uni1F11 /uni1F21 /uni1F31 /uni1F41 /uni1F51 /uni1F61 /uni1F81 /uni1F91 /uni1FA1 /uni1FE5 |  
+| &nbsp; | &nbsp; | code points: /uni1F09 /uni1F19 /uni1F29 /uni1F39 /uni1F49 /uni1F59 /uni1F69 /uni1F89 /uni1F99 /uni1FA9 /uni1FEC | &nbsp; | code points: /uni1F01 /uni1F11 /uni1F21 /uni1F31 /uni1F41 /uni1F51 /uni1F61 /uni1F81 /uni1F91 /uni1FA1 /uni1FE5 |  
 
-**• Uppercase letters:** ἉἙἩἹὉὙὩᾉᾙᾩῬ  
-**• Lowercase letters:** ἁἑἡἱὁὑὡᾁᾑᾡῥ  
+**• Uppercase letters (11):** ἉἙἩἹὉὙὩᾉᾙᾩῬ  
+**• Lowercase letters (11):** ἁἑἡἱὁὑὡῥᾁᾑᾡ  
   
-### Accent mark Oxia (/uni1FFD)   
+## Accent mark Oxia (/uni1FFD)   
     
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFD_Oxia.png" width="200" />  | &nbsp; | **Ά Έ Ή Ί Ό Ύ Ώ**  | &nbsp; | **ά έ ή ί ό ύ ώ** |  
-| &nbsp; | &nbsp; | /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F | &nbsp; | /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE |  
+| &nbsp; | &nbsp; | code points: /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F | &nbsp; | code points: /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE |  
 
-**• Uppercase letters:** ΆΈΉΊΌΎΏ  
-**• Lowercase letters:** άέήίόύώ  
+**• Uppercase letters (8):** ΆΈΉΊΌΎΏϓ (code points: /uni1FBB /uni1FC9 /uni1FCB /uni1FDB /uni1FF9 /uni1FEB /uni1FFB /uni03D3)  
+**• Lowercase letters (7):** άέήίόύώ (code points: /uni1F71 /uni1F73 /uni1F75 /uni1F77 /uni1F79 /uni1F7B /uni1F7D)  
   
-### Accent mark Varia (/uni1FEF)  
+## Accent mark Tonos (/uni0384)   
+
+**• Uppercase letters (7):** ΆΈΉΊΌΎΏ (code points: /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F)  
+**• Lowercase letters (7):** άέήίόύώ (code points: /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE)  
+  
+## Accent mark Varia (/uni1FEF)  
     
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FEF_Varia.png" width="200" />  | &nbsp; | **Ὰ Ὲ Ὴ Ὶ Ὸ Ὺ Ὼ**  | &nbsp; | **ὰ ὲ ὴ ὶ ὸ ὺ ὼ** |  
-| &nbsp; | &nbsp; | /uni1FBA /uni1FC8 /uni1FCA /uni1FDA /uni1FF8 /uni1FEA /uni1FFA | &nbsp; | /uni1F70 /uni1F72 /uni1F74 /uni1F76 /uni1F78 /uni1F7A /uni1F7C |  
+| &nbsp; | &nbsp; | code points: /uni1FBA /uni1FC8 /uni1FCA /uni1FDA /uni1FF8 /uni1FEA /uni1FFA | &nbsp; | code points: /uni1F70 /uni1F72 /uni1F74 /uni1F76 /uni1F78 /uni1F7A /uni1F7C |  
 
-**• Uppercase letters:** ᾺῈῊῚῸῪῺ  
-**• Lowercase letters:** ὰὲὴὶὸὺὼ  
+**• Uppercase letters (7):** ᾺῈῊῚῸῪῺ  
+**• Lowercase letters (7):** ὰὲὴὶὸὺὼ  
   
-## Combined diacritics    
-  
-### Psili and Varia (/uni1FCD)    
+## Iota subscript / Greek Ypogegrammeni (/uni0345)  
+**• Uppercase letters (27):** ᾼᾈᾉᾌᾍᾊᾋᾎᾏῌᾘᾙᾜᾝᾚᾞᾛᾟῼᾨᾩᾬᾭᾪᾫᾮᾯ  
+**• Lowercase letters (36):** ᾳᾴᾲᾀᾁᾄᾅᾂᾃᾆᾇᾷῃῄῂᾐᾑᾔᾕᾒᾓᾖᾗῇῳῴῲᾠᾡᾤᾥᾢᾣᾦᾧῷ      
+	  
+## Psili and Varia (/uni1FCD)    
   
 **• Uppercase letters:** ἊἚἪἺὊὛὪ    
 **• Lowercase letters:** ἂἒἢἲὂὓὢ  
   
-### Dasia and Varia (/uni1FDD)    
+## Dasia and Varia (/uni1FDD)    
   
 **• Uppercase letters:** ἋἛἫἻὋὫ    
 **• Lowercase letters:** ἃἓἣἳὃὣ  
   
-### Psili and Oxia (/uni1FCE)    
+## Psili and Oxia (/uni1FCE)    
   
 **• Uppercase letters:** ἌἜἬἼὌὬ    
 **• Lowercase letters:** ἄἔἤἴὄὤ  
   
-### Dasia and Oxia (/uni1FDE)    
+## Dasia and Oxia (/uni1FDE)    
   
 **• Uppercase letters:** ἍἝἭἽὍὝὭ    
 **• Lowercase letters:** ἅἕἥἵὅὕὥ  
   
-### Greek Extended  
+## Greek Extended  
 Official Unicode Consortium code chart: [PDF](https://www.unicode.org/charts/PDF/U1F00.pdf) 
 As of Unicode version 15.1   
   
@@ -129,7 +137,7 @@ As of Unicode version 15.1
 | U+1FEx | ῠ | ῡ | ῢ | ΰ | ῤ | ῥ | ῦ | ῧ | Ῠ | Ῡ | Ὺ | Ύ | Ῥ | ῭ | ΅ | ` |  
 | U+1FFx | &nbsp; | &nbsp; | ῲ | ῳ | ῴ | &nbsp; | ῶ | ῷ | Ὸ | Ό | Ὼ | Ώ | ῼ | ´ | ῾ | &nbsp; |    
   
-#### Polytonic Greek uppercase letters (96)  
+### Polytonic Greek uppercase letters (96)  
   
 ἈἉἊἋἌἍἎἏᾺΆᾸᾹᾼᾈᾉᾊᾋᾌᾍᾎᾏ  
 ἘἙἚἛἜἝῈΈ  
@@ -141,7 +149,7 @@ As of Unicode version 15.1
 ὨὩὪὫὬὭὮὯῺΏῼᾨᾩᾪᾫᾬᾭᾮᾯ  
   
   
-#### Polytonic Greek lowercase letters (121)
+### Polytonic Greek lowercase letters (121)
 
 ἀἁἂἃἄἅἆἇὰάᾰᾱᾶᾳᾲᾴᾀᾁᾂᾃᾄᾅᾆᾇᾷ  
 ἐἑἒἓἔἕὲέ  
