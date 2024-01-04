@@ -14,4 +14,6 @@
 | ὅσαι (10) δ᾽ εἰσὶ τῶν τοιούτων ὑπὸ μίαν τινὰ δύναμιν, καθάπερ ὑπὸ τὴν ἱππικὴν χαλινοποιικὴ καὶ ὅσαι ἄλλαι τῶν ἱππικῶν ὀργάνων εἰσίν, αὕτη δὲ καὶ πᾶσα πολεμικὴ πρᾶξις ὑπὸ τὴν στρατηγικήν, κατὰ τὸν αὐτὸν δὴ τρόπον ἄλλαι ὑφ᾽ ἑτέρας· ἐν ἁπάσαις δὲ τὰ τῶν ἀρχιτεκτονικῶν τέλη πάντων (15) ἐστὶν αἱρετώτερα τῶν ὑπ᾽ αὐτά· τούτων γὰρ χάριν κἀκεῖνα διώκεται. | But where such arts fall under a single capacity- as bridle-making and the other arts concerned with the equipment of horses fall under the art of riding, and this and every military action under strategy, in the same way other arts fall under yet others- in all of these the ends of the master arts are to be preferred to all the subordinate ends; for it is for the sake of the former that the latter are pursued. |  
 | διαφέρει δ᾽ οὐδὲν τὰς ἐνεργείας αὐτὰς εἶναι τὰ τέλη τῶν πράξεων ἢ παρὰ ταύτας ἄλλο τι, καθάπερ ἐπὶ τῶν λεχθεισῶν ἐπιστημῶν. | It makes no difference whether the activities themselves are the ends of the actions, or something else apart from the activities, as in the case of the sciences just mentioned. |  
   
-Source: [mikrosapoplous](https://www.mikrosapoplous.gr/aristotle/nicom1a.htm)
+### Sources
++ [mikrosapoplous](https://www.mikrosapoplous.gr/aristotle/nicom1a.htm)  
++ [Perseus Collection. Greek and Roman Materials](https://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman)  
