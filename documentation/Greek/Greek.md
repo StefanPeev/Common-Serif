@@ -50,7 +50,7 @@ About the code syntaxes and its use in FontLab see:
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FBF_Psili.png" width="200" />  | &nbsp; | **Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ**  | &nbsp; | **ἀ ἐ ἠ ἰ ὀ ὠ** |  
-| &nbsp; | &nbsp; | code points: /uni1F08 /uni1F18 /uni1F28 /uni1F38 /uni1F48 /uni1F68 | &nbsp; | code points: /uni1F00 /uni1F10 /uni1F20 /uni1F30 /uni1F40 /uni1F60 |  
+| &nbsp; | &nbsp; | codepoints: /uni1F08 /uni1F18 /uni1F28 /uni1F38 /uni1F48 /uni1F68 | &nbsp; | codepoints: /uni1F00 /uni1F10 /uni1F20 /uni1F30 /uni1F40 /uni1F60 |  
 
 **• Uppercase letters (9):** ἈἘἨἸὈὨᾈᾘᾨ  
 **• Lowercase letters (11):** ἀἐἠἰὀὐὠῤᾀᾐᾠ  
@@ -60,7 +60,7 @@ About the code syntaxes and its use in FontLab see:
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFE_Dasia.png" width="200" />  | &nbsp; | **Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ ᾉ ᾙ ᾩ Ῥ**  | &nbsp; | **ἁ ἑ ἡ ἱ ὁ ὑ ὡ ᾁ ᾑ ᾡ ῥ** |  
-| &nbsp; | &nbsp; | code points: /uni1F09 /uni1F19 /uni1F29 /uni1F39 /uni1F49 /uni1F59 /uni1F69 /uni1F89 /uni1F99 /uni1FA9 /uni1FEC | &nbsp; | code points: /uni1F01 /uni1F11 /uni1F21 /uni1F31 /uni1F41 /uni1F51 /uni1F61 /uni1F81 /uni1F91 /uni1FA1 /uni1FE5 |  
+| &nbsp; | &nbsp; | codepoints: /uni1F09 /uni1F19 /uni1F29 /uni1F39 /uni1F49 /uni1F59 /uni1F69 /uni1F89 /uni1F99 /uni1FA9 /uni1FEC | &nbsp; | codepoints: /uni1F01 /uni1F11 /uni1F21 /uni1F31 /uni1F41 /uni1F51 /uni1F61 /uni1F81 /uni1F91 /uni1FA1 /uni1FE5 |  
 
 **• Uppercase letters (11):** ἉἙἩἹὉὙὩᾉᾙᾩῬ  
 **• Lowercase letters (11):** ἁἑἡἱὁὑὡῥᾁᾑᾡ  
@@ -70,29 +70,35 @@ About the code syntaxes and its use in FontLab see:
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FFD_Oxia.png" width="200" />  | &nbsp; | **Ά Έ Ή Ί Ό Ύ Ώ**  | &nbsp; | **ά έ ή ί ό ύ ώ** |  
-| &nbsp; | &nbsp; | code points: /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F | &nbsp; | code points: /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE |  
+| &nbsp; | &nbsp; | codepoints: /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F | &nbsp; | codepoints: /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE |  
 
-**• Uppercase letters (8):** ΆΈΉΊΌΎΏϓ (code points: /uni1FBB /uni1FC9 /uni1FCB /uni1FDB /uni1FF9 /uni1FEB /uni1FFB /uni03D3)  
-**• Lowercase letters (7):** άέήίόύώ (code points: /uni1F71 /uni1F73 /uni1F75 /uni1F77 /uni1F79 /uni1F7B /uni1F7D)  
+**• Uppercase letters (8):** ΆΈΉΊΌΎΏϓ (codepoints: /uni1FBB /uni1FC9 /uni1FCB /uni1FDB /uni1FF9 /uni1FEB /uni1FFB /uni03D3)  
+**• Lowercase letters (7):** άέήίόύώ (codepoints: /uni1F71 /uni1F73 /uni1F75 /uni1F77 /uni1F79 /uni1F7B /uni1F7D)  
   
 ## Accent mark Tonos (/uni0384)   
 
-**• Uppercase letters (7):** ΆΈΉΊΌΎΏ (code points: /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F)  
-**• Lowercase letters (7):** άέήίόύώ (code points: /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE)  
+**• Uppercase letters (7):** ΆΈΉΊΌΎΏ (codepoints: /uni0386 /uni0388 /uni0389 /uni038A /uni038C /uni038E /uni038F)  
+**• Lowercase letters (7):** άέήίόύώ (codepoints: /uni03AC /uni03AD /uni03AE /uni03AF /uni03CC /uni03CD /uni03CE)  
   
 ## Accent mark Varia (/uni1FEF)  
     
 | **Glyph Image**     | &nbsp; |  **Uppercase Letters** | &nbsp; | **Lowercase Letters** |
 | :----------- | :----------- | :----------- | :----------- | :----------- |
 | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni1FEF_Varia.png" width="200" />  | &nbsp; | **Ὰ Ὲ Ὴ Ὶ Ὸ Ὺ Ὼ**  | &nbsp; | **ὰ ὲ ὴ ὶ ὸ ὺ ὼ** |  
-| &nbsp; | &nbsp; | code points: /uni1FBA /uni1FC8 /uni1FCA /uni1FDA /uni1FF8 /uni1FEA /uni1FFA | &nbsp; | code points: /uni1F70 /uni1F72 /uni1F74 /uni1F76 /uni1F78 /uni1F7A /uni1F7C |  
+| &nbsp; | &nbsp; | codepoints: /uni1FBA /uni1FC8 /uni1FCA /uni1FDA /uni1FF8 /uni1FEA /uni1FFA | &nbsp; | codepoints: /uni1F70 /uni1F72 /uni1F74 /uni1F76 /uni1F78 /uni1F7A /uni1F7C |  
 
 **• Uppercase letters (7):** ᾺῈῊῚῸῪῺ  
 **• Lowercase letters (7):** ὰὲὴὶὸὺὼ  
   
-## Iota subscript / Greek Ypogegrammeni (/uni0345)  
+## Iota subscript (Greek ypogegrammeni, codepoint: /uni0345) and iota adscript (Greek prosgegrammeni, codepoint: /uni1FBE)  
+  
+Iota subscript and iota adscript are diacritical marks in Polytonic Greek. They have a similiar look and functionality but differ as an Unicode codepoints and as a positioning in the M-cell. The origin of both (iota subscript and iota adscript) is the lowercase Greek iota, but the iota subscript is as small as that to be placed under the baseline and vertical centered under the glyphs Α, Η, Ω, α, ω and aligned with the left stem of η. The Unicode codepoint of iota subscript is /uni0345, which means that iota subscript is a part of the Unicode block Combining Diacritical Marks. All the glyphs in the block Combining Diacritical Marks have a zero M-cell width.   
 **• Uppercase letters (27):** ᾼᾈᾉᾌᾍᾊᾋᾎᾏῌᾘᾙᾜᾝᾚᾞᾛᾟῼᾨᾩᾬᾭᾪᾫᾮᾯ  
-**• Lowercase letters (36):** ᾳᾴᾲᾀᾁᾄᾅᾂᾃᾆᾇᾷῃῄῂᾐᾑᾔᾕᾒᾓᾖᾗῇῳῴῲᾠᾡᾤᾥᾢᾣᾦᾧῷ      
+**• Lowercase letters (36):** ᾳᾴᾲᾀᾁᾄᾅᾂᾃᾆᾇᾷῃῄῂᾐᾑᾔᾕᾒᾓᾖᾗῇῳῴῲᾠᾡᾤᾥᾢᾣᾦᾧῷ  
+  
+#### Sources:  
+Wikipedia. [Iota subscript](https://en.wikipedia.org/wiki/Iota_subscript)  
+Ancient Greek. [More sounds and punctuation. Iota subscript and adscript](https://books.openbookpublishers.com/10.11647/obp.0264/ch2.xhtml)  
 	  
 ## Psili and Varia (/uni1FCD)    
   
