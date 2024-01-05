@@ -24,13 +24,14 @@ U+20DD ◌⃝ COMBINING ENCLOSING CIRCLE (= Cyrillic ten thousands sign), in Com
 In the table below, small letters are ordered according to their Unicode numbers; capital letters are placed immediately before the corresponding small letters. Standard Unicode names and canonical decompositions are included.  
   
 #### Sources:  
-Wikipedia. [Cyrillic script in Unicode](https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode)  
+Wikipedia. [Cyrillic script in Unicode](https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode){:target="_blank"}  
 Wikipedia. [List of Cyrillic letters](https://en.wikipedia.org/wiki/List_of_Cyrillic_letters)  
 Wikipedia. [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script)  
 Wikipedia. [Cyrillic alphabets](https://en.wikipedia.org/wiki/Cyrillic_alphabets)  
 Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrillic_alphabet)  
   
-**Cyrillic characters**  
+## Cyrillic characters  
+### Basic Cyrillic alphabet (0410:044F)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
