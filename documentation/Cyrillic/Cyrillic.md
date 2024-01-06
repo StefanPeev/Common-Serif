@@ -67,8 +67,8 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 042D | Э | CYRILLIC CAPITAL LETTER E | 044D | э | CYRILLIC SMALL LETTER E | |
 | 042E | Ю | CYRILLIC CAPITAL LETTER YU | 044E | ю | CYRILLIC SMALL LETTER YU | |
 | 042F | Я | CYRILLIC CAPITAL LETTER YA | 044F | я | CYRILLIC SMALL LETTER YA | |  
-##  Cyrillic extensions
-### Unicode range (0400 : 040F, 0450 : 045F)  
+  
+###  Cyrillic extensions. Unicode range (0400 : 040F, 0450 : 045F)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
@@ -89,8 +89,7 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 040E | Ў | CYRILLIC CAPITAL LETTER SHORT U (0423 0306) | 045E | ў | CYRILLIC SMALL LETTER SHORT U (0443 0306) | Used in Belarusian, Dungan, Uzbek, and Siberian Yupik. |
 | 040F | Џ | CYRILLIC CAPITAL LETTER DZHE | 045F | џ | CYRILLIC SMALL LETTER DZHE | Used in Serbian, Macedonian, and Abkhaz. In Serbian and Macedonian, it is considered a separate letter, placed between Ч and Ш. In Abkhaz, it acts like the Serbian Ђ, placed near the end of the Abkhaz alphabet, after Ҩ. |  
   
-## Historic letters
-### Uncode range (0460 : 0481)
+### Historic letters. Uncode range (0460 : 0481)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
