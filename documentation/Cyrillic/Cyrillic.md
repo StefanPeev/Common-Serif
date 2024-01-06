@@ -31,7 +31,7 @@ Wikipedia. [Cyrillic alphabets](https://en.wikipedia.org/wiki/Cyrillic_alphabets
 Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrillic_alphabet)  
   
 ## Cyrillic characters  
-### Basic Cyrillic alphabet (0410:044F)  
+### Basic Cyrillic alphabet. Unicode range (0410 : 044F)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
@@ -68,14 +68,14 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 042E | Ю | CYRILLIC CAPITAL LETTER YU | 044E | ю | CYRILLIC SMALL LETTER YU | |
 | 042F | Я | CYRILLIC CAPITAL LETTER YA | 044F | я | CYRILLIC SMALL LETTER YA | |  
 ##  Cyrillic extensions
-### Cyrillic extensions (0400:040F, 0450:045F)  
+### Unicode range (0400 : 040F, 0450 : 045F)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
-| 0400 | Ѐ | CYRILLIC CAPITAL LETTER IE WITH GRAVE (0415 0300) | 0450 | ѐ | CYRILLIC SMALL LETTER IE WITH GRAVE (0435 0300 | Used in Macedonian to represent a stressed Е. Not considered a separate letter, but merely the letter Е with a grave accent. |
-| 0401 | Ё | CYRILLIC CAPITAL LETTER IO (0415 0308) | 0451 | ё | CYRILLIC SMALL LETTER IO (0435 0308 | Used in Russian, Belarusian, Rusyn, Mongolian, and others. Considered a separate letter, after the letter Е, but not collated separately from Е in Russian. |
+| 0400 | Ѐ | CYRILLIC CAPITAL LETTER IE WITH GRAVE (0415 0300) | 0450 | ѐ | CYRILLIC SMALL LETTER IE WITH GRAVE (0435 0300) | Used in Macedonian to represent a stressed Е. Not considered a separate letter, but merely the letter Е with a grave accent. |
+| 0401 | Ё | CYRILLIC CAPITAL LETTER IO (0415 0308) | 0451 | ё | CYRILLIC SMALL LETTER IO (0435 0308) | Used in Russian, Belarusian, Rusyn, Mongolian, and others. Considered a separate letter, after the letter Е, but not collated separately from Е in Russian. |
 | 0402 | Ђ | CYRILLIC CAPITAL LETTER DJE | 0452 | ђ | CYRILLIC SMALL LETTER DJE | Used in Serbian. Invented as a new letter, placed between Д and Е. |
-| 0403 | Ѓ | CYRILLIC CAPITAL LETTER GJE (0413 0301) | 0453 | ѓ | CYRILLIC SMALL LETTER GJE (0433 0301 | Used in Macedonian. Considered as a new letter, placed between Д and Е. |
+| 0403 | Ѓ | CYRILLIC CAPITAL LETTER GJE (0413 0301) | 0453 | ѓ | CYRILLIC SMALL LETTER GJE (0433 0301) | Used in Macedonian. Considered as a new letter, placed between Д and Е. |
 | 0404 | Є | CYRILLIC CAPITAL LETTER UKRAINIAN IE | 0454 | є | CYRILLIC SMALL LETTER UKRAINIAN IE | Used in Ukrainian, based on the Old Cyrillic yest. Considered a separate letter, placed after Е. |
 | 0405 | Ѕ | CYRILLIC CAPITAL LETTER DZE | 0455 | ѕ | CYRILLIC SMALL LETTER DZE | Used in Macedonian and Montenegrin. Placed between З and И. |
 | 0406 | І | CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I | 0456 | і | CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I | Used in Belarusian, Kazakh, Khakas, Komi, Rusyn, and Ukrainian. Replaces И in those alphabets. Known as “Dotted I” or “Decimal I” (“i desyaterichnoe”). |
@@ -84,8 +84,31 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 0409 | Љ | CYRILLIC CAPITAL LETTER LJE | 0459 | љ | CYRILLIC SMALL LETTER LJE | Used in Serbian and Macedonian. Ligature of Л and the Russian ь. Considered a separate letter, placed after Л. |
 | 040A | Њ | CYRILLIC CAPITAL LETTER NJE | 045A | њ | CYRILLIC SMALL LETTER NJE | Used in Serbian and Macedonian. Ligature of Н and the Russian ь. Considered a separate letter, placed after Н. |
 | 040B | Ћ | CYRILLIC CAPITAL LETTER TSHE | 045B | ћ | CYRILLIC SMALL LETTER TSHE | Used in Serbian. Invented as a new letter, placed between Т and У. |
-| 040C | Ќ | CYRILLIC CAPITAL LETTER KJE (041A 0301) | 045C | ќ | CYRILLIC SMALL LETTER KJE (043A 0301 | Used in Macedonian. Considered as a new letter, placed between Т and У. |
+| 040C | Ќ | CYRILLIC CAPITAL LETTER KJE (041A 0301) | 045C | ќ | CYRILLIC SMALL LETTER KJE (043A 0301) | Used in Macedonian. Considered as a new letter, placed between Т and У. |
 | 040D | Ѝ | CYRILLIC CAPITAL LETTER I WITH GRAVE (0418 0300) | 045D | ѝ | CYRILLIC SMALL LETTER I WITH GRAVE (0438 0300) | Used mostly in Bulgarian and Macedonian. Not considered a separate letter, but merely the letter И with a grave accent. |
-| 040E | Ў | CYRILLIC CAPITAL LETTER SHORT U (0423 0306) | 045E | ў | CYRILLIC SMALL LETTER SHORT U (0443 0306 | Used in Belarusian, Dungan, Uzbek, and Siberian Yupik. |
+| 040E | Ў | CYRILLIC CAPITAL LETTER SHORT U (0423 0306) | 045E | ў | CYRILLIC SMALL LETTER SHORT U (0443 0306) | Used in Belarusian, Dungan, Uzbek, and Siberian Yupik. |
 | 040F | Џ | CYRILLIC CAPITAL LETTER DZHE | 045F | џ | CYRILLIC SMALL LETTER DZHE | Used in Serbian, Macedonian, and Abkhaz. In Serbian and Macedonian, it is considered a separate letter, placed between Ч and Ш. In Abkhaz, it acts like the Serbian Ђ, placed near the end of the Abkhaz alphabet, after Ҩ. |  
+  
+## Historic letters
+### Uncode range (0460 : 0481)
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|--|--|--|--|--|--|--|
+| 0460 | Ѡ | CYRILLIC CAPITAL LETTER OMEGA | 0461 | ѡ | CYRILLIC SMALL LETTER OMEGA | From the  Greek letter  Ω ω |
+| 0462 | Ѣ | CYRILLIC CAPITAL LETTER YAT | 0463 | ѣ | CYRILLIC SMALL LETTER YAT | |
+| 0464 | Ѥ | CYRILLIC CAPITAL LETTER IOTIFIED E | 0465 | ѥ | CYRILLIC SMALL LETTER IOTIFIED E | |
+| 0466 | Ѧ | CYRILLIC CAPITAL LETTER LITTLE YUS | 0467 | ѧ | CYRILLIC SMALL LETTER LITTLE YUS | Used in the early Cyrillic and Glagolitic alphabets. |
+| 0468 | Ѩ | CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS | 0469 | ѩ | CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS | |
+| 046A | Ѫ | CYRILLIC CAPITAL LETTER BIG YUS | 046B | ѫ | CYRILLIC SMALL LETTER BIG YUS | |
+| 046C | Ѭ | CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS | 046D | ѭ | CYRILLIC SMALL LETTER IOTIFIED BIG YUS | |
+| 046E | Ѯ | CYRILLIC CAPITAL LETTER KSI | 046F | ѯ | CYRILLIC SMALL LETTER KSI | From the Greek letter Ξ ξ. |
+| 0470 | Ѱ | CYRILLIC CAPITAL LETTER PSI | 0471 | ѱ | CYRILLIC SMALL LETTER PSI | From the Greek letter Ψ ψ. |
+| 0472 | Ѳ | CYRILLIC CAPITAL LETTER FITA | 0473 | ѳ | CYRILLIC SMALL LETTER FITA | From the Greek letter Θ θ. |
+| 0474 | Ѵ | CYRILLIC CAPITAL LETTER IZHITSA | 0475 | ѵ | CYRILLIC SMALL LETTER IZHITSA | From the Greek letter Υ υ or Glagolitic Ⱛ ⱛ. |
+| 0476 |Ѷ |CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT (0474 030F) | 0477 | ѷ | CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT (0475 030F) | |
+| 0478 | Ѹ | CYRILLIC CAPITAL LETTER UK | 0479 | ѹ | CYRILLIC SMALL LETTER UK | May be rendered as either monograph or digraph form: - For the monograph form, the preferred characters are A64A and A64B (Ꙋ and ꙋ); -   For the digraph form, the preferred character sequences are 041E 0443 and 043E 0443 (ОУ and оу) |
+| 047A | Ѻ | CYRILLIC CAPITAL LETTER ROUND OMEGA | 047B | ѻ | CYRILLIC SMALL LETTER ROUND OMEGA | |
+| 047C | Ѽ | CYRILLIC CAPITAL LETTER OMEGA WITH TITLO | 047D | ѽ | CYRILLIC SMALL LETTER OMEGA WITH TITLO | Cyrillic "beautiful omega". Despite its character name, this letter does not have a titlo, nor is it composed of an omega plus a diacritic. |
+| 047E | Ѿ | CYRILLIC CAPITAL LETTER OT | 047F | ѿ | CYRILLIC SMALL LETTER OT | |
+| 0480 | Ҁ | CYRILLIC CAPITAL LETTER KOPPA | 0481 | ҁ | CYRILLIC SMALL LETTER KOPPA | From the ancient Greek Ϙ "Koppa (letter)" |
   
