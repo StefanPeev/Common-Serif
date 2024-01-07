@@ -34,7 +34,7 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 Table of content
 + Cyrillic characters[^1]  
 + Cyrillic extensions[^2]  
-Cyrillic extensions  
++ Extended Cyrillic[^3]  
   
   
 ## Cyrillic characters[^1]  
@@ -98,7 +98,8 @@ Cyrillic extensions
 
 
 
-### Extended Cyrillic
+### Extended Cyrillic[^3]  
+  
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
 | 048A | Ҋ | CYRILLIC CAPITAL LETTER SHORT I WITH TAIL | 048B | ҋ | CYRILLIC SMALL LETTER SHORT I WITH TAIL | * Kildin Sami |
