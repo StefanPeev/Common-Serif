@@ -87,43 +87,9 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 040C | Ќ | CYRILLIC CAPITAL LETTER KJE (041A 0301) | 045C | ќ | CYRILLIC SMALL LETTER KJE (043A 0301) | Used in Macedonian. Considered as a new letter, placed between Т and У. |
 | 040D | Ѝ | CYRILLIC CAPITAL LETTER I WITH GRAVE (0418 0300) | 045D | ѝ | CYRILLIC SMALL LETTER I WITH GRAVE (0438 0300) | Used mostly in Bulgarian and Macedonian. Not considered a separate letter, but merely the letter И with a grave accent. |
 | 040E | Ў | CYRILLIC CAPITAL LETTER SHORT U (0423 0306) | 045E | ў | CYRILLIC SMALL LETTER SHORT U (0443 0306) | Used in Belarusian, Dungan, Uzbek, and Siberian Yupik. |
-| 040F | Џ | CYRILLIC CAPITAL LETTER DZHE | 045F | џ | CYRILLIC SMALL LETTER DZHE | Used in Serbian, Macedonian, and Abkhaz. In Serbian and Macedonian, it is considered a separate letter, placed between Ч and Ш. In Abkhaz, it acts like the Serbian Ђ, placed near the end of the Abkhaz alphabet, after Ҩ. |  
-  
-### Historic letters. Uncode range (0460 : 0481)  
-  
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|--|--|--|--|--|--|--|
-| 0460 | Ѡ | CYRILLIC CAPITAL LETTER OMEGA | 0461 | ѡ | CYRILLIC SMALL LETTER OMEGA | From the  Greek letter  Ω ω |
-| 0462 | Ѣ | CYRILLIC CAPITAL LETTER YAT | 0463 | ѣ | CYRILLIC SMALL LETTER YAT | |
-| 0464 | Ѥ | CYRILLIC CAPITAL LETTER IOTIFIED E | 0465 | ѥ | CYRILLIC SMALL LETTER IOTIFIED E | |
-| 0466 | Ѧ | CYRILLIC CAPITAL LETTER LITTLE YUS | 0467 | ѧ | CYRILLIC SMALL LETTER LITTLE YUS | Used in the early Cyrillic and Glagolitic alphabets. |
-| 0468 | Ѩ | CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS | 0469 | ѩ | CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS | |
-| 046A | Ѫ | CYRILLIC CAPITAL LETTER BIG YUS | 046B | ѫ | CYRILLIC SMALL LETTER BIG YUS | |
-| 046C | Ѭ | CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS | 046D | ѭ | CYRILLIC SMALL LETTER IOTIFIED BIG YUS | |
-| 046E | Ѯ | CYRILLIC CAPITAL LETTER KSI | 046F | ѯ | CYRILLIC SMALL LETTER KSI | From the Greek letter Ξ ξ. |
-| 0470 | Ѱ | CYRILLIC CAPITAL LETTER PSI | 0471 | ѱ | CYRILLIC SMALL LETTER PSI | From the Greek letter Ψ ψ. |
-| 0472 | Ѳ | CYRILLIC CAPITAL LETTER FITA | 0473 | ѳ | CYRILLIC SMALL LETTER FITA | From the Greek letter Θ θ. |
-| 0474 | Ѵ | CYRILLIC CAPITAL LETTER IZHITSA | 0475 | ѵ | CYRILLIC SMALL LETTER IZHITSA | From the Greek letter Υ υ or Glagolitic Ⱛ ⱛ. |
-| 0476 |Ѷ |CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT (0474 030F) | 0477 | ѷ | CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT (0475 030F) | |
-| 0478 | Ѹ | CYRILLIC CAPITAL LETTER UK | 0479 | ѹ | CYRILLIC SMALL LETTER UK | May be rendered as either monograph or digraph form: - For the monograph form, the preferred characters are A64A and A64B (Ꙋ and ꙋ); -   For the digraph form, the preferred character sequences are 041E 0443 and 043E 0443 (ОУ and оу) |
-| 047A | Ѻ | CYRILLIC CAPITAL LETTER ROUND OMEGA | 047B | ѻ | CYRILLIC SMALL LETTER ROUND OMEGA | |
-| 047C | Ѽ | CYRILLIC CAPITAL LETTER OMEGA WITH TITLO | 047D | ѽ | CYRILLIC SMALL LETTER OMEGA WITH TITLO | Cyrillic "beautiful omega". Despite its character name, this letter does not have a titlo, nor is it composed of an omega plus a diacritic. |
-| 047E | Ѿ | CYRILLIC CAPITAL LETTER OT | 047F | ѿ | CYRILLIC SMALL LETTER OT | |
-| 0480 | Ҁ | CYRILLIC CAPITAL LETTER KOPPA | 0481 | ҁ | CYRILLIC SMALL LETTER KOPPA | From the ancient Greek Ϙ "Koppa (letter)" |
-  
-### Historic miscellaneous   
-  
-| Code | Char | Name Canonical decomposition | Comment |  
-|--|--|--|--|  
-| 0482 | &nbsp;&nbsp; ҂ | CYRILLIC THOUSANDS SIGN |  |  
-| 0483 | &nbsp;&nbsp; ҃ | COMBINING CYRILLIC TITLO | not used with letter titlos |  
-| 0484 |&nbsp;&nbsp; ҄ | COMBINING CYRILLIC PALATALIZATION |  |  
-| 0485 |&nbsp;&nbsp; ҅ | COMBINING CYRILLIC DASIA PNEUMATA |  |  
-| 0486 |&nbsp;&nbsp; ҆ | COMBINING CYRILLIC PSILI PNEUMATA |  |  
-| 0487 |&nbsp;&nbsp; ҇ | COMBINING CYRILLIC POKRYTIE | used only with letter titlos |  
-| 0488 |&nbsp;&nbsp; ҈ | COMBINING CYRILLIC HUNDRED THOUSANDS SIGN | use 20DD for ten thousands sign |  
-| 0489 |&nbsp;&nbsp; ҉ | COMBINING CYRILLIC MILLIONS SIGN |  |  
-  
+| 040F | Џ | CYRILLIC CAPITAL LETTER DZHE | 045F | џ | CYRILLIC SMALL LETTER DZHE | Used in Serbian, Macedonian, and Abkhaz. In Serbian and Macedonian, it is considered a separate letter, placed between Ч and Ш. In Abkhaz, it acts like the Serbian Ђ, placed near the end of the Abkhaz alphabet, after Ҩ. | 
+
+
 
 ### Extended Cyrillic
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
@@ -178,115 +144,65 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 04F2 | Ӳ | CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE0423 030B | 04F3 | ӳ | CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE0443 030B |
 | 04F4 | Ӵ | CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS0427 0308 | 04F5 | ӵ | CYRILLIC SMALL LETTER CHE WITH DIAERESIS0447 0308 |
 | 04F6 | Ӷ | CYRILLIC CAPITAL LETTER GHE WITH DESCENDER | 04F7 | ӷ | CYRILLIC SMALL LETTER GHE WITH DESCENDER | * Yupik |
-| 04F8 | Ӹ | CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS042B 0308 | 04F9 | ӹ | CYRILLIC SMALL LETTER YERU WITH DIAERESIS044B 0308 |
-
-
-### Additions for Nivkh
+| 04F8 | Ӹ | CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS042B 0308 | 04F9 | ӹ | CYRILLIC SMALL LETTER YERU WITH DIAERESIS044B 0308 |  
+  
+  
+### Historic letters. Uncode range (0460 : 0481)  
+  
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 04FA | Ӻ | CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK | 04FB | ӻ | CYRILLIC SMALL LETTER GHE WITH STROKE AND HOOK |
-| 04FC | Ӽ | CYRILLIC CAPITAL LETTER HA WITH HOOK | 04FD | ӽ | CYRILLIC SMALL LETTER HA WITH HOOK |
-| 04FE | Ӿ | CYRILLIC CAPITAL LETTER HA WITH STROKE | 04FF | ӿ | CYRILLIC SMALL LETTER HA WITH STROKE | |
-
-
-### Komi letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 0500 | Ԁ | CYRILLIC CAPITAL LETTER KOMI DE | 0501 | ԁ | CYRILLIC SMALL LETTER KOMI DE |
-| 0502 | Ԃ | CYRILLIC CAPITAL LETTER KOMI DJE | 0503 | ԃ | CYRILLIC SMALL LETTER KOMI DJE |
-| 0504 | Ԅ | CYRILLIC CAPITAL LETTER KOMI ZJE | 0505 | ԅ | CYRILLIC SMALL LETTER KOMI ZJE |
-| 0506 | Ԇ | CYRILLIC CAPITAL LETTER KOMI DZJE | 0507 | ԇ | CYRILLIC SMALL LETTER KOMI DZJE |
-| 0508 | Ԉ | CYRILLIC CAPITAL LETTER KOMI LJE | 0509 | ԉ | CYRILLIC SMALL LETTER KOMI LJE |
-| 050A | Ԋ | CYRILLIC CAPITAL LETTER KOMI NJE | 050B | ԋ | CYRILLIC SMALL LETTER KOMI NJE |
-| 050C | Ԍ | CYRILLIC CAPITAL LETTER KOMI SJE | 050D | ԍ | CYRILLIC SMALL LETTER KOMI SJE |
-| 050E | Ԏ | CYRILLIC CAPITAL LETTER KOMI TJE | 050F | ԏ | CYRILLIC SMALL LETTER KOMI TJE |
-
-
-### Khanty letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 0510 | Ԑ | CYRILLIC CAPITAL LETTER REVERSED ZE | 0511 | ԑ | CYRILLIC SMALL LETTER REVERSED ZE | * also used for Enets |
-| 0512 | Ԓ | CYRILLIC CAPITAL LETTER EL WITH HOOK | 0513 | ԓ | CYRILLIC SMALL LETTER EL WITH HOOK | * also used for Chukchi and Itelmen |
-| 052E | Ԯ | CYRILLIC CAPITAL LETTER EL WITH DESCENDER | 052F | ԯ | CYRILLIC SMALL LETTER EL WITH DESCENDER | |
-
-
-### Mordvin letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 0514 | Ԕ | CYRILLIC CAPITAL LETTER LHA | 0515 | ԕ | CYRILLIC SMALL LETTER LHA | = voiceless l; ligatures of Л and Х; л and х |
-| 0516 | Ԗ | CYRILLIC CAPITAL LETTER RHA | 0517 | ԗ | CYRILLIC SMALL LETTER RHA | = voiceless r; ligatures of Р and Х; р and х |
-| 0518 | Ԙ | CYRILLIC CAPITAL LETTER YAE | 0519 | ԙ | CYRILLIC SMALL LETTER YAE | Ligatures of Я and Е; я and е |
-
-
-### Kurdish letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 051A | Ԛ | CYRILLIC CAPITAL LETTER QA | 051B | ԛ | CYRILLIC SMALL LETTER QA | Based on the Latin letter Q q |
-| 051C | Ԝ | CYRILLIC CAPITAL LETTER WE | 051D | ԝ | CYRILLIC SMALL LETTER WE | Based on the Latin letter W w | | |
-
-
-### Aleut letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 051E | Ԟ | CYRILLIC CAPITAL LETTER ALEUT KA | 051F | ԟ | CYRILLIC SMALL LETTER ALEUT KA | * used for [q] in Aleut |
-
-
-### Chuvash letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 0520 | Ԡ | CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK | 0521 | ԡ | CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK | = palatalized l |
-| 0522 | Ԣ | CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK | 0523 | ԣ | CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK | = palatalized n |
-
-
-### Abkhazian letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 0524 | Ԥ | CYRILLIC CAPITAL LETTER PE WITH DESCENDER | 0525 | ԥ | CYRILLIC SMALL LETTER PE WITH DESCENDER | * used in modern Abkhaz orthography |
-
-
-### Azerbaijani letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 0526 | Ԧ | CYRILLIC CAPITAL LETTER SHHA WITH DESCENDER | 0527 | ԧ | CYRILLIC SMALL LETTER SHHA WITH DESCENDER |
-
-
-### Orok letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 0528 | Ԩ | CYRILLIC CAPITAL LETTER EN WITH LEFT HOOK | 0529 | ԩ | CYRILLIC SMALL LETTER EN WITH LEFT HOOK |
-
-
-### Komi letters
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| 052A | Ԫ | CYRILLIC CAPITAL LETTER DZZHE | 052B | ԫ | CYRILLIC SMALL LETTER DZZHE |
-| 052C | Ԭ | CYRILLIC CAPITAL LETTER DCHE | 052D | ԭ | CYRILLIC SMALL LETTER DCHE | | |
-
-
-### Historic letter variants
-| Code | Char | Name Canonical decomposition | Comment  |
-|----|----|----|----|
-| 1C80 | ᲀ | CYRILLIC SMALL LETTER ROUNDED VE |  |
-| 1C81 | ᲁ | CYRILLIC SMALL LETTER LONG-LEGGED DE |  |
-| 1C82 | ᲂ | CYRILLIC SMALL LETTER NARROW O |  |
-| 1C83 | ᲃ | CYRILLIC SMALL LETTER WIDE ES |  |
-| 1C84 | ᲄ | CYRILLIC SMALL LETTER TALL TE |  |
-| 1C85 | ᲅ | CYRILLIC SMALL LETTER THREE-LEGGED TE |  |
-| 1C86 | ᲆ | CYRILLIC SMALL LETTER TALL HARD SIGN |  |
-| 1C87 | ᲇ | CYRILLIC SMALL LETTER TALL YAT |  |
-| 1C88 | ᲈ | CYRILLIC SMALL LETTER UNBLENDED UK |  |
-
-
-
-### Miscellaneous characters
-| Code | Char | Name Canonical decomposition | Comment  | |
-|----|----|----|----|----|
-| 1D2B | ᴫ | CYRILLIC LETTER SMALL CAPITAL EL | Phonetic transcription | * in italic style, the glyph is obliqued, not italicized |
-| 1D78 | ᵸ | MODIFIER LETTER CYRILLIC EN | | |
-| 20DD | ⃝ | COMBINING ENCLOSING CIRCLE | = Cyrillic combining ten thousands sign; symbol for myriads | |
-
-
+|--|--|--|--|--|--|--|
+| 0460 | Ѡ | CYRILLIC CAPITAL LETTER OMEGA | 0461 | ѡ | CYRILLIC SMALL LETTER OMEGA | From the  Greek letter  Ω ω |
+| 0462 | Ѣ | CYRILLIC CAPITAL LETTER YAT | 0463 | ѣ | CYRILLIC SMALL LETTER YAT | |
+| 0464 | Ѥ | CYRILLIC CAPITAL LETTER IOTIFIED E | 0465 | ѥ | CYRILLIC SMALL LETTER IOTIFIED E | |
+| 0466 | Ѧ | CYRILLIC CAPITAL LETTER LITTLE YUS | 0467 | ѧ | CYRILLIC SMALL LETTER LITTLE YUS | Used in the early Cyrillic and Glagolitic alphabets. |
+| 0468 | Ѩ | CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS | 0469 | ѩ | CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS | |
+| 046A | Ѫ | CYRILLIC CAPITAL LETTER BIG YUS | 046B | ѫ | CYRILLIC SMALL LETTER BIG YUS | |
+| 046C | Ѭ | CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS | 046D | ѭ | CYRILLIC SMALL LETTER IOTIFIED BIG YUS | |
+| 046E | Ѯ | CYRILLIC CAPITAL LETTER KSI | 046F | ѯ | CYRILLIC SMALL LETTER KSI | From the Greek letter Ξ ξ. |
+| 0470 | Ѱ | CYRILLIC CAPITAL LETTER PSI | 0471 | ѱ | CYRILLIC SMALL LETTER PSI | From the Greek letter Ψ ψ. |
+| 0472 | Ѳ | CYRILLIC CAPITAL LETTER FITA | 0473 | ѳ | CYRILLIC SMALL LETTER FITA | From the Greek letter Θ θ. |
+| 0474 | Ѵ | CYRILLIC CAPITAL LETTER IZHITSA | 0475 | ѵ | CYRILLIC SMALL LETTER IZHITSA | From the Greek letter Υ υ or Glagolitic Ⱛ ⱛ. |
+| 0476 |Ѷ |CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT (0474 030F) | 0477 | ѷ | CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT (0475 030F) | |
+| 0478 | Ѹ | CYRILLIC CAPITAL LETTER UK | 0479 | ѹ | CYRILLIC SMALL LETTER UK | May be rendered as either monograph or digraph form: - For the monograph form, the preferred characters are A64A and A64B (Ꙋ and ꙋ); -   For the digraph form, the preferred character sequences are 041E 0443 and 043E 0443 (ОУ and оу) |
+| 047A | Ѻ | CYRILLIC CAPITAL LETTER ROUND OMEGA | 047B | ѻ | CYRILLIC SMALL LETTER ROUND OMEGA | |
+| 047C | Ѽ | CYRILLIC CAPITAL LETTER OMEGA WITH TITLO | 047D | ѽ | CYRILLIC SMALL LETTER OMEGA WITH TITLO | Cyrillic "beautiful omega". Despite its character name, this letter does not have a titlo, nor is it composed of an omega plus a diacritic. |
+| 047E | Ѿ | CYRILLIC CAPITAL LETTER OT | 047F | ѿ | CYRILLIC SMALL LETTER OT | |
+| 0480 | Ҁ | CYRILLIC CAPITAL LETTER KOPPA | 0481 | ҁ | CYRILLIC SMALL LETTER KOPPA | From the ancient Greek Ϙ "Koppa (letter)" |  
+  
+  
 ### Old Cyrillic
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| A640 | Ꙁ | CYRILLIC CAPITAL LETTER ZEMLYA | A641 | ꙁ | CYRILLIC SMALL LETTER ZEMLYA |
+| A642 | Ꙃ | CYRILLIC CAPITAL LETTER DZELO | A643 | ꙃ | CYRILLIC SMALL LETTER DZELO |
+| A644 | Ꙅ | CYRILLIC CAPITAL LETTER REVERSED DZE | A645 | ꙅ | CYRILLIC SMALL LETTER REVERSED DZE |
+| A646 | Ꙇ | CYRILLIC CAPITAL LETTER IOTA | A647 | ꙇ | CYRILLIC SMALL LETTER IOTA |
+| A648 | Ꙉ | CYRILLIC CAPITAL LETTER DJERV | A649 | ꙉ | CYRILLIC SMALL LETTER DJERV |
+| A64A | Ꙋ | CYRILLIC CAPITAL LETTER MONOGRAPH UK | A64B | ꙋ | CYRILLIC SMALL LETTER MONOGRAPH UK |
+| A64C | Ꙍ | CYRILLIC CAPITAL LETTER BROAD OMEGA | A64D | ꙍ | CYRILLIC SMALL LETTER BROAD OMEGA |
+| A64E | Ꙏ | CYRILLIC CAPITAL LETTER NEUTRAL YER | A64F | ꙏ | CYRILLIC SMALL LETTER NEUTRAL YER |
+| A650 | Ꙑ | CYRILLIC CAPITAL LETTER YERU WITH BACK YER | A651 | ꙑ | CYRILLIC SMALL LETTER YERU WITH BACK YER |
+| A652 | Ꙓ | CYRILLIC CAPITAL LETTER IOTIFIED YAT | A653 | ꙓ | CYRILLIC SMALL LETTER IOTIFIED YAT |
+| A654 | Ꙕ | CYRILLIC CAPITAL LETTER REVERSED YU | A655 | ꙕ | CYRILLIC SMALL LETTER REVERSED YU |
+| A656 | Ꙗ | CYRILLIC CAPITAL LETTER IOTIFIED A | A657 | ꙗ | CYRILLIC SMALL LETTER IOTIFIED A |
+| A658 | Ꙙ | CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS | A659 | ꙙ | CYRILLIC SMALL LETTER CLOSED LITTLE YUS |
+| A65A | Ꙛ | CYRILLIC CAPITAL LETTER BLENDED YUS | A65B | ꙛ | CYRILLIC SMALL LETTER BLENDED YUS |
+| A65C | Ꙝ | CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS | A65D | ꙝ | CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS |
+| A65E | Ꙟ | CYRILLIC CAPITAL LETTER YN | A65F | ꙟ | CYRILLIC SMALL LETTER YN | * Romanian Cyrillic |
+| A660 | Ꙡ | CYRILLIC CAPITAL LETTER REVERSED TSE | A661 | ꙡ | CYRILLIC SMALL LETTER REVERSED TSE |
+| A662 | Ꙣ | CYRILLIC CAPITAL LETTER SOFT DE | A663 | ꙣ | CYRILLIC SMALL LETTER SOFT DE |
+| A664 | Ꙥ | CYRILLIC CAPITAL LETTER SOFT EL | A665 | ꙥ | CYRILLIC SMALL LETTER SOFT EL |
+| A666 | Ꙧ | CYRILLIC CAPITAL LETTER SOFT EM | A667 | ꙧ | CYRILLIC SMALL LETTER SOFT EM |
+| A668 | Ꙩ | CYRILLIC CAPITAL LETTER MONOCULAR O | A669 | ꙩ | CYRILLIC SMALL LETTER MONOCULAR O | * used in words based on the root for 'eye' |
+| A66A | Ꙫ | CYRILLIC CAPITAL LETTER BINOCULAR O | A66B | ꙫ | CYRILLIC SMALL LETTER BINOCULAR O | * used in the dual of words based on the root for 'eye' |
+| A66C | Ꙭ | CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O | A66D | ꙭ | CYRILLIC SMALL LETTER DOUBLE MONOCULAR O | * used in the dual of words based on the root for 'eye' |
+| A698 | Ꚙ | CYRILLIC CAPITAL LETTER DOUBLE O | A699 | ꚙ | CYRILLIC SMALL LETTER DOUBLE O | |
+| A66E | ꙮ | CYRILLIC LETTER MULTIOCULAR O | | * used in the epithet 'many-eyed' |
+| A69A | Ꚛ | CYRILLIC CAPITAL LETTER CROSSED O | A69B | ꚛ | CYRILLIC SMALL LETTER CROSSED O | |  
+  
+  
+### Old Church Slavonic combining letters
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | 2DE0 | ⷠ | COMBINING CYRILLIC LETTER BE |
@@ -331,86 +247,187 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | A67B | ꙻ | COMBINING CYRILLIC LETTER OMEGA |
 | A69E | ꚞ | COMBINING CYRILLIC LETTER EF |
 | A69F | ꚟ | COMBINING CYRILLIC LETTER IOTIFIED E |
-
-
-### Old Cyrillic
-| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|----|----|----|
-| A640 | Ꙁ | CYRILLIC CAPITAL LETTER ZEMLYA | A641 | ꙁ | CYRILLIC SMALL LETTER ZEMLYA |
-| A642 | Ꙃ | CYRILLIC CAPITAL LETTER DZELO | A643 | ꙃ | CYRILLIC SMALL LETTER DZELO |
-| A644 | Ꙅ | CYRILLIC CAPITAL LETTER REVERSED DZE | A645 | ꙅ | CYRILLIC SMALL LETTER REVERSED DZE |
-| A646 | Ꙇ | CYRILLIC CAPITAL LETTER IOTA | A647 | ꙇ | CYRILLIC SMALL LETTER IOTA |
-| A648 | Ꙉ | CYRILLIC CAPITAL LETTER DJERV | A649 | ꙉ | CYRILLIC SMALL LETTER DJERV |
-| A64A | Ꙋ | CYRILLIC CAPITAL LETTER MONOGRAPH UK | A64B | ꙋ | CYRILLIC SMALL LETTER MONOGRAPH UK |
-| A64C | Ꙍ | CYRILLIC CAPITAL LETTER BROAD OMEGA | A64D | ꙍ | CYRILLIC SMALL LETTER BROAD OMEGA |
-| A64E | Ꙏ | CYRILLIC CAPITAL LETTER NEUTRAL YER | A64F | ꙏ | CYRILLIC SMALL LETTER NEUTRAL YER |
-| A650 | Ꙑ | CYRILLIC CAPITAL LETTER YERU WITH BACK YER | A651 | ꙑ | CYRILLIC SMALL LETTER YERU WITH BACK YER |
-| A652 | Ꙓ | CYRILLIC CAPITAL LETTER IOTIFIED YAT | A653 | ꙓ | CYRILLIC SMALL LETTER IOTIFIED YAT |
-| A654 | Ꙕ | CYRILLIC CAPITAL LETTER REVERSED YU | A655 | ꙕ | CYRILLIC SMALL LETTER REVERSED YU |
-| A656 | Ꙗ | CYRILLIC CAPITAL LETTER IOTIFIED A | A657 | ꙗ | CYRILLIC SMALL LETTER IOTIFIED A |
-| A658 | Ꙙ | CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS | A659 | ꙙ | CYRILLIC SMALL LETTER CLOSED LITTLE YUS |
-| A65A | Ꙛ | CYRILLIC CAPITAL LETTER BLENDED YUS | A65B | ꙛ | CYRILLIC SMALL LETTER BLENDED YUS |
-| A65C | Ꙝ | CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS | A65D | ꙝ | CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS |
-| A65E | Ꙟ | CYRILLIC CAPITAL LETTER YN | A65F | ꙟ | CYRILLIC SMALL LETTER YN | * Romanian Cyrillic |
-| A660 | Ꙡ | CYRILLIC CAPITAL LETTER REVERSED TSE | A661 | ꙡ | CYRILLIC SMALL LETTER REVERSED TSE |
-| A662 | Ꙣ | CYRILLIC CAPITAL LETTER SOFT DE | A663 | ꙣ | CYRILLIC SMALL LETTER SOFT DE |
-| A664 | Ꙥ | CYRILLIC CAPITAL LETTER SOFT EL | A665 | ꙥ | CYRILLIC SMALL LETTER SOFT EL |
-| A666 | Ꙧ | CYRILLIC CAPITAL LETTER SOFT EM | A667 | ꙧ | CYRILLIC SMALL LETTER SOFT EM |
-| A668 | Ꙩ | CYRILLIC CAPITAL LETTER MONOCULAR O | A669 | ꙩ | CYRILLIC SMALL LETTER MONOCULAR O | * used in words based on the root for 'eye' |
-| A66A | Ꙫ | CYRILLIC CAPITAL LETTER BINOCULAR O | A66B | ꙫ | CYRILLIC SMALL LETTER BINOCULAR O | * used in the dual of words based on the root for 'eye' |
-| A66C | Ꙭ | CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O | A66D | ꙭ | CYRILLIC SMALL LETTER DOUBLE MONOCULAR O | * used in the dual of words based on the root for 'eye' |
-| A698 | Ꚙ | CYRILLIC CAPITAL LETTER DOUBLE O | A699 | ꚙ | CYRILLIC SMALL LETTER DOUBLE O | |
-| A66E | ꙮ | CYRILLIC LETTER MULTIOCULAR O | | * used in the epithet 'many-eyed' |
-| A69A | Ꚛ | CYRILLIC CAPITAL LETTER CROSSED O | A69B | ꚛ | CYRILLIC SMALL LETTER CROSSED O | |
-
-
-### Abbreviation mark
+  
+  
+### Historic miscellaneous and numeric signs   
+  
+| Code | Char | Name Canonical decomposition | Comment |  
+|--|--|--|--|  
+| 0482 | &nbsp;&nbsp; ҂ | CYRILLIC THOUSANDS SIGN |  |  
+| 0483 | &nbsp;&nbsp; ҃ | COMBINING CYRILLIC TITLO | not used with letter titlos |  
+| 0484 |&nbsp;&nbsp; ҄ | COMBINING CYRILLIC PALATALIZATION |  |  
+| 0485 |&nbsp;&nbsp; ҅ | COMBINING CYRILLIC DASIA PNEUMATA |  |  
+| 0486 |&nbsp;&nbsp; ҆ | COMBINING CYRILLIC PSILI PNEUMATA |  |  
+| 0487 |&nbsp;&nbsp; ҇ | COMBINING CYRILLIC POKRYTIE | used only with letter titlos |  
+| 0488 |&nbsp;&nbsp; ҈ | COMBINING CYRILLIC HUNDRED THOUSANDS SIGN | use 20DD for ten thousands sign |  
+| 0489 |&nbsp;&nbsp; ҉ | COMBINING CYRILLIC MILLIONS SIGN |  |  
+| A670 |&nbsp;&nbsp; ꙰ | COMBINING CYRILLIC TEN MILLIONS SIGN | |
+| A671 |&nbsp;&nbsp; ꙱ | COMBINING CYRILLIC HUNDRED MILLIONS SIGN | |
+| A672 |&nbsp;&nbsp; ꙲ | COMBINING CYRILLIC THOUSAND MILLIONS SIGN | |  
+  
+  
+### Abbreviation mark  
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | A66F | ꙯ | COMBINING CYRILLIC VZMET | * used with Cyrillic letters to indicate abbreviation | |
 
 
-### Combining numeric signs
-| Code | Char | Name Canonical decomposition | Comment |
-|----|----|----|----|
-| A670 | ꙰ | COMBINING CYRILLIC TEN MILLIONS SIGN | |
-| A671 | ꙱ | COMBINING CYRILLIC HUNDRED MILLIONS SIGN | |
-| A672 | ꙲ | COMBINING CYRILLIC THOUSAND MILLIONS SIGN | |
-
-
 ### Punctuation mark
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | A673 | ꙳ | SLAVONIC ASTERISK | |
 
-### Combining marks for Old Cyrillic
+### Combining marks for Old Cyrillic  
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | A67C | ꙼ | COMBINING CYRILLIC KAVYKA | * indicates an alternative reading to part of a word |
 | A67D | ꙽ | COMBINING CYRILLIC PAYEROK | * may indicate an omitted yer |
 
 
-### Combining half marks
+### Combining half marks  
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | FE2E | ︮ | COMBINING CYRILLIC TITLO LEFT HALF | |
 | FE2F | ︯ | COMBINING CYRILLIC TITLO RIGHT HALF | |
 
 
-### Punctuation mark
+### Punctuation mark  
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | A67E | ꙾ | CYRILLIC KAVYKA | * used to mark off word that has alternative reading |
 
 
-### Modifier letter
+### Modifier letter  
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
-| A67F | ꙿ | CYRILLIC PAYEROK | * may indicate an omitted yer |
-
-
-
-### Letters for Old Abkhasian orthography
+| A67F | ꙿ | CYRILLIC PAYEROK | * may indicate an omitted yer |  
+  
+  
+### Additions for Nivkh  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 04FA | Ӻ | CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK | 04FB | ӻ | CYRILLIC SMALL LETTER GHE WITH STROKE AND HOOK |
+| 04FC | Ӽ | CYRILLIC CAPITAL LETTER HA WITH HOOK | 04FD | ӽ | CYRILLIC SMALL LETTER HA WITH HOOK |
+| 04FE | Ӿ | CYRILLIC CAPITAL LETTER HA WITH STROKE | 04FF | ӿ | CYRILLIC SMALL LETTER HA WITH STROKE | |  
+  
+  
+### Komi letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 0500 | Ԁ | CYRILLIC CAPITAL LETTER KOMI DE | 0501 | ԁ | CYRILLIC SMALL LETTER KOMI DE |
+| 0502 | Ԃ | CYRILLIC CAPITAL LETTER KOMI DJE | 0503 | ԃ | CYRILLIC SMALL LETTER KOMI DJE |
+| 0504 | Ԅ | CYRILLIC CAPITAL LETTER KOMI ZJE | 0505 | ԅ | CYRILLIC SMALL LETTER KOMI ZJE |
+| 0506 | Ԇ | CYRILLIC CAPITAL LETTER KOMI DZJE | 0507 | ԇ | CYRILLIC SMALL LETTER KOMI DZJE |
+| 0508 | Ԉ | CYRILLIC CAPITAL LETTER KOMI LJE | 0509 | ԉ | CYRILLIC SMALL LETTER KOMI LJE |
+| 050A | Ԋ | CYRILLIC CAPITAL LETTER KOMI NJE | 050B | ԋ | CYRILLIC SMALL LETTER KOMI NJE |
+| 050C | Ԍ | CYRILLIC CAPITAL LETTER KOMI SJE | 050D | ԍ | CYRILLIC SMALL LETTER KOMI SJE |
+| 050E | Ԏ | CYRILLIC CAPITAL LETTER KOMI TJE | 050F | ԏ | CYRILLIC SMALL LETTER KOMI TJE |  
+  
+  
+### Khanty letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 0510 | Ԑ | CYRILLIC CAPITAL LETTER REVERSED ZE | 0511 | ԑ | CYRILLIC SMALL LETTER REVERSED ZE | * also used for Enets |
+| 0512 | Ԓ | CYRILLIC CAPITAL LETTER EL WITH HOOK | 0513 | ԓ | CYRILLIC SMALL LETTER EL WITH HOOK | * also used for Chukchi and Itelmen |
+| 052E | Ԯ | CYRILLIC CAPITAL LETTER EL WITH DESCENDER | 052F | ԯ | CYRILLIC SMALL LETTER EL WITH DESCENDER | |  
+  
+  
+### Mordvin letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 0514 | Ԕ | CYRILLIC CAPITAL LETTER LHA | 0515 | ԕ | CYRILLIC SMALL LETTER LHA | = voiceless l; ligatures of Л and Х; л and х |
+| 0516 | Ԗ | CYRILLIC CAPITAL LETTER RHA | 0517 | ԗ | CYRILLIC SMALL LETTER RHA | = voiceless r; ligatures of Р and Х; р and х |
+| 0518 | Ԙ | CYRILLIC CAPITAL LETTER YAE | 0519 | ԙ | CYRILLIC SMALL LETTER YAE | Ligatures of Я and Е; я and е |  
+  
+  
+### Kurdish letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 051A | Ԛ | CYRILLIC CAPITAL LETTER QA | 051B | ԛ | CYRILLIC SMALL LETTER QA | Based on the Latin letter Q q |
+| 051C | Ԝ | CYRILLIC CAPITAL LETTER WE | 051D | ԝ | CYRILLIC SMALL LETTER WE | Based on the Latin letter W w | | |  
+  
+  
+### Aleut letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 051E | Ԟ | CYRILLIC CAPITAL LETTER ALEUT KA | 051F | ԟ | CYRILLIC SMALL LETTER ALEUT KA | * used for [q] in Aleut |  
+  
+  
+### Chuvash letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 0520 | Ԡ | CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK | 0521 | ԡ | CYRILLIC SMALL LETTER EL WITH MIDDLE HOOK | = palatalized l |
+| 0522 | Ԣ | CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK | 0523 | ԣ | CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK | = palatalized n |  
+  
+  
+### Abkhazian letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 0524 | Ԥ | CYRILLIC CAPITAL LETTER PE WITH DESCENDER | 0525 | ԥ | CYRILLIC SMALL LETTER PE WITH DESCENDER | * used in modern Abkhaz orthography |  
+  
+  
+### Azerbaijani letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 0526 | Ԧ | CYRILLIC CAPITAL LETTER SHHA WITH DESCENDER | 0527 | ԧ | CYRILLIC SMALL LETTER SHHA WITH DESCENDER |  
+  
+  
+### Orok letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 0528 | Ԩ | CYRILLIC CAPITAL LETTER EN WITH LEFT HOOK | 0529 | ԩ | CYRILLIC SMALL LETTER EN WITH LEFT HOOK |  
+  
+  
+### Komi letters  
+  
+| Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
+|----|----|----|----|----|----|----|
+| 052A | Ԫ | CYRILLIC CAPITAL LETTER DZZHE | 052B | ԫ | CYRILLIC SMALL LETTER DZZHE |
+| 052C | Ԭ | CYRILLIC CAPITAL LETTER DCHE | 052D | ԭ | CYRILLIC SMALL LETTER DCHE | | |  
+  
+  
+### Historic letter variants  
+  
+| Code | Char | Name Canonical decomposition | Comment  |
+|----|----|----|----|
+| 1C80 | ᲀ | CYRILLIC SMALL LETTER ROUNDED VE |  |
+| 1C81 | ᲁ | CYRILLIC SMALL LETTER LONG-LEGGED DE |  |
+| 1C82 | ᲂ | CYRILLIC SMALL LETTER NARROW O |  |
+| 1C83 | ᲃ | CYRILLIC SMALL LETTER WIDE ES |  |
+| 1C84 | ᲄ | CYRILLIC SMALL LETTER TALL TE |  |
+| 1C85 | ᲅ | CYRILLIC SMALL LETTER THREE-LEGGED TE |  |
+| 1C86 | ᲆ | CYRILLIC SMALL LETTER TALL HARD SIGN |  |
+| 1C87 | ᲇ | CYRILLIC SMALL LETTER TALL YAT |  |
+| 1C88 | ᲈ | CYRILLIC SMALL LETTER UNBLENDED UK |  |  
+  
+  
+### Miscellaneous characters  
+  
+| Code | Char | Name Canonical decomposition | Comment  | |
+|----|----|----|----|----|
+| 1D2B | ᴫ | CYRILLIC LETTER SMALL CAPITAL EL | Phonetic transcription | * in italic style, the glyph is obliqued, not italicized |
+| 1D78 | ᵸ | MODIFIER LETTER CYRILLIC EN | | |
+| 20DD | ⃝ | COMBINING ENCLOSING CIRCLE | = Cyrillic combining ten thousands sign; symbol for myriads | |  
+  
+  
+### Letters for Old Abkhasian orthography  
+  
 | Code | Char | Name Canonical decomposition | Code |Char|Name Canonical decomposition|Comment|
 |----|----|----|----|----|----|----|
 | A680 | Ꚁ | CYRILLIC CAPITAL LETTER DWE | A681 | ꚁ | CYRILLIC SMALL LETTER DWE |
@@ -424,16 +441,18 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | A690 | Ꚑ | CYRILLIC CAPITAL LETTER TSSE | A691 | ꚑ | CYRILLIC SMALL LETTER TSSE |
 | A692 | Ꚓ | CYRILLIC CAPITAL LETTER TCHE | A693 | ꚓ | CYRILLIC SMALL LETTER TCHE |
 | A694 | Ꚕ | CYRILLIC CAPITAL LETTER HWE | A695 | ꚕ | CYRILLIC SMALL LETTER HWE |
-| A696 | Ꚗ | CYRILLIC CAPITAL LETTER SHWE | A697 | ꚗ | CYRILLIC SMALL LETTER SHWE |
-
-
-### Phonetic transcription
+| A696 | Ꚗ | CYRILLIC CAPITAL LETTER SHWE | A697 | ꚗ | CYRILLIC SMALL LETTER SHWE |  
+  
+  
+### Intonation marks for Lithuanian dialectology  
+  
 | Code | Char | Name Canonical decomposition | Code |Char|Name Canonical decomposition|Comment|
 |----|----|----|----|----|----|----|
-| A69C | ꚜ | MODIFIER LETTER CYRILLIC HARD SIGN | A69D | ꚝ | MODIFIER LETTER CYRILLIC SOFT SIGN | |
-
-
-### Phonetic transcription
+| A69C | ꚜ | MODIFIER LETTER CYRILLIC HARD SIGN | A69D | ꚝ | MODIFIER LETTER CYRILLIC SOFT SIGN | |  
+  
+  
+### Phonetic transcription  
+  
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | 1E030 | 𞀰 | MODIFIER LETTER CYRILLIC SMALL A |
