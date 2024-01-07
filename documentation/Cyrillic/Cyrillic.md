@@ -31,10 +31,10 @@ Wikipedia. [Cyrillic alphabets](https://en.wikipedia.org/wiki/Cyrillic_alphabets
 Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrillic_alphabet)  
   
   
-Table of content
+## Table of content
 + Cyrillic characters[^1]  
 + Cyrillic extensions[^2]  
-+ Extended Cyrillic[*](#ExtendedCyrillic)  
++ <a id=tc_extcyr></a>[Extended Cyrillic](#extcyr)  
   
   
 ## Cyrillic characters[^1]  
@@ -98,7 +98,7 @@ Table of content
 
 
 
-### Extended Cyrillic<a id="ExtendedCyrillic"></a>  
+### <a id=extcyr></a>Extended Cyrillic[Extended Cyrillic](#tc_extcyr)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
