@@ -34,7 +34,7 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 Table of content
 + Cyrillic characters[^1]  
 + Cyrillic extensions[^2]  
-+ Extended Cyrillic[^3]  
++ Extended Cyrillic[#^3]  
   
   
 ## Cyrillic characters[^1]  
@@ -98,7 +98,7 @@ Table of content
 
 
 
-### Extended Cyrillic[^3]  
+### Extended Cyrillic<a id="^3"></a>  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
