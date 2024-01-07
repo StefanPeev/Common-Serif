@@ -98,7 +98,7 @@ Table of content
 
 
 
-### <a id="ExtendedCyrillic">Extended Cyrillic</a>  
+### Extended Cyrillic<a id="ExtendedCyrillic"></a>  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
