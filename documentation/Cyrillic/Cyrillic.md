@@ -30,7 +30,14 @@ Wikipedia. [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script)
 Wikipedia. [Cyrillic alphabets](https://en.wikipedia.org/wiki/Cyrillic_alphabets)  
 Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrillic_alphabet)  
   
-## Cyrillic characters  
+  
+Table of content
++ Cyrillic characters[^1]  
++ Cyrillic extensions[^2]  
+Cyrillic extensions  
+  
+  
+## Cyrillic characters[^1]  
 ### Basic Cyrillic alphabet. Unicode range (0410 : 044F)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
@@ -68,7 +75,7 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 042E | Ю | CYRILLIC CAPITAL LETTER YU | 044E | ю | CYRILLIC SMALL LETTER YU | |
 | 042F | Я | CYRILLIC CAPITAL LETTER YA | 044F | я | CYRILLIC SMALL LETTER YA | |  
   
-###  Cyrillic extensions. Unicode range (0400 : 040F, 0450 : 045F)  
+###  Cyrillic extensions. Unicode range (0400 : 040F, 0450 : 045F)[^2]  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
