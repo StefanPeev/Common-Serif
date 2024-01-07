@@ -6,12 +6,9 @@ Common Serif
 The Common Serif project is based on Libertinus Serif.
 It started as a fork of Libertinus Serif 7.040 version.
 
-The aim of the Common Serif project is to change the way the font family is produced.
-The new project is based on masters (Regular and Bold),
-which allow interpolating 5 instances of the Normal version: Regular, News, Medium, SemiBold, Bold;
-and 5 instances of the cursive version: Italic, News Italic, Medium Italic, SemiBold Italic, Bold Italic.
-
-The project is in its beginning. Any contributions are well-come and highly appreciated.
+The aim of the Common Serif project is to change the way the font family is produced.  
+The new project is based on masters (Regular and Bold), which allow interpolating 5 instances of the Normal version: Regular, News, Medium, SemiBold, Bold; and 5 instances of the cursive version: Italic, News Italic, Medium Italic, SemiBold Italic, Bold Italic.  
+The project is in its beginning. Any contributions are well-come and highly appreciated.  
 
 History 
 -------
@@ -53,6 +50,11 @@ Examples
 --------
 
 See [images](/images/) and [Gallery](/images/Gallery.md).
+
+Unicode Support
+---------------
+
+For Unicode Support in Common Serif see [Unicode Support page](https://github.com/StefanPeev/Common-Serif/blob/main/documentation/Unicode%20Support.md).
 
 Local Fonts project
 -------------------

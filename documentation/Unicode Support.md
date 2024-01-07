@@ -24,7 +24,7 @@
 + Phonetic Extensions Supplement 1D80 : 1DBF (6/64)  
 + Spacing Modifier Letters 02B0 : 02FF (75/80)  
 + Combining Diacritical Marks 0300 : 036F (111/112)  
-+ Combining Half Marks FE20 : FE2F (2/16)  
++ Combining Half Marks FE20 : FE2F (5/16)  
 + General Punctuation 2000 : 206F (63/111)  
 + Supplemented Punctuation 2E00 : 2E7F (13/94)  
 + Superscripts and Subscripts 2070 : 209F (42/42)  

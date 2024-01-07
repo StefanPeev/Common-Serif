@@ -111,3 +111,16 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 047E | Ѿ | CYRILLIC CAPITAL LETTER OT | 047F | ѿ | CYRILLIC SMALL LETTER OT | |
 | 0480 | Ҁ | CYRILLIC CAPITAL LETTER KOPPA | 0481 | ҁ | CYRILLIC SMALL LETTER KOPPA | From the ancient Greek Ϙ "Koppa (letter)" |
   
+### Historic miscellaneous   
+  
+| Code | Char | Name Canonical decomposition | Comment |  
+|--|--|--|--|  
+| 0482 | &nbsp;&nbsp; ҂ | CYRILLIC THOUSANDS SIGN |  |  
+| 0483 | &nbsp;&nbsp; ҃ | COMBINING CYRILLIC TITLO | not used with letter titlos |  
+| 0484 |&nbsp;&nbsp; ҄ | COMBINING CYRILLIC PALATALIZATION |  |  
+| 0485 |&nbsp;&nbsp; ҅ | COMBINING CYRILLIC DASIA PNEUMATA |  |  
+| 0486 |&nbsp;&nbsp; ҆ | COMBINING CYRILLIC PSILI PNEUMATA |  |  
+| 0487 |&nbsp;&nbsp; ҇ | COMBINING CYRILLIC POKRYTIE | used only with letter titlos |  
+| 0488 |&nbsp;&nbsp; ҈ | COMBINING CYRILLIC HUNDRED THOUSANDS SIGN | use 20DD for ten thousands sign |  
+| 0489 |&nbsp;&nbsp; ҉ | COMBINING CYRILLIC MILLIONS SIGN |  |  
+  
