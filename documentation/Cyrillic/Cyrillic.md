@@ -20,7 +20,8 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 + <a id=tc_cyrch></a>[Cyrillic characters](#cyrch)  
 + <a id=tc_cyrext></a>[Cyrillic extensions](#cyrext)  
 + <a id=tc_extcyr></a>[Extended Cyrillic](#extcyr)  
- + <a id=tc_src></a>[Sources](#src)   
++ <a id=tc_histletr></a>[Historic letters. Uncode range (0460 : 0481)](#histletr)  
++ <a id=tc_src></a>[Sources](#src)   
    
   
 ## <a id=cyrch></a>[Cyrillic characters](#tc_cyrch)  
@@ -141,7 +142,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 04F8 | Ӹ | CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS042B 0308 | 04F9 | ӹ | CYRILLIC SMALL LETTER YERU WITH DIAERESIS044B 0308 |  
   
   
-### Historic letters. Uncode range (0460 : 0481)  
+### <a id=histletr></a>[Historic letters. Uncode range (0460 : 0481)](tc_histletr)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
@@ -514,7 +515,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 1E08F | 𞂏 | COMBINING CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I |
    
    
-#### <a id=tc_src></a>[Sources](#tc_src)  
+#### <a id=src></a>[Sources](#tc_src)  
 Wikipedia. [Cyrillic script in Unicode](https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode)  
 Wikipedia. [List of Cyrillic letters](https://en.wikipedia.org/wiki/List_of_Cyrillic_letters)  
 Wikipedia. [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script)  
