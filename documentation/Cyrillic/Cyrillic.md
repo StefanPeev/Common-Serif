@@ -43,7 +43,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 + <a id=tc_histltr></a>[Historic letter variants](#histltr)  
 + <a id=tc_miscltr></a>[Miscellaneous characters](#miscltr)  
 + <a id=tc_oldabhltr></a>[Letters for Old Abkhasian orthography](#oldabhltr)  
-+ <a id=tc_intmrklith></a>[Intonation marks for Lithuanian] dialectology(#intmrklith)  
++ <a id=tc_intmrklith></a>[Intonation marks for Lithuanian dialectology](#intmrklith)  
 + <a id=tc_phontrs></a>[Phonetic transcription](#phontrs)  
    
   
