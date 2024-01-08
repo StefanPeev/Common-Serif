@@ -2,18 +2,20 @@
 
 ## Introduction  
   
-As of Unicode version 15.1, Cyrillic script is encoded across several blocks:  
-  
-+ **Cyrillic: [U+0400–U+04FF](https://www.unicode.org/charts/PDF/U0400.pdf),** 256 characters  
+As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
+
+| Cyrillic Unicode Blocks |  Comments |  
+|-----|-----|  
+|+ **Cyrillic: [U+0400–U+04FF](https://www.unicode.org/charts/PDF/U0400.pdf),** 256 characters  
 + **Cyrillic Supplement: [U+0500–U+052F](https://www.unicode.org/charts/PDF/U0500.pdf),** 48 characters  
 + **Cyrillic Extended-A: [U+2DE0–U+2DFF](https://www.unicode.org/charts/PDF/U2DE0.pdf),** 32 characters  
 + **Cyrillic Extended-B: [U+A640–U+A69F](https://www.unicode.org/charts/PDF/UA640.pdf),** 96 characters  
 + **Cyrillic Extended-C: [U+1C80–U+1C8F](https://www.unicode.org/charts/PDF/U1C80.pdf),** 9 characters  
 + **Cyrillic Extended-D: [U+1E030–U+1E08F](https://www.unicode.org/charts/PDF/U1E030.pdf),** 63 characters  
 + **Phonetic Extensions: [U+1D2B, U+1D78](https://www.unicode.org/charts/PDF/U1D00.pdf),** 2 Cyrillic characters  
-+ **Combining Half Marks: [U+FE2E–U+FE2F](https://www.unicode.org/charts/PDF/UFE20.pdf),** 2 Cyrillic characters  
++ **Combining Half Marks: [U+FE2E–U+FE2F](https://www.unicode.org/charts/PDF/UFE20.pdf),** 2 Cyrillic characters | The characters in the range U+0400–U+045F are basically the characters from ISO 8859-5 moved upward by 864 positions. The next characters in the Cyrillic block, range U+0460–U+0489, are historical letters, some of which are still used for Church Slavonic. The characters in the range U+048A–U+04FF and the complete Cyrillic Supplement block (U+0500-U+052F) are additional letters for various languages that are written with Cyrillic script. Two characters are in the Phonetic Extensions block: U+1D2B **ᴫ** CYRILLIC LETTER SMALL CAPITAL EL from the Uralic Phonetic Alphabet and U+1D78 **ᵸ** MODIFIER LETTER CYRILLIC EN for transcribing nasal vowels. |  
   
-The characters in the range U+0400–U+045F are basically the characters from ISO 8859-5 moved upward by 864 positions. The next characters in the Cyrillic block, range U+0460–U+0489, are historical letters, some of which are still used for Church Slavonic. The characters in the range U+048A–U+04FF and the complete Cyrillic Supplement block (U+0500-U+052F) are additional letters for various languages that are written with Cyrillic script. Two characters are in the Phonetic Extensions block: U+1D2B **ᴫ** CYRILLIC LETTER SMALL CAPITAL EL from the Uralic Phonetic Alphabet and U+1D78 **ᵸ** MODIFIER LETTER CYRILLIC EN for transcribing nasal vowels.  
+  
   
 Unicode includes few precomposed accented Cyrillic letters; the others can be combined by adding U+0301 ("combining acute accent") after the accented vowel (e.g., е́ у́ э́); see below.  
   
@@ -32,12 +34,12 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
   
   
 ## Table of content
-+ Cyrillic characters[^1]  
-+ Cyrillic extensions[^2]  
++ <a id=tc_cyrch></a>[Cyrillic characters](#cyrch)  
++ <a id=tc_cyrext></a>[Cyrillic extensions](#cyrext)  
 + <a id=tc_extcyr></a>[Extended Cyrillic](#extcyr)  
   
   
-## Cyrillic characters[^1]  
+## <a id=cyrch></a>[Cyrillic characters](#tc_cyrch)  
 ### Basic Cyrillic alphabet. Unicode range (0410 : 044F)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
@@ -75,7 +77,7 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 | 042E | Ю | CYRILLIC CAPITAL LETTER YU | 044E | ю | CYRILLIC SMALL LETTER YU | |
 | 042F | Я | CYRILLIC CAPITAL LETTER YA | 044F | я | CYRILLIC SMALL LETTER YA | |  
   
-###  Cyrillic extensions. Unicode range (0400 : 040F, 0450 : 045F)[^2]  
+###  <a id=cyrext></a>[Cyrillic extensions. Unicode range (0400 : 040F, 0450 : 045F)](#tc_cyrext)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
@@ -98,7 +100,7 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 
 
 
-### <a id=extcyr></a>Extended Cyrillic[Extended Cyrillic](#tc_extcyr)  
+### <a id=extcyr></a>[Extended Cyrillic](#tc_extcyr)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
