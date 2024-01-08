@@ -3,14 +3,13 @@
 
 ## Table of content  
   
-+ <a id=tc_intro></a>[Introduction](#intro)    
++ <a id=tc_intro></a>Introduction [:arrows_counterclockwise:](#intro)    
 + <a id=tc_cyrch></a>[Cyrillic characters](#cyrch)  
 + <a id=tc_cyrext></a>[Cyrillic extensions](#cyrext)  
 + <a id=tc_extcyr></a>[Extended Cyrillic](#extcyr)  
 + <a id=tc_histletr></a>[Historic letters. Uncode range (0460 : 0481)](#histletr)  
 + <a id=tc_oldcyr></a>[Old Cyrillic](#oldcyr)  
 + <a id=tc_oldcs></a>[Old Church Slavonic combining letters](#oldcs)  
-+ <a id=tc_src></a>[Sources](#src)   
 + <a id=tc_hmns></a>[Historic miscellaneous and numeric signs](#hmns)  
 + <a id=tc_abrmrk></a>[Abbreviation mark](#abrmrk)  
 + <a id=tc_puncmrk></a>[Punctuation mark](#puncmrk)  
@@ -32,9 +31,10 @@
 + <a id=tc_oldabhltr></a>[Letters for Old Abkhasian orthography](#oldabhltr)  
 + <a id=tc_intmrklith></a>[Intonation marks for Lithuanian dialectology](#intmrklith)  
 + <a id=tc_phontrs></a>[Phonetic transcription](#phontrs)  
++ <a id=tc_src></a>[Sources](#src)   
    
    
-## <a id=intro></a>[Introduction](#tc_intro)  
+## <a id=intro></a>Introduction [:arrows_counterclockwise:](#tc_intro)  
   
 As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 
