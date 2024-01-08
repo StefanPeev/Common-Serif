@@ -4,34 +4,34 @@
 ## Table of content  
   
 + <a id=tc_intro></a>Introduction [:arrows_counterclockwise:](#intro)    
-+ <a id=tc_cyrch></a>[Cyrillic characters](#cyrch)  
-+ <a id=tc_cyrext></a>[Cyrillic extensions](#cyrext)  
-+ <a id=tc_extcyr></a>[Extended Cyrillic](#extcyr)  
-+ <a id=tc_histletr></a>[Historic letters. Uncode range (0460 : 0481)](#histletr)  
-+ <a id=tc_oldcyr></a>[Old Cyrillic](#oldcyr)  
-+ <a id=tc_oldcs></a>[Old Church Slavonic combining letters](#oldcs)  
-+ <a id=tc_hmns></a>[Historic miscellaneous and numeric signs](#hmns)  
-+ <a id=tc_abrmrk></a>[Abbreviation mark](#abrmrk)  
-+ <a id=tc_puncmrk></a>[Punctuation mark](#puncmrk)  
-+ <a id=tc_cmbmrkoldcyr></a>[Combining marks for Old Cyrillic](#cmbmrkoldcyr)  
-+ <a id=tc_cmbmhlfmrk></a>[Combining half marks](#cmbmhlfmrk)  
-+ <a id=tc_mdltr></a>[Modifier letter](#mdltr)  
-+ <a id=tc_nivkh></a>[Additions for Nivkh](#nivkh)  
-+ <a id=tc_komi></a>[Komi letters](#komi)  
-+ <a id=tc_khanty></a>[Khanty letters](#khanty)  
-+ <a id=tc_mordvin></a>[Mordvin letters](#mordvin)  
-+ <a id=tc_kurdish></a>[Kurdish letters](#kurdish)  
-+ <a id=tc_aleut></a>[Aleut letters](#aleut)  
-+ <a id=tc_chuvash></a>[Chuvash letters](#chuvash)  
-+ <a id=tc_abkhazian></a>[Abkhazian letters](#abkhazian)  
-+ <a id=tc_azerbaijani></a>[Azerbaijani letters](#azerbaijani)  
-+ <a id=tc_orok></a>[Orok letters](#orok)  
-+ <a id=tc_histltr></a>[Historic letter variants](#histltr)  
-+ <a id=tc_miscltr></a>[Miscellaneous characters](#miscltr)  
-+ <a id=tc_oldabhltr></a>[Letters for Old Abkhasian orthography](#oldabhltr)  
-+ <a id=tc_intmrklith></a>[Intonation marks for Lithuanian dialectology](#intmrklith)  
-+ <a id=tc_phontrs></a>[Phonetic transcription](#phontrs)  
-+ <a id=tc_src></a>[Sources](#src)   
++ <a id=tc_cyrch></a>Cyrillic characters [:arrows_counterclockwise:](#cyrch)  
++ <a id=tc_cyrext></a>Cyrillic extensions [:arrows_counterclockwise:](#cyrext)  
++ <a id=tc_extcyr></a>Extended Cyrillic [:arrows_counterclockwise:](#extcyr)  
++ <a id=tc_histletr></a>Historic letters. Uncode range (0460 : 0481) [:arrows_counterclockwise:](#histletr)  
++ <a id=tc_oldcyr></a>Old Cyrillic [:arrows_counterclockwise:](#oldcyr)  
++ <a id=tc_oldcs></a>Old Church Slavonic combining letters [:arrows_counterclockwise:](#oldcs)  
++ <a id=tc_hmns></a>Historic miscellaneous and numeric signs [:arrows_counterclockwise:](#hmns)  
++ <a id=tc_abrmrk></a>Abbreviation mark [:arrows_counterclockwise:](#abrmrk)  
++ <a id=tc_puncmrk></a>Punctuation mark [:arrows_counterclockwise:](#puncmrk)  
++ <a id=tc_cmbmrkoldcyr></a>Combining marks for Old Cyrillic [:arrows_counterclockwise:](#cmbmrkoldcyr)  
++ <a id=tc_cmbmhlfmrk></a>Combining half marks [:arrows_counterclockwise:](#cmbmhlfmrk)  
++ <a id=tc_mdltr></a>Modifier letter [:arrows_counterclockwise:](#mdltr)  
++ <a id=tc_nivkh></a>Additions for Nivkh [:arrows_counterclockwise:](#nivkh)  
++ <a id=tc_komi></a>Komi letters [:arrows_counterclockwise:](#komi)  
++ <a id=tc_khanty></a>Khanty letters [:arrows_counterclockwise:](#khanty)  
++ <a id=tc_mordvin></a>Mordvin letters [:arrows_counterclockwise:](#mordvin)  
++ <a id=tc_kurdish></a>Kurdish letters [:arrows_counterclockwise:](#kurdish)  
++ <a id=tc_aleut></a>Aleut letters [:arrows_counterclockwise:](#aleut)  
++ <a id=tc_chuvash></a>Chuvash letters [:arrows_counterclockwise:](#chuvash)  
++ <a id=tc_abkhazian></a>Abkhazian letters [:arrows_counterclockwise:](#abkhazian)  
++ <a id=tc_azerbaijani></a>Azerbaijani letters [:arrows_counterclockwise:](#azerbaijani)  
++ <a id=tc_orok></a>Orok letters [:arrows_counterclockwise:](#orok)  
++ <a id=tc_histltr></a>Historic letter variants [:arrows_counterclockwise:](#histltr)  
++ <a id=tc_miscltr></a>Miscellaneous characters [:arrows_counterclockwise:](#miscltr)  
++ <a id=tc_oldabhltr></a>Letters for Old Abkhasian orthography [:arrows_counterclockwise:](#oldabhltr)  
++ <a id=tc_intmrklith></a>Intonation marks for Lithuanian dialectology [:arrows_counterclockwise:](#intmrklith)  
++ <a id=tc_phontrs></a>Phonetic transcription [:arrows_counterclockwise:](#phontrs)  
++ <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)   
    
    
 ## <a id=intro></a>Introduction [:arrows_counterclockwise:](#tc_intro)  
@@ -50,7 +50,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | **Combining Half Marks: [U+FE2E–U+FE2F](https://www.unicode.org/charts/PDF/UFE20.pdf),** 2 Cyrillic characters | In the tables below, small letters are ordered according to their Unicode numbers; capital letters are placed immediately before the corresponding small letters. Standard Unicode names and canonical decompositions are included. |  
   
   
-## <a id=cyrch></a>[Cyrillic characters](#tc_cyrch)  
+## <a id=cyrch></a>Cyrillic characters [:arrows_counterclockwise:](#tc_cyrch)  
 ### Basic Cyrillic alphabet. Unicode range (0410 : 044F)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
@@ -88,7 +88,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 042E | Ю | CYRILLIC CAPITAL LETTER YU | 044E | ю | CYRILLIC SMALL LETTER YU | |
 | 042F | Я | CYRILLIC CAPITAL LETTER YA | 044F | я | CYRILLIC SMALL LETTER YA | |  
   
-###  <a id=cyrext></a>[Cyrillic extensions. Unicode range (0400 : 040F, 0450 : 045F)](#tc_cyrext)  
+###  <a id=cyrext></a>Cyrillic extensions. Unicode range (0400 : 040F, 0450 : 045F) [:arrows_counterclockwise:](#tc_cyrext)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
@@ -111,7 +111,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 
 
 
-### <a id=extcyr></a>[Extended Cyrillic](#tc_extcyr)  
+### <a id=extcyr></a>Extended Cyrillic [:arrows_counterclockwise:](#tc_extcyr)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
@@ -168,7 +168,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 04F8 | Ӹ | CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS042B 0308 | 04F9 | ӹ | CYRILLIC SMALL LETTER YERU WITH DIAERESIS044B 0308 |  
   
   
-### <a id=histletr></a>[Historic letters. Uncode range (0460 : 0481)](#tc_histletr)  
+### <a id=histletr></a>Historic letters. Uncode range (0460 : 0481) [:arrows_counterclockwise:](#tc_histletr)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
@@ -191,7 +191,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 0480 | Ҁ | CYRILLIC CAPITAL LETTER KOPPA | 0481 | ҁ | CYRILLIC SMALL LETTER KOPPA | From the ancient Greek Ϙ "Koppa (letter)" |  
   
   
-### <a id=oldcyr></a>[Old Cyrillic](#tc_oldcyr)
+### <a id=oldcyr></a>Old Cyrillic [:arrows_counterclockwise:](#tc_oldcyr)
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
 | A640 | Ꙁ | CYRILLIC CAPITAL LETTER ZEMLYA | A641 | ꙁ | CYRILLIC SMALL LETTER ZEMLYA |
@@ -222,7 +222,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | A69A | Ꚛ | CYRILLIC CAPITAL LETTER CROSSED O | A69B | ꚛ | CYRILLIC SMALL LETTER CROSSED O | |  
   
   
-### <a id=oldcs></a>[Old Church Slavonic combining letters](#tc_oldcs)
+### <a id=oldcs></a>Old Church Slavonic combining letters [:arrows_counterclockwise:](#tc_oldcs)
   
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
@@ -270,7 +270,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | A69F | ꚟ | COMBINING CYRILLIC LETTER IOTIFIED E |
   
   
-### <a id=hmns></a>[Historic miscellaneous and numeric signs](#tc_hmns)   
+### <a id=hmns></a>Historic miscellaneous and numeric signs [:arrows_counterclockwise:](#tc_hmns)   
   
 | Code | Char | Name Canonical decomposition | Comment |  
 |--|--|--|--|  
@@ -287,14 +287,14 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | A672 |&nbsp;&nbsp; ꙲ | COMBINING CYRILLIC THOUSAND MILLIONS SIGN | |  
   
   
-### <a id=abrmrk></a>[Abbreviation mark](#tc_abrmrk)  
+### <a id=abrmrk></a>Abbreviation mark [:arrows_counterclockwise:](#tc_abrmrk)  
   
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | A66F | ꙯ | COMBINING CYRILLIC VZMET | * used with Cyrillic letters to indicate abbreviation | |
 
 
-### <a id=puncmrk></a>[Punctuation mark](#tc_puncmrk)
+### <a id=puncmrk></a>Punctuation mark [:arrows_counterclockwise:](#tc_puncmrk)
   
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
@@ -302,7 +302,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | A67E | ꙾ | CYRILLIC KAVYKA | * used to mark off word that has alternative reading |  
   
   
-### <a id=cmbmrkoldcyr></a>[Combining marks for Old Cyrillic](#tc_cmbmrkoldcyr)  
+### <a id=cmbmrkoldcyr></a>Combining marks for Old Cyrillic [:arrows_counterclockwise:](#tc_cmbmrkoldcyr)  
   
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
@@ -310,7 +310,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | A67D | ꙽ | COMBINING CYRILLIC PAYEROK | * may indicate an omitted yer |
 
 
-### <a id=cmbmhlfmrk></a>[Combining half marks](#tc_cmbmhlfmrk)  
+### <a id=cmbmhlfmrk></a>Combining half marks [:arrows_counterclockwise:](#tc_cmbmhlfmrk)  
   
 | Code | Char | Name Canonical decomposition | Comment |  
 |----|----|----|----|  
@@ -318,14 +318,14 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | FE2F | ︯ | COMBINING CYRILLIC TITLO RIGHT HALF | |  
   
   
-### <a id=mdltr></a>[Modifier letter](#tc_mdltr)  
+### <a id=mdltr></a>Modifier letter [:arrows_counterclockwise:](#tc_mdltr)  
   
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
 | A67F | ꙿ | CYRILLIC PAYEROK | * may indicate an omitted yer |  
   
   
-### <a id=nivkh></a>[Additions for Nivkh](#tc_nivkh)  
+### <a id=nivkh></a>Additions for Nivkh [:arrows_counterclockwise:](#tc_nivkh)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
@@ -334,7 +334,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 04FE | Ӿ | CYRILLIC CAPITAL LETTER HA WITH STROKE | 04FF | ӿ | CYRILLIC SMALL LETTER HA WITH STROKE | |  
   
   
-### <a id=komi></a>[Komi letters](#tc_komi)  
+### <a id=komi></a>Komi letters [:arrows_counterclockwise:](#tc_komi)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
@@ -350,7 +350,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 052C | Ԭ | CYRILLIC CAPITAL LETTER DCHE | 052D | ԭ | CYRILLIC SMALL LETTER DCHE |  |  
   
   
-### <a id=khanty></a>[Khanty letters](#tc_khanty)  
+### <a id=khanty></a>Khanty letters [:arrows_counterclockwise:](#tc_khanty)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
@@ -359,7 +359,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 052E | Ԯ | CYRILLIC CAPITAL LETTER EL WITH DESCENDER | 052F | ԯ | CYRILLIC SMALL LETTER EL WITH DESCENDER | |  
   
   
-### <a id=mordvin></a>[Mordvin letters](#tc_mordvin)  
+### <a id=mordvin></a>Mordvin letters [:arrows_counterclockwise:](#tc_mordvin)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
@@ -368,7 +368,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 0518 | Ԙ | CYRILLIC CAPITAL LETTER YAE | 0519 | ԙ | CYRILLIC SMALL LETTER YAE | Ligatures of Я and Е; я and е |  
   
   
-### <a id=kurdish></a>[Kurdish letters](#tc_kurdish)  
+### <a id=kurdish></a>Kurdish letters [:arrows_counterclockwise:](#tc_kurdish)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
@@ -376,14 +376,14 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 051C | Ԝ | CYRILLIC CAPITAL LETTER WE | 051D | ԝ | CYRILLIC SMALL LETTER WE | Based on the Latin letter W w | | |  
   
   
-### <a id=aleut></a>[Aleut letters](#tc_aleut)  
+### <a id=aleut></a>Aleut letters [:arrows_counterclockwise:](#tc_aleut)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
 | 051E | Ԟ | CYRILLIC CAPITAL LETTER ALEUT KA | 051F | ԟ | CYRILLIC SMALL LETTER ALEUT KA | * used for [q] in Aleut |  
   
   
-### <a id=chuvash></a>[Chuvash letters](#tc_chuvash)  
+### <a id=chuvash></a>Chuvash letters [:arrows_counterclockwise:](#tc_chuvash)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
@@ -391,28 +391,28 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 0522 | Ԣ | CYRILLIC CAPITAL LETTER EN WITH MIDDLE HOOK | 0523 | ԣ | CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK | = palatalized n |  
   
   
-### <a id=abkhazian></a>[Abkhazian letters](#tc_abkhazian)  
+### <a id=abkhazian></a>Abkhazian letters [:arrows_counterclockwise:](#tc_abkhazian)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
 | 0524 | Ԥ | CYRILLIC CAPITAL LETTER PE WITH DESCENDER | 0525 | ԥ | CYRILLIC SMALL LETTER PE WITH DESCENDER | * used in modern Abkhaz orthography |  
   
   
-### <a id=azerbaijani></a>[Azerbaijani letters](#tc_azerbaijani)  
+### <a id=azerbaijani></a>Azerbaijani letters [:arrows_counterclockwise:](#tc_azerbaijani)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
 | 0526 | Ԧ | CYRILLIC CAPITAL LETTER SHHA WITH DESCENDER | 0527 | ԧ | CYRILLIC SMALL LETTER SHHA WITH DESCENDER |  
   
   
-### <a id=orok></a>[Orok letters](#tc_orok)  
+### <a id=orok></a>Orok letters [:arrows_counterclockwise:](#tc_orok)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
 | 0528 | Ԩ | CYRILLIC CAPITAL LETTER EN WITH LEFT HOOK | 0529 | ԩ | CYRILLIC SMALL LETTER EN WITH LEFT HOOK |  
   
   
-### <a id=histltr></a>[Historic letter variants](#tc_histltr)  
+### <a id=histltr></a>Historic letter variants [:arrows_counterclockwise:](#tc_histltr)  
   
 | Code | Char | Name Canonical decomposition | Comment  |
 |----|----|----|----|
@@ -427,7 +427,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 1C88 | ᲈ | CYRILLIC SMALL LETTER UNBLENDED UK |  |  
   
   
-### <a id=miscltr></a>[Miscellaneous characters](#tc_miscltr)  
+### <a id=miscltr></a>Miscellaneous characters [:arrows_counterclockwise:](#tc_miscltr)  
   
 | Code | Char | Name Canonical decomposition | Comment  | |
 |----|----|----|----|----|
@@ -436,7 +436,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 20DD | ⃝ | COMBINING ENCLOSING CIRCLE | = Cyrillic combining ten thousands sign; symbol for myriads | |  
   
   
-### <a id=oldabhltr></a>[Letters for Old Abkhasian orthography](#tc_oldabhltr)  
+### <a id=oldabhltr></a>Letters for Old Abkhasian orthography [:arrows_counterclockwise:](#tc_oldabhltr)  
   
 | Code | Char | Name Canonical decomposition | Code |Char|Name Canonical decomposition|Comment|
 |----|----|----|----|----|----|----|
@@ -454,14 +454,14 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | A696 | Ꚗ | CYRILLIC CAPITAL LETTER SHWE | A697 | ꚗ | CYRILLIC SMALL LETTER SHWE |  
   
   
-### <a id=intmrklith></a>[Intonation marks for Lithuanian dialectology](#tc_intmrklith)  
+### <a id=intmrklith></a>Intonation marks for Lithuanian dialectology [:arrows_counterclockwise:](#tc_intmrklith)  
   
 | Code | Char | Name Canonical decomposition | Code |Char|Name Canonical decomposition|Comment|
 |----|----|----|----|----|----|----|
 | A69C | ꚜ | MODIFIER LETTER CYRILLIC HARD SIGN | A69D | ꚝ | MODIFIER LETTER CYRILLIC SOFT SIGN | |  
   
   
-### <a id=phontrs></a>[Phonetic transcription](#tc_phontrs)  
+### <a id=phontrs></a>Phonetic transcription [:arrows_counterclockwise:](#tc_phontrs)  
   
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
@@ -530,7 +530,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 1E08F | 𞂏 | COMBINING CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I |
    
    
-### <a id=src></a>[Sources](#tc_src)  
+### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
 Wikipedia. [Cyrillic script in Unicode](https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode)  
 Wikipedia. [List of Cyrillic letters](https://en.wikipedia.org/wiki/List_of_Cyrillic_letters)  
 Wikipedia. [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script)  
