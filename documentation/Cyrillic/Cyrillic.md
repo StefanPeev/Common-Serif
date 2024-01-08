@@ -21,6 +21,8 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 + <a id=tc_cyrext></a>[Cyrillic extensions](#cyrext)  
 + <a id=tc_extcyr></a>[Extended Cyrillic](#extcyr)  
 + <a id=tc_histletr></a>[Historic letters. Uncode range (0460 : 0481)](#histletr)  
++ <a id=tc_oldcyr></a>[Old Cyrillic](#oldcyr)  
++ <a id=tc_oldcs></a>[Old Church Slavonic combining letters](#oldcs)
 + <a id=tc_src></a>[Sources](#src)   
    
   
@@ -142,7 +144,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 04F8 | Ӹ | CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS042B 0308 | 04F9 | ӹ | CYRILLIC SMALL LETTER YERU WITH DIAERESIS044B 0308 |  
   
   
-### <a id=histletr></a>[Historic letters. Uncode range (0460 : 0481)](tc_histletr)  
+### <a id=histletr></a>[Historic letters. Uncode range (0460 : 0481)](#tc_histletr)  
   
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |--|--|--|--|--|--|--|
@@ -165,7 +167,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | 0480 | Ҁ | CYRILLIC CAPITAL LETTER KOPPA | 0481 | ҁ | CYRILLIC SMALL LETTER KOPPA | From the ancient Greek Ϙ "Koppa (letter)" |  
   
   
-### Old Cyrillic
+### <a id=oldcyr></a>[Old Cyrillic](#tc_oldcyr)
 | Code | Char | Name Canonical decomposition | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|----|----|----|
 | A640 | Ꙁ | CYRILLIC CAPITAL LETTER ZEMLYA | A641 | ꙁ | CYRILLIC SMALL LETTER ZEMLYA |
@@ -196,7 +198,7 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
 | A69A | Ꚛ | CYRILLIC CAPITAL LETTER CROSSED O | A69B | ꚛ | CYRILLIC SMALL LETTER CROSSED O | |  
   
   
-### Old Church Slavonic combining letters
+### <a id=oldcs></a>[Old Church Slavonic combining letters](#tc_oldcs)
   
 | Code | Char | Name Canonical decomposition | Comment |
 |----|----|----|----|
