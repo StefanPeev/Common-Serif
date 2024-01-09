@@ -1,17 +1,8 @@
 # Cyrillic script in Unicode
   
-<details>
-  <summary>Click me</summary>
-  Hello World!
-</details>  
-  
-<details>
-<summary>TITLE</summary>
-BODY CONTENT
-</details>  
   
 ##  Table of content
-<details>
+<details open>
   <summary>Click me</summary>  
   
 + <a id=tc_intro></a>Introduction [:arrows_counterclockwise:](#intro)    
