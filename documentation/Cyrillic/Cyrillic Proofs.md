@@ -2,11 +2,10 @@
   
 Cyrillic texts for evaluating typefaces in development. 
   
-### Glyphs with middle hook 
+## ҔҦӃԠԢӇ  
+  Glyphs with middle hook
   
-ҔҦӃԠԢӇ  
-  
-<details open>
+<details>
   <summary>Click me</summary>  
     
 | Code | Char | Language |  
@@ -19,12 +18,12 @@ Cyrillic texts for evaluating typefaces in development.
 </details>  
   
   
-ҖҚҢҬҲҶӋӶԆԤԦԮ  
-ӅӉӍ  
-ӺӼ  
-ӇԒ  
-ЎЙҊӁӐӖ  
-ЁӒӚӜӞӤӦӪӬӰӴӸ  
+## ҖҚҢҬҲҶӋӶԆԤԦԮ  
+## ӅӉӍ  
+## ӺӼ  
+## ӇԒ  
+## ЎЙҊӁӐӖ  
+## ЁӒӚӜӞӤӦӪӬӰӴӸ  
   
     
 + Kostas Bartsokas. [Cyrillic Proofs](https://github.com/kosbarts/Commissioner/tree/master/documentation/proofs/Cyrillic%20Proofs)  
