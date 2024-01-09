@@ -4,7 +4,7 @@ Cyrillic texts for evaluating typefaces in development.
   
 ### Glyphs with middle hook 
   
-ГҔҦӃԠԢӇП  
+ҔҦӃԠԢӇ  
   
 | Code | Char | Language |  
 |:---- |:---- |:---- |  
@@ -13,6 +13,14 @@ Cyrillic texts for evaluating typefaces in development.
 | uni04C3 | Ӄ | Chukchi, Koryak, Alyutor, Itelmen, Yukaghir, Yupik, Aleut, Nivkh, Ket, Tofalar, Selkup |  
 | uni0520 | Ԡ | Abkhaz, Chuvash |  
 | uni0522 | Ԣ | Chuvash |  
+  
+  
+ҖҚҢҬҲҶӋӶԆԤԦԮ  
+ӅӉӍ  
+ӺӼ  
+ӇԒ  
+ЎЙҊӁӐӖ  
+ЁӒӚӜӞӤӦӪӬӰӴӸ  
   
     
 + Kostas Bartsokas. [Cyrillic Proofs](https://github.com/kosbarts/Commissioner/tree/master/documentation/proofs/Cyrillic%20Proofs)  
