@@ -9,8 +9,8 @@ Cyrillic texts for evaluating typefaces in development.
     
 | Code | Char | Image | Language |  
 |:---- |:---- |:---- |:---- |  
-| uni0494 | Ҕ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni0494_Ghe_With_Middle_Hook.png" width="150" /> | Abkhaz, Yakut |  
-| uni04A6 | Ҧ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni04А6_Pe_With_Middle_Hook.png" width="150" /> | Abkhaz |  
+| uni0494 | Ҕ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni0494_Ghe_With_Middle_Hook.png" width="100" /> | Abkhaz, Yakut |  
+| uni04A6 | Ҧ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni04А6_Pe_With_Middle_Hook.png" width="100" /> | Abkhaz |  
 | uni04C3 | Ӄ |  | Chukchi, Koryak, Alyutor, Itelmen, Yukaghir, Yupik, Aleut, Nivkh, Ket, Tofalar, Selkup |  
 | uni0520 | Ԡ |  | Abkhaz, Chuvash |  
 | uni0522 | Ԣ |  | Chuvash |  
