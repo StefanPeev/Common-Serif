@@ -1,7 +1,18 @@
 # Cyrillic script in Unicode
-
-
-## Table of content  
+  
+<details>
+  <summary>Click me</summary>
+  Hello World!
+</details>  
+  
+<details>
+<summary>TITLE</summary>
+BODY CONTENT
+</details>  
+  
+##  Table of content
+<details>
+  <summary>Click me</summary>  
   
 + <a id=tc_intro></a>Introduction [:arrows_counterclockwise:](#intro)    
 + <a id=tc_unicodecyr></a>All Cyrillic in Unicode 15.1 [:arrows_counterclockwise:](#unicodecyr)    
@@ -33,7 +44,7 @@
 + <a id=tc_intmrklith></a>Intonation marks for Lithuanian dialectology [:arrows_counterclockwise:](#intmrklith)  
 + <a id=tc_phontrs></a>Phonetic transcription [:arrows_counterclockwise:](#phontrs)  
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)   
-   
+</details>   
    
 ## <a id=intro></a>Introduction [:arrows_counterclockwise:](#tc_intro)  
   
