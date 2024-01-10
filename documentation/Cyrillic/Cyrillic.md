@@ -583,4 +583,7 @@ Wikipedia. [List of Cyrillic letters](https://en.wikipedia.org/wiki/List_of_Cyri
 Wikipedia. [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script)  
 Wikipedia. [Cyrillic alphabets](https://en.wikipedia.org/wiki/Cyrillic_alphabets)  
 Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrillic_alphabet)  
+Wikipedia. [Diacritic](https://en.wikipedia.org/wiki/Diacritic)  
+J.C. Wells. [Orthographic diacritics and multilingual computing](https://www.phon.ucl.ac.uk/home/wells/dia/diacritics-revised.htm) 
+Filip Blažek. [Diacritics](http://diacritics.typo.cz/index.php?id=1) 
   

@@ -33,6 +33,8 @@ Cyrillic texts for evaluating typefaces in development.
 ## ЎЙҊӁӐӖ ўйҋӂӑӗ  
 ## ЁӒӚӜӞӤӦӪӬӰӴӸ ёӓӛӝӟӥӧӫӭӱӵӹ  
   
+  
+В расширенной латинице используется реже: буквы Ⱨ ⱨ и Ⱪ ⱪ одного из вариантов уйгурской латиницы, и буква Ꞑ ꞑ, использовавшаяся в яналифе, а также буква Ŋ ŋ.  
     
 + Kostas Bartsokas. [Cyrillic Proofs](https://github.com/kosbarts/Commissioner/tree/master/documentation/proofs/Cyrillic%20Proofs)  
   
