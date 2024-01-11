@@ -2,7 +2,7 @@
   
 Latin texts for evaluating typefaces in development.  
   
-## ȦḂĊĠȮḊĖḞḢİṀṄṖṘṠṤṦṨṪẆẊẎŻ ȧḃċġȯḋėḟḣiṁṅṗṙṡṥṧṩṫẇẋẏż. Glyphs with dot above   
+## ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above   
   
 <details>
   <summary>Click here for a table of details</summary>  
@@ -33,7 +33,7 @@ Latin texts for evaluating typefaces in development.
 | 1E86 | Ẇ |  | Latin Capital Letter W with Dot Above | 1E87 | ẇ |  | Latin Small Letter W with Dot Above |
 | 1E8A | Ẋ |  | Latin Capital Letter X with Dot Above | 1E8B | ẋ |  | Latin Small Letter X with Dot Above |
 | 1E8E | Ẏ |  | Latin Capital Letter Y with Dot Above | 1E8F | ẏ |  | Latin Small Letter Y with Dot Above |
-| 017B | Ż |  | Latin Small Letter Long S with Dot Above | 017C | ż |  |  |  
+| 1E9B | ẛ |  | Latin Small Letter Long S with Dot Above |  |  |  |  |  
 </details>  
   
 + Jonathan Hoefler. [Proofs](https://github.com/hoeflerco/proofs)  
