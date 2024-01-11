@@ -1,9 +1,18 @@
 
 # Latin Proofs  
   
+##  Table of content
+<details open>
+  <summary>Click me</summary>  
+  
++ <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
++ <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
++ <a id=tc_dotabove></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#dotabove)  
+</details>    
+  
 Latin texts for evaluating typefaces in development.  
   
-## ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above   
+## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
   
 <details>
   <summary>Click here for a table of details</summary>  
@@ -22,7 +31,7 @@ Latin texts for evaluating typefaces in development.
 | 1E80 | Ẁ |  | Latin Capital Letter W with Grave Above | 1E81 | ẁ |  | Latin Small Letter W with Grave Above |
 </details>  
   
-## ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above   
+## <a id=dotabove></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#tc_dotabove)   
   
 <details>
   <summary>Click here for a table of details</summary>  
@@ -56,6 +65,9 @@ Latin texts for evaluating typefaces in development.
 | 1E9B | ẛ |  | Latin Small Letter Long S with Dot Above |  |  |  |  |  
 </details>    
   
+  
+### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+    
 + Jonathan Hoefler. [Proofs](https://github.com/hoeflerco/proofs)  
 + Jonathan Hoefler. [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts)  
 + Jonathan Hoefler. [How to Proof a Typeface](https://jonathanhoefler.com/articles/how-to-proof-a-typeface)  
@@ -70,4 +82,5 @@ Latin texts for evaluating typefaces in development.
 + Type.Today. [Cyrillic on Google Fonts: Geometric Sans](https://type.today/en/journal/geo)  
 + Type.Today. [Cyrillic on Google Fonts: Humanist Sans](https://type.today/en/journal/humanist)  
 + Type.Today. [Cyrillic on Google Fonts: Neo-Grotesques](https://type.today/en/journal/neo)  
++ Christoph Koeberlin. [Designing Latin S](https://github.com/koeberlin/Designing-Latin-S)  
       
