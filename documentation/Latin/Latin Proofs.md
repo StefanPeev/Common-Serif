@@ -1,6 +1,26 @@
+
 # Latin Proofs  
   
 Latin texts for evaluating typefaces in development.  
+  
+## ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above   
+  
+<details>
+  <summary>Click here for a table of details</summary>  
+      
+| Code | Char | Image | Name Canonical decomposition | Code | Char | Image | Name Canonical decomposition |    
+|:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
+| 00C0 | À |  | Latin Capital Letter A with Grave Above | 00E0 | à |  | Latin Small Letter A with Grave Above | 
+| 00C8 | È |  | Latin Capital Letter E with Grave Above | 00E8 | è |  | Latin Small Letter E with Grave Above |
+| 00CC | Ì |  | Latin Capital Letter I with Grave Above | 00EC | ì |  | Latin Small Letter I with Grave Above |
+| 01F8 | Ǹ |  | Latin Capital Letter N with Grave Above | 01F9 | ǹ |  | Latin Small Letter n with Grave Above |
+| 00D2 | Ò |  | Latin Capital Letter O with Grave Above | 00F2 | ò |  | Latin Small Letter O with Grave Above |
+| 1EDC | Ờ |  | Latin Capital Letter O with Horn and Grave Above | 1EDD | ờ |  | Latin Small Letter O with Horn and Grave Above |
+| 00D9 | Ù |  | Latin Capital Letter U with Grave Above | 00F9 | ù |  | Latin Small Letter U with Grave Above |
+| 1EEA | Ừ |  | Latin Capital Letter U with Horn and Grave Above | 1EEB | ừ | Latin Small Letter U with Horn and Grave Above |  |
+| 1EF2 | Ỳ |  | Latin Capital Letter Y with Grave Above | 1EF3 | ỳ |  | Latin Small Letter Y with Grave Above |
+| 1E80 | Ẁ |  | Latin Capital Letter W with Grave Above | 1E81 | ẁ |  | Latin Small Letter W with Grave Above |
+</details>  
   
 ## ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above   
   
@@ -34,7 +54,7 @@ Latin texts for evaluating typefaces in development.
 | 1E8A | Ẋ |  | Latin Capital Letter X with Dot Above | 1E8B | ẋ |  | Latin Small Letter X with Dot Above |
 | 1E8E | Ẏ |  | Latin Capital Letter Y with Dot Above | 1E8F | ẏ |  | Latin Small Letter Y with Dot Above |
 | 1E9B | ẛ |  | Latin Small Letter Long S with Dot Above |  |  |  |  |  
-</details>  
+</details>    
   
 + Jonathan Hoefler. [Proofs](https://github.com/hoeflerco/proofs)  
 + Jonathan Hoefler. [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts)  
