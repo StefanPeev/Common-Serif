@@ -2,8 +2,8 @@
 # Latin Proofs  
   
 ##  Table of content
-<details open>
-  <summary>Click me</summary>  
+<details>
+  <summary>Click me to open the Table of Content</summary>  
   
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 + <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
@@ -15,7 +15,7 @@ Latin texts for evaluating typefaces in development.
 ## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
   
 <details>
-  <summary>Click here for a table of details</summary>  
+  <summary>Click here for a Table of Details</summary>  
       
 | Code | Char | Image | Name Canonical decomposition | Code | Char | Image | Name Canonical decomposition |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
@@ -34,7 +34,7 @@ Latin texts for evaluating typefaces in development.
 ## <a id=dotabove></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#tc_dotabove)   
   
 <details>
-  <summary>Click here for a table of details</summary>  
+  <summary>Click here for a Table of Details</summary>  
       
 | Code | Char | Image | Name Canonical decomposition | Code | Char | Image | Name Canonical decomposition |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
@@ -68,6 +68,9 @@ Latin texts for evaluating typefaces in development.
   
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
     
+<details>
+  <summary>Click me to open the list of Sources</summary>  
+  
 + Jonathan Hoefler. [Proofs](https://github.com/hoeflerco/proofs)  
 + Jonathan Hoefler. [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts)  
 + Jonathan Hoefler. [How to Proof a Typeface](https://jonathanhoefler.com/articles/how-to-proof-a-typeface)  
@@ -83,4 +86,5 @@ Latin texts for evaluating typefaces in development.
 + Type.Today. [Cyrillic on Google Fonts: Humanist Sans](https://type.today/en/journal/humanist)  
 + Type.Today. [Cyrillic on Google Fonts: Neo-Grotesques](https://type.today/en/journal/neo)  
 + Christoph Koeberlin. [Designing Latin S](https://github.com/koeberlin/Designing-Latin-S)  
-      
+</details>  
+  
