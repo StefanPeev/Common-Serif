@@ -586,4 +586,9 @@ Wikipedia. [Early Cyrillic alphabet](https://en.wikipedia.org/wiki/Early_Cyrilli
 Wikipedia. [Diacritic](https://en.wikipedia.org/wiki/Diacritic)  
 J.C. Wells. [Orthographic diacritics and multilingual computing](https://www.phon.ucl.ac.uk/home/wells/dia/diacritics-revised.htm) 
 Filip Blažek. [Diacritics](http://diacritics.typo.cz/index.php?id=1) 
+Type.Today. [Cyrillic on Google Fonts: transitional serifs](https://type.today/en/journal/transitional)  
+Type.Today. [Cyrillic on Google Fonts: Old-Style Serifs](https://type.today/en/journal/old-style)  
+Type.Today. [Cyrillic on Google Fonts: Geometric Sans](https://type.today/en/journal/geo)  
+Type.Today. [Cyrillic on Google Fonts: Humanist Sans](https://type.today/en/journal/humanist)  
+Type.Today. [Cyrillic on Google Fonts: Neo-Grotesques](https://type.today/en/journal/neo)  
   
