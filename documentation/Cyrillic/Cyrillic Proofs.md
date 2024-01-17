@@ -35,6 +35,15 @@ Cyrillic texts for evaluating typefaces in development.
   
   
 В расширенной латинице используется реже: буквы Ⱨ ⱨ и Ⱪ ⱪ одного из вариантов уйгурской латиницы, и буква Ꞑ ꞑ, использовавшаяся в яналифе, а также буква Ŋ ŋ.  
-    
+  
+### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+   
+<details>
+  <summary>Click me to open the list of Sources</summary>  
+  
 + Kostas Bartsokas. [Cyrillic Proofs](https://github.com/kosbarts/Commissioner/tree/master/documentation/proofs/Cyrillic%20Proofs)  
++ r12a. [Script links. Cyrillic](https://r12a.github.io/scripts/links.html?iso=cyrl)  
++ r12a. [All Cyrillic](https://r12a.github.io/pickers/cyrl-all/index.html)  
++ r12a. [Cyrillic](https://r12a.github.io/uniview/index.html?block=cyrillic#title)  
+</details>  
   

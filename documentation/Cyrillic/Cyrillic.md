@@ -578,6 +578,10 @@ As of Unicode version 15.1, Cyrillic script is encoded across several blocks:
    
    
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+  
+<details>
+  <summary>Click me to open the list of Sources</summary>  
+  
 Wikipedia. [Cyrillic script in Unicode](https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode)  
 Wikipedia. [List of Cyrillic letters](https://en.wikipedia.org/wiki/List_of_Cyrillic_letters)  
 Wikipedia. [Cyrillic script](https://en.wikipedia.org/wiki/Cyrillic_script)  
@@ -591,4 +595,8 @@ Type.Today. [Cyrillic on Google Fonts: Old-Style Serifs](https://type.today/en/j
 Type.Today. [Cyrillic on Google Fonts: Geometric Sans](https://type.today/en/journal/geo)  
 Type.Today. [Cyrillic on Google Fonts: Humanist Sans](https://type.today/en/journal/humanist)  
 Type.Today. [Cyrillic on Google Fonts: Neo-Grotesques](https://type.today/en/journal/neo)  
++ r12a. [Script links. Cyrillic](https://r12a.github.io/scripts/links.html?iso=cyrl)  
++ r12a. [All Cyrillic](https://r12a.github.io/pickers/cyrl-all/index.html)  
++ r12a. [Cyrillic](https://r12a.github.io/uniview/index.html?block=cyrillic#title)  
+</details>  
   

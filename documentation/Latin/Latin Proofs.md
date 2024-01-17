@@ -3,7 +3,7 @@
   
 ##  Table of content
 <details>
-  <summary>Click me to open the Table of Content</summary>  
+  <summary>Click me to open the **Table of Content**</summary>  
   
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 + <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
@@ -15,7 +15,7 @@ Latin texts for evaluating typefaces in development.
 ## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
   
 <details>
-  <summary>Click here for a Table of Details</summary>  
+  <summary>Click here for a **Table of Details**</summary>  
       
 | Code | Char | Image | Name Canonical decomposition | Code | Char | Image | Name Canonical decomposition |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
@@ -63,7 +63,12 @@ Latin texts for evaluating typefaces in development.
 | 1E8A | Ẋ |  | Latin Capital Letter X with Dot Above | 1E8B | ẋ |  | Latin Small Letter X with Dot Above |
 | 1E8E | Ẏ |  | Latin Capital Letter Y with Dot Above | 1E8F | ẏ |  | Latin Small Letter Y with Dot Above |
 | 1E9B | ẛ |  | Latin Small Letter Long S with Dot Above |  |  |  |  |  
-</details>    
+</details>  
+  
+
+### ĂăĔĕĞğĬĭŎŏŬŭ  
+U+0306 Combining Breve  
+A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevecomb i+brevecomb O+brevecomb o+brevecomb U+brevecomb u+brevecomb
   
   
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
@@ -86,5 +91,6 @@ Latin texts for evaluating typefaces in development.
 + Type.Today. [Cyrillic on Google Fonts: Humanist Sans](https://type.today/en/journal/humanist)  
 + Type.Today. [Cyrillic on Google Fonts: Neo-Grotesques](https://type.today/en/journal/neo)  
 + Christoph Koeberlin. [Designing Latin S](https://github.com/koeberlin/Designing-Latin-S)  
++ r12a. [Latin & Diacritic](https://r12a.github.io/pickers/latn-all/)  
 </details>  
   
