@@ -5,25 +5,27 @@
 <details>
   <summary>Click me to open the Table of Content</summary>  
   
-+ <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 + <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
 + <a id=tc_dotabove></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#dotabove)  
 + <a id=tc_breve></a>ĂĔĞĬŎŬ ăĕğĭŏŭ. Glyphs with breve [:arrows_counterclockwise:](#breve)  
 + <a id=tc_cedilla></a>ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț. Glyphs with cedilla and comma below [:arrows_counterclockwise:](#cedilla)  
++ <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
 Latin texts for evaluating typefaces in development.  
   
 ## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
-  
+`Composite glyphs: ` **ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ**  
+`Base glyphs: ` AEINOƠUƯYW aeinoơuưyw
+    
 <details>
-  <summary>Click here for a Table of Details</summary>  
+  <summary>Click here for a `Table of Details`</summary>  
       
 | Code | Char | Image | Name Canonical decomposition | Code | Char | Image | Name Canonical decomposition |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
-| 00C0 | À |  | Latin Capital Letter A with Grave Above | 00E0 | à |  | Latin Small Letter A with Grave Above | 
-| 00C8 | È |  | Latin Capital Letter E with Grave Above | 00E8 | è |  | Latin Small Letter E with Grave Above |
-| 00CC | Ì |  | Latin Capital Letter I with Grave Above | 00EC | ì |  | Latin Small Letter I with Grave Above |
+| 00C0 | ##À |  | Latin Capital Letter A with Grave Above | 00E0 | ##à |  | Latin Small Letter A with Grave Above | 
+| 00C8 | ##È |  | Latin Capital Letter E with Grave Above | 00E8 | ##è |  | Latin Small Letter E with Grave Above |
+| 00CC | ##Ì |  | Latin Capital Letter I with Grave Above | 00EC | ##ì |  | Latin Small Letter I with Grave Above |
 | 01F8 | Ǹ |  | Latin Capital Letter N with Grave Above | 01F9 | ǹ |  | Latin Small Letter n with Grave Above |
 | 00D2 | Ò |  | Latin Capital Letter O with Grave Above | 00F2 | ò |  | Latin Small Letter O with Grave Above |
 | 1EDC | Ờ |  | Latin Capital Letter O with Horn and Grave Above | 1EDD | ờ |  | Latin Small Letter O with Horn and Grave Above |
@@ -34,9 +36,11 @@ Latin texts for evaluating typefaces in development.
 </details>  
   
 ## <a id=dotabove></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#tc_dotabove)   
+`Composite glyphs: ` **ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ**  
+`Base glyphs: ` CEGIZAOBDFHMNPRSTWXY cegzaobdfhimnprstwxy  
   
 <details>
-  <summary>Click here for a Table of Details</summary>  
+  <summary>Click here for a `Table of Details`</summary>  
       
 | Code | Char | Image | Name Canonical decomposition | Code | Char | Image | Name Canonical decomposition |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
@@ -69,11 +73,11 @@ Latin texts for evaluating typefaces in development.
   
 
 ## <a id=breve></a>ĂĔĞĬŎŬ ăĕğĭŏŭ [:arrows_counterclockwise:](#tc_breve)  
-U+0306 Combining Breve  
-A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevecomb i+brevecomb O+brevecomb o+brevecomb U+brevecomb u+brevecomb  
-
+`Composite glyphs: ` **ĂĔĞĬŎŬ ăĕğĭŏŭ**  
+`Base glyphs: ` AEGIOU aegiou  
+  
 <details>
-  <summary>Click here for a Table of Details</summary>  
+  <summary>Click here for a `Table of Details`</summary>  
       
 | Name | Letter | Unicode | HTML  |
 | :--- | :--- | :--- | :--- |
@@ -116,11 +120,11 @@ A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevec
   
   
 ## <a id=cedilla></a>ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ [:arrows_counterclockwise:](#tc_cedilla) 
-`Combining letters: ` **ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț**  
-`Base letters: ` CDEHST DGKLNRST cdehst dgklnrst 
+`Composite glyphs: ` **ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț**  
+`Base glyphs: ` CDEHST DGKLNRST cdehst dgklnrst 
   
 <details>
-  <summary>Click here for a Table of Details</summary>  
+  <summary>Click here for a `Table of Details`</summary>  
       
 | Code | Char | Image | Name Canonical decomposition | Naming in the Font | Code | Char | Image | Name Canonical decomposition | Naming in the Font |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
