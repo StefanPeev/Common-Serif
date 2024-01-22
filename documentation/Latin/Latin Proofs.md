@@ -91,6 +91,7 @@ A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevec
 + Type.Today. [Cyrillic on Google Fonts: Humanist Sans](https://type.today/en/journal/humanist)  
 + Type.Today. [Cyrillic on Google Fonts: Neo-Grotesques](https://type.today/en/journal/neo)  
 + Christoph Koeberlin. [Designing Latin S](https://github.com/koeberlin/Designing-Latin-S)  
++ r12a. [Latin. Script links](https://r12a.github.io/scripts/links.html?iso=Latn)  
 + r12a. [Latin & Diacritic](https://r12a.github.io/pickers/latn-all/)  
 </details>  
   
