@@ -3,7 +3,7 @@
   
 ##  Table of content
 <details>
-  <summary>Click me to open the **Table of Content**</summary>  
+  <summary>Click me to open the Table of Content</summary>  
   
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 + <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
@@ -17,7 +17,7 @@ Latin texts for evaluating typefaces in development.
 ## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
   
 <details>
-  <summary>Click here for a **Table of Details**</summary>  
+  <summary>Click here for a Table of Details</summary>  
       
 | Code | Char | Image | Name Canonical decomposition | Code | Char | Image | Name Canonical decomposition |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
@@ -73,7 +73,7 @@ U+0306 Combining Breve
 A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevecomb i+brevecomb O+brevecomb o+brevecomb U+brevecomb u+brevecomb  
 
 | Name | Letter | Unicode | HTML  |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Breve (spacing)  | ˘ | U+02D8 | ˘  |
 | Combining breve  | ◌̆ | U+0306 | ̆  |
 | Combining breve below  | ◌̮ | U+032E | ̮  |
@@ -81,38 +81,50 @@ A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevec
 | Combining double breve below  | ◌͜◌ | U+035C | ͜  |
 | Breve with inverted breve (spacing)  | ꭛ | U+AB5B | ꭛  |
 | Latin  |
-| A-breve  | Ăă | U+0102U+0103 | Ăă  |
-| E-breve  | Ĕĕ | U+0114U+0115 | Ĕĕ  |
-| I-breve  | Ĭĭ  | U+012CU+012D | Ĭĭ  |
-| O-breve  | Ŏŏ | U+014EU+014F | Ŏŏ  |
-| U-breve  | Ŭŭ | U+016CU+016D | Ŭŭ  |
+| A-breve  | Ăă | U+0102 U+0103 | Ăă  |
+| E-breve  | Ĕĕ | U+0114 U+0115 | Ĕĕ  |
+| I-breve  | Ĭĭ  | U+012C U+012D | Ĭĭ  |
+| O-breve  | Ŏŏ | U+014E U+014F | Ŏŏ  |
+| U-breve  | Ŭŭ | U+016C U+016D | Ŭŭ  |
 | Azerbaijani, Tatar, Turkish  |
-| G-breve  | Ğğ | U+011EU+011F | Ğğ  |
+| G-breve  | Ğğ | U+011E U+011F | Ğğ  |
 | Vietnamese  |
-| A-sắc-breve  | Ắắ  | U+1EAEU+1EAF | Ắắ  |
-| A-huyền-breve  | Ằằ  | U+1EB0U+1EB1 | Ằằ  |
-| A-hỏi-breve  | Ẳẳ | U+1EB2U+1EB3 | Ẳẳ  |
-| A-ngã-breve  | Ẵẵ | U+1EB4U+1EB5 | Ẵẵ  |
-| A-nặng-breve  | Ặặ | U+1EB6U+1EB7 | Ặặ  |
+| A-sắc-breve  | Ắắ  | U+1EAE U+1EAF | Ắắ  |
+| A-huyền-breve  | Ằằ  | U+1EB0 U+1EB1 | Ằằ  |
+| A-hỏi-breve  | Ẳẳ | U+1EB2 U+1EB3 | Ẳẳ  |
+| A-ngã-breve  | Ẵẵ | U+1EB4 U+1EB5 | Ẵẵ  |
+| A-nặng-breve  | Ặặ | U+1EB6 U+1EB7 | Ặặ  |
 | Cyrillic  |
-| A-breve  | Ӑӑ | U+04D0U+04D1 | Ӑӑ  |
-| Ye-breve  | Ӗӗ | U+04D6U+04D7 | Ӗӗ  |
-| Zhe-breve  | Ӂӂ | U+04C1U+04C2 | Ӂӂ  |
-| Short I  | Йй | U+0419U+0439 | Йй  |
-| O-breve  | О̆о̆ | U+041E U+0306U+043E U+0306 | О̆о̆  |
-| Short U  | Ўў | U+040EU+045E | Ўў  |
+| A-breve  | Ӑӑ | U+04D0 U+04D1 | Ӑӑ  |
+| Ye-breve  | Ӗӗ | U+04D6 U+04D7 | Ӗӗ  |
+| Zhe-breve  | Ӂӂ | U+04C1 U+04C2 | Ӂӂ  |
+| Short I  | Йй | U+0419 U+0439 | Йй  |
+| O-breve  | О̆о̆ | U+041E U+0306 U+043E U+0306 | О̆о̆  |
+| Short U  | Ўў | U+040E U+045E | Ўў  |
 | Greek  |
-| Alpha with brachy  | Ᾰᾰ | U+1FB8U+1FB0 | Ᾰᾰ  |
-| Iota with brachy  | Ῐῐ | U+1FD8U+1FD0 | Ῐῐ  |
-| Upsilon with brachy  | Ῠῠ | U+1FE8U+1FE0 | Ῠῠ  |
-| Arabic, Hittite, Akkadian, Egyptian transliteration[3]  |
-| H-breve below  | Ḫḫ | U+1E2AU+1E2B | Ḫḫ  |
-| Hebrew transliteration[3]  |
-| E-cedilla-breve  | Ḝḝ | U+1E1CU+1E1D | Ḝḝ  |  
+| Alpha with brachy  | Ᾰᾰ | U+1FB8 U+1FB0 | Ᾰᾰ  |
+| Iota with brachy  | Ῐῐ | U+1FD8 U+1FD0 | Ῐῐ  |
+| Upsilon with brachy  | Ῠῠ | U+1FE8 U+1FE0 | Ῠῠ  |
+| Arabic, Hittite, Akkadian, Egyptian transliteration  |
+| H-breve below  | Ḫḫ | U+1E2A U+1E2B | Ḫḫ  |
+| Hebrew transliteration  |
+| E-cedilla-breve  | Ḝḝ | U+1E1C U+1E1D | Ḝḝ  |  
   
   
-## <a id=cedilla></a>ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ [:arrows_counterclockwise:](#tc_cedilla)  
+## <a id=cedilla></a>ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ [:arrows_counterclockwise:](#tc_cedilla) 
+ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț  
+Ccedilla uni1E08 uni0228 uni1E1C uni1E28 Scedilla uni0162  
+CDEHST DGKLNRST cdehst dgklnrst 
   
+<details>
+  <summary>Click here for a Table of Details</summary>  
+      
+| Code | Char | Image | Name Canonical decomposition | Naming in the Font | Code | Char | Image | Name Canonical decomposition | Naming in the Font |    
+|:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
+| 00C7 | Ç |  | Latin Capital Letter C With Cedilla ≡ 0043 C 0327 $̧ | Ccedilla uni00C7 | 00E7 | ç |  | Latin Small Letter C With Cedilla ≡ 0063 c 0327 $̧ | ccedilla uni00E7 | 
+</details>    
+    
+	
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
     
 <details>
