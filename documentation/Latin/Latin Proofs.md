@@ -72,6 +72,9 @@ Latin texts for evaluating typefaces in development.
 U+0306 Combining Breve  
 A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevecomb i+brevecomb O+brevecomb o+brevecomb U+brevecomb u+brevecomb  
 
+<details>
+  <summary>Click here for a Table of Details</summary>  
+      
 | Name | Letter | Unicode | HTML  |
 | :--- | :--- | :--- | :--- |
 | Breve (spacing)  | ˘ | U+02D8 | ˘  |
@@ -80,7 +83,7 @@ A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevec
 | Combining double breve  | ◌͝◌ | U+035D | ͝  |
 | Combining double breve below  | ◌͜◌ | U+035C | ͜  |
 | Breve with inverted breve (spacing)  | ꭛ | U+AB5B | ꭛  |
-| Latin  |
+| **Latin** |  |  |  |
 | A-breve  | Ăă | U+0102 U+0103 | Ăă  |
 | E-breve  | Ĕĕ | U+0114 U+0115 | Ĕĕ  |
 | I-breve  | Ĭĭ  | U+012C U+012D | Ĭĭ  |
@@ -88,32 +91,33 @@ A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevec
 | U-breve  | Ŭŭ | U+016C U+016D | Ŭŭ  |
 | Azerbaijani, Tatar, Turkish  |
 | G-breve  | Ğğ | U+011E U+011F | Ğğ  |
-| Vietnamese  |
+| **Vietnamese** |  |  |  |
 | A-sắc-breve  | Ắắ  | U+1EAE U+1EAF | Ắắ  |
 | A-huyền-breve  | Ằằ  | U+1EB0 U+1EB1 | Ằằ  |
 | A-hỏi-breve  | Ẳẳ | U+1EB2 U+1EB3 | Ẳẳ  |
 | A-ngã-breve  | Ẵẵ | U+1EB4 U+1EB5 | Ẵẵ  |
 | A-nặng-breve  | Ặặ | U+1EB6 U+1EB7 | Ặặ  |
-| Cyrillic  |
+| **Cyrillic** |  |  |  |
 | A-breve  | Ӑӑ | U+04D0 U+04D1 | Ӑӑ  |
 | Ye-breve  | Ӗӗ | U+04D6 U+04D7 | Ӗӗ  |
 | Zhe-breve  | Ӂӂ | U+04C1 U+04C2 | Ӂӂ  |
 | Short I  | Йй | U+0419 U+0439 | Йй  |
 | O-breve  | О̆о̆ | U+041E U+0306 U+043E U+0306 | О̆о̆  |
 | Short U  | Ўў | U+040E U+045E | Ўў  |
-| Greek  |
+| **Greek** |  |  |  |
 | Alpha with brachy  | Ᾰᾰ | U+1FB8 U+1FB0 | Ᾰᾰ  |
 | Iota with brachy  | Ῐῐ | U+1FD8 U+1FD0 | Ῐῐ  |
 | Upsilon with brachy  | Ῠῠ | U+1FE8 U+1FE0 | Ῠῠ  |
 | Arabic, Hittite, Akkadian, Egyptian transliteration  |
 | H-breve below  | Ḫḫ | U+1E2A U+1E2B | Ḫḫ  |
-| Hebrew transliteration  |
+| **Hebrew transliteration** |  |  |  |
 | E-cedilla-breve  | Ḝḝ | U+1E1C U+1E1D | Ḝḝ  |  
+</details>  
   
   
 ## <a id=cedilla></a>ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ [:arrows_counterclockwise:](#tc_cedilla) 
-Combining letters: **ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț**  
-Base letters: CDEHST DGKLNRST cdehst dgklnrst 
+`Combining letters: ` **ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț**  
+`Base letters: ` CDEHST DGKLNRST cdehst dgklnrst 
   
 <details>
   <summary>Click here for a Table of Details</summary>  
