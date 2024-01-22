@@ -112,9 +112,8 @@ A+brevecomb a+brevecomb E+brevecomb e+brevecomb G+brevecomb g+brevecomb I+brevec
   
   
 ## <a id=cedilla></a>ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ [:arrows_counterclockwise:](#tc_cedilla) 
-ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț  
-Ccedilla uni1E08 uni0228 uni1E1C uni1E28 Scedilla uni0162  
-CDEHST DGKLNRST cdehst dgklnrst 
+Combining letters: **ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț**  
+Base letters: CDEHST DGKLNRST cdehst dgklnrst 
   
 <details>
   <summary>Click here for a Table of Details</summary>  
@@ -123,6 +122,7 @@ CDEHST DGKLNRST cdehst dgklnrst
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
 | 00C7 | Ç |  | Latin Capital Letter C With Cedilla ≡ 0043 C 0327 ◌̧ | Ccedilla uni00C7 | 00E7 | ç |  | Latin Small Letter C With Cedilla ≡ 0063 c 0327 ◌̧ | ccedilla uni00E7 | 
 | 1E08 | Ḉ |  | Latin Capital Letter C With Cedilla And Acute ≡ 00C7 Ç  0301 ◌́ | Ccedillaacute uni1E08 | 1E09 | ḉ |  | Latin Small Letter C With Cedilla And Acute ≡ 00E7 ç  0301 ◌́  | ccedillaacute uni1E09 | 
+| 0228 | Ȩ |  | Latin Capital Letter E With Cedilla ≡ 0045 E  0327 ◌̧ | Ecedilla uni0228 | 0229 | ȩ |  | Latin Small Letter E With Cedilla ≡ 0065 e  0327 ◌̧ | ecedilla uni0229 | 
 </details>    
     
 	
