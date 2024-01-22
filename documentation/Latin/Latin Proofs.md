@@ -121,7 +121,8 @@ CDEHST DGKLNRST cdehst dgklnrst
       
 | Code | Char | Image | Name Canonical decomposition | Naming in the Font | Code | Char | Image | Name Canonical decomposition | Naming in the Font |    
 |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |:---- |  
-| 00C7 | Ç |  | Latin Capital Letter C With Cedilla ≡ 0043 C 0327 $̧ | Ccedilla uni00C7 | 00E7 | ç |  | Latin Small Letter C With Cedilla ≡ 0063 c 0327 $̧ | ccedilla uni00E7 | 
+| 00C7 | Ç |  | Latin Capital Letter C With Cedilla ≡ 0043 C 0327 ◌̧ | Ccedilla uni00C7 | 00E7 | ç |  | Latin Small Letter C With Cedilla ≡ 0063 c 0327 ◌̧ | ccedilla uni00E7 | 
+| 1E08 | Ḉ |  | Latin Capital Letter C With Cedilla And Acute ≡ 00C7 Ç  0301 ◌́ | Ccedillaacute uni1E08 | 1E09 | ḉ |  | Latin Small Letter C With Cedilla And Acute ≡ 00E7 ç  0301 ◌́  | ccedillaacute uni1E09 | 
 </details>    
     
 	
