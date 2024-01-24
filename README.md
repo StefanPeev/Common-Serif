@@ -55,7 +55,12 @@ Unicode Support
 ---------------
 
 For Unicode Support in Common Serif see [Unicode Support page](https://github.com/StefanPeev/Common-Serif/blob/main/documentation/Unicode%20Support.md).
+  
+Projects using Common Serif
+---------------------------
 
+Have you made something nice with Common Serif? [Please share in Discussions panel! →](https://github.com/StefanPeev/Common-Serif/discussions).  
+  
 Local Fonts project
 -------------------
 
