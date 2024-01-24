@@ -59,7 +59,8 @@ For Unicode Support in Common Serif see [Unicode Support page](https://github.co
 Projects using Common Serif
 ---------------------------
 
-Have you made something nice with Common Serif? [Please share in Discussions panel! →](https://github.com/StefanPeev/Common-Serif/discussions).  
+Have you made something nice with Common Serif?  
+[Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Common-Serif/discussions/categories/show-and-tell).  
   
 Local Fonts project
 -------------------
