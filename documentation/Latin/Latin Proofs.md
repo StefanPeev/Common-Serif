@@ -156,5 +156,7 @@ Latin texts for evaluating typefaces in development.
 + Christoph Koeberlin. [Designing Latin S](https://github.com/koeberlin/Designing-Latin-S)  
 + r12a. [Latin. Script links](https://r12a.github.io/scripts/links.html?iso=Latn)  
 + r12a. [Latin & Diacritic](https://r12a.github.io/pickers/latn-all/)  
++ Eymen Efe Altun. [All words in all languages](https://github.com/eymenefealtun/all-words-in-all-languages)  
++ Hermit Dave. [Frequency Words](https://github.com/hermitdave/FrequencyWords)  
 </details>  
   

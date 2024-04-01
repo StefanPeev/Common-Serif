@@ -20,6 +20,8 @@ From v.1.032 onwards, special attention is paid to both Polytonic and Monotonic 
 + Polytoniko. [Re-introduction of the Polytonic System](https://www.polytoniko.org/index.php?newlang=en)  
 + Thomas Linard. [Comments of Irene Vlachou's "Polytonic Greek". OpenType features](https://github.com/irenevlachou/Polytonic-tutorial/issues/1)  
 + Kostas Bartsokas. [Comments of Irene Vlachou's "Polytonic Greek". Disjunctive Eta](https://github.com/irenevlachou/Polytonic-tutorial/issues/2)  
++ Eymen Efe Altun. [All words in all languages](https://github.com/eymenefealtun/all-words-in-all-languages)  
++ Hermit Dave. [Frequency Words](https://github.com/hermitdave/FrequencyWords)  
 
 The following font families were used as control fonts:  
 

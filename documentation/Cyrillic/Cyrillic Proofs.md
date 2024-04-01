@@ -32,6 +32,11 @@ Cyrillic texts for evaluating typefaces in development.
 ## ҞҌ ҟҍ  
 ## ЎЙҊӁӐӖ ўйҋӂӑӗ  
 ## ЁӒӚӜӞӤӦӪӬӰӴӸ ёӓӛӝӟӥӧӫӭӱӵӹ  
+## ЌКҚҠҞҜ. Kerning left class uni041A_
+## аӑӓ. Kerning left class uni0430_  
+## уўӳӯӱ. Kerning left class uni0443_  
+## уўӳӯӱ. Kerning right class _uni0443  
+## рҏԗ. Kerning right class _uni0440  
   
   
 В расширенной латинице используется реже: буквы Ⱨ ⱨ и Ⱪ ⱪ одного из вариантов уйгурской латиницы, и буква Ꞑ ꞑ, использовавшаяся в яналифе, а также буква Ŋ ŋ.  
@@ -45,5 +50,7 @@ Cyrillic texts for evaluating typefaces in development.
 + r12a. [Script links. Cyrillic](https://r12a.github.io/scripts/links.html?iso=cyrl)  
 + r12a. [All Cyrillic](https://r12a.github.io/pickers/cyrl-all/index.html)  
 + r12a. [Cyrillic](https://r12a.github.io/uniview/index.html?block=cyrillic#title)  
++ Eymen Efe Altun. [All words in all languages](https://github.com/eymenefealtun/all-words-in-all-languages)  
++ Hermit Dave. [Frequency Words](https://github.com/hermitdave/FrequencyWords)  
 </details>  
   
