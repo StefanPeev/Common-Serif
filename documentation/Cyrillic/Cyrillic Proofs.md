@@ -41,9 +41,10 @@ Cyrillic glyphs with left vertical stem.
       
 | Kerning left. Class uni0433_ | Kerning right. Class _uni043B | Kerning right | Kerning right |  
 |:---- |:---- |:---- |:---- |  
-| ГЃҐӶҒӺ гѓґӷғӻ uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0433.Serb uni0453 uni0491 uni0493 uni04F7 uni04FB | ЛЉӅԈԒԔԠԯ лљӆԉԓԕԡԯ uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F | "" | "" |   
-</details> 
-## КЌҚҠҞҜ. Kerning left class uni041A_
+| **Г Ѓ Ґ Ӷ Ғ Ӻ г ѓ ґ ӷ ғ ӻ** uni0403 uni0413 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0433.Serb uni0453 uni0491 uni0493 uni04F7 uni04FB | **Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ л љ ӆ ԉ ԓ ԕ ԡ ԯ** uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F | "" | "" |   
+</details>  
+
+## КЌҚҠҞҜ. Kerning left class uni041A_  
 ## аӑӓ. Kerning left class uni0430_  
 ## уўӳӯӱ. Kerning left class uni0443_  
 ## уўӳӯӱ. Kerning right class _uni0443  
