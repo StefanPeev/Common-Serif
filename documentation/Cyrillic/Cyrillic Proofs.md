@@ -34,14 +34,25 @@ Cyrillic texts for evaluating typefaces in development.
 ## ЁӒӚӜӞӤӦӪӬӰӴӸ ёӓӛӝӟӥӧӫӭӱӵӹ  
 ## ВГЃҐӶҒӺҔИЍӢӤЙҊКЌҚҜԞМӍꙦНЊҢҤӇӉԊԢПԤЦꚎЏШЩꚖЫӸЬЮѤѨꙜѬꙒꙖ вгѓґӷғӻҕиѝӣӥйҋкќқҝԟмӎꙧнњңҥӈӊԋԣпԥцꚏџшщꚗыӹьюѥѩꙝѭꙓꙗ  
 Cyrillic glyphs with left vertical stem.  
+   
 # Main Cyrillic kerning classes  
-## Kerning left. Class uni0413_ : ГЃҐӶҒӺ. Class uni0433_ : гѓґӷғӻ.   
+## ГЛ Гл гл гЛ. ГЃҐӶҒӺ гѓґӷғӻ. ЛЉӅԈԒԔԠԮлљӆԉԓԕԡԯ    
+  
+**Kerning:** LEFT  
+**Uppercase glyphs:** @_uni0413_ = [uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA] [Г Ѓ Ґ Ӷ Ғ Ӻ]   
+**Lowercase glyphs:** @_uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB] [г ѓ ґ ӷ ғ ӻ]  
+  
+**Kerning:** RIGHT  
+**Uppercase glyphs:** @__uni041B = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E] [Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ]   
+**Lowercase glyphs:** @__uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F] [л љ ӆ ԉ ԓ ԕ ԡ ԯ]  
+    
+  
 <details>
   <summary>Click here for a table of details</summary>  
       
-| Kerning left. Class uni0413_ and class uni0433_ | Kerning right. Class _uni041B and class _uni043B | Kerning right | Kerning right |  
-|:---- |:---- |:---- |:---- |  
-| **Г Ѓ Ґ Ӷ Ғ Ӻ г ѓ ґ ӷ ғ ӻ** uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB | **Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ л љ ӆ ԉ ԓ ԕ ԡ ԯ** uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F | "" | "" |   
+| Kerning left. Class uni0413_ and class uni0433_ | Kerning right. Class _uni041B and class _uni043B |  
+|:---- |:---- |  
+| **Г Ѓ Ґ Ӷ Ғ Ӻ г ѓ ґ ӷ ғ ӻ** uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB | **Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ л љ ӆ ԉ ԓ ԕ ԡ ԯ** uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F |   
 </details>  
 
 ## КЌҚҠҞҜ. Kerning left class uni041A_  
