@@ -40,11 +40,11 @@ Cyrillic glyphs with left vertical stem.
   
 Recommended kerning class ranges for multilingual Cyrillic font  
   
-+ **Kerning:** LEFT > **Uppercase glyphs** [Г Ѓ Ґ Ӷ Ғ Ӻ]: **@uni0413_** = [uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA]   
-+ **Kerning:** LEFT > **Lowercase glyphs** [г ѓ ґ ӷ ғ ӻ]: **@uni0433_** = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB]  
++ **Kerning:** LEFT > **Uppercase glyphs** [Г Ѓ Ґ Ӷ Ғ Ӻ]: `**@_uni0413_**` = [uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA]   
++ **Kerning:** LEFT > **Lowercase glyphs** [г ѓ ґ ӷ ғ ӻ]: `**@_uni0433_**` = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB]  
   
-+ **Kerning:** RIGHT < **Uppercase glyphs** [Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ]: **@uni041B** = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E]   
-+ **Kerning:** RIGHT < **Lowercase glyphs** [л љ ӆ ԉ ԓ ԕ ԡ ԯ]: **@uni043B** = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F]  
++ **Kerning:** RIGHT < **Uppercase glyphs** [Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ]: `**@_uni041B**` = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E]   
++ **Kerning:** RIGHT < **Lowercase glyphs** [л љ ӆ ԉ ԓ ԕ ԡ ԯ]: `**@_uni043B**` = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F]  
     
   
 <details>
@@ -66,14 +66,14 @@ Recommended kerning class ranges for multilingual Cyrillic font
    
 ## КО Ко ко кО. ЌКҚҜҞҠӃԞԪꚄ ќкқҝҟҡӄԟԫꚅ. ОѲӦӨӪ оѳӧөӫ  
   
-**Kerning:** LEFT  
-**Uppercase glyphs:** @_uni041A_ = [uni040C uni041A uni049A uni049C uni049E uni04A0 uni04C3 uni051E uni052A uniA684] [Ќ К Қ Ҝ Ҟ Ҡ Ӄ Ԟ Ԫ Ꚅ]   
-**Lowercase glyphs:** @_uni043A_ = [uni045C uni043A uni049B uni049D uni049F uni04A1 uni04C4 uni051F uni052B uniA685] [ќ к қ ҝ ҟ ҡ ӄ ԟ ԫ ꚅ]  
+Recommended kerning class ranges for multilingual Cyrillic font  
   
-**Kerning:** RIGHT  
-**Uppercase glyphs:** @__uni041E = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E] [О Ѳ Ӧ Ө Ӫ]   
-**Lowercase glyphs:** @__uni043E = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F] [о ѳ ӧ ө ӫ]    
-    
++ **Kerning:** LEFT > **Uppercase glyphs** [Ќ К Қ Ҝ Ҟ Ҡ Ӄ Ԟ Ԫ Ꚅ]: `**@_uni041A_**` = [uni040C uni041A uni049A uni049C uni049E uni04A0 uni04C3 uni051E uni052A uniA684]   
++ **Kerning:** LEFT > **Lowercase glyphs** [ќ к қ ҝ ҟ ҡ ӄ ԟ ԫ ꚅ]: `**@_uni043A**` = [uni045C uni043A uni049B uni049D uni049F uni04A1 uni04C4 uni051F uni052B uniA685]  
+  
++ **Kerning:** RIGHT < **Uppercase glyphs** [О Ѳ Ӧ Ө Ӫ]: `**@_uni041E_**` = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E]   
++ **Kerning:** RIGHT < **Lowercase glyphs** [о ѳ ӧ ө ӫ]: `**@_uni043E**` = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F]  
+   
   
 <details>
   <summary>Click here for a table of details</summary>  
