@@ -2,7 +2,7 @@
   
 Cyrillic texts for evaluating typefaces in development. 
   
-## ӃԒӇԨӺӼ ӄԓӈԩӻӽ. Glyphs with hook   
+## Glyphs with hook: ӃԒӇԨӺӼ ӄԓӈԩӻӽ   
   
 <details>
   <summary>Click here for a table of details</summary>  
@@ -12,7 +12,7 @@ Cyrillic texts for evaluating typefaces in development.
 | uni04C3 | Ӄ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni04C3_Ka_With_Hook.png" width="100" /> | Chukchi, Koryak, Alyutor, Itelmen, Yukaghir, Yupik, Aleut, Nivkh, Ket, Tofalar, Selkup |   
 </details> 
   
-## ҔҦӃԠԢӇ ҕҧӄԡԣӈ. Glyphs with middle hook  
+## Glyphs with middle hook: ҔҦӃԠԢӇ ҕҧӄԡԣӈ   
   
 <details>
   <summary>Click here for a table of details</summary>  
@@ -25,15 +25,15 @@ Cyrillic texts for evaluating typefaces in development.
 | uni0522 | Ԣ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni0522_En_With_Middle_Hook.png" width="100" /> | Chuvash |  
 </details>  
   
-## ӶҖҚԮҢԤҬҲҶԆԦ ӷҗқԯңԥҭҳҷԇԦԧ  
-## Ӌӌ  
-## ҊӅӍӉ ҋӆӎӊ 
-## ҘҪ ҙҫ  
-## ҞҌ ҟҍ  
-## ЎЙҊӁӐӖ ўйҋӂӑӗ  
-## ЁӒӚӜӞӤӦӪӬӰӴӸ ёӓӛӝӟӥӧӫӭӱӵӹ  
-## ВГЃҐӶҒӺҔИЍӢӤЙҊКЌҚҜԞМӍꙦНЊҢҤӇӉԊԢПԤЦꚎЏШЩꚖЫӸЬЮѤѨꙜѬꙒꙖ вгѓґӷғӻҕиѝӣӥйҋкќқҝԟмӎꙧнњңҥӈӊԋԣпԥцꚏџшщꚗыӹьюѥѩꙝѭꙓꙗ  
-Cyrillic glyphs with left vertical stem.  
+## Glyphs with right descender: `ӶҖҚԮҢԤҬҲҶԆԦ ӷҗқԯңԥҭҳҷԇԦԧ`  
+## Glyphs with left descender: `Ӌӌ`  
+## Glyphs with tail: `ҊӅӍӉ ҋӆӎӊ` 
+## Glyphs with hook descender: `ҘҪ ҙҫ`  
+## Glyphs with stroke: `ҞҌ ҟҍ`  
+## Glyphs with breve: `ЎЙҊӁӐӖ ўйҋӂӑӗ`  
+## Glyphs with diaeresis: `ЁӒӚӜӞӤӦӪӬӰӴӸ ёӓӛӝӟӥӧӫӭӱӵӹ`  
+## Glyphs with left vertical stem: `ВГЃҐӶҒӺҔИЍӢӤЙҊКЌҚҜԞМӍꙦНЊҢҤӇӉԊԢПԤЦꚎЏШЩꚖЫӸЬЮѤѨꙜѬꙒꙖ` `вгѓґӷғӻҕиѝӣӥйҋкќқҝԟмӎꙧнњңҥӈӊԋԣпԥцꚏџшщꚗыӹьюѥѩꙝѭꙓꙗ`  
+    
    
 # Main Cyrillic kerning classes  
 ## ГЛ Гл гл гЛ. ГЃҐӶҒӺ гѓґӷғӻ. ЛЉӅԈԒԔԠԮ лљӆԉԓԕԡԯ    
@@ -69,9 +69,9 @@ Recommended kerning class ranges for multilingual Cyrillic font
 Recommended kerning class ranges for multilingual Cyrillic font  
   
 + **Kerning:** LEFT > **Uppercase glyphs** [Ќ К Қ Ҝ Ҟ Ҡ Ӄ Ԟ Ԫ Ꚅ]: `**@_uni041A_**` = [uni040C uni041A uni049A uni049C uni049E uni04A0 uni04C3 uni051E uni052A uniA684]   
-+ **Kerning:** LEFT > **Lowercase glyphs** [ќ к қ ҝ ҟ ҡ ӄ ԟ ԫ ꚅ]: `**@_uni043A**` = [uni045C uni043A uni049B uni049D uni049F uni04A1 uni04C4 uni051F uni052B uniA685]  
++ **Kerning:** LEFT > **Lowercase glyphs** [ќ к қ ҝ ҟ ҡ ӄ ԟ ԫ ꚅ]: `**@_uni043A_**` = [uni045C uni043A uni049B uni049D uni049F uni04A1 uni04C4 uni051F uni052B uniA685]  
   
-+ **Kerning:** RIGHT < **Uppercase glyphs** [О Ѳ Ӧ Ө Ӫ]: `**@_uni041E_**` = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E]   
++ **Kerning:** RIGHT < **Uppercase glyphs** [О Ѳ Ӧ Ө Ӫ]: `**@_uni041E**` = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E]   
 + **Kerning:** RIGHT < **Lowercase glyphs** [о ѳ ӧ ө ӫ]: `**@_uni043E**` = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F]  
    
   
