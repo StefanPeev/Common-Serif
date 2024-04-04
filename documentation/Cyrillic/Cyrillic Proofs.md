@@ -2,7 +2,7 @@
   
 Cyrillic texts for evaluating typefaces in development. 
   
-## Glyphs with hook: ӃԒӇԨӺӼ ӄԓӈԩӻӽ   
+## Glyphs with hook: ` ӃԒӇԨӺӼ ӄԓӈԩӻӽ `   
   
 <details>
   <summary>Click here for a table of details</summary>  
@@ -12,7 +12,7 @@ Cyrillic texts for evaluating typefaces in development.
 | uni04C3 | Ӄ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni04C3_Ka_With_Hook.png" width="100" /> | Chukchi, Koryak, Alyutor, Itelmen, Yukaghir, Yupik, Aleut, Nivkh, Ket, Tofalar, Selkup |   
 </details> 
   
-## Glyphs with middle hook: ҔҦӃԠԢӇ ҕҧӄԡԣӈ   
+## Glyphs with middle hook: ` ҔҦӃԠԢӇ ҕҧӄԡԣӈ `   
   
 <details>
   <summary>Click here for a table of details</summary>  
@@ -25,14 +25,14 @@ Cyrillic texts for evaluating typefaces in development.
 | uni0522 | Ԣ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni0522_En_With_Middle_Hook.png" width="100" /> | Chuvash |  
 </details>  
   
-## Glyphs with right descender: `ӶҖҚԮҢԤҬҲҶԆԦ ӷҗқԯңԥҭҳҷԇԦԧ`  
-## Glyphs with left descender: `Ӌӌ`  
-## Glyphs with tail: `ҊӅӍӉ ҋӆӎӊ` 
-## Glyphs with hook descender: `ҘҪ ҙҫ`  
-## Glyphs with stroke: `ҞҌ ҟҍ`  
-## Glyphs with breve: `ЎЙҊӁӐӖ ўйҋӂӑӗ`  
-## Glyphs with diaeresis: `ЁӒӚӜӞӤӦӪӬӰӴӸ ёӓӛӝӟӥӧӫӭӱӵӹ`  
-## Glyphs with left vertical stem: `ВГЃҐӶҒӺҔИЍӢӤЙҊКЌҚҜԞМӍꙦНЊҢҤӇӉԊԢПԤЦꚎЏШЩꚖЫӸЬЮѤѨꙜѬꙒꙖ` `вгѓґӷғӻҕиѝӣӥйҋкќқҝԟмӎꙧнњңҥӈӊԋԣпԥцꚏџшщꚗыӹьюѥѩꙝѭꙓꙗ`  
+## Glyphs with right descender: ` ӶҖҚԮҢԤҬҲҶԆԦ ӷҗқԯңԥҭҳҷԇԦԧ `  
+## Glyphs with left descender: ` Ӌӌ `  
+## Glyphs with tail: ` ҊӅӍӉ ҋӆӎӊ ` 
+## Glyphs with hook descender: ` ҘҪ ҙҫ `  
+## Glyphs with stroke: ` ҞҌ ҟҍ `  
+## Glyphs with breve: ` ЎЙҊӁӐӖ ўйҋӂӑӗ `  
+## Glyphs with diaeresis: ` ЁӒӚӜӞӤӦӪӬӰӴӸ ёӓӛӝӟӥӧӫӭӱӵӹ `  
+## Glyphs with left vertical stem: ` ВГЃҐӶҒӺҔИЍӢӤЙҊКЌҚҜԞМӍꙦНЊҢҤӇӉԊԢПԤЦꚎЏШЩꚖЫӸЬЮѤѨꙜѬꙒꙖ ` ` вгѓґӷғӻҕиѝӣӥйҋкќқҝԟмӎꙧнњңҥӈӊԋԣпԥцꚏџшщꚗыӹьюѥѩꙝѭꙓꙗ `  
     
    
 # Main Cyrillic kerning classes  
