@@ -38,15 +38,13 @@ Cyrillic glyphs with left vertical stem.
 # Main Cyrillic kerning classes  
 ## ГЛ Гл гл гЛ. ГЃҐӶҒӺ гѓґӷғӻ. ЛЉӅԈԒԔԠԮ лљӆԉԓԕԡԯ    
   
-Recommended kerning class ranges for multilingual Cyrillic  
+Recommended kerning class ranges for multilingual Cyrillic font  
   
-+**Kerning:** LEFT  
-+**Uppercase glyphs:** @_uni0413_ = [uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA] [Г Ѓ Ґ Ӷ Ғ Ӻ]   
-+**Lowercase glyphs:** @_uni0433_ = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB] [г ѓ ґ ӷ ғ ӻ]  
++ **Kerning:** LEFT > **Uppercase glyphs** [Г Ѓ Ґ Ӷ Ғ Ӻ]: **@uni0413_** = [uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA]   
++ **Kerning:** LEFT > **Lowercase glyphs** [г ѓ ґ ӷ ғ ӻ]: **@uni0433_** = [uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB]  
   
-+**Kerning:** RIGHT  
-+**Uppercase glyphs:** @__uni041B = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E] [Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ]   
-+**Lowercase glyphs:** @__uni043B = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F] [л љ ӆ ԉ ԓ ԕ ԡ ԯ]  
++ **Kerning:** RIGHT < **Uppercase glyphs** [Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ]: **@uni041B** = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E]   
++ **Kerning:** RIGHT < **Lowercase glyphs** [л љ ӆ ԉ ԓ ԕ ԡ ԯ]: **@uni043B** = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F]  
     
   
 <details>
