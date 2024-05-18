@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0439.loclBGR" format="2">
-  <advance width="598"/>
-  <anchor x="239" y="-110" name="m.uni0316_2"/>
-  <anchor x="293" y="7" name="b.uni0321_4"/>
-  <anchor x="213" y="0" name="b.uni0327_5"/>
-  <anchor x="252" y="215" name="b.uni0334_6"/>
-  <outline>
-    <component base="uni0438.loclBGR"/>
-    <component base="uni0306.cyr" xOffset="440"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>uni0438.loclBGR+uni0306.cyr</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<advance width="598"/>
+	<outline>
+		<component base="uni0438.loclBGR"/>
+		<component base="uni0306.cyr" xOffset="440"/>
+	</outline>
+	<anchor name="m.uni0316_2" x="239" y="-110"/>
+	<anchor name="b.uni0321_4" x="293" y="7"/>
+	<anchor name="b.uni0327_5" x="213" y="0"/>
+	<anchor name="b.uni0334_6" x="252" y="215"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>uni0438.loclBGR+uni0306.cyr</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

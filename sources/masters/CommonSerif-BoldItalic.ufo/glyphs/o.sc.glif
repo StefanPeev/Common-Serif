@@ -1,75 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o.sc" format="2">
-  <advance width="564"/>
-  <anchor x="288" y="645" name="t.uni0302"/>
-  <anchor x="530" y="436" name="t.uni0315_2"/>
-  <anchor x="293" y="-110" name="b.uni0316_3"/>
-  <anchor x="422" y="44" name="b.uni0321_5"/>
-  <anchor x="291" y="-3" name="b.uni0327_6"/>
-  <anchor x="286" y="215" name="b.uni0334_7"/>
-  <outline>
-    <contour>
-      <point x="576" y="235" type="curve" smooth="yes"/>
-      <point x="581" y="258"/>
-      <point x="583" y="278"/>
-      <point x="583" y="298" type="curve" smooth="yes"/>
-      <point x="583" y="416"/>
-      <point x="499" y="474"/>
-      <point x="375" y="474" type="curve" smooth="yes"/>
-      <point x="241" y="474"/>
-      <point x="113" y="381"/>
-      <point x="81" y="222" type="curve" smooth="yes"/>
-      <point x="77" y="201"/>
-      <point x="75" y="181"/>
-      <point x="75" y="163" type="curve" smooth="yes"/>
-      <point x="75" y="43"/>
-      <point x="165" y="-10"/>
-      <point x="278" y="-10" type="curve" smooth="yes"/>
-      <point x="420" y="-10"/>
-      <point x="543" y="71"/>
-    </contour>
-    <contour>
-      <point x="365" y="434" type="curve" smooth="yes"/>
-      <point x="429" y="434"/>
-      <point x="454" y="404"/>
-      <point x="454" y="338" type="curve" smooth="yes"/>
-      <point x="454" y="307"/>
-      <point x="449" y="269"/>
-      <point x="439" y="221" type="curve" smooth="yes"/>
-      <point x="413" y="94"/>
-      <point x="368" y="30"/>
-      <point x="290" y="30" type="curve" smooth="yes"/>
-      <point x="231" y="30"/>
-      <point x="205" y="63"/>
-      <point x="205" y="131" type="curve" smooth="yes"/>
-      <point x="205" y="159"/>
-      <point x="210" y="193"/>
-      <point x="218" y="234" type="curve" smooth="yes"/>
-      <point x="249" y="384"/>
-      <point x="293" y="434"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a62c9c6ae2c274fdb150f8e047530d3071c588ca4420a33db8234274d8ba9efb33b71b83e8d4cacee202feb8dcadeecc47106775b6a7e59c9a7e2ae8a9a7e1bf</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 40</string>
-          <string>hstem 434 40</string>
-          <string>vstem 75 130</string>
-          <string>vstem 454 129</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<advance width="564"/>
+	<outline>
+		<contour>
+			<point x="583" y="298" type="curve" smooth="yes"/>
+			<point x="583" y="416"/>
+			<point x="499" y="474"/>
+			<point x="375" y="474" type="curve" smooth="yes"/>
+			<point x="205.165" y="474"/>
+			<point x="75" y="328.565"/>
+			<point x="75" y="163" type="curve" smooth="yes"/>
+			<point x="75" y="43"/>
+			<point x="165" y="-10"/>
+			<point x="278" y="-10" type="curve" smooth="yes"/>
+			<point x="456.139" y="-10"/>
+			<point x="583" y="122.924"/>
+		</contour>
+		<contour>
+			<point x="365" y="434" type="curve" smooth="yes"/>
+			<point x="429" y="434"/>
+			<point x="454" y="404"/>
+			<point x="454" y="338" type="curve" smooth="yes"/>
+			<point x="454" y="235.532"/>
+			<point x="416.264" y="30"/>
+			<point x="290" y="30" type="curve" smooth="yes"/>
+			<point x="231" y="30"/>
+			<point x="205" y="63"/>
+			<point x="205" y="131" type="curve" smooth="yes"/>
+			<point x="205" y="230.513"/>
+			<point x="243.233" y="434"/>
+		</contour>
+	</outline>
+	<anchor name="t.uni0302" x="384" y="530"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 40</string>
+							<string>hstem 434 40</string>
+							<string>vstem 75 130</string>
+							<string>vstem 454 129</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>86404acdc44e922ed036a8566e6b3a95a7dfc8e19d875cbc2d0a127f4cc50cb9d2998d1266a66e3ddfbfeae9486669a040cdd3f100ad9393895189a90a0350ca</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

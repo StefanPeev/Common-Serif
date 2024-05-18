@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="2">
-  <advance width="661"/>
-  <unicode hex="00DA"/>
-  <anchor x="391" y="10" name="b.ogonek"/>
-  <anchor x="344" y="-60" name="b.minus-60"/>
-  <outline>
-    <component base="U"/>
-    <component base="acute.cap" xOffset="591"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>U+acute.cap</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="00DA"/>
+	<advance width="661"/>
+	<outline>
+		<component base="U"/>
+		<component base="acute.cap" xOffset="591"/>
+	</outline>
+	<anchor name="b.ogonek" x="391" y="10"/>
+	<anchor name="b.minus-60" x="344" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>U+acute.cap</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

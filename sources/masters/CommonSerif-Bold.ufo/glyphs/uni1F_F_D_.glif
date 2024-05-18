@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFD" format="2">
-  <advance width="198"/>
-  <unicode hex="1FFD"/>
-  <anchor x="83" y="500" name="_t.gr"/>
-  <outline>
-    <component base="tonos" xOffset="0.499516"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=30</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=30</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w198</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 521. -21</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="1FFD"/>
+	<advance width="198"/>
+	<outline>
+		<component base="tonos" xOffset="0.499516"/>
+	</outline>
+	<anchor name="_t.gr" x="83" y="500"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=30</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=30</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 521. -21</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w198</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

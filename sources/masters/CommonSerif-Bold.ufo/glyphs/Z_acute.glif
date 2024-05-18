@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="2">
-  <advance width="624"/>
-  <unicode hex="0179"/>
-  <anchor x="288" y="-60" name="b.minus-60"/>
-  <outline>
-    <component base="Z"/>
-    <component base="acute.cap" xOffset="596"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>Z+acute.cap</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="0179"/>
+	<advance width="624"/>
+	<outline>
+		<component base="Z"/>
+		<component base="acute.cap" xOffset="596"/>
+	</outline>
+	<anchor name="b.minus-60" x="288" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>Z+acute.cap</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

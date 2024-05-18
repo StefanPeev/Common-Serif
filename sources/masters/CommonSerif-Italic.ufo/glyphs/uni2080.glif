@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2080" format="2">
-  <advance width="327"/>
-  <unicode hex="2080"/>
-  <outline>
-    <component base="uni2070" xOffset="-132.115" yOffset="-624.304"/>
-  </outline>
-  <guideline angle="0" x="0" y="-160"/>
-  <guideline angle="0" x="0" y="-164"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni2070</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni2070</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w327</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -117 24</string>
-          <string>hstem 188 24</string>
-          <string>vstem 39 55</string>
-          <string>vstem 242 57</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="2080"/>
+	<advance width="327"/>
+	<outline>
+		<component base="uni2070" xOffset="-132.115" yOffset="-624.304"/>
+	</outline>
+	<guideline x="0" y="-160" angle="0"/>
+	<guideline x="0" y="-164" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=uni2070</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=uni2070</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -117 24</string>
+							<string>hstem 188 24</string>
+							<string>vstem 39 55</string>
+							<string>vstem 242 57</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w327</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E39" format="2">
-  <advance width="256"/>
-  <unicode hex="1E39"/>
-  <anchor x="256" y="658" name="apostrophe"/>
-  <anchor x="126" y="840" name="top"/>
-  <outline>
-    <component base="uni1E37"/>
-    <component base="uni0304" xOffset="325" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>uni1E37+uni0304</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1E39"/>
+	<advance width="256"/>
+	<outline>
+		<component base="uni1E37"/>
+		<component base="uni0304" xOffset="325" yOffset="240"/>
+	</outline>
+	<anchor name="apostrophe" x="256" y="658"/>
+	<anchor name="top" x="126" y="840"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>uni1E37+uni0304</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

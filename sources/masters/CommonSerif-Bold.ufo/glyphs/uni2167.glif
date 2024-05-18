@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2167" format="2">
-  <advance width="1624"/>
-  <unicode hex="2167"/>
-  <anchor x="1615" y="740" name="t.uni0302"/>
-  <anchor x="1619" y="-60" name="b.minus-60"/>
-  <anchor x="1661" y="10" name="b.ogonek"/>
-  <outline>
-    <component base="V"/>
-    <component base="I" xOffset="656"/>
-    <component base="I" xOffset="957"/>
-    <component base="I" xOffset="1258"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=V</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=I</string>
-  <key>com.fontlab.recipe</key>
-  <string>V_I_I_I</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="2167"/>
+	<advance width="1624"/>
+	<outline>
+		<component base="V"/>
+		<component base="I" xOffset="656"/>
+		<component base="I" xOffset="957"/>
+		<component base="I" xOffset="1258"/>
+	</outline>
+	<anchor name="t.uni0302" x="1615" y="740"/>
+	<anchor name="b.minus-60" x="1619" y="-60"/>
+	<anchor name="b.ogonek" x="1661" y="10"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=V</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=I</string>
+			<key>com.fontlab.recipe</key>
+			<string>V_I_I_I</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

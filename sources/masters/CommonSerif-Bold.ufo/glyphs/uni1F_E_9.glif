@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FE9" format="2">
-  <advance width="624"/>
-  <unicode hex="1FE9"/>
-  <anchor x="352" y="-60" name="b.minus-60"/>
-  <anchor x="363" y="850" name="top"/>
-  <outline>
-    <component base="Upsilon"/>
-    <component base="uni0304" xOffset="563" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>Upsilon+uni0304</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1FE9"/>
+	<advance width="624"/>
+	<outline>
+		<component base="Upsilon"/>
+		<component base="uni0304" xOffset="563" yOffset="240"/>
+	</outline>
+	<anchor name="b.minus-60" x="352" y="-60"/>
+	<anchor name="top" x="363" y="850"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>Upsilon+uni0304</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

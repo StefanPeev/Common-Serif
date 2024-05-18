@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="2">
-  <advance width="740"/>
-  <unicode hex="00C3"/>
-  <anchor x="381" y="590" name="t.ring"/>
-  <anchor x="352" y="-60" name="b.minus-60"/>
-  <anchor x="622" y="10" name="b.ogonek"/>
-  <anchor x="329" y="-60" name="ypogegrammeni"/>
-  <anchor x="376" y="885" name="top"/>
-  <outline>
-    <component base="A"/>
-    <component base="tildecomb" xOffset="523" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>A+tildecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="00C3"/>
+	<advance width="740"/>
+	<outline>
+		<component base="A"/>
+		<component base="tildecomb" xOffset="523" yOffset="240"/>
+	</outline>
+	<anchor name="t.ring" x="381" y="590"/>
+	<anchor name="b.minus-60" x="352" y="-60"/>
+	<anchor name="b.ogonek" x="622" y="10"/>
+	<anchor name="ypogegrammeni" x="329" y="-60"/>
+	<anchor name="top" x="376" y="885"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>A+tildecomb</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

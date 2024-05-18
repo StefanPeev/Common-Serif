@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBA" format="2">
-  <advance width="558"/>
-  <unicode hex="1EBA"/>
-  <anchor x="318" y="10" name="b.ogonek"/>
-  <anchor x="282" y="-60" name="b.minus-60"/>
-  <anchor x="357" y="0" name="b.cedilla"/>
-  <outline>
-    <component base="E"/>
-    <component base="hookabovecomb" xOffset="442" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>E+hookabovecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1EBA"/>
+	<advance width="559"/>
+	<outline>
+		<component base="E"/>
+		<component base="hookabovecomb" xOffset="443" yOffset="240"/>
+	</outline>
+	<anchor name="b.ogonek" x="319" y="10"/>
+	<anchor name="b.minus-60" x="283" y="-60"/>
+	<anchor name="b.cedilla" x="358" y="0"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>E+hookabovecomb</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

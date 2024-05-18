@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FDE" format="2">
-  <advance width="325"/>
-  <unicode hex="1FDE"/>
-  <anchor x="154" y="510" name="_t.gr"/>
-  <outline>
-    <component base="tonos" xOffset="120"/>
-    <component base="uni0313" xScale="-1" xOffset="18.2015"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=40</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=40</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w325</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 -20</string>
-          <string>hstem 510 179</string>
-          <string>hstem 613 76</string>
-          <string>vstem 36.5 50</string>
-          <string>vstem 36.5 107</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="1FDE"/>
+	<advance width="325"/>
+	<outline>
+		<component base="tonos" xOffset="120"/>
+		<component base="uni0313" xScale="-1" xOffset="18.2015"/>
+	</outline>
+	<anchor name="_t.gr" x="154" y="510"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=40</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=40</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 0 -20</string>
+							<string>hstem 510 179</string>
+							<string>hstem 613 76</string>
+							<string>vstem 36.5 50</string>
+							<string>vstem 36.5 107</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w325</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

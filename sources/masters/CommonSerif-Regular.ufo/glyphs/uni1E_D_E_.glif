@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EDE" format="2">
-  <advance width="701"/>
-  <unicode hex="1EDE"/>
-  <anchor x="349" y="-110" name="m.uni0316_2"/>
-  <anchor x="349" y="0" name="m.uni0327_5"/>
-  <outline>
-    <component base="Ohorn"/>
-    <component base="hookabovecomb" xOffset="494" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=O</string>
-  <key>com.fontlab.recipe</key>
-  <string>Ohorn+hookabovecomb</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1EDE"/>
+	<advance width="701"/>
+	<outline>
+		<component base="Ohorn"/>
+		<component base="hookabovecomb" xOffset="494" yOffset="240"/>
+	</outline>
+	<anchor name="m.uni0316_2" x="349" y="-110"/>
+	<anchor name="m.uni0327_5" x="349" y="0"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=O</string>
+			<key>com.fontlab.recipe</key>
+			<string>Ohorn+hookabovecomb</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

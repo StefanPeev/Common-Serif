@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2C66" format="2">
-  <advance width="338"/>
-  <unicode hex="2C66"/>
-  <outline>
-    <component base="t"/>
-    <contour>
-      <point x="241" y="190" type="line"/>
-      <point x="470" y="476" type="line"/>
-      <point x="429" y="476" type="line"/>
-      <point x="258" y="262" type="line"/>
-    </contour>
-    <contour>
-      <point x="191" y="197" type="line"/>
-      <point x="-41" y="-62" type="line"/>
-      <point x="0" y="-62" type="line"/>
-      <point x="175" y="127" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w338m241,190l470,476l429,476l258,262m191,197l-41,-62l0,-62l175,127</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 56</string>
-          <string>hstem 9 -21</string>
-          <string>hstem 391 39</string>
-          <string>vstem 102 77</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="2C66"/>
+	<advance width="338"/>
+	<outline>
+		<component base="t"/>
+		<contour>
+			<point x="241" y="190" type="line"/>
+			<point x="470" y="476" type="line"/>
+			<point x="429" y="476" type="line"/>
+			<point x="258" y="262" type="line"/>
+		</contour>
+		<contour>
+			<point x="191" y="197" type="line"/>
+			<point x="-41" y="-62" type="line"/>
+			<point x="0" y="-62" type="line"/>
+			<point x="175" y="127" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 56</string>
+							<string>hstem 9 -21</string>
+							<string>hstem 391 39</string>
+							<string>vstem 102 77</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w338m241,190l470,476l429,476l258,262m191,197l-41,-62l0,-62l175,127</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

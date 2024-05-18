@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C1" format="2">
-  <advance width="298"/>
-  <unicode hex="01C1"/>
-  <outline>
-    <contour>
-      <point x="119" y="0" type="line"/>
-      <point x="119" y="698" type="line"/>
-      <point x="59" y="698" type="line"/>
-      <point x="59" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="242" y="0" type="line"/>
-      <point x="242" y="698" type="line"/>
-      <point x="182" y="698" type="line"/>
-      <point x="182" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w298m119,0l119,698l59,698l59,0m242,0l242,698l182,698l182,0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 698 -20</string>
-          <string>vstem 59 60</string>
-          <string>vstem 182 60</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="01C1"/>
+	<advance width="298"/>
+	<outline>
+		<contour>
+			<point x="119" y="0" type="line"/>
+			<point x="119" y="698" type="line"/>
+			<point x="59" y="698" type="line"/>
+			<point x="59" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="242" y="0" type="line"/>
+			<point x="242" y="698" type="line"/>
+			<point x="182" y="698" type="line"/>
+			<point x="182" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 21 -21</string>
+							<string>hstem 698 -20</string>
+							<string>vstem 59 60</string>
+							<string>vstem 182 60</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w298m119,0l119,698l59,698l59,0m242,0l242,698l182,698l182,0</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="2">
-  <advance width="512"/>
-  <unicode hex="003E"/>
-  <outline>
-    <contour>
-      <point x="359" y="238" type="line"/>
-      <point x="42" y="122" type="line"/>
-      <point x="42" y="60" type="line"/>
-      <point x="471" y="215" type="line"/>
-      <point x="471" y="259" type="line"/>
-      <point x="42" y="416" type="line"/>
-      <point x="42" y="354" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w512m359,238l42,122l42,60l471,215l471,259l42,416l42,354</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 81 -21</string>
-          <string>hstem 416 -20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="003E"/>
+	<advance width="512"/>
+	<outline>
+		<contour>
+			<point x="359" y="238" type="line"/>
+			<point x="42" y="122" type="line"/>
+			<point x="42" y="60" type="line"/>
+			<point x="471" y="215" type="line"/>
+			<point x="471" y="259" type="line"/>
+			<point x="42" y="416" type="line"/>
+			<point x="42" y="354" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 81 -21</string>
+							<string>hstem 416 -20</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w512m359,238l42,122l42,60l471,215l471,259l42,416l42,354</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

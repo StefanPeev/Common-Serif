@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ukcyr" format="2">
-  <advance width="1215"/>
-  <unicode hex="0478"/>
-  <anchor x="938" y="500" name="t.uni0302"/>
-  <anchor x="383" y="10" name="b.ogonek"/>
-  <anchor x="1053" y="-60" name="b.minus-60"/>
-  <outline>
-    <component base="uni041E"/>
-    <component base="uni0443" xOffset="700"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.recipe</key>
-  <string>uni041E_uni0443</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="0478"/>
+	<advance width="1215"/>
+	<outline>
+		<component base="uni041E"/>
+		<component base="uni0443" xOffset="700"/>
+	</outline>
+	<anchor name="t.uni0302" x="938" y="500"/>
+	<anchor name="b.ogonek" x="383" y="10"/>
+	<anchor name="b.minus-60" x="1053" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.recipe</key>
+			<string>uni041E_uni0443</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

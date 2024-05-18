@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="2">
-  <advance width="645"/>
-  <unicode hex="010C"/>
-  <anchor x="322.5" y="740" name="t.uni0302"/>
-  <anchor x="339" y="-60" name="b.minus-60"/>
-  <anchor x="355" y="0" name="b.cedilla"/>
-  <outline>
-    <component base="C"/>
-    <component base="caron.cap" xOffset="485.5"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.recipe</key>
-  <string>C+caron.cap</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="010C"/>
+	<advance width="645"/>
+	<outline>
+		<component base="C"/>
+		<component base="caron.cap" xOffset="502"/>
+	</outline>
+	<anchor name="b.minus-60" x="339" y="-60"/>
+	<anchor name="b.cedilla" x="355" y="0"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.recipe</key>
+			<string>C+caron.cap</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

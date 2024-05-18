@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F2E" format="2">
-  <advance width="1013"/>
-  <unicode hex="1F2E"/>
-  <anchor x="605.5" y="740" name="t.uni0302"/>
-  <anchor x="610.5" y="-60" name="b.minus-60"/>
-  <anchor x="381.5" y="10" name="b.cedilla"/>
-  <anchor x="611.5" y="-60" name="ypogegrammeni"/>
-  <outline>
-    <component base="Eta" xOffset="197.5"/>
-    <component base="uni1FCF" xOffset="-26" yOffset="-30"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsRight</key>
-  <string>=H</string>
-  <key>com.fontlab.recipe</key>
-  <string>=Eta@220,-2+uni1FCF@0,480</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1F2E"/>
+	<advance width="1013"/>
+	<outline>
+		<component base="Eta" xOffset="197.5"/>
+		<component base="uni1FCF" xOffset="-26" yOffset="-30"/>
+	</outline>
+	<anchor name="t.uni0302" x="605.5" y="740"/>
+	<anchor name="b.minus-60" x="610.5" y="-60"/>
+	<anchor name="b.cedilla" x="381.5" y="10"/>
+	<anchor name="ypogegrammeni" x="611.5" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsRight</key>
+			<string>=H</string>
+			<key>com.fontlab.recipe</key>
+			<string>=Eta@220,-2+uni1FCF@0,480</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

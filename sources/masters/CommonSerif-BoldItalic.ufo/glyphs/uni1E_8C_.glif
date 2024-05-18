@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E8C" format="2">
-  <advance width="689"/>
-  <unicode hex="1E8C"/>
-  <anchor x="315" y="-60" name="b.minus-60"/>
-  <anchor x="476" y="880" name="top"/>
-  <outline>
-    <component base="X"/>
-    <component base="uni0308" xOffset="557" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>X+uni0308</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1E8C"/>
+	<advance width="689"/>
+	<outline>
+		<component base="X"/>
+		<component base="uni0308" xOffset="557" yOffset="240"/>
+	</outline>
+	<anchor name="b.minus-60" x="315" y="-60"/>
+	<anchor name="top" x="476" y="880"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>X+uni0308</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCC" format="2">
-  <advance width="816"/>
-  <unicode hex="1FCC"/>
-  <anchor x="408" y="740" name="t.uni0302"/>
-  <anchor x="413" y="-60" name="b.minus-60"/>
-  <anchor x="184" y="10" name="b.cedilla"/>
-  <outline>
-    <component base="Eta"/>
-    <component base="uni0345" xOffset="595"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>Eta+uni0345</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1FCC"/>
+	<advance width="816"/>
+	<outline>
+		<component base="Eta"/>
+		<component base="uni0345" xOffset="595"/>
+	</outline>
+	<anchor name="t.uni0302" x="408" y="740"/>
+	<anchor name="b.minus-60" x="413" y="-60"/>
+	<anchor name="b.cedilla" x="184" y="10"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>Eta+uni0345</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

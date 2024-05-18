@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni216B" format="2">
-  <advance width="1164"/>
-  <unicode hex="216B"/>
-  <anchor x="1105" y="740" name="t.uni0302"/>
-  <anchor x="1105" y="-60" name="b.minus-60"/>
-  <anchor x="1148" y="10" name="b.ogonek"/>
-  <outline>
-    <component base="X"/>
-    <component base="I" xOffset="607"/>
-    <component base="I" xOffset="865"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=X</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=I</string>
-  <key>com.fontlab.recipe</key>
-  <string>X_I_I</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="216B"/>
+	<advance width="1164"/>
+	<outline>
+		<component base="X"/>
+		<component base="I" xOffset="607"/>
+		<component base="I" xOffset="865"/>
+	</outline>
+	<anchor name="t.uni0302" x="1105" y="740"/>
+	<anchor name="b.minus-60" x="1105" y="-60"/>
+	<anchor name="b.ogonek" x="1148" y="10"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=X</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=I</string>
+			<key>com.fontlab.recipe</key>
+			<string>X_I_I</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

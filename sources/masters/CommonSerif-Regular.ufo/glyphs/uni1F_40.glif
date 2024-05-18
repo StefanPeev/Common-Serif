@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F40" format="2">
-  <advance width="502"/>
-  <unicode hex="1F40"/>
-  <anchor x="237" y="510" name="t.uni0302"/>
-  <anchor x="338" y="10" name="b.ogonek"/>
-  <anchor x="250" y="-60" name="b.minus-60"/>
-  <anchor x="237" y="510" name="t.gr"/>
-  <anchor x="250" y="-60" name="ypogegrammeni"/>
-  <outline>
-    <component base="omicron"/>
-    <component base="uni1FBD" xOffset="164.5"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>omicron+uni1FBD</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1F40"/>
+	<advance width="502"/>
+	<outline>
+		<component base="omicron"/>
+		<component base="uni1FBD" xOffset="164.5"/>
+	</outline>
+	<anchor name="t.uni0302" x="237" y="510"/>
+	<anchor name="b.ogonek" x="338" y="10"/>
+	<anchor name="b.minus-60" x="250" y="-60"/>
+	<anchor name="t.gr" x="237" y="510"/>
+	<anchor name="ypogegrammeni" x="250" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>omicron+uni1FBD</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -272,6 +272,10 @@
 @latn_z_Rt = [uni1E91 uni1E93 uni1E95 z zacute zcaron zdotaccent];
 @latn_zacute.sc_Rt = [zacute.sc zcaron.sc zdotaccent.sc];
 #/< kernclasses
+
+#/> tags
+@noexport = [_corner.LClb];
+#/< tags
 #< classes
 
 ###

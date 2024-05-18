@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FFE" format="2">
-  <advance width="174"/>
-  <unicode hex="1FFE"/>
-  <anchor x="146.403" y="641" name="_apostrophe"/>
-  <anchor x="93" y="500" name="_t.uni0302"/>
-  <anchor x="93" y="500" name="_t.gr"/>
-  <outline>
-    <component base="uni0313" xScale="-1" xOffset="8.40295"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni1FBD</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni1FBD</string>
-  <key>com.fontlab.recipe</key>
-  <string>=uni0313@~,500</string>
-  </dict>
-  </lib>
+	<unicode hex="1FFE"/>
+	<advance width="174"/>
+	<outline>
+		<component base="uni0313" xScale="-1" xOffset="8.40295"/>
+	</outline>
+	<anchor name="_apostrophe" x="146.403" y="641"/>
+	<anchor name="_t.uni0302" x="93" y="500"/>
+	<anchor name="_t.gr" x="93" y="500"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=uni1FBD</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=uni1FBD</string>
+			<key>com.fontlab.recipe</key>
+			<string>=uni0313@~,500</string>
+		</dict>
+	</lib>
 </glyph>

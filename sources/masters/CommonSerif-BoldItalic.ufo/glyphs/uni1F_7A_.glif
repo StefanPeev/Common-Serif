@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F7A" format="2">
-  <advance width="497"/>
-  <unicode hex="1F7A"/>
-  <anchor x="256" y="-60" name="b.minus-60"/>
-  <outline>
-    <component base="upsilon"/>
-    <component base="uni0313.gr" xOffset="336" yOffset="-10"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>upsilon+uni0313.gr</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1F7A"/>
+	<advance width="497"/>
+	<outline>
+		<component base="upsilon"/>
+		<component base="uni0313.gr" xOffset="336" yOffset="-10"/>
+	</outline>
+	<anchor name="b.minus-60" x="256" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>upsilon+uni0313.gr</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0307" format="2">
-  <unicode hex="0307"/>
-  <anchor x="-180" y="500" name="_t.uni0302"/>
-  <outline>
-    <component base="dotaccent" xOffset="-287"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 500 94</string>
-          <string>vstem -512 94</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0307"/>
+	<outline>
+		<component base="dotaccent" xOffset="-287"/>
+	</outline>
+	<anchor name="_t.uni0302" x="-180" y="500"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 500 94</string>
+							<string>vstem -512 94</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guarani" format="2">
-  <advance width="684"/>
-  <unicode hex="20B2"/>
-  <anchor x="362" y="740" name="t.uni0302"/>
-  <anchor x="362" y="-60" name="b.minus-60"/>
-  <outline>
-    <component base="G"/>
-    <component base="bar" xOffset="237.5" yOffset="60"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.recipe</key>
-  <string>G+bar</string>
-  </dict>
-  </lib>
+	<unicode hex="20B2"/>
+	<advance width="684"/>
+	<outline>
+		<component base="G"/>
+		<component base="bar" xOffset="237.5" yOffset="60"/>
+	</outline>
+	<anchor name="t.uni0302" x="362" y="740"/>
+	<anchor name="b.minus-60" x="362" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.recipe</key>
+			<string>G+bar</string>
+		</dict>
+	</lib>
 </glyph>

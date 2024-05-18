@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0304" format="2">
-  <unicode hex="0304"/>
-  <anchor x="-103" y="500" name="_t.uni0302"/>
-  <anchor x="-97" y="500" name="_top"/>
-  <outline>
-    <contour>
-      <point x="15" y="500" type="line" smooth="yes"/>
-      <point x="28" y="500"/>
-      <point x="42" y="518"/>
-      <point x="45" y="530" type="curve"/>
-      <point x="46" y="536"/>
-      <point x="43" y="544"/>
-      <point x="33" y="544" type="curve" smooth="yes"/>
-      <point x="-212" y="544" type="line" smooth="yes"/>
-      <point x="-223" y="544"/>
-      <point x="-237" y="527"/>
-      <point x="-239" y="515" type="curve"/>
-      <point x="-241" y="508"/>
-      <point x="-238" y="500"/>
-      <point x="-229" y="500" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w0m15,500c28,500 42,518 45,530c46,536 43,544 33,544l-212,544c-223,544 -237,527 -239,515c-241,508 -238,500 -229,500</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 538 44</string>
-          <string>vstem -240 285</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0304"/>
+	<outline>
+		<contour>
+			<point x="15" y="500" type="line" smooth="yes"/>
+			<point x="28" y="500"/>
+			<point x="42" y="518"/>
+			<point x="45" y="530" type="curve"/>
+			<point x="46" y="536"/>
+			<point x="43" y="544"/>
+			<point x="33" y="544" type="curve" smooth="yes"/>
+			<point x="-212" y="544" type="line" smooth="yes"/>
+			<point x="-223" y="544"/>
+			<point x="-237" y="527"/>
+			<point x="-239" y="515" type="curve"/>
+			<point x="-241" y="508"/>
+			<point x="-238" y="500"/>
+			<point x="-229" y="500" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="_t.uni0302" x="-103" y="500"/>
+	<anchor name="_top" x="-97" y="500"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 538 44</string>
+							<string>vstem -240 285</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0m15,500c28,500 42,518 45,530c46,536 43,544 33,544l-212,544c-223,544 -237,527 -239,515c-241,508 -238,500 -229,500</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni019F" format="2">
-  <advance width="699"/>
-  <unicode hex="019F"/>
-  <outline>
-    <component base="O"/>
-    <contour>
-      <point x="168" y="309" type="line"/>
-      <point x="640" y="309" type="line"/>
-      <point x="646" y="353" type="line"/>
-      <point x="176" y="353" type="line"/>
-    </contour>
-  </outline>
-  <guideline angle="0" x="0" y="32"/>
-  <guideline angle="263.162" x="434" y="544"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=O</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w699m168,309l640,309l646,353l176,353</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 616 42</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="019F"/>
+	<advance width="699"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="168" y="309" type="line"/>
+			<point x="640" y="309" type="line"/>
+			<point x="646" y="353" type="line"/>
+			<point x="176" y="353" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="0" y="32" angle="0"/>
+	<guideline x="434" y="544" angle="263.162"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=O</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 616 42</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w699m168,309l640,309l646,353l176,353</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

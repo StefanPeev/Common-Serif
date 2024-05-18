@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dekomicyr" format="2">
-  <advance width="615"/>
-  <unicode hex="0501"/>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="0501"/>
+	<advance width="506"/>
+	<outline>
+		<component base="d"/>
+	</outline>
+	<anchor name="t.uni0302" x="259" y="740"/>
+	<anchor name="b.minus-60" x="245" y="-60"/>
+	<anchor name="apostrophe" x="483" y="658"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>d</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

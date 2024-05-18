@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0401" format="2">
-  <advance width="526"/>
-  <unicode hex="0401"/>
-  <anchor x="231" y="-60" name="b.minus-60"/>
-  <anchor x="274" y="10" name="b.cedilla"/>
-  <anchor x="312" y="10" name="b.ogonek"/>
-  <anchor x="379" y="849" name="top"/>
-  <outline>
-    <component base="uni0415"/>
-    <component base="uni0308" xOffset="466" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>uni0415+uni0308</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="0401"/>
+	<advance width="526"/>
+	<outline>
+		<component base="uni0415"/>
+		<component base="uni0308" xOffset="466" yOffset="240"/>
+	</outline>
+	<anchor name="b.minus-60" x="231" y="-60"/>
+	<anchor name="b.cedilla" x="274" y="10"/>
+	<anchor name="b.ogonek" x="312" y="10"/>
+	<anchor name="top" x="379" y="849"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>uni0415+uni0308</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

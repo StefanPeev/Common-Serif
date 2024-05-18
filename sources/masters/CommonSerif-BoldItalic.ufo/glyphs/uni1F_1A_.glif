@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F1A" format="2">
-  <advance width="827"/>
-  <unicode hex="1F1A"/>
-  <anchor x="504" y="-60" name="b.minus-60"/>
-  <anchor x="548" y="10" name="b.cedilla"/>
-  <anchor x="600" y="10" name="b.ogonek"/>
-  <outline>
-    <component base="Epsilon" xOffset="249"/>
-    <component base="uni03130300" xOffset="414" yOffset="28"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=E+10</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=E</string>
-  <key>com.fontlab.recipe</key>
-  <string>Epsilon+uni03130300</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1F1A"/>
+	<advance width="827"/>
+	<outline>
+		<component base="Epsilon" xOffset="249"/>
+		<component base="uni03130300" xOffset="414" yOffset="28"/>
+	</outline>
+	<anchor name="b.minus-60" x="504" y="-60"/>
+	<anchor name="b.cedilla" x="548" y="10"/>
+	<anchor name="b.ogonek" x="600" y="10"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=E+10</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=E</string>
+			<key>com.fontlab.recipe</key>
+			<string>Epsilon+uni03130300</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

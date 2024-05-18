@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E08" format="2">
-  <advance width="645"/>
-  <unicode hex="1E08"/>
-  <anchor x="339" y="-60" name="b.minus-60"/>
-  <outline>
-    <component base="Ccedilla"/>
-    <component base="acute.cap" xOffset="584"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.recipe</key>
-  <string>Ccedilla+~acute.case</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1E08"/>
+	<advance width="645"/>
+	<outline>
+		<component base="Ccedilla"/>
+		<component base="acute.cap" xOffset="584"/>
+	</outline>
+	<anchor name="b.minus-60" x="339" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.recipe</key>
+			<string>Ccedilla+~acute.case</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

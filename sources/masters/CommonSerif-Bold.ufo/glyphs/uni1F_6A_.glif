@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F6A" format="2">
-  <advance width="1003"/>
-  <unicode hex="1F6A"/>
-  <anchor x="638" y="-62" name="ypogegrammeni"/>
-  <outline>
-    <component base="Omega" xOffset="259" yOffset="-2"/>
-    <component base="uni1FCD" xOffset="-20.7505" yOffset="-20"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.metricsRight</key>
-  <string>=Omega</string>
-  <key>com.fontlab.recipe</key>
-  <string>=Omega@290,-2+uni1FCD@10,480</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1F6A"/>
+	<advance width="1003"/>
+	<outline>
+		<component base="Omega" xOffset="259" yOffset="-2"/>
+		<component base="uni1FCD" xOffset="-20.7505" yOffset="-20"/>
+	</outline>
+	<anchor name="ypogegrammeni" x="638" y="-62"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.metricsRight</key>
+			<string>=Omega</string>
+			<key>com.fontlab.recipe</key>
+			<string>=Omega@290,-2+uni1FCD@10,480</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

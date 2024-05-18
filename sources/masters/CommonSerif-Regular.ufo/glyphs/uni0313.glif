@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0313" format="2">
-  <unicode hex="0313"/>
-  <anchor x="-138" y="641" name="_apostrophe"/>
-  <outline>
-    <component base="uni02BC" xOffset="-165.799"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 500 181.96</string>
-          <string>hstem 600 81.96</string>
-          <string>vstem -134.8 113</string>
-          <string>vstem -55.58 33.78</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0313"/>
+	<outline>
+		<component base="uni02BC" xOffset="-165.799"/>
+	</outline>
+	<anchor name="_apostrophe" x="-138" y="641"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 500 181.96</string>
+							<string>hstem 600 81.96</string>
+							<string>vstem -134.8 113</string>
+							<string>vstem -55.58 33.78</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

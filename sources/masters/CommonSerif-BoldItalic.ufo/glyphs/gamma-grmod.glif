@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma-grmod" format="2">
-  <advance width="507"/>
-  <unicode hex="1D5E"/>
-  <anchor x="331.138" y="500" name="t.uni0302"/>
-  <anchor x="272" y="-60" name="b.minus-60"/>
-  <anchor x="203.138" y="-108" name="b.uni0316_3"/>
-  <outline>
-    <component base="v"/>
-    <component base="dotlessi" xOffset="64.1381"/>
-  </outline>
-  <guideline angle="0" x="0" y="250"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>gamma</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  </dict>
-  </lib>
+	<unicode hex="1D5E"/>
+	<advance width="507"/>
+	<outline>
+		<component base="v"/>
+		<component base="dotlessi" xOffset="64.1381"/>
+	</outline>
+	<anchor name="t.uni0302" x="331.138" y="500"/>
+	<anchor name="b.minus-60" x="272" y="-60"/>
+	<anchor name="b.uni0316_3" x="203.138" y="-108"/>
+	<guideline x="0" y="250" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.recipe</key>
+			<string>gamma</string>
+			<key>public.markColor</key>
+			<string>1,0.6,0.6,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="2">
-  <advance width="204"/>
-  <unicode hex="007C"/>
-  <outline>
-    <contour>
-      <point x="124" y="-240.347" type="curve"/>
-      <point x="124" y="720.308" type="line"/>
-      <point x="115.48" y="725.961"/>
-      <point x="88.52" y="725.961"/>
-      <point x="80" y="720.308" type="curve"/>
-      <point x="80" y="-240.347" type="line"/>
-      <point x="88.52" y="-246"/>
-      <point x="115.48" y="-246"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=80</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=80</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w204m124,-240.35l124,720.31c115.48,725.96 88.52,725.96 80,720.31l80,-240.35c88.52,-246 115.48,-246 124,-240.35</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 80 44</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="007C"/>
+	<advance width="204"/>
+	<outline>
+		<contour>
+			<point x="124" y="-240.347" type="curve"/>
+			<point x="124" y="720.308" type="line"/>
+			<point x="115.48" y="725.961"/>
+			<point x="88.52" y="725.961"/>
+			<point x="80" y="720.308" type="curve"/>
+			<point x="80" y="-240.347" type="line"/>
+			<point x="88.52" y="-246"/>
+			<point x="115.48" y="-246"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=80</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=80</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>vstem 80 44</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w204m124,-240.35l124,720.31c115.48,725.96 88.52,725.96 80,720.31l80,-240.35c88.52,-246 115.48,-246 124,-240.35</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

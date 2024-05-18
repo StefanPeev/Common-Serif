@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="2">
-  <advance width="702"/>
-  <unicode hex="00DC"/>
-  <anchor x="435" y="0" name="b.ogonek"/>
-  <anchor x="335" y="-60" name="b.minus-60"/>
-  <anchor x="508" y="880" name="top"/>
-  <outline>
-    <component base="U"/>
-    <component base="uni0308" xOffset="589" yOffset="240"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>U+uni0308</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="00DC"/>
+	<advance width="702"/>
+	<outline>
+		<component base="U"/>
+		<component base="uni0308" xOffset="589" yOffset="240"/>
+	</outline>
+	<anchor name="b.ogonek" x="435" y="0"/>
+	<anchor name="b.minus-60" x="335" y="-60"/>
+	<anchor name="top" x="508" y="880"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>U+uni0308</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-  <advance width="264"/>
-  <unicode hex="0142"/>
-  <outline>
-    <component base="l" xOffset="8"/>
-    <contour>
-      <point x="23" y="270" type="curve"/>
-      <point x="107.957" y="319.558" type="line"/>
-      <point x="107.951" y="358.567" type="line"/>
-      <point x="6" y="299" type="line"/>
-      <point x="6.61" y="289.43"/>
-      <point x="12.39" y="279.57"/>
-    </contour>
-    <contour>
-      <point x="161.032" y="350.461" type="line"/>
-      <point x="260" y="408" type="line"/>
-      <point x="259.39" y="417.9"/>
-      <point x="253.61" y="428.1"/>
-      <point x="243" y="438" type="curve"/>
-      <point x="161.023" y="390.477" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7e2655921d1afee1afd6c4341c729069fb9004360448aa5655f33cd0f93eaab27fe5877a2f1c1ef2a0d6ed59f2e6a98cf5e39a63e005279b530f18062e7e1162</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -2 33</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 438 -20</string>
-          <string>hstem 641 28</string>
-          <string>hstem 698 -20</string>
-          <string>vstem 110 80</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0142"/>
+	<advance width="264"/>
+	<outline>
+		<component base="l" xOffset="8"/>
+		<contour>
+			<point x="23" y="270" type="curve"/>
+			<point x="107.957" y="319.558" type="line"/>
+			<point x="107.951" y="358.567" type="line"/>
+			<point x="6" y="299" type="line"/>
+			<point x="6.61" y="289.43"/>
+			<point x="12.39" y="279.57"/>
+		</contour>
+		<contour>
+			<point x="161.032" y="350.461" type="line"/>
+			<point x="260" y="408" type="line"/>
+			<point x="259.39" y="417.9"/>
+			<point x="253.61" y="428.1"/>
+			<point x="243" y="438" type="curve"/>
+			<point x="161.023" y="390.477" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -2 33</string>
+							<string>hstem 21 -21</string>
+							<string>hstem 438 -20</string>
+							<string>hstem 641 28</string>
+							<string>hstem 698 -20</string>
+							<string>vstem 110 80</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>7e2655921d1afee1afd6c4341c729069fb9004360448aa5655f33cd0f93eaab27fe5877a2f1c1ef2a0d6ed59f2e6a98cf5e39a63e005279b530f18062e7e1162</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

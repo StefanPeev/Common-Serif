@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="2">
-  <advance width="502"/>
-  <unicode hex="03BF"/>
-  <anchor x="237" y="510" name="t.uni0302"/>
-  <anchor x="338" y="10" name="b.ogonek"/>
-  <anchor x="250" y="-60" name="b.minus-60"/>
-  <anchor x="237" y="510" name="t.gr"/>
-  <anchor x="250" y="-60" name="ypogegrammeni"/>
-  <outline>
-    <contour>
-      <point x="40" y="213.574" type="curve" smooth="yes"/>
-      <point x="40" y="103"/>
-      <point x="108" y="-10"/>
-      <point x="250" y="-10" type="curve" smooth="yes"/>
-      <point x="380" y="-10"/>
-      <point x="462" y="87"/>
-      <point x="462" y="212.972" type="curve" smooth="yes"/>
-      <point x="462" y="318"/>
-      <point x="405" y="439"/>
-      <point x="257.09" y="439" type="curve" smooth="yes"/>
-      <point x="118" y="439"/>
-      <point x="40" y="332"/>
-    </contour>
-    <contour>
-      <point x="245.785" y="403" type="curve" smooth="yes"/>
-      <point x="323" y="403"/>
-      <point x="376" y="325.206"/>
-      <point x="376" y="181.586" type="curve" smooth="yes"/>
-      <point x="376" y="55.9182"/>
-      <point x="311" y="25"/>
-      <point x="260.935" y="25" type="curve" smooth="yes"/>
-      <point x="160" y="25"/>
-      <point x="126" y="150.668"/>
-      <point x="126" y="230.555" type="curve" smooth="yes"/>
-      <point x="126" y="314.235"/>
-      <point x="163.305" y="403"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=o</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=o</string>
-  <key>com.fontlab.recipe</key>
-  <string>o</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>bb6342b28a8c667b05a8d58f98ea2756607e253da2dc7d4f8af6cb530e1507e0588cb0c430ae54445e68e89b2fa9d35464c297f499cb9485e93d1e882ecc1454</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 35</string>
-          <string>hstem 403 36</string>
-          <string>vstem 40 86</string>
-          <string>vstem 376 86</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="03BF"/>
+	<advance width="502"/>
+	<outline>
+		<contour>
+			<point x="40" y="213.574" type="curve" smooth="yes"/>
+			<point x="40" y="103"/>
+			<point x="108" y="-10"/>
+			<point x="250" y="-10" type="curve" smooth="yes"/>
+			<point x="380" y="-10"/>
+			<point x="462" y="87"/>
+			<point x="462" y="212.972" type="curve" smooth="yes"/>
+			<point x="462" y="318"/>
+			<point x="405" y="439"/>
+			<point x="257.09" y="439" type="curve" smooth="yes"/>
+			<point x="118" y="439"/>
+			<point x="40" y="332"/>
+		</contour>
+		<contour>
+			<point x="245.785" y="403" type="curve" smooth="yes"/>
+			<point x="323" y="403"/>
+			<point x="376" y="325.206"/>
+			<point x="376" y="181.586" type="curve" smooth="yes"/>
+			<point x="376" y="55.9182"/>
+			<point x="311" y="25"/>
+			<point x="260.935" y="25" type="curve" smooth="yes"/>
+			<point x="160" y="25"/>
+			<point x="126" y="150.668"/>
+			<point x="126" y="230.555" type="curve" smooth="yes"/>
+			<point x="126" y="314.235"/>
+			<point x="163.305" y="403"/>
+		</contour>
+	</outline>
+	<anchor name="t.uni0302" x="237" y="510"/>
+	<anchor name="b.ogonek" x="338" y="10"/>
+	<anchor name="b.minus-60" x="250" y="-60"/>
+	<anchor name="t.gr" x="237" y="510"/>
+	<anchor name="ypogegrammeni" x="250" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=o</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=o</string>
+			<key>com.fontlab.recipe</key>
+			<string>o</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 35</string>
+							<string>hstem 403 36</string>
+							<string>vstem 40 86</string>
+							<string>vstem 376 86</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>bb6342b28a8c667b05a8d58f98ea2756607e253da2dc7d4f8af6cb530e1507e0588cb0c430ae54445e68e89b2fa9d35464c297f499cb9485e93d1e882ecc1454</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

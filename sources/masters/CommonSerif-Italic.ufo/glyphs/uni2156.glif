@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2156" format="2">
-  <advance width="551"/>
-  <unicode hex="2156"/>
-  <outline>
-    <component base="uni00B2" xOffset="-28.182" yOffset="-130.594"/>
-    <component base="fraction" xOffset="260"/>
-    <component base="uni2075" xOffset="189.069" yOffset="-464"/>
-  </outline>
-  <guideline angle="0" x="0" y="657"/>
-  <guideline angle="0" x="0" y="-4"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni00B2</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni2076</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w551</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -85 27</string>
-          <string>hstem 107 27</string>
-          <string>hstem 204 35</string>
-          <string>hstem 316 32</string>
-          <string>hstem 616 24</string>
-          <string>vstem 75 55</string>
-          <string>vstem 232 59</string>
-          <string>vstem 466 57</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="2156"/>
+	<advance width="551"/>
+	<outline>
+		<component base="uni00B2" xOffset="-28.182" yOffset="-130.594"/>
+		<component base="fraction" xOffset="260"/>
+		<component base="uni2075" xOffset="189.069" yOffset="-464"/>
+	</outline>
+	<guideline x="0" y="657" angle="0"/>
+	<guideline x="0" y="-4" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=uni00B2</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=uni2076</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -85 27</string>
+							<string>hstem 107 27</string>
+							<string>hstem 204 35</string>
+							<string>hstem 316 32</string>
+							<string>hstem 616 24</string>
+							<string>vstem 75 55</string>
+							<string>vstem 232 59</string>
+							<string>vstem 466 57</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w551</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

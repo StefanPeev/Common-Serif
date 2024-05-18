@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brackethalfbottomright" format="2">
-  <advance width="356"/>
-  <unicode hex="2E25"/>
-  <outline>
-    <contour>
-      <point x="248" y="259.717" type="line"/>
-      <point x="181" y="259.717" type="line"/>
-      <point x="181" y="-50" type="line" smooth="yes"/>
-      <point x="181" y="-137"/>
-      <point x="173" y="-152"/>
-      <point x="36" y="-162" type="curve"/>
-      <point x="30" y="-168"/>
-      <point x="30" y="-186"/>
-      <point x="36" y="-192" type="curve"/>
-      <point x="248" y="-192" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=bracketright</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=bracketright</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w356m248,259.72l181,259.72l181,-50c181,-137 173,-152 36,-162c30,-168 30,-186 36,-192l248,-192</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -192 30</string>
-          <string>hstem 259.72 -20</string>
-          <string>vstem 181 67</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="2E25"/>
+	<advance width="356"/>
+	<outline>
+		<contour>
+			<point x="248" y="259.717" type="line"/>
+			<point x="181" y="259.717" type="line"/>
+			<point x="181" y="-50" type="line" smooth="yes"/>
+			<point x="181" y="-137"/>
+			<point x="173" y="-152"/>
+			<point x="36" y="-162" type="curve"/>
+			<point x="30" y="-168"/>
+			<point x="30" y="-186"/>
+			<point x="36" y="-192" type="curve"/>
+			<point x="248" y="-192" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=bracketright</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=bracketright</string>
+			<key>public.markColor</key>
+			<string>0.6,0.602,1,1</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -192 30</string>
+							<string>hstem 259.72 -20</string>
+							<string>vstem 181 67</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w356m248,259.72l181,259.72l181,-50c181,-137 173,-152 36,-162c30,-168 30,-186 36,-192l248,-192</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

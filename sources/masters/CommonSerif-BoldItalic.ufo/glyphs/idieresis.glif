@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="2">
-  <advance width="342"/>
-  <unicode hex="00EF"/>
-  <anchor x="139" y="-108" name="b.uni0316_3"/>
-  <anchor x="271" y="640" name="top"/>
-  <outline>
-    <component base="dotlessi"/>
-    <component base="uni0308" xOffset="352"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>dotlessi+uni0308</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="00EF"/>
+	<advance width="342"/>
+	<outline>
+		<component base="dotlessi"/>
+		<component base="uni0308" xOffset="352"/>
+	</outline>
+	<anchor name="b.uni0316_3" x="139" y="-108"/>
+	<anchor name="top" x="271" y="640"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>dotlessi+uni0308</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

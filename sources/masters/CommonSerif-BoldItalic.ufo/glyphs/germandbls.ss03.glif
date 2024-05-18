@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls.ss03" format="2">
-  <advance width="835"/>
-  <outline>
-    <component base="s"/>
-    <component base="s" xOffset="418"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w835</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 42</string>
-          <string>hstem 397 42</string>
-          <string>vstem 122 94</string>
-          <string>vstem 300 105</string>
-          <string>vstem 540 94</string>
-          <string>vstem 718 105</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<advance width="835"/>
+	<outline>
+		<component base="s"/>
+		<component base="s" xOffset="418"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -10 42</string>
+							<string>hstem 397 42</string>
+							<string>vstem 122 94</string>
+							<string>vstem 300 105</string>
+							<string>vstem 540 94</string>
+							<string>vstem 718 105</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w835</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

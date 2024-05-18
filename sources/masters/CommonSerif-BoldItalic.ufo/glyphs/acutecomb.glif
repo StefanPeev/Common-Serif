@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="2">
-  <unicode hex="0301"/>
-  <anchor x="-25" y="500" name="_t.uni0302"/>
-  <anchor x="-56" y="500" name="_top"/>
-  <outline>
-    <component base="acute" xOffset="-283"/>
-  </outline>
-  <guideline angle="78" x="-129" y="11"/>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w0</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 505 171</string>
-          <string>vstem -25 189</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0301"/>
+	<outline>
+		<component base="acute" xOffset="-283"/>
+	</outline>
+	<anchor name="_t.uni0302" x="-25" y="500"/>
+	<anchor name="_top" x="-56" y="500"/>
+	<guideline x="-129" y="11" angle="78"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem 505 171</string>
+							<string>vstem -25 189</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w0</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

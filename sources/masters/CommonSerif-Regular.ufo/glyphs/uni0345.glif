@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0345" format="2">
-  <unicode hex="0345"/>
-  <anchor x="-180" y="-60" name="_ypogegrammeni"/>
-  <outline>
-    <contour>
-      <point x="-222" y="-75" type="line"/>
-      <point x="-222" y="-157" type="line" smooth="yes"/>
-      <point x="-222" y="-215"/>
-      <point x="-183" y="-239"/>
-      <point x="-135" y="-239" type="curve" smooth="yes"/>
-      <point x="-110" y="-239"/>
-      <point x="-64" y="-225"/>
-      <point x="-49" y="-156" type="curve"/>
-      <point x="-74" y="-148" type="line"/>
-      <point x="-81" y="-175"/>
-      <point x="-97" y="-199"/>
-      <point x="-115" y="-199" type="curve" smooth="yes"/>
-      <point x="-135" y="-199"/>
-      <point x="-147" y="-176"/>
-      <point x="-147" y="-121" type="curve" smooth="yes"/>
-      <point x="-147" y="-69" type="line"/>
-      <point x="-169" y="-62" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d92820da696f7ce24be33b666d6c7a9f97f5c8ccfc61ad57d55aabf8dac9c44c775e1f442294c675054bf1e2f8674786aefcd8edbe000627c463e90ca9b51cff</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -239 40</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="0345"/>
+	<outline>
+		<contour>
+			<point x="-222" y="-75" type="line"/>
+			<point x="-222" y="-157" type="line" smooth="yes"/>
+			<point x="-222" y="-215"/>
+			<point x="-183" y="-239"/>
+			<point x="-135" y="-239" type="curve" smooth="yes"/>
+			<point x="-110" y="-239"/>
+			<point x="-64" y="-225"/>
+			<point x="-49" y="-156" type="curve"/>
+			<point x="-74" y="-148" type="line"/>
+			<point x="-81" y="-175"/>
+			<point x="-97" y="-199"/>
+			<point x="-115" y="-199" type="curve" smooth="yes"/>
+			<point x="-135" y="-199"/>
+			<point x="-147" y="-176"/>
+			<point x="-147" y="-121" type="curve" smooth="yes"/>
+			<point x="-147" y="-69" type="line"/>
+			<point x="-169" y="-62" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_ypogegrammeni" x="-180" y="-60"/>
+	<lib>
+		<dict>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -239 40</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>d92820da696f7ce24be33b666d6c7a9f97f5c8ccfc61ad57d55aabf8dac9c44c775e1f442294c675054bf1e2f8674786aefcd8edbe000627c463e90ca9b51cff</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

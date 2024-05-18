@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="2">
-  <advance width="528"/>
-  <unicode hex="0139"/>
-  <anchor x="253" y="-60" name="b.minus-60"/>
-  <anchor x="351" y="658" name="apostrophe"/>
-  <outline>
-    <component base="L"/>
-    <component base="acute.cap" xOffset="394"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>L+acute.cap</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="0139"/>
+	<advance width="529"/>
+	<outline>
+		<component base="L"/>
+		<component base="acute.cap" xOffset="395"/>
+	</outline>
+	<anchor name="b.minus-60" x="254" y="-60"/>
+	<anchor name="apostrophe" x="352" y="658"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>L+acute.cap</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

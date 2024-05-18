@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni019F" format="2">
-  <advance width="668"/>
-  <unicode hex="019F"/>
-  <outline>
-    <component base="O"/>
-    <contour>
-      <point x="168" y="311" type="line"/>
-      <point x="639.075" y="311" type="line"/>
-      <point x="645.14" y="353" type="line"/>
-      <point x="176" y="353" type="line"/>
-    </contour>
-  </outline>
-  <guideline angle="263.18" x="444" y="624"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=O</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=O</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w668m168,311l639.08,311l645.14,353l176,353</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -12 34</string>
-          <string>hstem 309 44</string>
-          <string>hstem 624 34</string>
-          <string>vstem 85 94</string>
-          <string>vstem 633 93</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="019F"/>
+	<advance width="668"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="168" y="311" type="line"/>
+			<point x="639.075" y="311" type="line"/>
+			<point x="645.14" y="353" type="line"/>
+			<point x="176" y="353" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="444" y="624" angle="263.18"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=O</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=O</string>
+			<key>public.markColor</key>
+			<string>0.999,1,0.6,1</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -12 34</string>
+							<string>hstem 309 44</string>
+							<string>hstem 624 34</string>
+							<string>vstem 85 94</string>
+							<string>vstem 633 93</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w668m168,311l639.08,311l645.14,353l176,353</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

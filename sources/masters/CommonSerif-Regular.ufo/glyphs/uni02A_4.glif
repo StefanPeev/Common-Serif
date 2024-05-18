@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02A4" format="2">
-  <advance width="743"/>
-  <unicode hex="02A4"/>
-  <anchor x="209" y="645" name="m.uni0302"/>
-  <anchor x="196" y="-110" name="m.uni0316_2"/>
-  <anchor x="410" y="16" name="b.uni0321_4"/>
-  <anchor x="167" y="-3" name="m.uni0327_5"/>
-  <outline>
-    <component base="d"/>
-    <component base="uni0292" xOffset="330"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=d</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=z</string>
-  </dict>
-  </lib>
+	<unicode hex="02A4"/>
+	<advance width="743"/>
+	<outline>
+		<component base="d"/>
+		<component base="uni0292" xOffset="330"/>
+	</outline>
+	<anchor name="m.uni0302" x="209" y="645"/>
+	<anchor name="m.uni0316_2" x="196" y="-110"/>
+	<anchor name="b.uni0321_4" x="410" y="16"/>
+	<anchor name="m.uni0327_5" x="167" y="-3"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=d</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=z</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C4" format="2">
-  <advance width="1305"/>
-  <unicode hex="01C4"/>
-  <anchor x="1003" y="740" name="t.uni0302"/>
-  <anchor x="983" y="-60" name="b.minus-60"/>
-  <outline>
-    <component base="D"/>
-    <component base="Zcaron" xOffset="701"/>
-  </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>D_Zcaron</string>
-  <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
-  </dict>
-  </lib>
+	<unicode hex="01C4"/>
+	<advance width="1306"/>
+	<outline>
+		<component base="D"/>
+		<component base="Zcaron" xOffset="702"/>
+	</outline>
+	<anchor name="t.uni0302" x="301" y="740"/>
+	<anchor name="b.minus-60" x="984" y="-60"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.autolayer</key>
+			<true/>
+			<key>com.fontlab.recipe</key>
+			<string>D_Zcaron</string>
+			<key>public.markColor</key>
+			<string>0.6,0.997,1,1</string>
+		</dict>
+	</lib>
 </glyph>

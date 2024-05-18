@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2158" format="2">
-  <advance width="670"/>
-  <unicode hex="2158"/>
-  <outline>
-    <component base="uni2074" xOffset="-34.1557" yOffset="-159.567"/>
-    <component base="fraction" xOffset="338"/>
-    <component base="uni2075" xOffset="306.91" yOffset="-464"/>
-  </outline>
-  <guideline angle="0" x="0" y="657"/>
-  <guideline angle="0" x="0" y="-4"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>=uni2074</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>=uni2076</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w670</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -138 31</string>
-          <string>hstem 150 65</string>
-          <string>hstem 315 30</string>
-          <string>hstem 422 12</string>
-          <string>hstem 422 42</string>
-          <string>hstem 601 -20</string>
-          <string>vstem 229 72</string>
-          <string>vstem 490 90</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
+	<unicode hex="2158"/>
+	<advance width="670"/>
+	<outline>
+		<component base="uni2074" xOffset="-34.1557" yOffset="-159.567"/>
+		<component base="fraction" xOffset="338"/>
+		<component base="uni2075" xOffset="306.91" yOffset="-464"/>
+	</outline>
+	<guideline x="0" y="657" angle="0"/>
+	<guideline x="0" y="-4" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.fontlab.metricsLeft</key>
+			<string>=uni2074</string>
+			<key>com.fontlab.metricsRight</key>
+			<string>=uni2076</string>
+			<key>public.postscript.hints</key>
+			<dict>
+				<key>formatVersion</key>
+				<string>1</string>
+				<key>hintSetList</key>
+				<array>
+					<dict>
+						<key>stems</key>
+						<array>
+							<string>hstem -138 31</string>
+							<string>hstem 150 65</string>
+							<string>hstem 315 30</string>
+							<string>hstem 422 12</string>
+							<string>hstem 422 42</string>
+							<string>hstem 601 -20</string>
+							<string>vstem 229 72</string>
+							<string>vstem 490 90</string>
+						</array>
+					</dict>
+				</array>
+				<key>id</key>
+				<string>w670</string>
+			</dict>
+		</dict>
+	</lib>
 </glyph>
