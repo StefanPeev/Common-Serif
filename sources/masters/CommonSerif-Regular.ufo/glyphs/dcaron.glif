@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-	<unicode hex="010F"/>
-	<advance width="596"/>
-	<outline>
-		<component base="d"/>
-		<component base="uni0313" xOffset="621" yOffset="17"/>
-	</outline>
-	<anchor name="t.uni0302" x="259" y="740"/>
-	<anchor name="b.minus-60" x="245" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=d</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=d+90</string>
-			<key>com.fontlab.recipe</key>
-			<string>d+uni0313</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="596"/>
+  <unicode hex="010F"/>
+  <anchor x="259" y="740" name="t.uni0302"/>
+  <anchor x="245" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="d"/>
+    <component base="uni0313" xOffset="621" yOffset="17"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=d</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=d+90</string>
+  <key>com.fontlab.recipe</key>
+  <string>d+uni0313</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

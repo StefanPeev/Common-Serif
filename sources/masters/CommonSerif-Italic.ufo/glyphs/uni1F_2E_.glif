@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F2E" format="2">
-	<unicode hex="1F2E"/>
-	<advance width="886"/>
-	<outline>
-		<component base="Eta" xOffset="218"/>
-		<component base="uni03130342" xOffset="295" yOffset="28"/>
-	</outline>
-	<anchor name="b.minus-60" x="534" y="-60"/>
-	<anchor name="b.cedilla" x="363" y="10"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=H</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=H</string>
-			<key>com.fontlab.recipe</key>
-			<string>Eta+uni03130342</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="886"/>
+  <unicode hex="1F2E"/>
+  <anchor x="534" y="-60" name="b.minus-60"/>
+  <anchor x="363" y="10" name="b.cedilla"/>
+  <outline>
+    <component base="Eta" xOffset="218"/>
+    <component base="uni03130342" xOffset="295" yOffset="28"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>com.fontlab.recipe</key>
+  <string>Eta+uni03130342</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

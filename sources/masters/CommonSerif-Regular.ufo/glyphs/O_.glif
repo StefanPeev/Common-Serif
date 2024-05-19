@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="2">
-	<unicode hex="004F"/>
-	<advance width="700"/>
-	<outline>
-		<contour>
-			<point x="664" y="329" type="curve" smooth="yes"/>
-			<point x="664" y="536"/>
-			<point x="521" y="658"/>
-			<point x="345.348" y="658" type="curve" smooth="yes"/>
-			<point x="148" y="658"/>
-			<point x="36" y="504"/>
-			<point x="36" y="319.995" type="curve" smooth="yes"/>
-			<point x="36" y="113"/>
-			<point x="178.773" y="-10"/>
-			<point x="353.543" y="-10" type="curve" smooth="yes"/>
-			<point x="547.186" y="-10"/>
-			<point x="664" y="141"/>
-		</contour>
-		<contour>
-			<point x="338.065" y="622" type="curve" smooth="yes"/>
-			<point x="461" y="622"/>
-			<point x="568" y="512"/>
-			<point x="568" y="311.105" type="curve" smooth="yes"/>
-			<point x="568" y="131"/>
-			<point x="482.197" y="26"/>
-			<point x="365.567" y="26" type="curve" smooth="yes"/>
-			<point x="246.737" y="26"/>
-			<point x="132" y="135"/>
-			<point x="132" y="327" type="curve" smooth="yes"/>
-			<point x="132" y="537"/>
-			<point x="230" y="622"/>
-		</contour>
-	</outline>
-	<anchor name="t.uni0302" x="343" y="740"/>
-	<anchor name="b.ogonek" x="383" y="10"/>
-	<anchor name="b.minus-60" x="343" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=36</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=36</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -10 36</string>
-							<string>hstem 622 36</string>
-							<string>vstem 36 96</string>
-							<string>vstem 568 96</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>3d13074d510f9bc880aee759ff02255420cf65c5e9b698f78a6dc939979af7acd7b18d6c78f2c01e38f06310d567b5122662f7ce297b0bb6841c5b9885bcc767</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="700"/>
+  <unicode hex="004F"/>
+  <anchor x="343" y="740" name="t.uni0302"/>
+  <anchor x="383" y="10" name="b.ogonek"/>
+  <anchor x="343" y="-60" name="b.minus-60"/>
+  <outline>
+    <contour>
+      <point x="664" y="329" type="curve" smooth="yes"/>
+      <point x="664" y="536"/>
+      <point x="521" y="658"/>
+      <point x="345.348" y="658" type="curve" smooth="yes"/>
+      <point x="148" y="658"/>
+      <point x="36" y="504"/>
+      <point x="36" y="319.995" type="curve" smooth="yes"/>
+      <point x="36" y="113"/>
+      <point x="178.773" y="-10"/>
+      <point x="353.543" y="-10" type="curve" smooth="yes"/>
+      <point x="547.186" y="-10"/>
+      <point x="664" y="141"/>
+    </contour>
+    <contour>
+      <point x="338.065" y="622" type="curve" smooth="yes"/>
+      <point x="461" y="622"/>
+      <point x="568" y="512"/>
+      <point x="568" y="311.105" type="curve" smooth="yes"/>
+      <point x="568" y="131"/>
+      <point x="482.197" y="26"/>
+      <point x="365.567" y="26" type="curve" smooth="yes"/>
+      <point x="246.737" y="26"/>
+      <point x="132" y="135"/>
+      <point x="132" y="327" type="curve" smooth="yes"/>
+      <point x="132" y="537"/>
+      <point x="230" y="622"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=36</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=36</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3d13074d510f9bc880aee759ff02255420cf65c5e9b698f78a6dc939979af7acd7b18d6c78f2c01e38f06310d567b5122662f7ce297b0bb6841c5b9885bcc767</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 36</string>
+          <string>hstem 622 36</string>
+          <string>vstem 36 96</string>
+          <string>vstem 568 96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="itilde" format="2">
-	<unicode hex="0129"/>
-	<advance width="312"/>
-	<outline>
-		<component base="dotlessi"/>
-		<component base="tildecomb" xOffset="305"/>
-	</outline>
-	<anchor name="m.uni0316_2" x="134" y="-108"/>
-	<anchor name="top" x="158" y="645"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>dotlessi+tildecomb</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="312"/>
+  <unicode hex="0129"/>
+  <anchor x="134" y="-108" name="m.uni0316_2"/>
+  <anchor x="158" y="645" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="tildecomb" xOffset="305"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

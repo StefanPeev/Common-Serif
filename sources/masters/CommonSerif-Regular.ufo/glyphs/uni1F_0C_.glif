@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F0C" format="2">
-	<unicode hex="1F0C"/>
-	<advance width="702"/>
-	<outline>
-		<component base="Alpha" xOffset="7.5"/>
-		<component base="uni1FCE" xOffset="-0.5" yOffset="-20"/>
-	</outline>
-	<anchor name="t.uni0302" x="361.5" y="740"/>
-	<anchor name="t.ring" x="365.5" y="620"/>
-	<anchor name="b.ogonek" x="607.5" y="10"/>
-	<anchor name="b.minus-60" x="360.5" y="-60"/>
-	<anchor name="ypogegrammeni" x="339.5" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsRight</key>
-			<string>=A</string>
-			<key>com.fontlab.recipe</key>
-			<string>=Alpha@10,-2+uni1FCE@40,480</string>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-		</dict>
-	</lib>
+  <advance width="702"/>
+  <unicode hex="1F0C"/>
+  <anchor x="361.5" y="740" name="t.uni0302"/>
+  <anchor x="365.5" y="620" name="t.ring"/>
+  <anchor x="607.5" y="10" name="b.ogonek"/>
+  <anchor x="360.5" y="-60" name="b.minus-60"/>
+  <anchor x="339.5" y="-60" name="ypogegrammeni"/>
+  <outline>
+    <component base="Alpha" xOffset="7.5"/>
+    <component base="uni1FCE" xOffset="-0.5" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  <key>com.fontlab.recipe</key>
+  <string>=Alpha@10,-2+uni1FCE@40,480</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="2">
-	<unicode hex="003A"/>
-	<advance width="256"/>
-	<outline>
-		<component base="period" xOffset="28" yOffset="1"/>
-		<component base="period" xOffset="88" yOffset="300"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -9 139</string>
-							<string>hstem 291 139</string>
-							<string>vstem 68 146</string>
-							<string>vstem 128 146</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w256</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="256"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="period" xOffset="28" yOffset="1"/>
+    <component base="period" xOffset="88" yOffset="300"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w256</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -9 139</string>
+          <string>hstem 291 139</string>
+          <string>vstem 68 146</string>
+          <string>vstem 128 146</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

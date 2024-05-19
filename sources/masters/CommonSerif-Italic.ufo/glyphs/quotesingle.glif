@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="2">
-	<unicode hex="0027"/>
-	<advance width="190"/>
-	<outline>
-		<contour>
-			<point x="144" y="426" type="line"/>
-			<point x="172" y="430" type="line"/>
-			<point x="247" y="611" type="line"/>
-			<point x="247" y="632"/>
-			<point x="242" y="644"/>
-			<point x="218" y="644" type="curve" smooth="yes"/>
-			<point x="189" y="644"/>
-			<point x="161" y="621"/>
-			<point x="158" y="594" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 426 218</string>
-							<string>vstem 154 28</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w190m144,426l172,430l247,611c247,632 242,644 218,644c189,644 161,621 158,594</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="190"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="144" y="426" type="line"/>
+      <point x="172" y="430" type="line"/>
+      <point x="247" y="611" type="line"/>
+      <point x="247" y="632"/>
+      <point x="242" y="644"/>
+      <point x="218" y="644" type="curve" smooth="yes"/>
+      <point x="189" y="644"/>
+      <point x="161" y="621"/>
+      <point x="158" y="594" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w190m144,426l172,430l247,611c247,632 242,644 218,644c189,644 161,621 158,594</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 426 218</string>
+          <string>vstem 154 28</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Umacron" format="2">
-	<unicode hex="016A"/>
-	<advance width="732"/>
-	<outline>
-		<component base="U"/>
-		<component base="uni0304" xOffset="583" yOffset="212"/>
-	</outline>
-	<anchor name="b.ogonek" x="420" y="10"/>
-	<anchor name="b.minus-60" x="374" y="-60"/>
-	<anchor name="top" x="383" y="822"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>U+uni0304</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="732"/>
+  <unicode hex="016A"/>
+  <anchor x="420" y="10" name="b.ogonek"/>
+  <anchor x="374" y="-60" name="b.minus-60"/>
+  <anchor x="383" y="822" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0304" xOffset="583" yOffset="212"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

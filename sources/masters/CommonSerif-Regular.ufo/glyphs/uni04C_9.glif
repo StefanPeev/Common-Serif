@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04C9" format="2">
-	<unicode hex="04C9"/>
-	<advance width="725"/>
-	<outline>
-		<component base="uni041D"/>
-		<contour>
-			<point x="651.551" y="0" type="line"/>
-			<point x="664" y="0" type="line"/>
-			<point x="609" y="-124" type="line"/>
-			<point x="652" y="-124" type="line"/>
-			<point x="721" y="31" type="line"/>
-			<point x="651.551" y="31" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=H</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=H-10</string>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -2 33</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 321 42</string>
-							<string>hstem 613 34</string>
-							<string>hstem 645 -20</string>
-							<string>vstem 106 85</string>
-							<string>vstem 533 85</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w725m651.55,0l664,0l609,-124l652,-124l721,31l651.55,31</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="725"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <component base="uni041D"/>
+    <contour>
+      <point x="651.551" y="0" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="609" y="-124" type="line"/>
+      <point x="652" y="-124" type="line"/>
+      <point x="721" y="31" type="line"/>
+      <point x="651.551" y="31" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H-10</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w725m651.55,0l664,0l609,-124l652,-124l721,31l651.55,31</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 321 42</string>
+          <string>hstem 613 34</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 106 85</string>
+          <string>vstem 533 85</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

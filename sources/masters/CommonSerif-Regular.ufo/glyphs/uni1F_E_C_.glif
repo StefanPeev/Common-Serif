@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FEC" format="2">
-	<unicode hex="1FEC"/>
-	<advance width="670"/>
-	<outline>
-		<component base="Rho" xOffset="125.5"/>
-		<component base="uni1FFE" xOffset="-20.2015" yOffset="-20"/>
-	</outline>
-	<anchor name="t.uni0302" x="376.5" y="740"/>
-	<anchor name="b.minus-60" x="376.5" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsRight</key>
-			<string>=P</string>
-			<key>com.fontlab.recipe</key>
-			<string>=Rho@140,-2+uni1FFE@10,480</string>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-		</dict>
-	</lib>
+  <advance width="670"/>
+  <unicode hex="1FEC"/>
+  <anchor x="376.5" y="740" name="t.uni0302"/>
+  <anchor x="376.5" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="Rho" xOffset="125.5"/>
+    <component base="uni1FFE" xOffset="-20.2015" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=P</string>
+  <key>com.fontlab.recipe</key>
+  <string>=Rho@140,-2+uni1FFE@10,480</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

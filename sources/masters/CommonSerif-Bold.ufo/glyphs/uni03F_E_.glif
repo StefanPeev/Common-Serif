@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03FE" format="2">
-	<unicode hex="03FE"/>
-	<advance width="620"/>
-	<outline>
-		<component base="uni03F9"/>
-		<contour>
-			<point x="361" y="257" type="curve" smooth="yes"/>
-			<point x="401" y="257"/>
-			<point x="431" y="290"/>
-			<point x="431" y="326" type="curve" smooth="yes"/>
-			<point x="431" y="363"/>
-			<point x="398" y="397"/>
-			<point x="361" y="397" type="curve" smooth="yes"/>
-			<point x="323" y="397"/>
-			<point x="291" y="363"/>
-			<point x="291" y="326" type="curve" smooth="yes"/>
-			<point x="291" y="291"/>
-			<point x="319" y="257"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=O</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -12 52</string>
-							<string>hstem 257 140</string>
-							<string>hstem 617 42</string>
-							<string>vstem 32 130</string>
-							<string>vstem 291 140</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w620m361,257c401,257 431,290 431,326c431,363 398,397 361,397c323,397 291,363 291,326c291,291 319,257 361,257</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="620"/>
+  <unicode hex="03FE"/>
+  <outline>
+    <component base="uni03F9"/>
+    <contour>
+      <point x="361" y="257" type="curve" smooth="yes"/>
+      <point x="401" y="257"/>
+      <point x="431" y="290"/>
+      <point x="431" y="326" type="curve" smooth="yes"/>
+      <point x="431" y="363"/>
+      <point x="398" y="397"/>
+      <point x="361" y="397" type="curve" smooth="yes"/>
+      <point x="323" y="397"/>
+      <point x="291" y="363"/>
+      <point x="291" y="326" type="curve" smooth="yes"/>
+      <point x="291" y="291"/>
+      <point x="319" y="257"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w620m361,257c401,257 431,290 431,326c431,363 398,397 361,397c323,397 291,363 291,326c291,291 319,257 361,257</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 52</string>
+          <string>hstem 257 140</string>
+          <string>hstem 617 42</string>
+          <string>vstem 32 130</string>
+          <string>vstem 291 140</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

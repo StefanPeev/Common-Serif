@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FEE" format="2">
-	<unicode hex="1FEE"/>
-	<advance width="376"/>
-	<outline>
-		<component base="dieresistonos" xOffset="-17"/>
-	</outline>
-	<anchor name="_t.gr" x="200" y="510"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=40</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=40</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 510 109</string>
-							<string>hstem 777 -20</string>
-							<string>vstem 40 110</string>
-							<string>vstem 226 110</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w376</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="376"/>
+  <unicode hex="1FEE"/>
+  <anchor x="200" y="510" name="_t.gr"/>
+  <outline>
+    <component base="dieresistonos" xOffset="-17"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w376</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 510 109</string>
+          <string>hstem 777 -20</string>
+          <string>vstem 40 110</string>
+          <string>vstem 226 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

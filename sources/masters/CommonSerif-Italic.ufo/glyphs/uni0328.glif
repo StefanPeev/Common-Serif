@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0328" format="2">
-	<unicode hex="0328"/>
-	<outline>
-		<component base="ogonek" xOffset="-410" yOffset="-1"/>
-	</outline>
-	<anchor name="_b.ogonek" x="-183" y="14"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -200 38</string>
-							<string>vstem -372 199</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w0</string>
-			</dict>
-		</dict>
-	</lib>
+  <unicode hex="0328"/>
+  <anchor x="-183" y="14" name="_b.ogonek"/>
+  <outline>
+    <component base="ogonek" xOffset="-410" yOffset="-1"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -200 38</string>
+          <string>vstem -372 199</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

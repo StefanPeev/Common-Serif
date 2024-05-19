@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brackethalftopleft" format="2">
-	<unicode hex="2E22"/>
-	<advance width="397"/>
-	<outline>
-		<contour>
-			<point x="97" y="249.759" type="line"/>
-			<point x="197" y="249.759" type="line"/>
-			<point x="197" y="561" type="line" smooth="yes"/>
-			<point x="197" y="648"/>
-			<point x="205" y="663"/>
-			<point x="342" y="673" type="curve"/>
-			<point x="348" y="679"/>
-			<point x="348" y="697"/>
-			<point x="342" y="703" type="curve"/>
-			<point x="97" y="703" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=bracketleft</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=bracketleft</string>
-			<key>com.fontlab.recipe</key>
-			<string>bracketleft</string>
-			<key>public.markColor</key>
-			<string>0.6,0.602,1,1</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 270.76 -21</string>
-							<string>hstem 673 30</string>
-							<string>vstem 97 100</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w397m97,249.76l197,249.76l197,561c197,648 205,663 342,673c348,679 348,697 342,703l97,703</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="397"/>
+  <unicode hex="2E22"/>
+  <outline>
+    <contour>
+      <point x="97" y="249.759" type="line"/>
+      <point x="197" y="249.759" type="line"/>
+      <point x="197" y="561" type="line" smooth="yes"/>
+      <point x="197" y="648"/>
+      <point x="205" y="663"/>
+      <point x="342" y="673" type="curve"/>
+      <point x="348" y="679"/>
+      <point x="348" y="697"/>
+      <point x="342" y="703" type="curve"/>
+      <point x="97" y="703" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=bracketleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=bracketleft</string>
+  <key>com.fontlab.recipe</key>
+  <string>bracketleft</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w397m97,249.76l197,249.76l197,561c197,648 205,663 342,673c348,679 348,697 342,703l97,703</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 270.76 -21</string>
+          <string>hstem 673 30</string>
+          <string>vstem 97 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

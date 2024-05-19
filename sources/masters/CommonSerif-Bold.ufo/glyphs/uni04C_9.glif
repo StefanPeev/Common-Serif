@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04C9" format="2">
-	<unicode hex="04C9"/>
-	<advance width="817"/>
-	<outline>
-		<component base="uni041D"/>
-		<contour>
-			<point x="673.404" y="1" type="line"/>
-			<point x="705" y="1" type="line"/>
-			<point x="650" y="-123" type="line"/>
-			<point x="734" y="-123" type="line"/>
-			<point x="805" y="35" type="line"/>
-			<point x="673.404" y="35" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=H</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=H-10</string>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -123 158</string>
-							<string>hstem 321 46</string>
-							<string>vstem 110 123</string>
-							<string>vstem 580 123</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w817m673.4,1l705,1l650,-123l734,-123l805,35l673.4,35</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="817"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <component base="uni041D"/>
+    <contour>
+      <point x="673.404" y="1" type="line"/>
+      <point x="705" y="1" type="line"/>
+      <point x="650" y="-123" type="line"/>
+      <point x="734" y="-123" type="line"/>
+      <point x="805" y="35" type="line"/>
+      <point x="673.404" y="35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H-10</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w817m673.4,1l705,1l650,-123l734,-123l805,35l673.4,35</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -123 158</string>
+          <string>hstem 321 46</string>
+          <string>vstem 110 123</string>
+          <string>vstem 580 123</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

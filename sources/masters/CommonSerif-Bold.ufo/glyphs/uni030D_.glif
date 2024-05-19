@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030D" format="2">
-	<unicode hex="030D"/>
-	<outline>
-		<contour>
-			<point x="-129" y="500" type="line"/>
-			<point x="-129" y="680" type="line"/>
-			<point x="-185" y="680" type="line"/>
-			<point x="-185" y="500" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="_t.uni0302" x="-155" y="500"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 521 -21</string>
-							<string>hstem 680 -20</string>
-							<string>vstem -185 56</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w0m-129,500l-129,680l-185,680l-185,500</string>
-			</dict>
-		</dict>
-	</lib>
+  <unicode hex="030D"/>
+  <anchor x="-155" y="500" name="_t.uni0302"/>
+  <outline>
+    <contour>
+      <point x="-129" y="500" type="line"/>
+      <point x="-129" y="680" type="line"/>
+      <point x="-185" y="680" type="line"/>
+      <point x="-185" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-129,500l-129,680l-185,680l-185,500</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 680 -20</string>
+          <string>vstem -185 56</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

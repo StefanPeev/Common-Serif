@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F5B" format="2">
-	<unicode hex="1F5B"/>
-	<advance width="871"/>
-	<outline>
-		<component base="Upsilon" xOffset="265"/>
-		<component base="uni03140300" xOffset="316" yOffset="28"/>
-	</outline>
-	<anchor name="b.minus-60" x="621" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=Upsilon</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=Upsilon</string>
-			<key>com.fontlab.recipe</key>
-			<string>Upsilon+uni03140300</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="871"/>
+  <unicode hex="1F5B"/>
+  <anchor x="621" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="Upsilon" xOffset="265"/>
+    <component base="uni03140300" xOffset="316" yOffset="28"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Upsilon</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Upsilon</string>
+  <key>com.fontlab.recipe</key>
+  <string>Upsilon+uni03140300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

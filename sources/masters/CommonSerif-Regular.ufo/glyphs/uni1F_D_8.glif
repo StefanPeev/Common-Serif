@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FD8" format="2">
-	<unicode hex="1FD8"/>
-	<advance width="299"/>
-	<outline>
-		<component base="Iota"/>
-		<component base="breve.cap" xOffset="309"/>
-	</outline>
-	<anchor name="b.ogonek" x="191" y="10"/>
-	<anchor name="b.minus-60" x="148" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=I</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=I</string>
-			<key>com.fontlab.recipe</key>
-			<string>Iota+~breve.case</string>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-		</dict>
-	</lib>
+  <advance width="299"/>
+  <unicode hex="1FD8"/>
+  <anchor x="191" y="10" name="b.ogonek"/>
+  <anchor x="148" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="breve.cap" xOffset="309"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+~breve.case</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0306" format="2">
-	<unicode hex="0306"/>
-	<outline>
-		<contour>
-			<point x="-287" y="653" type="curve"/>
-			<point x="-322" y="643" type="line"/>
-			<point x="-326" y="562"/>
-			<point x="-282" y="500"/>
-			<point x="-201" y="500" type="curve" smooth="yes"/>
-			<point x="-150" y="500"/>
-			<point x="-66" y="538"/>
-			<point x="-42" y="643" type="curve"/>
-			<point x="-72" y="653" type="line"/>
-			<point x="-84" y="589"/>
-			<point x="-143" y="574"/>
-			<point x="-190" y="574" type="curve" smooth="yes"/>
-			<point x="-253" y="574"/>
-			<point x="-293" y="599"/>
-		</contour>
-	</outline>
-	<anchor name="_t.uni0302" x="-201" y="500"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 514 74</string>
-							<string>hstem 657 -20</string>
-							<string>vstem -320 35</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>9c293dc65b0907c75c3e75d7bd9fd0d2916ad3e1dade7e1ef3b72a73245b014742d7d55231a3f9c627b14f5f6e5987e8c70a9332dfdc576b7d1d4e7f497e0811</string>
-			</dict>
-		</dict>
-	</lib>
+  <unicode hex="0306"/>
+  <anchor x="-201" y="500" name="_t.uni0302"/>
+  <outline>
+    <contour>
+      <point x="-287" y="653" type="curve"/>
+      <point x="-322" y="643" type="line"/>
+      <point x="-326" y="562"/>
+      <point x="-282" y="500"/>
+      <point x="-201" y="500" type="curve" smooth="yes"/>
+      <point x="-150" y="500"/>
+      <point x="-66" y="538"/>
+      <point x="-42" y="643" type="curve"/>
+      <point x="-72" y="653" type="line"/>
+      <point x="-84" y="589"/>
+      <point x="-143" y="574"/>
+      <point x="-190" y="574" type="curve" smooth="yes"/>
+      <point x="-253" y="574"/>
+      <point x="-293" y="599"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9c293dc65b0907c75c3e75d7bd9fd0d2916ad3e1dade7e1ef3b72a73245b014742d7d55231a3f9c627b14f5f6e5987e8c70a9332dfdc576b7d1d4e7f497e0811</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 514 74</string>
+          <string>hstem 657 -20</string>
+          <string>vstem -320 35</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

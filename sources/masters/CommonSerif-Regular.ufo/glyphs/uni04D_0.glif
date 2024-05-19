@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D0" format="2">
-	<unicode hex="04D0"/>
-	<advance width="695"/>
-	<outline>
-		<component base="uni0410"/>
-		<component base="uni0306.cyr" xOffset="501" yOffset="240"/>
-	</outline>
-	<anchor name="t.ring" x="358" y="620"/>
-	<anchor name="b.ogonek" x="600" y="10"/>
-	<anchor name="b.minus-60" x="353" y="-60"/>
-	<anchor name="ypogegrammeni" x="332" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>uni0410+uni0306.cyr</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="695"/>
+  <unicode hex="04D0"/>
+  <anchor x="358" y="620" name="t.ring"/>
+  <anchor x="600" y="10" name="b.ogonek"/>
+  <anchor x="353" y="-60" name="b.minus-60"/>
+  <anchor x="332" y="-60" name="ypogegrammeni"/>
+  <outline>
+    <component base="uni0410"/>
+    <component base="uni0306.cyr" xOffset="501" yOffset="240"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0410+uni0306.cyr</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

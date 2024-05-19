@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E51" format="2">
-	<unicode hex="1E51"/>
-	<advance width="537"/>
-	<outline>
-		<component base="o"/>
-		<component base="uni03040300" xOffset="458"/>
-	</outline>
-	<anchor name="b.ogonek" x="350" y="10"/>
-	<anchor name="b.minus-60" x="258" y="-60"/>
-	<anchor name="top" x="255" y="600"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>o+uni03040300</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="537"/>
+  <unicode hex="1E51"/>
+  <anchor x="350" y="10" name="b.ogonek"/>
+  <anchor x="258" y="-60" name="b.minus-60"/>
+  <anchor x="255" y="600" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni03040300" xOffset="458"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni03040300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

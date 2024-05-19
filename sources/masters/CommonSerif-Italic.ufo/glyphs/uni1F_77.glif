@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F77" format="2">
-	<unicode hex="1F77"/>
-	<advance width="276"/>
-	<outline>
-		<component base="iota"/>
-		<component base="uni0314.gr" xOffset="267" yOffset="-10"/>
-	</outline>
-	<anchor name="m.uni0316_2" x="139" y="-108"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>iota+uni0314.gr</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="276"/>
+  <unicode hex="1F77"/>
+  <anchor x="139" y="-108" name="m.uni0316_2"/>
+  <outline>
+    <component base="iota"/>
+    <component base="uni0314.gr" xOffset="267" yOffset="-10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota+uni0314.gr</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

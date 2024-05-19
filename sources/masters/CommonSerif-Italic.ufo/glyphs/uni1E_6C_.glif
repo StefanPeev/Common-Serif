@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E6C" format="2">
-	<unicode hex="1E6C"/>
-	<advance width="544"/>
-	<outline>
-		<component base="T"/>
-		<component base="dotbelowcomb" xOffset="506"/>
-	</outline>
-	<anchor name="t.uni0302" x="434" y="740"/>
-	<anchor name="b.cedilla" x="300" y="10"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>T+dotbelowcomb</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="544"/>
+  <unicode hex="1E6C"/>
+  <anchor x="434" y="740" name="t.uni0302"/>
+  <anchor x="300" y="10" name="b.cedilla"/>
+  <outline>
+    <component base="T"/>
+    <component base="dotbelowcomb" xOffset="506"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

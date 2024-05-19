@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tugrik" format="2">
-	<unicode hex="20AE"/>
-	<advance width="652"/>
-	<outline>
-		<component base="T"/>
-		<contour>
-			<point x="347.006" y="382.507" type="line"/>
-			<point x="497" y="469" type="line"/>
-			<point x="497" y="479"/>
-			<point x="489.677" y="494.741"/>
-			<point x="479" y="499" type="curve"/>
-			<point x="346.976" y="423.558" type="line"/>
-		</contour>
-		<contour>
-			<point x="192" y="294" type="curve"/>
-			<point x="287.985" y="349.509" type="line"/>
-			<point x="288.008" y="390.47" type="line"/>
-			<point x="174" y="325" type="line"/>
-			<point x="174" y="310.302"/>
-			<point x="182.705" y="299.27"/>
-		</contour>
-		<contour>
-			<point x="347.006" y="282.507" type="line"/>
-			<point x="497" y="369" type="line"/>
-			<point x="497" y="379"/>
-			<point x="489.677" y="394.741"/>
-			<point x="479" y="399" type="curve"/>
-			<point x="346.976" y="323.558" type="line"/>
-		</contour>
-		<contour>
-			<point x="192" y="194" type="curve"/>
-			<point x="287.985" y="249.509" type="line"/>
-			<point x="288.008" y="290.47" type="line"/>
-			<point x="174" y="225" type="line"/>
-			<point x="174" y="210.302"/>
-			<point x="182.705" y="199.27"/>
-		</contour>
-	</outline>
-	<anchor name="t.uni0302" x="354" y="740"/>
-	<anchor name="b.minus-60" x="352" y="-60"/>
-	<anchor name="b.cedilla" x="356" y="0"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.recipe</key>
-			<string>T</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -2 34</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 604 41</string>
-							<string>vstem 265 140</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>695191d86ef4561af1a2158e5c5a37437ff1ec6aa977aecf57ab803319a80930b33b96b8fc015f95c87bc0e56330d0372b18532e021cf63c715dc6d480766fba</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="652"/>
+  <unicode hex="20AE"/>
+  <anchor x="354" y="740" name="t.uni0302"/>
+  <anchor x="352" y="-60" name="b.minus-60"/>
+  <anchor x="356" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="T"/>
+    <contour>
+      <point x="347.006" y="382.507" type="line"/>
+      <point x="497" y="469" type="line"/>
+      <point x="497" y="479"/>
+      <point x="489.677" y="494.741"/>
+      <point x="479" y="499" type="curve"/>
+      <point x="346.976" y="423.558" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="294" type="curve"/>
+      <point x="287.985" y="349.509" type="line"/>
+      <point x="288.008" y="390.47" type="line"/>
+      <point x="174" y="325" type="line"/>
+      <point x="174" y="310.302"/>
+      <point x="182.705" y="299.27"/>
+    </contour>
+    <contour>
+      <point x="347.006" y="282.507" type="line"/>
+      <point x="497" y="369" type="line"/>
+      <point x="497" y="379"/>
+      <point x="489.677" y="394.741"/>
+      <point x="479" y="399" type="curve"/>
+      <point x="346.976" y="323.558" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="194" type="curve"/>
+      <point x="287.985" y="249.509" type="line"/>
+      <point x="288.008" y="290.47" type="line"/>
+      <point x="174" y="225" type="line"/>
+      <point x="174" y="210.302"/>
+      <point x="182.705" y="199.27"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>T</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>695191d86ef4561af1a2158e5c5a37437ff1ec6aa977aecf57ab803319a80930b33b96b8fc015f95c87bc0e56330d0372b18532e021cf63c715dc6d480766fba</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 34</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 604 41</string>
+          <string>vstem 265 140</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

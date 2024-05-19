@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA78B" format="2">
-	<unicode hex="A78B"/>
-	<advance width="190"/>
-	<outline>
-		<contour>
-			<point x="154" y="426" type="line"/>
-			<point x="182" y="430" type="line"/>
-			<point x="258" y="665" type="line"/>
-			<point x="258" y="686"/>
-			<point x="253" y="698"/>
-			<point x="229" y="698" type="curve" smooth="yes"/>
-			<point x="199" y="698"/>
-			<point x="172" y="670"/>
-			<point x="169" y="648" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 698 -20</string>
-							<string>vstem 154 104</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w190m154,426l182,430l258,665c258,686 253,698 229,698c199,698 172,670 169,648</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="190"/>
+  <unicode hex="A78B"/>
+  <outline>
+    <contour>
+      <point x="154" y="426" type="line"/>
+      <point x="182" y="430" type="line"/>
+      <point x="258" y="665" type="line"/>
+      <point x="258" y="686"/>
+      <point x="253" y="698"/>
+      <point x="229" y="698" type="curve" smooth="yes"/>
+      <point x="199" y="698"/>
+      <point x="172" y="670"/>
+      <point x="169" y="648" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w190m154,426l182,430l258,665c258,686 253,698 229,698c199,698 172,670 169,648</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 698 -20</string>
+          <string>vstem 154 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

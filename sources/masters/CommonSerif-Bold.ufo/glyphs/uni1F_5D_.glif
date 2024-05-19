@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F5D" format="2">
-	<unicode hex="1F5D"/>
-	<advance width="943"/>
-	<outline>
-		<component base="Upsilon" xOffset="319.031"/>
-		<component base="uni1FDE" xOffset="-20.2505" yOffset="-19.9951"/>
-	</outline>
-	<anchor name="t.uni0302" x="673.031" y="740"/>
-	<anchor name="b.minus-60" x="671.031" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsRight</key>
-			<string>=Y</string>
-			<key>com.fontlab.recipe</key>
-			<string>=Upsilon@320,-2+uni1FDE@10,480</string>
-			<key>public.markColor</key>
-			<string>0.999,1,0.6,1</string>
-		</dict>
-	</lib>
+  <advance width="943"/>
+  <unicode hex="1F5D"/>
+  <anchor x="673.031" y="740" name="t.uni0302"/>
+  <anchor x="671.031" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="Upsilon" xOffset="319.031"/>
+    <component base="uni1FDE" xOffset="-20.2505" yOffset="-19.9951"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Y</string>
+  <key>com.fontlab.recipe</key>
+  <string>=Upsilon@320,-2+uni1FDE@10,480</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="2">
-	<unicode hex="012A"/>
-	<advance width="299"/>
-	<outline>
-		<component base="I"/>
-		<component base="macron" xOffset="-49.5" yOffset="229"/>
-	</outline>
-	<anchor name="t.uni0302" x="148" y="740"/>
-	<anchor name="b.ogonek" x="191" y="10"/>
-	<anchor name="b.minus-60" x="148" y="-60"/>
-	<anchor name="top" x="139.5" y="829"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=I</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=I</string>
-			<key>com.fontlab.recipe</key>
-			<string>I+macron</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="299"/>
+  <unicode hex="012A"/>
+  <anchor x="148" y="740" name="t.uni0302"/>
+  <anchor x="191" y="10" name="b.ogonek"/>
+  <anchor x="148" y="-60" name="b.minus-60"/>
+  <anchor x="139.5" y="829" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="macron" xOffset="-49.5" yOffset="229"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>com.fontlab.recipe</key>
+  <string>I+macron</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

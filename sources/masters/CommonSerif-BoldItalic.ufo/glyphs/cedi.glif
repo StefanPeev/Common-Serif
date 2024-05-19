@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedi" format="2">
-	<unicode hex="20B5"/>
-	<advance width="675"/>
-	<outline>
-		<component base="C"/>
-		<component base="slash" xOffset="172" yOffset="-6.5"/>
-	</outline>
-	<anchor name="b.minus-60" x="332" y="-60"/>
-	<anchor name="b.cedilla" x="356" y="0"/>
-	<anchor name="t.uni0302" x="489" y="740"/>
-	<guideline x="0" y="776" angle="0"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.recipe</key>
-			<string>C+bar</string>
-		</dict>
-	</lib>
+  <advance width="675"/>
+  <unicode hex="20B5"/>
+  <anchor x="332" y="-60" name="b.minus-60"/>
+  <anchor x="356" y="0" name="b.cedilla"/>
+  <anchor x="489" y="740" name="t.uni0302"/>
+  <outline>
+    <component base="C"/>
+    <component base="slash" xOffset="172" yOffset="-6.5"/>
+  </outline>
+  <guideline angle="0" x="0" y="776"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>C+bar</string>
+  </dict>
+  </lib>
 </glyph>

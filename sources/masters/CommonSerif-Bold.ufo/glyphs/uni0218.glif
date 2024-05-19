@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0218" format="2">
-	<unicode hex="0218"/>
-	<advance width="504"/>
-	<outline>
-		<component base="S"/>
-		<component base="uni0326" xOffset="493"/>
-	</outline>
-	<anchor name="t.uni0302" x="245" y="740"/>
-	<anchor name="b.cedilla" x="230" y="0"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>S+uni0326</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="504"/>
+  <unicode hex="0218"/>
+  <anchor x="245" y="740" name="t.uni0302"/>
+  <anchor x="230" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="S"/>
+    <component base="uni0326" xOffset="493"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+uni0326</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

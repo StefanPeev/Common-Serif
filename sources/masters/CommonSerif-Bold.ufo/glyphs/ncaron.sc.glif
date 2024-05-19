@@ -1,115 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncaron.sc" format="2">
-	<advance width="652"/>
-	<outline>
-		<contour>
-			<point x="36" y="-2" type="curve"/>
-			<point x="71" y="-0.8333"/>
-			<point x="114.75" y="0"/>
-			<point x="141" y="0" type="curve" smooth="yes"/>
-			<point x="165" y="0"/>
-			<point x="197" y="-0.6667"/>
-			<point x="237" y="-2" type="curve"/>
-			<point x="243" y="4"/>
-			<point x="243" y="26"/>
-			<point x="237" y="32" type="curve"/>
-			<point x="170.97" y="37.4123"/>
-			<point x="165" y="44.875"/>
-			<point x="165" y="122" type="curve" smooth="yes"/>
-			<point x="165" y="312" type="line" smooth="yes"/>
-			<point x="165" y="343.807"/>
-			<point x="167.734" y="353.804"/>
-			<point x="187" y="328" type="curve" smooth="yes"/>
-			<point x="408" y="32" type="line" smooth="yes"/>
-			<point x="420.865" y="14.7694"/>
-			<point x="440.509" y="-6.83888"/>
-			<point x="448" y="-12" type="curve"/>
-			<point x="494.375" y="-12"/>
-			<point x="534.545" y="-7.22727"/>
-			<point x="549" y="0" type="curve"/>
-			<point x="548.5" y="7.1"/>
-			<point x="544" y="71"/>
-			<point x="544" y="102" type="curve" smooth="yes"/>
-			<point x="544" y="338" type="line" smooth="yes"/>
-			<point x="544" y="404.938"/>
-			<point x="558.692" y="423.303"/>
-			<point x="616" y="428" type="curve"/>
-			<point x="622" y="434"/>
-			<point x="622" y="456"/>
-			<point x="616" y="462" type="curve"/>
-			<point x="576" y="460.667"/>
-			<point x="544" y="460"/>
-			<point x="520" y="460" type="curve" smooth="yes"/>
-			<point x="493.75" y="460"/>
-			<point x="450" y="460.833"/>
-			<point x="415" y="462" type="curve"/>
-			<point x="409" y="456"/>
-			<point x="409" y="434"/>
-			<point x="415" y="428" type="curve"/>
-			<point x="469.416" y="423.034"/>
-			<point x="487" y="401.054"/>
-			<point x="487" y="338" type="curve" smooth="yes"/>
-			<point x="487" y="151" type="line" smooth="yes"/>
-			<point x="487" y="136"/>
-			<point x="483" y="135"/>
-			<point x="473" y="149" type="curve" smooth="yes"/>
-			<point x="244" y="460" type="line"/>
-			<point x="42" y="462" type="line"/>
-			<point x="36" y="455"/>
-			<point x="36" y="435"/>
-			<point x="42" y="428" type="curve"/>
-			<point x="71.4975" y="427.244"/>
-			<point x="90.297" y="418.129"/>
-			<point x="108" y="396" type="curve"/>
-			<point x="108" y="122" type="line" smooth="yes"/>
-			<point x="108" y="44.375"/>
-			<point x="101.538" y="36.2976"/>
-			<point x="36" y="32" type="curve"/>
-			<point x="30" y="26"/>
-			<point x="30" y="4"/>
-		</contour>
-		<contour>
-			<point x="343" y="514" type="line"/>
-			<point x="372" y="561"/>
-			<point x="408" y="603"/>
-			<point x="444" y="643" type="curve"/>
-			<point x="420" y="661" type="line"/>
-			<point x="381" y="634"/>
-			<point x="351" y="613"/>
-			<point x="317" y="577" type="curve"/>
-			<point x="280" y="615"/>
-			<point x="254" y="634"/>
-			<point x="215" y="661" type="curve"/>
-			<point x="191" y="643" type="line"/>
-			<point x="226" y="603"/>
-			<point x="264" y="560"/>
-			<point x="293" y="514" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 9 -21</string>
-							<string>hstem 19 -21</string>
-							<string>hstem 21 -21</string>
-							<string>hstem 462 -20</string>
-							<string>hstem 661 -20</string>
-							<string>vstem 108 57</string>
-							<string>vstem 487 57</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>43df93d066db4b5467e935e72cca6905842a73bf2f91e37892b5e87140739e490e7dea6a124f9f20de5bc40a3448675565012e6a94b02625a7f0c1a44f8e83c1</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="652"/>
+  <anchor x="337" y="645" name="m.uni0302"/>
+  <anchor x="342" y="-110" name="m.uni0316_2"/>
+  <anchor x="340" y="-3" name="b.uni0327_5"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="uni030C" xOffset="526"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>n.sc+uni030C</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

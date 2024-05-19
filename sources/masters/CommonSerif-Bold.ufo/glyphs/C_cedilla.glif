@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="2">
-	<unicode hex="00C7"/>
-	<advance width="707"/>
-	<outline>
-		<component base="C"/>
-		<component base="uni0327" xOffset="538"/>
-	</outline>
-	<anchor name="t.uni0302" x="355" y="740"/>
-	<anchor name="b.minus-60" x="353" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=O</string>
-			<key>com.fontlab.recipe</key>
-			<string>C+uni0327</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="707"/>
+  <unicode hex="00C7"/>
+  <anchor x="355" y="740" name="t.uni0302"/>
+  <anchor x="353" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="C"/>
+    <component base="uni0327" xOffset="538"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.recipe</key>
+  <string>C+uni0327</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

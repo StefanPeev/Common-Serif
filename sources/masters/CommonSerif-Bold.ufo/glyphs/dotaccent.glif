@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="2">
-	<unicode hex="02D9"/>
-	<advance width="190"/>
-	<outline>
-		<contour>
-			<point x="40" y="555" type="curve" smooth="yes"/>
-			<point x="40" y="525"/>
-			<point x="65" y="500"/>
-			<point x="95" y="500" type="curve" smooth="yes"/>
-			<point x="126" y="500"/>
-			<point x="150" y="525"/>
-			<point x="150" y="555" type="curve" smooth="yes"/>
-			<point x="150" y="586"/>
-			<point x="126" y="610"/>
-			<point x="95" y="610" type="curve" smooth="yes"/>
-			<point x="65" y="610"/>
-			<point x="40" y="586"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=40</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=40</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 500 110</string>
-							<string>vstem 23 110</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w190m57,555c57,525 82,500 112,500c143,500 167,525 167,555c167,586 143,610 112,610c82,610 57,586 57,555</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="190"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="40" y="555" type="curve" smooth="yes"/>
+      <point x="40" y="525"/>
+      <point x="65" y="500"/>
+      <point x="95" y="500" type="curve" smooth="yes"/>
+      <point x="126" y="500"/>
+      <point x="150" y="525"/>
+      <point x="150" y="555" type="curve" smooth="yes"/>
+      <point x="150" y="586"/>
+      <point x="126" y="610"/>
+      <point x="95" y="610" type="curve" smooth="yes"/>
+      <point x="65" y="610"/>
+      <point x="40" y="586"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w190m57,555c57,525 82,500 112,500c143,500 167,525 167,555c167,586 143,610 112,610c82,610 57,586 57,555</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 110</string>
+          <string>vstem 23 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

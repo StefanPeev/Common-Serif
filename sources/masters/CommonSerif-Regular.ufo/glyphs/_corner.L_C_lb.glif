@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_corner.LClb" format="2">
-	<advance width="149"/>
-	<outline>
-		<contour>
-			<point x="94" y="122" type="move"/>
-			<point x="94" y="39"/>
-			<point x="76" y="34"/>
-			<point x="22" y="31" type="curve"/>
-			<point x="16" y="25"/>
-			<point x="16" y="4"/>
-			<point x="22" y="-2" type="curve"/>
-			<point x="64" y="0"/>
-			<point x="88" y="0"/>
-			<point x="129" y="0" type="curve"/>
-		</contour>
-	</outline>
-	<anchor name="origin" x="94" y="0"/>
-	<anchor name="left" x="94" y="122"/>
-	<anchor name="right" x="129" y="0"/>
+  <advance width="149"/>
+  <anchor x="94" y="0" name="origin"/>
+  <anchor x="94" y="122" name="left"/>
+  <anchor x="129" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="94" y="122" type="move"/>
+      <point x="94" y="39"/>
+      <point x="76" y="34"/>
+      <point x="22" y="31" type="curve"/>
+      <point x="16" y="25"/>
+      <point x="16" y="4"/>
+      <point x="22" y="-2" type="curve"/>
+      <point x="64" y="0"/>
+      <point x="88" y="0"/>
+      <point x="129" y="0" type="curve"/>
+    </contour>
+  </outline>
 </glyph>

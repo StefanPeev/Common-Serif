@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft.sc" format="2">
-	<advance width="295"/>
-	<outline>
-		<contour>
-			<point x="100" y="244" type="curve" smooth="yes"/>
-			<point x="100" y="162"/>
-			<point x="122" y="38"/>
-			<point x="243" y="-66" type="curve"/>
-			<point x="264" y="-52" type="line"/>
-			<point x="200" y="22"/>
-			<point x="173" y="119"/>
-			<point x="173" y="216" type="curve" smooth="yes"/>
-			<point x="173" y="402"/>
-			<point x="268" y="585"/>
-			<point x="410" y="701" type="curve"/>
-			<point x="396" y="716" type="line"/>
-			<point x="236" y="615"/>
-			<point x="100" y="439"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -66 782</string>
-							<string>vstem 100 74</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>w295m100,244c100,162 122,38 243,-66l264,-52c200,22 173,119 173,216c173,402 268,585 410,701l396,716c236,615 100,439 100,244</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="295"/>
+  <outline>
+    <contour>
+      <point x="100" y="244" type="curve" smooth="yes"/>
+      <point x="100" y="162"/>
+      <point x="122" y="38"/>
+      <point x="243" y="-66" type="curve"/>
+      <point x="264" y="-52" type="line"/>
+      <point x="200" y="22"/>
+      <point x="173" y="119"/>
+      <point x="173" y="216" type="curve" smooth="yes"/>
+      <point x="173" y="402"/>
+      <point x="268" y="585"/>
+      <point x="410" y="701" type="curve"/>
+      <point x="396" y="716" type="line"/>
+      <point x="236" y="615"/>
+      <point x="100" y="439"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w295m100,244c100,162 122,38 243,-66l264,-52c200,22 173,119 173,216c173,402 268,585 410,701l396,716c236,615 100,439 100,244</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -66 782</string>
+          <string>vstem 100 74</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

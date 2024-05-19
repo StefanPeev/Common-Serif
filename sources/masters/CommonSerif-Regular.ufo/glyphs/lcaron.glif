@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-	<unicode hex="013E"/>
-	<advance width="346"/>
-	<outline>
-		<component base="l"/>
-		<component base="uni0313" xOffset="352.799" yOffset="20"/>
-	</outline>
-	<anchor name="t.uni0302" x="116" y="740"/>
-	<anchor name="b.minus-60" x="134" y="-60"/>
-	<anchor name="apostrophe" x="256" y="658"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsRight</key>
-			<string>=l+90</string>
-			<key>com.fontlab.recipe</key>
-			<string>=l+uni0313@218,520</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="346"/>
+  <unicode hex="013E"/>
+  <anchor x="116" y="740" name="t.uni0302"/>
+  <anchor x="134" y="-60" name="b.minus-60"/>
+  <anchor x="256" y="658" name="apostrophe"/>
+  <outline>
+    <component base="l"/>
+    <component base="uni0313" xOffset="352.799" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=l+90</string>
+  <key>com.fontlab.recipe</key>
+  <string>=l+uni0313@218,520</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

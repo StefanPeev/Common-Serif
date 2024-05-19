@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omicron" format="2">
-	<unicode hex="039F"/>
-	<advance width="699"/>
-	<outline>
-		<component base="O"/>
-	</outline>
-	<anchor name="b.ogonek" x="394" y="10"/>
-	<anchor name="b.minus-60" x="356" y="-60"/>
-	<anchor name="t.gr" x="168" y="724"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=O</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=O</string>
-			<key>com.fontlab.recipe</key>
-			<string>O</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="699"/>
+  <unicode hex="039F"/>
+  <anchor x="394" y="10" name="b.ogonek"/>
+  <anchor x="356" y="-60" name="b.minus-60"/>
+  <anchor x="168" y="724" name="t.gr"/>
+  <outline>
+    <component base="O"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>com.fontlab.recipe</key>
+  <string>O</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

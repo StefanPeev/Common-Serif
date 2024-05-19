@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-	<unicode hex="0104"/>
-	<advance width="695"/>
-	<outline>
-		<component base="A"/>
-		<component base="uni0328" xOffset="786" yOffset="-4"/>
-	</outline>
-	<anchor name="t.uni0302" x="354" y="740"/>
-	<anchor name="t.ring" x="358" y="620"/>
-	<anchor name="b.minus-60" x="353" y="-60"/>
-	<anchor name="ypogegrammeni" x="332" y="-60"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>A+&gt;uni0328</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="695"/>
+  <unicode hex="0104"/>
+  <anchor x="354" y="740" name="t.uni0302"/>
+  <anchor x="358" y="620" name="t.ring"/>
+  <anchor x="353" y="-60" name="b.minus-60"/>
+  <anchor x="332" y="-60" name="ypogegrammeni"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0328" xOffset="786" yOffset="-4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+>uni0328</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

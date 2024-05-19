@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="2">
-	<unicode hex="02C7"/>
-	<advance width="350"/>
-	<outline>
-		<contour>
-			<point x="149" y="500" type="curve"/>
-			<point x="201" y="500" type="line"/>
-			<point x="230" y="547"/>
-			<point x="265" y="589"/>
-			<point x="301" y="629" type="curve"/>
-			<point x="277" y="647" type="line"/>
-			<point x="238" y="620"/>
-			<point x="209" y="599"/>
-			<point x="175" y="563" type="curve"/>
-			<point x="138" y="601"/>
-			<point x="112" y="620"/>
-			<point x="73" y="647" type="curve"/>
-			<point x="49" y="629" type="line"/>
-			<point x="84" y="589"/>
-			<point x="120" y="546"/>
-		</contour>
-	</outline>
-	<anchor name="_t.uni0302" x="175" y="500"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsWidth</key>
-			<string>=350</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 521 -21</string>
-							<string>hstem 647 -20</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>aad9392ad015d4123c964a577422cae7b331c01f2dc598b8e643c45f7b50df5f0cd26f130c0c32a2db0c34516f1c5ab80116b9381d63531155a9a29fdb74d5d3</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="350"/>
+  <unicode hex="02C7"/>
+  <anchor x="175" y="500" name="_t.uni0302"/>
+  <outline>
+    <contour>
+      <point x="149" y="500" type="curve"/>
+      <point x="201" y="500" type="line"/>
+      <point x="230" y="547"/>
+      <point x="265" y="589"/>
+      <point x="301" y="629" type="curve"/>
+      <point x="277" y="647" type="line"/>
+      <point x="238" y="620"/>
+      <point x="209" y="599"/>
+      <point x="175" y="563" type="curve"/>
+      <point x="138" y="601"/>
+      <point x="112" y="620"/>
+      <point x="73" y="647" type="curve"/>
+      <point x="49" y="629" type="line"/>
+      <point x="84" y="589"/>
+      <point x="120" y="546"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=350</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>aad9392ad015d4123c964a577422cae7b331c01f2dc598b8e643c45f7b50df5f0cd26f130c0c32a2db0c34516f1c5ab80116b9381d63531155a9a29fdb74d5d3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 521 -21</string>
+          <string>hstem 647 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

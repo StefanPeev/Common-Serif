@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E1A" format="2">
-	<unicode hex="1E1A"/>
-	<advance width="621"/>
-	<outline>
-		<component base="E"/>
-		<component base="uni0330" xOffset="507"/>
-	</outline>
-	<anchor name="t.uni0302" x="290" y="740"/>
-	<anchor name="b.ogonek" x="362" y="10"/>
-	<anchor name="b.cedilla" x="368" y="0"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="621"/>
+  <unicode hex="1E1A"/>
+  <anchor x="290" y="740" name="t.uni0302"/>
+  <anchor x="362" y="10" name="b.ogonek"/>
+  <anchor x="368" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="E"/>
+    <component base="uni0330" xOffset="507"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

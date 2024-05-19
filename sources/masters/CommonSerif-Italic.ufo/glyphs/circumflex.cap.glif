@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex.cap" format="2">
-	<outline>
-		<contour>
-			<point x="160" y="761" type="curve"/>
-			<point x="129" y="788"/>
-			<point x="102" y="819"/>
-			<point x="81" y="855" type="curve"/>
-			<point x="38" y="855" type="line"/>
-			<point x="0" y="821"/>
-			<point x="-40" y="789"/>
-			<point x="-83" y="761" type="curve"/>
-			<point x="-82" y="758"/>
-			<point x="-75" y="743"/>
-			<point x="-74" y="740" type="curve"/>
-			<point x="-32" y="757"/>
-			<point x="4" y="775"/>
-			<point x="47" y="802" type="curve"/>
-			<point x="74" y="777"/>
-			<point x="104" y="758"/>
-			<point x="139" y="740" type="curve"/>
-			<point x="142" y="743"/>
-			<point x="157" y="758"/>
-		</contour>
-	</outline>
-	<anchor name="_t.uni0302" x="40" y="740"/>
-	<lib>
-		<dict>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem 524 115</string>
-							<string>vstem -127 243</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>1fcfedf7a14cb740076d1680c1dcd898a9fd3e3d5fa2b5a2a2399e65a0d7443cc3be58bbdf15e535170689f60749e0c84dc5780d877eb610dd0355f2ce849c0c</string>
-			</dict>
-		</dict>
-	</lib>
+  <anchor x="40" y="740" name="_t.uni0302"/>
+  <outline>
+    <contour>
+      <point x="160" y="761" type="curve"/>
+      <point x="129" y="788"/>
+      <point x="102" y="819"/>
+      <point x="81" y="855" type="curve"/>
+      <point x="38" y="855" type="line"/>
+      <point x="0" y="821"/>
+      <point x="-40" y="789"/>
+      <point x="-83" y="761" type="curve"/>
+      <point x="-82" y="758"/>
+      <point x="-75" y="743"/>
+      <point x="-74" y="740" type="curve"/>
+      <point x="-32" y="757"/>
+      <point x="4" y="775"/>
+      <point x="47" y="802" type="curve"/>
+      <point x="74" y="777"/>
+      <point x="104" y="758"/>
+      <point x="139" y="740" type="curve"/>
+      <point x="142" y="743"/>
+      <point x="157" y="758"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1fcfedf7a14cb740076d1680c1dcd898a9fd3e3d5fa2b5a2a2399e65a0d7443cc3be58bbdf15e535170689f60749e0c84dc5780d877eb610dd0355f2ce849c0c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 524 115</string>
+          <string>vstem -127 243</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

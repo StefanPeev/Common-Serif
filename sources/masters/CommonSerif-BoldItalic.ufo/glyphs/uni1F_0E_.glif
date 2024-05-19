@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F0E" format="2">
-	<unicode hex="1F0E"/>
-	<advance width="730"/>
-	<outline>
-		<component base="Alpha" xOffset="20"/>
-		<component base="uni03130342" xOffset="299" yOffset="28"/>
-	</outline>
-	<anchor name="b.minus-60" x="330" y="-60"/>
-	<anchor name="b.ogonek" x="651" y="10"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=A</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=A</string>
-			<key>com.fontlab.recipe</key>
-			<string>Alpha+uni03130342</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="730"/>
+  <unicode hex="1F0E"/>
+  <anchor x="330" y="-60" name="b.minus-60"/>
+  <anchor x="651" y="10" name="b.ogonek"/>
+  <outline>
+    <component base="Alpha" xOffset="20"/>
+    <component base="uni03130342" xOffset="299" yOffset="28"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  <key>com.fontlab.recipe</key>
+  <string>Alpha+uni03130342</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

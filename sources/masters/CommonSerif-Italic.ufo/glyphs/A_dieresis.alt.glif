@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis.alt" format="2">
-	<advance width="667"/>
-	<outline>
-		<component base="A"/>
-		<contour>
-			<point x="550" y="706" type="curve" smooth="yes"/>
-			<point x="550" y="680"/>
-			<point x="572" y="658"/>
-			<point x="598" y="658" type="curve" smooth="yes"/>
-			<point x="624" y="658"/>
-			<point x="646" y="680"/>
-			<point x="646" y="706" type="curve" smooth="yes"/>
-			<point x="646" y="732"/>
-			<point x="624" y="754"/>
-			<point x="598" y="754" type="curve" smooth="yes"/>
-			<point x="572" y="754"/>
-			<point x="550" y="732"/>
-		</contour>
-		<contour>
-			<point x="313" y="706" type="curve" smooth="yes"/>
-			<point x="313" y="680"/>
-			<point x="335" y="658"/>
-			<point x="361" y="658" type="curve" smooth="yes"/>
-			<point x="387" y="658"/>
-			<point x="409" y="680"/>
-			<point x="409" y="706" type="curve" smooth="yes"/>
-			<point x="409" y="732"/>
-			<point x="387" y="754"/>
-			<point x="361" y="754" type="curve" smooth="yes"/>
-			<point x="335" y="754"/>
-			<point x="313" y="732"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.fontlab.metricsLeft</key>
-			<string>=A</string>
-			<key>com.fontlab.metricsRight</key>
-			<string>=A</string>
-			<key>public.postscript.hints</key>
-			<dict>
-				<key>formatVersion</key>
-				<string>1</string>
-				<key>hintSetList</key>
-				<array>
-					<dict>
-						<key>stems</key>
-						<array>
-							<string>hstem -2 29</string>
-							<string>hstem 241 42</string>
-							<string>hstem 658 -20</string>
-							<string>hstem 658 96</string>
-							<string>vstem 313 96</string>
-							<string>vstem 550 96</string>
-						</array>
-					</dict>
-				</array>
-				<key>id</key>
-				<string>16e61516539bedfcc6026e65a20085a3f3c2b83e1e51831de0ac552e20a31dd8106fe1ae7edf733dbf61d5dba4f11edf0bcda8766d111b77edb3f9f9afe952df</string>
-			</dict>
-		</dict>
-	</lib>
+  <advance width="667"/>
+  <outline>
+    <component base="A"/>
+    <contour>
+      <point x="550" y="706" type="curve" smooth="yes"/>
+      <point x="550" y="680"/>
+      <point x="572" y="658"/>
+      <point x="598" y="658" type="curve" smooth="yes"/>
+      <point x="624" y="658"/>
+      <point x="646" y="680"/>
+      <point x="646" y="706" type="curve" smooth="yes"/>
+      <point x="646" y="732"/>
+      <point x="624" y="754"/>
+      <point x="598" y="754" type="curve" smooth="yes"/>
+      <point x="572" y="754"/>
+      <point x="550" y="732"/>
+    </contour>
+    <contour>
+      <point x="313" y="706" type="curve" smooth="yes"/>
+      <point x="313" y="680"/>
+      <point x="335" y="658"/>
+      <point x="361" y="658" type="curve" smooth="yes"/>
+      <point x="387" y="658"/>
+      <point x="409" y="680"/>
+      <point x="409" y="706" type="curve" smooth="yes"/>
+      <point x="409" y="732"/>
+      <point x="387" y="754"/>
+      <point x="361" y="754" type="curve" smooth="yes"/>
+      <point x="335" y="754"/>
+      <point x="313" y="732"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=A</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>16e61516539bedfcc6026e65a20085a3f3c2b83e1e51831de0ac552e20a31dd8106fe1ae7edf733dbf61d5dba4f11edf0bcda8766d111b77edb3f9f9afe952df</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 29</string>
+          <string>hstem 241 42</string>
+          <string>hstem 658 -20</string>
+          <string>hstem 658 96</string>
+          <string>vstem 313 96</string>
+          <string>vstem 550 96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

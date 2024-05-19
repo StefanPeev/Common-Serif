@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E3" format="2">
-	<unicode hex="01E3"/>
-	<advance width="715"/>
-	<outline>
-		<component base="ae"/>
-		<component base="uni0304" xOffset="565"/>
-	</outline>
-	<anchor name="m.uni0302" x="332" y="644"/>
-	<anchor name="m.uni0316_2" x="327" y="-109"/>
-	<anchor name="b.uni0321_4" x="604" y="30"/>
-	<anchor name="top" x="365" y="610"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>ae+uni0304</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="715"/>
+  <unicode hex="01E3"/>
+  <anchor x="332" y="644" name="m.uni0302"/>
+  <anchor x="327" y="-109" name="m.uni0316_2"/>
+  <anchor x="604" y="30" name="b.uni0321_4"/>
+  <anchor x="365" y="610" name="top"/>
+  <outline>
+    <component base="ae"/>
+    <component base="uni0304" xOffset="565"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ae+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

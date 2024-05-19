@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve.sc" format="2">
-	<advance width="576"/>
-	<outline>
-		<component base="u.sc"/>
-		<component base="uni0306" xOffset="455" yOffset="10"/>
-	</outline>
-	<anchor name="m.uni0316_2" x="292" y="-110"/>
-	<anchor name="b.uni0321_4" x="376" y="16"/>
-	<anchor name="m.uni0327_5" x="293" y="-3"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>u.sc+brevecomb</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="576"/>
+  <anchor x="292" y="-110" name="m.uni0316_2"/>
+  <anchor x="376" y="16" name="b.uni0321_4"/>
+  <anchor x="293" y="-3" name="m.uni0327_5"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="uni0306" xOffset="455" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u.sc+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

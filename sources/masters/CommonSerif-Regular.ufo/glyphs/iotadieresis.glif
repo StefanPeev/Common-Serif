@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresis" format="2">
-	<unicode hex="03CA"/>
-	<advance width="281"/>
-	<outline>
-		<component base="iota"/>
-		<component base="uni0308" xOffset="333" yOffset="10"/>
-	</outline>
-	<anchor name="t.gr" x="123" y="510"/>
-	<lib>
-		<dict>
-			<key>com.fontlab.autolayer</key>
-			<true/>
-			<key>com.fontlab.recipe</key>
-			<string>iota+uni0308</string>
-			<key>public.markColor</key>
-			<string>0.6,0.997,1,1</string>
-		</dict>
-	</lib>
+  <advance width="281"/>
+  <unicode hex="03CA"/>
+  <anchor x="123" y="510" name="t.gr"/>
+  <outline>
+    <component base="iota"/>
+    <component base="uni0308" xOffset="333" yOffset="10"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iota+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>
