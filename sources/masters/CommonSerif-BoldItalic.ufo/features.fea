@@ -548,25 +548,66 @@ feature c2sc {
   sub hyphen by hyphen.sc;
 
 } c2sc;
-feature hlig {
-# GSUB feature: Historical Ligatures
+feature liga {
+# GSUB feature: Standard Ligatures
 # Lookups: 1
 
-  sub c t by c_t;
-  sub s t by s_t;
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+  sub f f by f_f;
+  sub f i by f_i;
+  sub f l by f_l;
 
-} hlig;
+} liga;
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
 
+  sub f f h by f_f_h;
+  sub f f j by f_f_j;
+  sub f f k by f_f_k;
+  sub f f.short by f_f.short;
+  sub f h by f_h;
+  sub f j by f_j;
+  sub f k by f_k;
+  sub f t by f_t;
   sub T h by T_h;
   sub c h by c_h;
   sub c k by c_k;
+  sub c t by c_t;
+  sub s t by s_t;
   sub t t by t_t;
   sub t z by t_z;
+  sub T uni200D h by T_h;
+  sub c uni200D h by c_h;
+  sub c uni200D k by c_k;
+  sub t uni200D t by t_t;
+  sub t uni200D z by t_z;
 
 } dlig;
+feature hlig {
+# GSUB feature: Historical Ligatures
+# Lookups: 1
+
+  sub longs longs i by longs_longs_i;
+  sub longs longs j by longs_longs_j;
+  sub longs longs l by longs_longs_l;
+  sub longs h by longs_h;
+  sub longs i by longs_i;
+  sub longs j by longs_j;
+  sub longs l by longs_l;
+  sub longs longs by longs_longs;
+  sub longs s by longs_s;
+  sub longs t by longs_t;
+
+} hlig;
+feature hist {
+# Historical Forms
+
+#> feature
+  sub s by longs;
+#< feature
+} hist;
 feature onum {
 # GSUB feature: Oldstyle Figures
 # Lookups: 1
@@ -697,40 +738,6 @@ feature ss07 {
   sub [Eng eng.sc Eng.UCStyle.sc Eng.UCStyle] by [Eng.UCStyle Eng.UCStyle.sc eng.sc Eng];
 
 } ss07;
-feature liga {
-# GSUB feature: Standard Ligatures
-# Lookups: 1
-
-  sub T uni200D h by T_h;
-  sub c uni200D h by c_h;
-  sub c uni200D k by c_k;
-  sub f f h by f_f_h;
-  sub f f i by f_f_i;
-  sub f f j by f_f_j;
-  sub f f k by f_f_k;
-  sub f f l by f_f_l;
-  sub f f by f_f;
-  sub f f.short by f_f.short;
-  sub f h by f_h;
-  sub f i by f_i;
-  sub f j by f_j;
-  sub f k by f_k;
-  sub f l by f_l;
-  sub f t by f_t;
-  sub t uni200D t by t_t;
-  sub t uni200D z by t_z;
-  sub longs longs i by longs_longs_i;
-  sub longs longs j by longs_longs_j;
-  sub longs longs l by longs_longs_l;
-  sub longs h by longs_h;
-  sub longs i by longs_i;
-  sub longs j by longs_j;
-  sub longs l by longs_l;
-  sub longs longs by longs_longs;
-  sub longs s by longs_s;
-  sub longs t by longs_t;
-
-} liga;
 feature calt {
 # GSUB feature: Contextual Alternates
 # Lookups: 1
@@ -3949,13 +3956,6 @@ feature ordn {
   sub N o period by uni2116;
 #< feature
 } ordn;
-feature hist {
-# Historical Forms
-
-#> feature
-  sub s by longs;
-#< feature
-} hist;
 feature sinf {
 # Scientific Inferiors
 

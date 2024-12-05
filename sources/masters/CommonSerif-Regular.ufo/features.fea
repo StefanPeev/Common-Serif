@@ -269,10 +269,6 @@
 @latn_j_Rt = [j jcircumflex uni0237];
 @latn_f.sc_Lt = [f.sc];
 #/< kernclasses
-
-#/> tags
-@noexport = [_corner.LClb];
-#/< tags
 #< classes
 
 ###
@@ -922,8 +918,6 @@ feature liga {
   sub f f by f_f;
   sub f i by f_i;
   sub f l by f_l;
-  sub longs t by longs_t;
-  sub s t by s_t;
 
 } liga;
 feature dlig {
@@ -944,19 +938,12 @@ feature dlig {
   sub T h by T_h;
   sub c h by c_h;
   sub c k by c_k;
+  sub c t by c_t;
+  sub s t by s_t;
   sub t t by t_t;
   sub t z by t_z;
   sub t uni200D t by t_t;
   sub t uni200D z by t_z;
-  sub longs longs i by longs_longs_i;
-  sub longs longs j by longs_longs_j;
-  sub longs longs l by longs_longs_l;
-  sub longs h by longs_h;
-  sub longs i by longs_i;
-  sub longs j by longs_j;
-  sub longs l by longs_l;
-  sub longs longs by longs_longs;
-  sub longs s by longs_s;
   sub uni0410 uni0300 by uni04100300;
   sub uni0415 uni0300 by uni0400;
   sub uni0418 uni0300 by uni040D;
@@ -1013,7 +1000,16 @@ feature hlig {
 # GSUB feature: Historical Ligatures
 # Lookups: 1
 
-  sub c t by c_t;
+  sub longs t by longs_t;
+  sub longs longs i by longs_longs_i;
+  sub longs longs j by longs_longs_j;
+  sub longs longs l by longs_longs_l;
+  sub longs h by longs_h;
+  sub longs i by longs_i;
+  sub longs j by longs_j;
+  sub longs l by longs_l;
+  sub longs longs by longs_longs;
+  sub longs s by longs_s;
 
 } hlig;
 feature hist {

@@ -2,9 +2,6 @@
 <glyph name="Alpha" format="2">
   <advance width="710"/>
   <unicode hex="0391"/>
-  <anchor x="340" y="724" name="t.gr"/>
-  <anchor x="310" y="-60" name="b.minus-60"/>
-  <anchor x="631" y="10" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="6" y="-2" type="curve"/>
@@ -78,11 +75,6 @@
       <point x="463" y="283" type="line"/>
     </contour>
   </outline>
-  <guideline angle="277.417" x="471" y="235"/>
-  <guideline angle="78" x="323" y="3"/>
-  <guideline angle="0" x="0" y="740"/>
-  <guideline angle="0" x="0" y="724"/>
-  <guideline angle="90" x="340" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
@@ -93,26 +85,6 @@
   <string>A</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1a469fb29756d3e5dd1f6443b2f560e464cb1764e9c140a2043e64b99d7c23e65aa69bfad7f61f01cdde2ede37bd35d4afc792693c4019ba7843ddfa0b4ed86a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -2 34</string>
-          <string>hstem -2 35</string>
-          <string>hstem 235 48</string>
-          <string>hstem 658 -20</string>
-          <string>vstem 4 705</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

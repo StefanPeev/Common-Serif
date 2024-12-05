@@ -2,11 +2,6 @@
 <glyph name="uni018B" format="2">
   <advance width="641"/>
   <unicode hex="018B"/>
-  <anchor x="363" y="850" name="m.uni0302"/>
-  <anchor x="362" y="-110" name="m.uni0316_2"/>
-  <anchor x="121" y="732" name="m.uni031A_3"/>
-  <anchor x="380" y="0" name="b.uni0327_5"/>
-  <anchor x="484" y="185" name="b.uni0334_6"/>
   <outline>
     <contour>
       <point x="34" y="186" type="curve" smooth="yes"/>
@@ -84,28 +79,6 @@
   <string>=H</string>
   <key>public.markColor</key>
   <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>25e4b4ca9e9097e5c4d8a419614448d2786dce42615a0617af46cb301eada70db78049737b1757b8d770ac9608dcd851ee01f28c945eff74b8b43982cacf237d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -2 42</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 334 42</string>
-          <string>hstem 603 42</string>
-          <string>hstem 649 -20</string>
-          <string>vstem 35 146</string>
-          <string>vstem 388 140</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

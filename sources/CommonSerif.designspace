@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wght" name="weight" default="400" minimum="400" maximum="700">
+  <axis maximum="700" tag="wght" minimum="400" default="400" name="weight">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
  </axes>
  <sources>
-  <source name="Bold" stylename="Bold" filename="masters/CommonSerif-Bold.ufo" familyname="Common Serif">
+  <source filename="masters/CommonSerif-Bold.ufo" familyname="Common Serif" name="Bold" stylename="Bold">
    <location>
     <dimension xvalue="700" name="weight"/>
    </location>
   </source>
-  <source name="Regular" stylename="Regular" filename="masters/CommonSerif-Regular.ufo" familyname="Common Serif">
+  <source filename="masters/CommonSerif-Regular.ufo" familyname="Common Serif" name="Regular" stylename="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -30,27 +30,27 @@
   </dict>
  </lib>
  <instances>
-  <instance name="Regular" stylename="Regular" filename="instances/CommonSerif-Regular.ufo" familyname="Common Serif">
+  <instance filename="instances/CommonSerif-Regular.ufo" familyname="Common Serif" name="Regular" stylename="Regular">
    <location>
     <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance name="News" stylename="News" filename="instances/CommonSerif-News.ufo" familyname="Common Serif">
+  <instance filename="instances/CommonSerif-News.ufo" familyname="Common Serif" name="News" stylename="News">
    <location>
     <dimension xvalue="450" name="weight"/>
    </location>
   </instance>
-  <instance name="Medium" stylename="Medium" filename="instances/CommonSerif-Medium.ufo" familyname="Common Serif">
+  <instance filename="instances/CommonSerif-Medium.ufo" familyname="Common Serif" name="Medium" stylename="Medium">
    <location>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance name="SemiBold" stylename="SemiBold" filename="instances/CommonSerif-SemiBold.ufo" familyname="Common Serif">
+  <instance filename="instances/CommonSerif-SemiBold.ufo" familyname="Common Serif" name="SemiBold" stylename="SemiBold">
    <location>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance name="Bold" stylename="Bold" filename="instances/CommonSerif-Bold.ufo" familyname="Common Serif">
+  <instance filename="instances/CommonSerif-Bold.ufo" familyname="Common Serif" name="Bold" stylename="Bold">
    <location>
     <dimension xvalue="700" name="weight"/>
    </location>

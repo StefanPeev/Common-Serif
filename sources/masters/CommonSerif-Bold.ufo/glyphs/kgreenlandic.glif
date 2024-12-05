@@ -2,9 +2,6 @@
 <glyph name="kgreenlandic" format="2">
   <advance width="600"/>
   <unicode hex="0138"/>
-  <anchor x="235" y="644" name="m.uni0302"/>
-  <anchor x="127" y="-108" name="m.uni0316_2"/>
-  <anchor x="115" y="9" name="b.uni0327_5"/>
   <outline>
     <contour>
       <point x="214.016" y="209.128" type="line"/>
@@ -129,27 +126,6 @@
   <string>=k</string>
   <key>public.markColor</key>
   <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>67b28661669beb48c5c2bd8e2b550291bc67e0e5869c74bcbfc3241cc7f5d2df609acc462ecd6a8ccf922071e163822c54d8a03b18959acd672664cad85a89b4</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -2 410.25</string>
-          <string>hstem 0 384</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 434 -20</string>
-          <string>hstem 444 -20</string>
-          <string>vstem 97 130.96</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>
