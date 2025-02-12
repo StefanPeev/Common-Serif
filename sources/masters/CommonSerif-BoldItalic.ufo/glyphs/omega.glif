@@ -2,6 +2,8 @@
 <glyph name="omega" format="2">
   <advance width="687"/>
   <unicode hex="03C9"/>
+  <anchor x="457" y="500" name="t.gr_LC"/>
+  <anchor x="382" y="-60" name="ypogegrammeni"/>
   <outline>
     <contour>
       <point x="697.499" y="248.214" type="curve" smooth="yes"/>
@@ -57,8 +59,11 @@
       <point x="697.499" y="114.497"/>
     </contour>
   </outline>
+  <guideline angle="256.547" x="411" y="308"/>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="atilde.sc" format="2">
+  <advance width="556"/>
+  <anchor x="283" y="685" name="m.uni0302"/>
+  <anchor x="270" y="-110" name="m.uni0316_2"/>
+  <anchor x="484" y="16" name="b.uni0321_4"/>
+  <anchor x="81" y="-3" name="m.uni0327_5"/>
+  <anchor x="278" y="645" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="tildecomb" xOffset="428"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a.sc+tildecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

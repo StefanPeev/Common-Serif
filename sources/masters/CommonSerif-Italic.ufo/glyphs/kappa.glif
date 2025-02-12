@@ -2,8 +2,6 @@
 <glyph name="kappa" format="2">
   <advance width="506"/>
   <unicode hex="03BA"/>
-  <anchor x="373" y="644" name="m.uni0302"/>
-  <anchor x="226" y="-108" name="m.uni0316_2"/>
   <outline>
     <contour>
       <point x="90" y="17" type="curve" smooth="yes"/>
@@ -87,6 +85,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

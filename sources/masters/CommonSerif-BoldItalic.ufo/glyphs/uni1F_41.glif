@@ -2,20 +2,21 @@
 <glyph name="uni1F41" format="2">
   <advance width="479"/>
   <unicode hex="1F41"/>
+  <anchor x="334" y="500" name="t.gr_LC"/>
   <anchor x="303" y="10" name="b.ogonek"/>
   <anchor x="224" y="-60" name="b.minus-60"/>
   <outline>
     <component base="omicron"/>
-    <component base="uni0314" xOffset="326" yOffset="-10"/>
+    <component base="uni1FFE" xOffset="148.706"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>omicron+uni0314</string>
+  <string>omicron+uni1FFE</string>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

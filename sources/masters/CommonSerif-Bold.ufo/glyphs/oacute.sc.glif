@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute.sc" format="2">
   <advance width="589"/>
-  <anchor x="530" y="436" name="t.uni0315_1"/>
-  <anchor x="293" y="-110" name="m.uni0316_2"/>
-  <anchor x="422" y="44" name="b.uni0321_4"/>
-  <anchor x="291" y="-3" name="b.uni0327_5"/>
-  <anchor x="286" y="215" name="b.uni0334_6"/>
   <outline>
     <component base="o.sc"/>
-    <component base="acutecomb" xOffset="519" yOffset="10"/>
+    <component base="uni0301" xOffset="514" yOffset="10"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>o.sc+acutecomb</string>
+  <string>o.sc+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

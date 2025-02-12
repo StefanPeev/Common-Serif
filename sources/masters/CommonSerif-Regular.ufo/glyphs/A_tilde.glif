@@ -2,21 +2,21 @@
 <glyph name="Atilde" format="2">
   <advance width="695"/>
   <unicode hex="00C3"/>
+  <anchor x="347.5" y="874" name="top"/>
   <anchor x="358" y="620" name="t.ring"/>
   <anchor x="600" y="10" name="b.ogonek"/>
   <anchor x="353" y="-60" name="b.minus-60"/>
   <anchor x="332" y="-60" name="ypogegrammeni"/>
-  <anchor x="353" y="885" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="tildecomb" xOffset="503" yOffset="240"/>
+    <component base="uni0303" xOffset="497.5" yOffset="229"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>A+tildecomb</string>
+  <string>A+uni0303</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F0A" format="2">
-  <advance width="744"/>
+  <advance width="709"/>
   <unicode hex="1F0A"/>
-  <anchor x="344" y="-60" name="b.minus-60"/>
-  <anchor x="665" y="10" name="b.ogonek"/>
+  <anchor x="461.863" y="605" name="t.ring"/>
+  <anchor x="337.863" y="658" name="t.gr"/>
+  <anchor x="630.863" y="10" name="b.ogonek"/>
+  <anchor x="351.863" y="-60" name="ypogegrammeni"/>
   <outline>
-    <component base="Alpha" xOffset="34"/>
-    <component base="uni03130300" xOffset="411" yOffset="28"/>
+    <component base="Alpha" xOffset="-0.137413"/>
+    <component base="uni1FCD" xOffset="-71.0628" yOffset="-19"/>
   </outline>
   <lib>
   <dict>
@@ -17,9 +19,9 @@
   <key>com.fontlab.metricsRight</key>
   <string>=A</string>
   <key>com.fontlab.recipe</key>
-  <string>Alpha+uni03130300</string>
+  <string>=Alpha@50,-2+uni1FCD@120,480</string>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

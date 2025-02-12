@@ -42,13 +42,13 @@
       <point x="472.358" y="521.6" type="curve" smooth="yes"/>
       <point x="471.158" y="521.6"/>
       <point x="469.358" y="521.6"/>
-      <point x="467.558" y="521" type="curve" smooth="yes"/>
+      <point x="467.558" y="521" type="curve"/>
       <point x="463.358" y="520.4"/>
       <point x="458.558" y="519.2"/>
       <point x="452.558" y="516.8" type="curve" smooth="yes"/>
       <point x="449.558" y="515.6"/>
       <point x="445.958" y="514.4"/>
-      <point x="442.358" y="512.6" type="curve" smooth="yes"/>
+      <point x="442.358" y="512.6" type="curve"/>
       <point x="404.558" y="495.8"/>
       <point x="362.558" y="481.4"/>
       <point x="309.158" y="459.8" type="curve"/>
@@ -71,7 +71,7 @@
       <point x="341.558" y="228.8" type="line"/>
       <point x="333.758" y="194"/>
       <point x="318.158" y="182.6"/>
-      <point x="298.958" y="177.8" type="curve" smooth="yes"/>
+      <point x="298.958" y="177.8" type="curve"/>
       <point x="290.558" y="176"/>
       <point x="281.558" y="175.4"/>
       <point x="271.958" y="174.8" type="curve"/>
@@ -150,6 +150,29 @@
   <string>one_nine</string>
   <key>public.markColor</key>
   <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7cfef04ffd42e0465f534e413c00c437db0a9571e5009884f008079c408ec5eb113ee5fa7739dcefa44f56209042aad44f94d191bf5c7bc0d43b21cc884d1a5d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 154.4 20.4</string>
+          <string>hstem 293. 30.</string>
+          <string>hstem 496.4 25.2</string>
+          <string>hstem 511.4 10.2</string>
+          <string>hstem 521.6 -20</string>
+          <string>vstem 265.36 214.8</string>
+          <string>vstem 484.36 78.</string>
+          <string>vstem 664.36 73.2</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

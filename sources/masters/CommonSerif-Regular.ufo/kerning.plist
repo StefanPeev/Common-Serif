@@ -71,8 +71,6 @@
   </dict>
   <key>Rho</key>
   <dict>
-    <key>Tau</key>
-    <integer>20</integer>
     <key>public.kern2.grek_Alpha_Rt</key>
     <integer>-60</integer>
     <key>public.kern2.grek_phi_Rt</key>
@@ -1515,15 +1513,13 @@
   </dict>
   <key>public.kern1.cyrl_uni041E_Lt</key>
   <dict>
-    <key>uni0410</key>
+    <key>public.kern2.cyrl_uni0410_Rt</key>
     <integer>-35</integer>
   </dict>
   <key>public.kern1.cyrl_uni0423_Lt</key>
   <dict>
     <key>uni0410</key>
     <integer>-172</integer>
-    <key>x</key>
-    <integer>-50</integer>
     <key>public.kern2.cyrl_uni0414.loclBGR_Rt</key>
     <integer>-112</integer>
     <key>public.kern2.cyrl_uni0430_Rt</key>
@@ -1561,6 +1557,8 @@
     <integer>-20</integer>
     <key>uni043B.loclBGR</key>
     <integer>-64</integer>
+    <key>public.kern2.cyrl_uni0410_Rt</key>
+    <integer>-70</integer>
     <key>public.kern2.cyrl_uni043E_Rt</key>
     <integer>-10</integer>
   </dict>
@@ -1571,16 +1569,12 @@
   </dict>
   <key>public.kern1.grek_Alpha_Lt</key>
   <dict>
-    <key>Tau</key>
-    <integer>-60</integer>
     <key>chi</key>
     <integer>-40</integer>
-    <key>public.kern2.cyrl_uni0423_Rt</key>
-    <integer>-55</integer>
-    <key>public.kern2.cyrl_uni0443_Rt</key>
-    <integer>-67</integer>
     <key>public.kern2.grek_Alpha_Rt</key>
-    <integer>20</integer>
+    <integer>10</integer>
+    <key>public.kern2.grek_TZ_RT</key>
+    <integer>-40</integer>
     <key>public.kern2.grek_kappa_Rt</key>
     <integer>-44</integer>
     <key>public.kern2.grek_nu_Rt</key>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2157" format="2">
+  <advance width="645"/>
+  <unicode hex="2157"/>
+  <outline>
+    <component base="uni00B3" xOffset="-32.4682" yOffset="-153"/>
+    <component base="fraction" xOffset="317"/>
+    <component base="uni2075" xOffset="281.947" yOffset="-464"/>
+  </outline>
+  <guideline angle="0" x="0" y="657"/>
+  <guideline angle="0" x="0" y="-4"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni00B3</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni2076</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w645</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -138 31</string>
+          <string>hstem 150 65</string>
+          <string>hstem 256 30</string>
+          <string>hstem 465 -20</string>
+          <string>hstem 576 30</string>
+          <string>hstem 601 -20</string>
+          <string>vstem 248 92</string>
+          <string>vstem 266 82</string>
+          <string>vstem 493 90</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

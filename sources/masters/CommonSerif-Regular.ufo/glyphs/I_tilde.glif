@@ -2,12 +2,12 @@
 <glyph name="Itilde" format="2">
   <advance width="299"/>
   <unicode hex="0128"/>
+  <anchor x="149.5" y="874" name="top"/>
   <anchor x="191" y="10" name="b.ogonek"/>
   <anchor x="148" y="-60" name="b.minus-60"/>
-  <anchor x="147" y="885" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="tildecomb" xOffset="297" yOffset="240"/>
+    <component base="uni0303" xOffset="299.5" yOffset="229"/>
   </outline>
   <lib>
   <dict>
@@ -18,7 +18,7 @@
   <key>com.fontlab.metricsRight</key>
   <string>=I</string>
   <key>com.fontlab.recipe</key>
-  <string>I+tildecomb</string>
+  <string>I+uni0303</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

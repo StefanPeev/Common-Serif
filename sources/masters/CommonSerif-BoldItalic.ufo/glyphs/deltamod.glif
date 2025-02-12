@@ -1,29 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="deltamod" format="2">
-  <advance width="479"/>
+  <advance width="488"/>
   <unicode hex="1D5F"/>
-  <anchor x="334" y="500" name="t.uni0302"/>
-  <anchor x="303" y="10" name="b.ogonek"/>
-  <anchor x="224" y="-60" name="b.minus-60"/>
   <outline>
-    <component base="o"/>
-    <component base="macron" xOffset="106.531" yOffset="216"/>
+    <component base="delta"/>
   </outline>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="78" x="228" y="3"/>
-  <guideline angle="90" x="67" y="0"/>
-  <guideline angle="90" x="501" y="0"/>
-  <guideline angle="90" x="284" y="0"/>
-  <guideline angle="0" x="0" y="214"/>
-  <guideline angle="0" x="0" y="439"/>
-  <guideline angle="0" x="0" y="-10"/>
-  <guideline angle="12.0649" x="198" y="223"/>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>delta</string>
   <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
+  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

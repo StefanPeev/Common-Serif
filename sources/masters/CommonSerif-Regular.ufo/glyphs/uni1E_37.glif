@@ -2,18 +2,18 @@
 <glyph name="uni1E37" format="2">
   <advance width="256"/>
   <unicode hex="1E37"/>
-  <anchor x="116" y="740" name="t.uni0302"/>
+  <anchor x="116" y="740" name="top"/>
   <anchor x="256" y="658" name="apostrophe"/>
   <outline>
     <component base="l"/>
-    <component base="dotbelowcomb" xOffset="352"/>
+    <component base="uni0323" xOffset="352"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>l+dotbelowcomb</string>
+  <string>l+uni0323</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

@@ -2,76 +2,26 @@
 <glyph name="uni0200" format="2">
   <advance width="667"/>
   <unicode hex="0200"/>
+  <anchor x="460" y="628" name="t.ring"/>
+  <anchor x="304" y="-60" name="b.minus-60"/>
+  <anchor x="594" y="10" name="b.ogonek"/>
+  <anchor x="332" y="-60" name="ypogegrammeni"/>
   <outline>
     <component base="A"/>
-    <contour>
-      <point x="308" y="775" type="curve" smooth="yes"/>
-      <point x="308" y="770"/>
-      <point x="310" y="766"/>
-      <point x="313" y="763" type="curve"/>
-      <point x="392" y="679" type="line"/>
-      <point x="393" y="677"/>
-      <point x="396" y="677"/>
-      <point x="398" y="677" type="curve" smooth="yes"/>
-      <point x="407" y="677"/>
-      <point x="416" y="686"/>
-      <point x="416" y="693" type="curve" smooth="yes"/>
-      <point x="416" y="695" type="line"/>
-      <point x="379" y="809" type="line" smooth="yes"/>
-      <point x="376" y="818"/>
-      <point x="369" y="821"/>
-      <point x="356" y="821" type="curve" smooth="yes"/>
-      <point x="338" y="821"/>
-      <point x="308" y="801"/>
-    </contour>
-    <contour>
-      <point x="526" y="681" type="curve" smooth="yes"/>
-      <point x="532" y="681"/>
-      <point x="544" y="687"/>
-      <point x="544" y="696" type="curve" smooth="yes"/>
-      <point x="544" y="699" type="line"/>
-      <point x="517" y="793" type="line" smooth="yes"/>
-      <point x="510" y="816"/>
-      <point x="506" y="826"/>
-      <point x="489" y="826" type="curve" smooth="yes"/>
-      <point x="462" y="826"/>
-      <point x="441" y="799"/>
-      <point x="441" y="780" type="curve" smooth="yes"/>
-      <point x="441" y="776"/>
-      <point x="442" y="772"/>
-      <point x="444" y="769" type="curve"/>
-      <point x="519" y="683" type="line"/>
-      <point x="521" y="682"/>
-      <point x="524" y="681"/>
-    </contour>
+    <component base="uni030F" xOffset="494" yOffset="240"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=A</string>
   <key>com.fontlab.metricsRight</key>
   <string>=A</string>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni030F</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7ab2cc358bb6918ff2995bbdd994384f79b804e154d68e19c43cc6eb17dcae394d366443c7a57d94ce30df923c20055d89f15c320319793ae04bb81b6f27881b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -2 29</string>
-          <string>hstem 241 42</string>
-          <string>hstem 658 -20</string>
-          <string>vstem 7 663</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

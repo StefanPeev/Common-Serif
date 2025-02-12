@@ -179,15 +179,15 @@
   </array>
   <key>ccmp</key>
   <array>
-    <string>gravecomb</string>
-    <string>acutecomb</string>
+    <string>uni0300</string>
+    <string>uni0301</string>
     <string>uni0302</string>
-    <string>tildecomb</string>
+    <string>uni0303</string>
     <string>uni0304</string>
     <string>uni0306</string>
     <string>uni0307</string>
     <string>uni0308</string>
-    <string>hookabovecomb</string>
+    <string>uni0309</string>
     <string>uni030A</string>
     <string>uni030B</string>
     <string>uni030C</string>
@@ -762,40 +762,7 @@
     <string>nine</string>
     <string>eight</string>
   </array>
-  <key>locl</key>
-  <array>
-    <string>uni0414</string>
-    <string>uni0416</string>
-    <string>uni0418</string>
-    <string>uni0419</string>
-    <string>uni041A</string>
-    <string>uni041B</string>
-    <string>uni0424</string>
-    <string>uni0432</string>
-    <string>uni0433</string>
-    <string>uni0434</string>
-    <string>uni0436</string>
-    <string>uni0437</string>
-    <string>uni0438</string>
-    <string>uni0439</string>
-    <string>uni043A</string>
-    <string>uni043B</string>
-    <string>uni043D</string>
-    <string>uni043F</string>
-    <string>uni0442</string>
-    <string>uni0444</string>
-    <string>uni0446</string>
-    <string>uni0447</string>
-    <string>uni0448</string>
-    <string>uni0449</string>
-    <string>uni044A</string>
-    <string>uni044B</string>
-    <string>uni044C</string>
-    <string>uni044E</string>
-    <string>uni040D</string>
-    <string>uni045D</string>
-  </array>
-  <key>locl2</key>
+  <key>loclBGR</key>
   <array>
     <string>uni0414.loclBGR</string>
     <string>uni0416.loclBGR</string>
@@ -827,6 +794,39 @@
     <string>uni044E.loclBGR</string>
     <string>uni040D.loclBGR</string>
     <string>uni045D.loclBGR</string>
+  </array>
+  <key>loclcyr</key>
+  <array>
+    <string>uni0414</string>
+    <string>uni0416</string>
+    <string>uni0418</string>
+    <string>uni0419</string>
+    <string>uni041A</string>
+    <string>uni041B</string>
+    <string>uni0424</string>
+    <string>uni0432</string>
+    <string>uni0433</string>
+    <string>uni0434</string>
+    <string>uni0436</string>
+    <string>uni0437</string>
+    <string>uni0438</string>
+    <string>uni0439</string>
+    <string>uni043A</string>
+    <string>uni043B</string>
+    <string>uni043D</string>
+    <string>uni043F</string>
+    <string>uni0442</string>
+    <string>uni0444</string>
+    <string>uni0446</string>
+    <string>uni0447</string>
+    <string>uni0448</string>
+    <string>uni0449</string>
+    <string>uni044A</string>
+    <string>uni044B</string>
+    <string>uni044C</string>
+    <string>uni044E</string>
+    <string>uni040D</string>
+    <string>uni045D</string>
   </array>
   <key>mark</key>
   <array>
@@ -3313,8 +3313,6 @@
   <array>
     <string>uni040E</string>
     <string>uni0423</string>
-    <string>uni0474</string>
-    <string>uni0476</string>
     <string>uni04EE</string>
     <string>uni04F0</string>
     <string>uni04F2</string>
@@ -3440,10 +3438,15 @@
     <string>uni047D</string>
     <string>uni047F</string>
   </array>
+  <key>public.kern1.cyrl_uni0474_Lt</key>
+  <array>
+    <string>uni0474</string>
+    <string>uni0475</string>
+    <string>uni0476</string>
+    <string>uni0477</string>
+  </array>
   <key>public.kern1.cyrl_uni0475_Lt</key>
   <array>
-    <string>uni0475</string>
-    <string>uni0477</string>
   </array>
   <key>public.kern1.grek_Alpha_Lt</key>
   <array>
@@ -4928,7 +4931,6 @@
     <string>Alpha</string>
     <string>Lambda</string>
     <string>uni0394</string>
-    <string>uni04D2</string>
     <string>uni1FB8</string>
     <string>uni1FB9</string>
     <string>uni1FBC</string>
@@ -4956,6 +4958,11 @@
   <array>
     <string>Omega</string>
     <string>uni03A9</string>
+  </array>
+  <key>public.kern2.grek_TZ_RT</key>
+  <array>
+    <string>Tau</string>
+    <string>Zeta</string>
   </array>
   <key>public.kern2.grek_Theta_Rt</key>
   <array>

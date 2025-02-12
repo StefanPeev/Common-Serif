@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik" format="2">
+  <advance width="625"/>
+  <unicode hex="20AE"/>
+  <anchor x="454" y="740" name="t.uni0302"/>
+  <anchor x="314" y="-60" name="b.minus-60"/>
+  <anchor x="327" y="10" name="b.cedilla"/>
+  <outline>
+    <component base="T"/>
+    <contour>
+      <point x="224.835" y="316" type="line"/>
+      <point x="235.835" y="285" type="line"/>
+      <point x="565.835" y="460" type="line"/>
+      <point x="554.835" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="192.951" y="166" type="line"/>
+      <point x="203.951" y="135" type="line"/>
+      <point x="533.951" y="310" type="line"/>
+      <point x="522.951" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>T</string>
+  </dict>
+  </lib>
+</glyph>

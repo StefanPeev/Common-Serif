@@ -2,17 +2,16 @@
 <glyph name="itilde" format="2">
   <advance width="276"/>
   <unicode hex="0129"/>
-  <anchor x="139" y="-108" name="m.uni0316_2"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="tildecomb" xOffset="273"/>
+    <component base="uni0303" xOffset="273"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>dotlessi+tildecomb</string>
+  <string>dotlessi+uni0303</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

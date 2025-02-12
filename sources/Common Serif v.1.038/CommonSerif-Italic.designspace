@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis maximum="700" tag="wght" minimum="400" default="400" name="weight">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source filename="masters/CommonSerif-BoldItalic.ufo" familyname="Common Serif" name="Bold Italic" stylename="Bold Italic">
+   <location>
+    <dimension xvalue="700" name="weight"/>
+   </location>
+  </source>
+  <source filename="masters/CommonSerif-Italic.ufo" familyname="Common Serif" name="Italic" stylename="Italic">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance filename="instances/CommonSerif-Italic.ufo" familyname="Common Serif" name="Italic" stylename="Italic">
+   <location>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </instance>
+  <instance filename="instances/CommonSerif-NewsItalic.ufo" familyname="Common Serif" name="NewsItalic" stylename="News Italic">
+   <location>
+    <dimension xvalue="450" name="weight"/>
+   </location>
+  </instance>
+  <instance filename="instances/CommonSerif-MediumItalic.ufo" familyname="Common Serif" name="MediumItalic" stylename="Medium Italic">
+   <location>
+    <dimension xvalue="500" name="weight"/>
+   </location>
+  </instance>
+  <instance filename="instances/CommonSerif-SemiBoldItalic.ufo" familyname="Common Serif" name="SemiBoldItalic" stylename="SemiBold Italic">
+   <location>
+    <dimension xvalue="600" name="weight"/>
+   </location>
+  </instance>
+  <instance filename="instances/CommonSerif-BoldItalic.ufo" familyname="Common Serif" name="BoldItalic" stylename="Bold Italic">
+   <location>
+    <dimension xvalue="700" name="weight"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

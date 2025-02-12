@@ -4,16 +4,17 @@
   <unicode hex="1ECE"/>
   <anchor x="389" y="10" name="b.ogonek"/>
   <anchor x="338" y="-60" name="b.minus-60"/>
+  <anchor x="691" y="561" name="t.horn"/>
   <outline>
     <component base="O"/>
-    <component base="hookabovecomb" xOffset="569" yOffset="240"/>
+    <component base="uni0309" xOffset="569" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>O+hookabovecomb</string>
+  <string>O+uni0309</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

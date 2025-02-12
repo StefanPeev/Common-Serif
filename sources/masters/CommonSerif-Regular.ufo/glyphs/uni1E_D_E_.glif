@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EDE" format="2">
-  <advance width="701"/>
+  <advance width="700"/>
   <unicode hex="1EDE"/>
-  <anchor x="349" y="-110" name="m.uni0316_2"/>
-  <anchor x="349" y="0" name="m.uni0327_5"/>
+  <anchor x="383" y="10" name="b.ogonek"/>
+  <anchor x="343" y="-60" name="b.minus-60"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="hookabovecomb" xOffset="494" yOffset="240"/>
+    <component base="uni0309" xOffset="503" yOffset="240"/>
   </outline>
   <lib>
   <dict>
@@ -17,7 +17,7 @@
   <key>com.fontlab.metricsRight</key>
   <string>=O</string>
   <key>com.fontlab.recipe</key>
-  <string>Ohorn+hookabovecomb</string>
+  <string>Ohorn+uni0309</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

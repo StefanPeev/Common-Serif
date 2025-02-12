@@ -132,6 +132,14 @@ Latin texts for evaluating typefaces in development.
 | 1E08 | Ḉ |  | Latin Capital Letter C With Cedilla And Acute ≡ 00C7 Ç  0301 ◌́ | Ccedillaacute uni1E08 | 1E09 | ḉ |  | Latin Small Letter C With Cedilla And Acute ≡ 00E7 ç  0301 ◌́  | ccedillaacute uni1E09 | 
 | 0228 | Ȩ |  | Latin Capital Letter E With Cedilla ≡ 0045 E  0327 ◌̧ | Ecedilla uni0228 | 0229 | ȩ |  | Latin Small Letter E With Cedilla ≡ 0065 e  0327 ◌̧ | ecedilla uni0229 | 
 </details>    
+  
+# Main Latin kerning classes  
+## AU AV AW. AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ. UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ. VWŴṼẀẂẄẆṾẈ  
+  
++ **Kerning:** LEFT > **Uppercase glyphs** [A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ]: `**A_kern**` = [A Acyr Agrave Aacute Acircumflex Adieresis Acaron Abreve Atilde Amacron Aring Aogonek Adotaccent Adblgrave Adieresiscyr Abrevecyr Ainvertedbreve Adotbelow Abrevedotbelow Aringbelow Adieresismacron Aringacute]   
++ **Kerning:** RIGHT < **Uppercase glyphs** [U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ]: `**kern_U**` = [U Ugrave Uacute Ucircumflex Udieresis Ucaron Ubreve Umacron Utilde Utildebelow Uring Uogonek Udblgrave Uhungarumlaut Uinvertedbreve Udotbelow Ucircumflexbelow Udieresisbelow Udieresismacron Udieresisacute]   
++ **Kerning:** RIGHT < **Uppercase glyphs** [V W Ŵ Ṽ Ẁ Ẃ Ẅ Ẇ Ṿ Ẉ]: `**kern_VW**` = [V W Wcircumflex Vtilde Wgrave Wacute Wdieresis Wdot Vdotbelow Wdotbelow]   
+  
     
 	
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  

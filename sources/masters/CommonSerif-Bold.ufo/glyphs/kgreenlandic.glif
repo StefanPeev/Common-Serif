@@ -2,6 +2,7 @@
 <glyph name="kgreenlandic" format="2">
   <advance width="600"/>
   <unicode hex="0138"/>
+  <anchor x="280" y="500" name="top"/>
   <outline>
     <contour>
       <point x="214.016" y="209.128" type="line"/>
@@ -126,6 +127,27 @@
   <string>=k</string>
   <key>public.markColor</key>
   <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>faffb67941a255f31ccc8bfccb01cd820b8728b7ab43fe939e2f654a1e674dff92bb5576845c36b81aad19523404f6a8510cd5c0fd02a731899e74d29b3b9522</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 410.25</string>
+          <string>hstem 0 384</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 434 -20</string>
+          <string>hstem 444 -20</string>
+          <string>vstem 97 130.96</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

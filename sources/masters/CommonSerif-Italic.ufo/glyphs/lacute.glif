@@ -3,16 +3,17 @@
   <advance width="266"/>
   <unicode hex="013A"/>
   <anchor x="128" y="-60" name="b.minus-60"/>
+  <anchor x="346" y="658" name="apostrophe"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb" xOffset="298" yOffset="240"/>
+    <component base="uni0301" xOffset="334" yOffset="240"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>l+acutecomb</string>
+  <string>l+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

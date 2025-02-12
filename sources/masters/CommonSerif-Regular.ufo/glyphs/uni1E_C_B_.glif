@@ -2,18 +2,18 @@
 <glyph name="uni1ECB" format="2">
   <advance width="272"/>
   <unicode hex="1ECB"/>
-  <anchor x="137" y="795" name="t.uni0302"/>
+  <anchor x="137" y="795" name="top"/>
   <anchor x="212" y="10" name="b.ogonek"/>
   <outline>
     <component base="i"/>
-    <component base="dotbelowcomb" xOffset="369"/>
+    <component base="uni0323" xOffset="369"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>i+dotbelowcomb</string>
+  <string>i+uni0323</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

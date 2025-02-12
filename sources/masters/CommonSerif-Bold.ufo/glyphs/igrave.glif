@@ -2,17 +2,17 @@
 <glyph name="igrave" format="2">
   <advance width="312"/>
   <unicode hex="00EC"/>
-  <anchor x="134" y="-108" name="m.uni0316_2"/>
+  <anchor x="178" y="-60" name="b.minus-60"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="gravecomb" xOffset="238"/>
+    <component base="uni0300" xOffset="238"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>dotlessi+gravecomb</string>
+  <string>dotlessi+uni0300</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

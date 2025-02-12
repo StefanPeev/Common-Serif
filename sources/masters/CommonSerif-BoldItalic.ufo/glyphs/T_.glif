@@ -2,6 +2,9 @@
 <glyph name="T" format="2">
   <advance width="625"/>
   <unicode hex="0054"/>
+  <anchor x="454" y="740" name="top"/>
+  <anchor x="314" y="-60" name="b.minus-60"/>
+  <anchor x="327" y="10" name="b.cedilla"/>
   <outline>
     <contour>
       <point x="161" y="-2" type="curve"/>
@@ -61,6 +64,7 @@
       <point x="156" y="4"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="-60"/>
   <lib>
   <dict>
   <key>public.postscript.hints</key>

@@ -2,10 +2,11 @@
 <glyph name="upsilondieresistonos" format="2">
   <advance width="455"/>
   <unicode hex="03B0"/>
+  <anchor x="354" y="500" name="t.gr_LC"/>
   <anchor x="224" y="-60" name="b.minus-60"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dieresistonos" xOffset="48"/>
+    <component base="dieresistonos" xOffset="50.0918"/>
   </outline>
   <lib>
   <dict>
@@ -13,6 +14,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>upsilon+dieresistonos</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

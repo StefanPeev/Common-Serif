@@ -2,8 +2,8 @@
 <glyph name="eta" format="2">
   <advance width="560"/>
   <unicode hex="03B7"/>
-  <anchor x="395" y="520" name="t.uni0302"/>
-  <anchor x="143" y="-60" name="b.minus-60"/>
+  <anchor x="395" y="500" name="top"/>
+  <anchor x="180" y="-60" name="ypogegrammeni"/>
   <outline>
     <contour>
       <point x="170" y="310" type="line"/>
@@ -76,6 +76,8 @@
   <guideline angle="77.9885" x="234" y="43"/>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

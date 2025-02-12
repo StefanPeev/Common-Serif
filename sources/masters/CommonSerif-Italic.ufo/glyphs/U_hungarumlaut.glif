@@ -2,75 +2,21 @@
 <glyph name="Uhungarumlaut" format="2">
   <advance width="634"/>
   <unicode hex="0170"/>
+  <anchor x="371" y="0" name="b.ogonek"/>
+  <anchor x="301" y="-60" name="b.minus-60"/>
+  <anchor x="785.213" y="617" name="t.horn"/>
   <outline>
     <component base="U"/>
-    <contour>
-      <point x="644" y="830" type="curve" smooth="yes"/>
-      <point x="631.105" y="830"/>
-      <point x="622.68" y="822.849"/>
-      <point x="615" y="813" type="curve" smooth="yes"/>
-      <point x="530" y="704" type="line" smooth="yes"/>
-      <point x="529.13" y="702.885"/>
-      <point x="528" y="699"/>
-      <point x="528" y="696" type="curve" smooth="yes"/>
-      <point x="528" y="690"/>
-      <point x="534" y="686"/>
-      <point x="539" y="686" type="curve" smooth="yes"/>
-      <point x="544.349" y="686"/>
-      <point x="547.803" y="687.964"/>
-      <point x="552" y="691" type="curve" smooth="yes"/>
-      <point x="664" y="772" type="line" smooth="yes"/>
-      <point x="673.223" y="778.67"/>
-      <point x="677" y="788.636"/>
-      <point x="677" y="799" type="curve" smooth="yes"/>
-      <point x="677" y="815"/>
-      <point x="668" y="830"/>
-    </contour>
-    <contour>
-      <point x="517" y="835" type="curve" smooth="yes"/>
-      <point x="504.922" y="835"/>
-      <point x="495.634" y="833.452"/>
-      <point x="488" y="823" type="curve" smooth="yes"/>
-      <point x="404" y="708" type="line" smooth="yes"/>
-      <point x="403.166" y="706.858"/>
-      <point x="402" y="704"/>
-      <point x="402" y="701" type="curve" smooth="yes"/>
-      <point x="402" y="695.038"/>
-      <point x="406.987" y="690"/>
-      <point x="413" y="690" type="curve" smooth="yes"/>
-      <point x="415" y="690"/>
-      <point x="418.476" y="690.096"/>
-      <point x="421" y="692" type="curve" smooth="yes"/>
-      <point x="535" y="778" type="line" smooth="yes"/>
-      <point x="543.592" y="784.482"/>
-      <point x="548" y="794.362"/>
-      <point x="548" y="805" type="curve" smooth="yes"/>
-      <point x="548" y="823"/>
-      <point x="531" y="835"/>
-    </contour>
+    <component base="uni030B" xOffset="506" yOffset="240"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni030B</string>
   <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>af044152b9757354085d72e778969bb9260dee5d1959acb60996c4cf3dbe5905918eab861cab4d4963737e8ece47feaf6364a3988e26fca4381ec49a32f5996a</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 41</string>
-          <string>hstem 618 29</string>
-          <string>vstem 124 79</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

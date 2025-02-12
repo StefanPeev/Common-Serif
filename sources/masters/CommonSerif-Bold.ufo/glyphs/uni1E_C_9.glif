@@ -2,18 +2,17 @@
 <glyph name="uni1EC9" format="2">
   <advance width="312"/>
   <unicode hex="1EC9"/>
-  <anchor x="136" y="500" name="t.uni0302"/>
-  <anchor x="134" y="-108" name="m.uni0316_2"/>
+  <anchor x="178" y="-60" name="b.minus-60"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="hookabovecomb" xOffset="302.262"/>
+    <component base="uni0309" xOffset="296"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>dotlessi+hookabovecomb</string>
+  <string>dotlessi+uni0309</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

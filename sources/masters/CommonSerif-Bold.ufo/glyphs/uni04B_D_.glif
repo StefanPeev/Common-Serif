@@ -55,7 +55,7 @@
       <point x="5" y="323"/>
       <point x="5" y="317" type="curve" smooth="yes"/>
       <point x="5" y="265"/>
-      <point x="44.0138" y="245.109"/>
+      <point x="44.0138" y="245.11"/>
       <point x="100" y="238" type="curve" smooth="yes"/>
       <point x="107.015" y="237.109"/>
       <point x="114" y="236"/>
@@ -95,6 +95,28 @@
   <dict>
   <key>public.markColor</key>
   <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8a18ca451c0800cce8d4f50d4d7be66b43bbcd88aed9a114eec4166904ebd76475d49dd900966610186ebba3147d9f13d741088030e0941c41e2729828038bac</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -12 56</string>
+          <string>hstem 235 47</string>
+          <string>hstem 238 190</string>
+          <string>hstem 403 42</string>
+          <string>vstem 5 79</string>
+          <string>vstem 120 119</string>
+          <string>vstem 396 122</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

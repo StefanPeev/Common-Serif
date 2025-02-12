@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03060301" format="2">
+  <anchor x="-197" y="500" name="_top"/>
   <outline>
     <contour>
       <point x="-287" y="653" type="curve"/>
@@ -19,7 +20,7 @@
     </contour>
     <contour>
       <point x="-177" y="737" type="curve"/>
-      <point x="-226" y="654" type="line" smooth="yes"/>
+      <point x="-226" y="654" type="line"/>
       <point x="-228" y="650"/>
       <point x="-229" y="647"/>
       <point x="-229" y="642" type="curve" smooth="yes"/>
@@ -42,6 +43,24 @@
   <dict>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b8e53cbfbb74dbb563ff4860bacfa079a90e9b396e40ca617bb2e1d80988ad5e18d1e866b3bb7a5f9ba4853f8e04f468b2671a338d24d71a237f655a6144298d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 514 74</string>
+          <string>hstem 657 -20</string>
+          <string>vstem -320 35</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

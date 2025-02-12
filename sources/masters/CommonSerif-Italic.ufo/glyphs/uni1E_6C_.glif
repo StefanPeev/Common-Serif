@@ -2,18 +2,18 @@
 <glyph name="uni1E6C" format="2">
   <advance width="544"/>
   <unicode hex="1E6C"/>
-  <anchor x="434" y="740" name="t.uni0302"/>
+  <anchor x="434" y="740" name="top"/>
   <anchor x="300" y="10" name="b.cedilla"/>
   <outline>
     <component base="T"/>
-    <component base="dotbelowcomb" xOffset="506"/>
+    <component base="uni0323" xOffset="506"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>T+dotbelowcomb</string>
+  <string>T+uni0323</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

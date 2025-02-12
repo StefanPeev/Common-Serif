@@ -6,11 +6,11 @@
   <dict>
     <key>Tau</key>
     <integer>20</integer>
-    <key>public.kern2.Alpha2</key>
+    <key>public.kern2.grek_Alpha2_Rt</key>
     <integer>-60</integer>
-    <key>public.kern2.phi</key>
+    <key>public.kern2.grek_phi_Rt</key>
     <integer>-30</integer>
-    <key>public.kern2.rho2</key>
+    <key>public.kern2.grek_rho2_Rt</key>
     <integer>-20</integer>
   </dict>
   <key>ampersand.alt</key>
@@ -90,25 +90,6 @@
     <key>public.kern2.v</key>
     <integer>-100</integer>
   </dict>
-  <key>public.kern1.Alpha</key>
-  <dict>
-    <key>Tau</key>
-    <integer>-60</integer>
-    <key>chi</key>
-    <integer>-40</integer>
-    <key>public.kern2.Alpha2</key>
-    <integer>20</integer>
-    <key>public.kern2.Upsilon2</key>
-    <integer>-60</integer>
-    <key>public.kern2.eta</key>
-    <integer>-44</integer>
-    <key>public.kern2.nu</key>
-    <integer>-60</integer>
-    <key>public.kern2.phi</key>
-    <integer>-27</integer>
-    <key>public.kern2.rho2</key>
-    <integer>-16</integer>
-  </dict>
   <key>public.kern1.Amacron</key>
   <dict>
     <key>u</key>
@@ -135,23 +116,6 @@
     <integer>-73</integer>
     <key>public.kern2.v</key>
     <integer>-100</integer>
-  </dict>
-  <key>public.kern1.Chi</key>
-  <dict>
-    <key>Tau</key>
-    <integer>20</integer>
-    <key>chi</key>
-    <integer>-14</integer>
-    <key>public.kern2.Upsilon2</key>
-    <integer>20</integer>
-    <key>public.kern2.eta</key>
-    <integer>-60</integer>
-    <key>public.kern2.nu</key>
-    <integer>-16</integer>
-    <key>public.kern2.phi</key>
-    <integer>-51</integer>
-    <key>public.kern2.rho2</key>
-    <integer>-31</integer>
   </dict>
   <key>public.kern1.D</key>
   <dict>
@@ -251,11 +215,6 @@
     <key>public.kern2.Y2</key>
     <integer>-49</integer>
   </dict>
-  <key>public.kern1.Phi</key>
-  <dict>
-    <key>public.kern2.Alpha2</key>
-    <integer>-8</integer>
-  </dict>
   <key>public.kern1.T</key>
   <dict>
     <key>u</key>
@@ -289,25 +248,6 @@
     <key>public.kern2.v</key>
     <integer>-49</integer>
   </dict>
-  <key>public.kern1.Tau</key>
-  <dict>
-    <key>Tau</key>
-    <integer>30</integer>
-    <key>chi</key>
-    <integer>-23</integer>
-    <key>public.kern2.Alpha2</key>
-    <integer>-35</integer>
-    <key>public.kern2.Upsilon2</key>
-    <integer>30</integer>
-    <key>public.kern2.eta</key>
-    <integer>-20</integer>
-    <key>public.kern2.nu</key>
-    <integer>-24</integer>
-    <key>public.kern2.phi</key>
-    <integer>-40</integer>
-    <key>public.kern2.rho2</key>
-    <integer>-20</integer>
-  </dict>
   <key>public.kern1.U</key>
   <dict>
     <key>public.kern2.A2</key>
@@ -322,25 +262,6 @@
     <integer>24</integer>
     <key>public.kern2.comma2</key>
     <integer>-24</integer>
-  </dict>
-  <key>public.kern1.Upsilon</key>
-  <dict>
-    <key>Tau</key>
-    <integer>20</integer>
-    <key>chi</key>
-    <integer>-16</integer>
-    <key>public.kern2.Alpha2</key>
-    <integer>-60</integer>
-    <key>public.kern2.eta</key>
-    <integer>-30</integer>
-    <key>public.kern2.nu</key>
-    <integer>-17</integer>
-    <key>public.kern2.phi</key>
-    <integer>-50</integer>
-    <key>public.kern2.rho2</key>
-    <integer>-30</integer>
-    <key>public.kern2.uni03BC</key>
-    <integer>-20</integer>
   </dict>
   <key>public.kern1.V</key>
   <dict>
@@ -585,14 +506,104 @@
     <key>public.kern2.a.sc2</key>
     <integer>-35</integer>
   </dict>
-  <key>public.kern1.g</key>
+  <key>public.kern1.greek_Alpha_Lt</key>
   <dict>
-    <key>x</key>
-    <integer>10</integer>
-    <key>public.kern2.V2</key>
+    <key>Tau</key>
+    <integer>-60</integer>
+    <key>chi</key>
+    <integer>-40</integer>
+    <key>public.kern2.greek_Upsilon2_Rt</key>
+    <integer>-60</integer>
+    <key>public.kern2.greek_eta_Rt</key>
+    <integer>-44</integer>
+    <key>public.kern2.grek_Alpha2_Rt</key>
+    <integer>20</integer>
+    <key>public.kern2.grek_nu_Rt</key>
+    <integer>-60</integer>
+    <key>public.kern2.grek_phi_Rt</key>
+    <integer>-27</integer>
+    <key>public.kern2.grek_rho2_Rt</key>
+    <integer>-16</integer>
+  </dict>
+  <key>public.kern1.greek_Phi_Lt</key>
+  <dict>
+    <key>public.kern2.grek_Alpha2_Rt</key>
+    <integer>-8</integer>
+  </dict>
+  <key>public.kern1.greek_rho_Lt</key>
+  <dict>
+    <key>Tau</key>
+    <integer>-49</integer>
+    <key>public.kern2.greek_Upsilon2_Rt</key>
+    <integer>-40</integer>
+    <key>public.kern2.greek_eta_Rt</key>
+    <integer>-5</integer>
+    <key>public.kern2.grek_Alpha2_Rt</key>
+    <integer>-20</integer>
+    <key>public.kern2.grek_nu_Rt</key>
+    <integer>-20</integer>
+  </dict>
+  <key>public.kern1.grek_Chi_Lt</key>
+  <dict>
+    <key>Tau</key>
+    <integer>20</integer>
+    <key>chi</key>
+    <integer>-14</integer>
+    <key>public.kern2.greek_Upsilon2_Rt</key>
+    <integer>20</integer>
+    <key>public.kern2.greek_eta_Rt</key>
+    <integer>-60</integer>
+    <key>public.kern2.grek_nu_Rt</key>
+    <integer>-16</integer>
+    <key>public.kern2.grek_phi_Rt</key>
+    <integer>-51</integer>
+    <key>public.kern2.grek_rho2_Rt</key>
+    <integer>-31</integer>
+  </dict>
+  <key>public.kern1.grek_Tau_Lt</key>
+  <dict>
+    <key>Tau</key>
+    <integer>30</integer>
+    <key>chi</key>
+    <integer>-23</integer>
+    <key>public.kern2.greek_Upsilon2_Rt</key>
+    <integer>30</integer>
+    <key>public.kern2.greek_eta_Rt</key>
+    <integer>-20</integer>
+    <key>public.kern2.grek_Alpha2_Rt</key>
+    <integer>-35</integer>
+    <key>public.kern2.grek_nu_Rt</key>
     <integer>-24</integer>
-    <key>public.kern2.Y2</key>
-    <integer>-12</integer>
+    <key>public.kern2.grek_phi_Rt</key>
+    <integer>-40</integer>
+    <key>public.kern2.grek_rho2_Rt</key>
+    <integer>-20</integer>
+  </dict>
+  <key>public.kern1.grek_Upsilon_Lt</key>
+  <dict>
+    <key>Tau</key>
+    <integer>20</integer>
+    <key>chi</key>
+    <integer>-16</integer>
+    <key>public.kern2.greek_eta_Rt</key>
+    <integer>-30</integer>
+    <key>public.kern2.grek_Alpha2_Rt</key>
+    <integer>-60</integer>
+    <key>public.kern2.grek_nu_Rt</key>
+    <integer>-17</integer>
+    <key>public.kern2.grek_phi_Rt</key>
+    <integer>-50</integer>
+    <key>public.kern2.grek_rho2_Rt</key>
+    <integer>-30</integer>
+    <key>public.kern2.grek_uni03BC_Rt</key>
+    <integer>-20</integer>
+  </dict>
+  <key>public.kern1.grek_zeta_Lt</key>
+  <dict>
+    <key>public.kern2.grek_phi_Rt</key>
+    <integer>-20</integer>
+    <key>public.kern2.grek_rho2_Rt</key>
+    <integer>-10</integer>
   </dict>
   <key>public.kern1.hyphen</key>
   <dict>
@@ -623,28 +634,16 @@
     <key>public.kern2.c.sc</key>
     <integer>-35</integer>
   </dict>
-  <key>public.kern1.parenleft</key>
+  <key>public.kern1.latn_g_Lt</key>
   <dict>
-    <key>public.kern2.A2</key>
+    <key>x</key>
+    <integer>10</integer>
+    <key>public.kern2.V2</key>
     <integer>-24</integer>
-    <key>public.kern2.C</key>
-    <integer>-10</integer>
-    <key>public.kern2.J</key>
-    <integer>73</integer>
-    <key>public.kern2.U2</key>
-    <integer>12</integer>
-    <key>public.kern2.a</key>
+    <key>public.kern2.Y2</key>
     <integer>-12</integer>
-    <key>public.kern2.b2</key>
-    <integer>12</integer>
-    <key>public.kern2.c</key>
-    <integer>-17</integer>
-    <key>public.kern2.plus</key>
-    <integer>-37</integer>
-    <key>public.kern2.v</key>
-    <integer>-17</integer>
   </dict>
-  <key>public.kern1.r</key>
+  <key>public.kern1.latn_r_Lt</key>
   <dict>
     <key>x</key>
     <integer>10</integer>
@@ -667,18 +666,26 @@
     <key>public.kern2.v</key>
     <integer>15</integer>
   </dict>
-  <key>public.kern1.rho</key>
+  <key>public.kern1.parenleft</key>
   <dict>
-    <key>Tau</key>
-    <integer>-49</integer>
-    <key>public.kern2.Alpha2</key>
-    <integer>-20</integer>
-    <key>public.kern2.Upsilon2</key>
-    <integer>-40</integer>
-    <key>public.kern2.eta</key>
-    <integer>-5</integer>
-    <key>public.kern2.nu</key>
-    <integer>-20</integer>
+    <key>public.kern2.A2</key>
+    <integer>-24</integer>
+    <key>public.kern2.C</key>
+    <integer>-10</integer>
+    <key>public.kern2.J</key>
+    <integer>73</integer>
+    <key>public.kern2.U2</key>
+    <integer>12</integer>
+    <key>public.kern2.a</key>
+    <integer>-12</integer>
+    <key>public.kern2.b2</key>
+    <integer>12</integer>
+    <key>public.kern2.c</key>
+    <integer>-17</integer>
+    <key>public.kern2.plus</key>
+    <integer>-37</integer>
+    <key>public.kern2.v</key>
+    <integer>-17</integer>
   </dict>
   <key>public.kern1.t.sc</key>
   <dict>
@@ -702,8 +709,6 @@
   <dict>
     <key>uni0410</key>
     <integer>-100</integer>
-    <key>x</key>
-    <integer>-50</integer>
     <key>public.kern2.uni0430</key>
     <integer>-40</integer>
     <key>public.kern2.uni0435_2</key>
@@ -744,13 +749,6 @@
   <dict>
     <key>public.kern2.uni201F_2</key>
     <integer>-73</integer>
-  </dict>
-  <key>public.kern1.zeta</key>
-  <dict>
-    <key>public.kern2.phi</key>
-    <integer>-20</integer>
-    <key>public.kern2.rho2</key>
-    <integer>-10</integer>
   </dict>
 </dict>
 </plist>

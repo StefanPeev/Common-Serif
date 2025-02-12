@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brackethalfbottomleft" format="2">
+  <advance width="356"/>
+  <unicode hex="2E24"/>
+  <outline>
+    <contour>
+      <point x="248" y="704" type="line"/>
+      <point x="36" y="704" type="line"/>
+      <point x="30" y="698"/>
+      <point x="30" y="680"/>
+      <point x="36" y="674" type="curve"/>
+      <point x="174" y="663"/>
+      <point x="181" y="648"/>
+      <point x="181" y="561" type="curve" smooth="yes"/>
+      <point x="181" y="250.238" type="line"/>
+      <point x="248" y="250.238" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>bracketleft</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w356m248,704l36,704c30,698 30,680 36,674c174,663 181,648 181,561l181,250.24l248,250.24</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 271.24 -21</string>
+          <string>hstem 674 30</string>
+          <string>vstem 181 67</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

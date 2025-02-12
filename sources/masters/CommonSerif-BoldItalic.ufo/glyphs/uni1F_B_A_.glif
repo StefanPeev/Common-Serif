@@ -2,11 +2,12 @@
 <glyph name="uni1FBA" format="2">
   <advance width="710"/>
   <unicode hex="1FBA"/>
-  <anchor x="310" y="-60" name="b.minus-60"/>
+  <anchor x="462" y="605" name="t.ring"/>
   <anchor x="631" y="10" name="b.ogonek"/>
+  <anchor x="352" y="-60" name="ypogegrammeni"/>
   <outline>
     <component base="Alpha"/>
-    <component base="uni0313.gr" xOffset="302" yOffset="28"/>
+    <component base="uni0313.gr" xOffset="300" yOffset="-38"/>
   </outline>
   <lib>
   <dict>
@@ -15,7 +16,7 @@
   <key>com.fontlab.recipe</key>
   <string>Alpha+uni0313.gr</string>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

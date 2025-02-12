@@ -2,18 +2,18 @@
 <glyph name="Ntilde" format="2">
   <advance width="699"/>
   <unicode hex="00D1"/>
+  <anchor x="349.5" y="874" name="top"/>
   <anchor x="370" y="-60" name="b.minus-60"/>
-  <anchor x="369" y="885" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="tildecomb" xOffset="519" yOffset="240"/>
+    <component base="uni0303" xOffset="499.5" yOffset="229"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>N+tildecomb</string>
+  <string>N+uni0303</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

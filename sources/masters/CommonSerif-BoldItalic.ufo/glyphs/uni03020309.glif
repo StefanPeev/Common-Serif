@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni03020309" format="2">
+  <anchor x="-248" y="500" name="_top"/>
   <outline>
     <contour>
       <point x="-200" y="653" type="curve"/>
@@ -61,10 +62,28 @@
       <point x="28" y="596"/>
     </contour>
   </outline>
+  <guideline angle="90" x="-248" y="0"/>
   <lib>
   <dict>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b53fc6187012f5f5fbcc43900492540d218f66a9e0a51600d64f045218cf65e08c4a60e22b7c781b80732c4f5452476747e456b2b157930eab7a1ecd965b876c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 510 153</string>
+          <string>vstem -317 263</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

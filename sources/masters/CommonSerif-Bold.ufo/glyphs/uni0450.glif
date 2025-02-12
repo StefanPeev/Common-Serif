@@ -7,14 +7,14 @@
   <anchor x="241" y="0" name="b.cedilla"/>
   <outline>
     <component base="uni0435"/>
-    <component base="gravecomb" xOffset="343"/>
+    <component base="uni0300" xOffset="343"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>uni0435+gravecomb</string>
+  <string>uni0435+uni0300</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

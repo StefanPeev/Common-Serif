@@ -2,12 +2,9 @@
 <glyph name="uni040C" format="2">
   <advance width="606"/>
   <unicode hex="040C"/>
-  <anchor x="342" y="-110" name="m.uni0316_2"/>
-  <anchor x="579" y="722" name="m.uni031A_3"/>
-  <anchor x="148" y="-1" name="m.uni0327_5"/>
   <outline>
     <component base="uni041A"/>
-    <component base="acutecomb" xOffset="580" yOffset="240"/>
+    <component base="uni0301" xOffset="572" yOffset="240"/>
   </outline>
   <lib>
   <dict>
@@ -16,7 +13,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=H</string>
   <key>com.fontlab.recipe</key>
-  <string>uni041A+acutecomb</string>
+  <string>uni041A+uni0301</string>
   <key>public.markColor</key>
   <string>0.6,0.997,1,1</string>
   </dict>

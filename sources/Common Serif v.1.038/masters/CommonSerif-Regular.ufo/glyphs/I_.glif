@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+  <advance width="299"/>
+  <unicode hex="0049"/>
+  <anchor x="148" y="740" name="t.uni0302"/>
+  <anchor x="191" y="10" name="b.ogonek"/>
+  <anchor x="148" y="-60" name="b.minus-60"/>
+  <outline>
+    <contour>
+      <point x="106" y="100" type="line"/>
+      <point x="192" y="100" type="line"/>
+      <point x="192" y="545" type="line"/>
+      <point x="106" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="120" type="line"/>
+      <point x="106" y="45"/>
+      <point x="97" y="34"/>
+      <point x="19" y="31" type="curve"/>
+      <point x="13" y="25"/>
+      <point x="13" y="4"/>
+      <point x="19" y="-2" type="curve"/>
+      <point x="86" y="-1"/>
+      <point x="133" y="0"/>
+      <point x="159" y="0" type="curve"/>
+      <point x="159" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="0" type="line"/>
+      <point x="165" y="0"/>
+      <point x="214" y="-1"/>
+      <point x="280" y="-2" type="curve"/>
+      <point x="286" y="4"/>
+      <point x="287" y="25"/>
+      <point x="280" y="31" type="curve"/>
+      <point x="202" y="34"/>
+      <point x="192" y="45"/>
+      <point x="192" y="120" type="curve"/>
+      <point x="139" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="525" type="curve"/>
+      <point x="159" y="525" type="line"/>
+      <point x="159" y="645" type="line"/>
+      <point x="134" y="645"/>
+      <point x="86" y="646"/>
+      <point x="19" y="647" type="curve"/>
+      <point x="13" y="641"/>
+      <point x="13" y="620"/>
+      <point x="19" y="614" type="curve"/>
+      <point x="97" y="611"/>
+      <point x="106" y="600"/>
+    </contour>
+    <contour>
+      <point x="139" y="525" type="line"/>
+      <point x="192" y="525" type="line"/>
+      <point x="192" y="600"/>
+      <point x="202" y="611"/>
+      <point x="280" y="614" type="curve"/>
+      <point x="286" y="620"/>
+      <point x="286" y="641"/>
+      <point x="280" y="647" type="curve"/>
+      <point x="217" y="646"/>
+      <point x="169" y="645"/>
+      <point x="139" y="645" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ed90b93572cb599f9173754de9a4129efccd8c471720cccdacbd01ae967f2c009817b427e4a70310e10b7bcc23763d2948a2456d34670ec126f38a8de40ebee4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 31</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 614 33</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 106 86</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
