@@ -65,3 +65,22 @@ Anchors for the Latin Script
 | x | <li>top</li> | <li>b.minus-60</li> | | 
 | y | <li>top</li> | <li>b.minus-60</li> | | 
 | z | <li>top</li> | <li>b.minus-60</li> | | 
+| AE | <li>top</li> | | | 
+| Ð | <li>top</li> | <li>b.minus-60</li> | | 
+| Ø | <li>top</li> | <li>b.minus-60</li> | | 
+| Þ | <li>top</li> | <li>b.minus-60</li> | | 
+| ae | <li>top</li> | | | 
+| ø | <li>top</li> | | | 
+| þ | <li>top</li> | | | 
+| ı | <li>top</li> | <li>b.minus-60</li> | | 
+| ĸ | <li>top</li> | | | 
+| Ŋ | <li>top</li> | | | 
+| ŋ | <li>top</li> | | | 
+| OE | <li>top</li> | | | 
+| oe | <li>top</li> | | | 
+| ſ | <li>top</li> | | | 
+| Ə | <li>top</li> | | | 
+| Ɩ | <li>top</li> | <li>b.minus-60</li> | | 
+| ȷ | <li>top</li> | | | 
+| ̀ (uni0300) | <li>top</li> | | | 
+| ́ (uni0301) | <li>top</li> | | | 
