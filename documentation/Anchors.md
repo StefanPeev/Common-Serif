@@ -13,4 +13,4 @@ Anchors for the Latin Script
 
 | Glyph | Top Anchors | Bottom Anchors | Other Anchors |    
 |:---- |:---- |:---- |:---- | 
-| A | top t.ring | b.ogonek b.minus-60 ypogegrammeni | 
+| A | <li>top</li> <li>t.ring</li> | b.ogonek b.minus-60 ypogegrammeni | 
