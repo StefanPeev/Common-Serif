@@ -1,4 +1,3 @@
-
 # Latin Proofs  
   
 ##  Table of content
