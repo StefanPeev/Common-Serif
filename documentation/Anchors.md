@@ -13,7 +13,7 @@ Anchors for the Latin Script
 
 | Glyphs | Top Anchors | Bottom Anchors | Other Anchors | Compound Glyphs|   
 |:---- |:---- |:---- |:---- |:---- |  
-| A | <li>top</li> <li>t.ring</li> | <li>b.ogonek</li> <li>b.minus-60</li> <li>ypogegrammeni</li> | À Á Â Ã Ä Å Ā Ă Ą | 
+| A | <li>top</li> <li>t.ring</li> | <li>b.ogonek</li> <li>b.minus-60</li> <li>ypogegrammeni</li> | | À Á Â Ã Ä Å Ā Ă Ą | 
 | B | <li>top</li> | <li>b.minus-60</li> | | | 
 | C | <li>top</li> | <li>b.minus-60</li> <li>b.cedilla</li> | | Ç Ć Ĉ Ċ Č | 
 | D | <li>top</li> | <li>b.minus-60</li> | | Ď | 
@@ -82,5 +82,31 @@ Anchors for the Latin Script
 | Ə | <li>top</li> | | | | 
 | Ɩ | <li>top</li> | <li>b.minus-60</li> | | | 
 | ȷ | <li>top</li> | | | | 
-| ̀  (uni0300) | <li>top</li> | | | | 
-| ́  (uni0301) | <li>top</li> | | | | 
+| ̀  (uni0300) | <li>_top</li> | | | | 
+| ́  (uni0301) | <li>_top</li> | | | | 
+| ̂ (uni0302) | <li>_top</li> | | | | 
+| ̃  (uni0303) | <li>_top</li> | | | | 
+| ̃  (uni0304) | <li>_top</li> <li>_t.gr_UC</li> <li>_t.gr_LC</li> | | | | 
+| ̅ (uni0305) | <li>_top</li> | | | | 
+| ̆ (uni0306) | <li>_top</li> | | | | 
+| ̇  (uni0307) | <li>_top</li> | | | | 
+| ̈ (uni0308) | <li>_top</li> <li>_t.gr_UC</li> <li>_t.gr_LC</li> | | | | 
+| ̉  (uni0309) | <li>_top</li> | | | | 
+| ̊ (uni030A) | <li>_t.ring</li> | | | | 
+| ̋ (uni030B) | <li>_top</li> | | | | 
+| ̌ (uni030C) | <li>_top</li> | | | | 
+| ̍ (uni030D) | <li>_top</li> | | | | 
+| ̎ (uni030E) | <li>_top</li> | | | | 
+| ̏ (uni030F) | <li>_top</li> | | | | 
+| ̐ (uni0310) | <li>_top</li> | | | | 
+| ̑ (uni0311) | <li>_top</li> | | | | 
+| ̒ (uni0312) | <li>_top</li> | | | | 
+| ̓ (uni0313) | <li>_top</li> | | | | 
+| ̔ (uni0314) | <li>_top</li> | | | | 
+| ̕ (uni0315) | <li>_top</li> | | | | 
+| ̖  (uni0316) | <li>_b.minus-60</li> | | | | 
+| ̗  (uni0317) | <li>_b.minus-60</li> | | | | 
+| ̘  (uni0318) | <li>_b.minus-60</li> | | | | 
+| ̙  (uni0319) | <li>_b.minus-60</li> | | | | 
+| ̚ (uni031A) | <li>_top</li> | | | | 
+| ̛ (uni031B) | | | <li>_top</li> | | 
