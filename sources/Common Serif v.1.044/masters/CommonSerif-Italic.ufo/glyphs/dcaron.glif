@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="592"/>
+  <unicode hex="010F"/>
+  <anchor x="426" y="740" name="top"/>
+  <anchor x="219" y="-60" name="b.minus-60"/>
+  <anchor x="579" y="658" name="apostrophe"/>
+  <outline>
+    <component base="d"/>
+    <component base="quoteright" xOffset="394.803" yOffset="19"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  <key>com.fontlab.recipe</key>
+  <string>=d+quoteright@560,520</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

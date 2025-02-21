@@ -4,6 +4,13 @@
   <unicode hex="20A0"/>
   <outline>
     <contour>
+      <point x="36" y="397" type="curve" smooth="yes"/>
+      <point x="36" y="267"/>
+      <point x="101" y="157"/>
+      <point x="316" y="157" type="curve" smooth="yes"/>
+      <point x="326" y="157"/>
+      <point x="337" y="157"/>
+      <point x="347" y="158" type="curve"/>
       <point x="347" y="189" type="line"/>
       <point x="337" y="188"/>
       <point x="326" y="188"/>
@@ -28,13 +35,6 @@
       <point x="317" y="658" type="curve" smooth="yes"/>
       <point x="123" y="658"/>
       <point x="36" y="537"/>
-      <point x="36" y="397" type="curve" smooth="yes"/>
-      <point x="36" y="267"/>
-      <point x="101" y="157"/>
-      <point x="316" y="157" type="curve" smooth="yes"/>
-      <point x="326" y="157"/>
-      <point x="337" y="157"/>
-      <point x="347" y="158" type="curve"/>
     </contour>
     <contour>
       <point x="364" y="-1" type="line"/>
@@ -101,6 +101,10 @@
       <point x="391" y="270" type="line"/>
     </contour>
     <contour>
+      <point x="234" y="-2" type="curve"/>
+      <point x="271" y="-1"/>
+      <point x="331" y="-1"/>
+      <point x="364" y="-1" type="curve"/>
       <point x="364" y="483" type="line"/>
       <point x="334" y="483"/>
       <point x="274" y="484"/>
@@ -117,10 +121,6 @@
       <point x="234" y="23" type="curve"/>
       <point x="228" y="19"/>
       <point x="228" y="3"/>
-      <point x="234" y="-2" type="curve"/>
-      <point x="271" y="-1"/>
-      <point x="331" y="-1"/>
-      <point x="364" y="-1" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -136,7 +136,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>85743dc3cd5f300da75074029a845bb0e90857ee3aca09e438ebd64b39332fbfcac5318fdf910fd1def4e8f31f0ae262cd19dc09fc9829f1a626890ee6904865</string>
+    <string>6e3ae3effc61aed8fd0ef02340c08ab3330d4968b53e7f69366381c7dcb76b12210787f235af40d1e5084ecdbcbf75ed2ff1672c145237be96ab133c0856b266</string>
     <key>hintSetList</key>
     <array>
       <dict>

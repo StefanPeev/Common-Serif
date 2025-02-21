@@ -172,8 +172,6 @@
   <string>G_ehookstrokecyr.glif</string>
   <key>H</key>
   <string>H_.glif</string>
-  <key>H18533</key>
-  <string>H_18533.glif</string>
   <key>H22073</key>
   <string>H_22073.glif</string>
   <key>Hahookcyr</key>
@@ -496,8 +494,18 @@
   <string>Z_hwe-cy.glif</string>
   <key>Zjekomicyr</key>
   <string>Z_jekomicyr.glif</string>
-  <key>_corner.LClb</key>
-  <string>_corner.L_C_lb.glif</string>
+  <key>_cap._LC_top</key>
+  <string>_cap._L_C__top.glif</string>
+  <key>_corner._LC_lb</key>
+  <string>_corner._L_C__lb.glif</string>
+  <key>_corner._UC_lb</key>
+  <string>_corner._U_C__lb.glif</string>
+  <key>_corner._UC_lt</key>
+  <string>_corner._U_C__lt.glif</string>
+  <key>_corner._UC_rb</key>
+  <string>_corner._U_C__rb.glif</string>
+  <key>_corner._UC_rt</key>
+  <string>_corner._U_C__rt.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>a.sc</key>
@@ -700,10 +708,6 @@
   <string>chi.glif</string>
   <key>chimod</key>
   <string>chimod.glif</string>
-  <key>circle</key>
-  <string>circle.glif</string>
-  <key>circledotted</key>
-  <string>circledotted.glif</string>
   <key>circlemultiply</key>
   <string>circlemultiply.glif</string>
   <key>circleplus</key>
@@ -1176,8 +1180,6 @@
   <string>integraltp.glif</string>
   <key>intersection</key>
   <string>intersection.glif</string>
-  <key>invsmileface</key>
-  <string>invsmileface.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
   <key>iota</key>
@@ -1284,8 +1286,6 @@
   <string>longs_s.glif</string>
   <key>longs_t</key>
   <string>longs_t.glif</string>
-  <key>lozenge</key>
-  <string>lozenge.glif</string>
   <key>lslash</key>
   <string>lslash.glif</string>
   <key>lslash.sc</key>
@@ -1728,8 +1728,6 @@
   <string>sjekomicyr.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
-  <key>smileface</key>
-  <string>smileface.glif</string>
   <key>softsigncomb-cy</key>
   <string>softsigncomb-cy.glif</string>
   <key>soundcopyright</key>
@@ -1746,8 +1744,6 @@
   <string>suchthat.glif</string>
   <key>summation</key>
   <string>summation.glif</string>
-  <key>sun</key>
-  <string>sun.glif</string>
   <key>t</key>
   <string>t.glif</string>
   <key>t.inferior</key>
@@ -1834,8 +1830,6 @@
   <string>tonos.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
-  <key>triagdn</key>
-  <string>triagdn.glif</string>
   <key>triagup</key>
   <string>triagup.glif</string>
   <key>tseReversed-cy</key>
@@ -1882,6 +1876,8 @@
   <string>twothirds.glif</string>
   <key>u</key>
   <string>u.glif</string>
+  <key>u.cv01</key>
+  <string>u.cv01.glif</string>
   <key>u.inferior</key>
   <string>u.inferior.glif</string>
   <key>u.sc</key>
@@ -3798,6 +3794,8 @@
   <string>uni1D_66.glif</string>
   <key>uni1D67</key>
   <string>uni1D_67.glif</string>
+  <key>uni1D7D</key>
+  <string>uni1D_7D_.glif</string>
   <key>uni1D9C</key>
   <string>uni1D_9C_.glif</string>
   <key>uni1DA0</key>
@@ -4998,6 +4996,8 @@
   <string>uni2138.glif</string>
   <key>uni2139</key>
   <string>uni2139.glif</string>
+  <key>uni214E</key>
+  <string>uni214E_.glif</string>
   <key>uni214F</key>
   <string>uni214F_.glif</string>
   <key>uni2155</key>
@@ -5514,6 +5514,8 @@
   <string>uni25B_6.glif</string>
   <key>uni25B7</key>
   <string>uni25B_7.glif</string>
+  <key>uni25BC</key>
+  <string>uni25B_C_.glif</string>
   <key>uni25BD</key>
   <string>uni25B_D_.glif</string>
   <key>uni25C0</key>
@@ -5526,8 +5528,16 @@
   <string>uni25C_7.glif</string>
   <key>uni25C9</key>
   <string>uni25C_9.glif</string>
+  <key>uni25CA</key>
+  <string>uni25C_A_.glif</string>
+  <key>uni25CB</key>
+  <string>uni25C_B_.glif</string>
+  <key>uni25CC</key>
+  <string>uni25C_C_.glif</string>
   <key>uni25CE</key>
   <string>uni25C_E_.glif</string>
+  <key>uni25CF</key>
+  <string>uni25C_F_.glif</string>
   <key>uni25D0</key>
   <string>uni25D_0.glif</string>
   <key>uni25D1</key>
@@ -5560,6 +5570,12 @@
   <string>uni262F_.glif</string>
   <key>uni2639</key>
   <string>uni2639.glif</string>
+  <key>uni263A</key>
+  <string>uni263A_.glif</string>
+  <key>uni263B</key>
+  <string>uni263B_.glif</string>
+  <key>uni263C</key>
+  <string>uni263C_.glif</string>
   <key>uni263D</key>
   <string>uni263D_.glif</string>
   <key>uni263E</key>

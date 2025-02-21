@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0197" format="2">
+  <advance width="299"/>
+  <unicode hex="0197"/>
+  <outline>
+    <component base="I"/>
+    <contour>
+      <point x="210" y="321" type="line"/>
+      <point x="210" y="360" type="line"/>
+      <point x="37" y="360" type="line" smooth="yes"/>
+      <point x="28" y="360"/>
+      <point x="18" y="345"/>
+      <point x="18" y="335" type="curve" smooth="yes"/>
+      <point x="18" y="329"/>
+      <point x="21" y="321"/>
+      <point x="29" y="321" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="125" y="321" type="line"/>
+      <point x="258" y="321" type="line" smooth="yes"/>
+      <point x="270" y="321"/>
+      <point x="279" y="336"/>
+      <point x="279" y="347" type="curve" smooth="yes"/>
+      <point x="279" y="352"/>
+      <point x="276" y="360"/>
+      <point x="267" y="360" type="curve" smooth="yes"/>
+      <point x="125" y="360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2bc6ca5140a72f01a513f398d383a8673069b460d7d7d5059af20b4bcd3158dba780c6cf9391a706825ba8148af664351e53a4bcb58e113abe3c177a02203f24</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 321 39</string>
+          <string>hstem 614 33</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 106 85</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

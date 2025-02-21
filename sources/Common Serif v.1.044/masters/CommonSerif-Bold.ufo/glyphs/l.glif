@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+  <advance width="314"/>
+  <unicode hex="006C"/>
+  <anchor x="143" y="740" name="top"/>
+  <anchor x="156" y="-60" name="b.minus-60"/>
+  <anchor x="273" y="652" name="apostrophe"/>
+  <outline>
+    <contour>
+      <point x="19" y="-2" type="curve"/>
+      <point x="61" y="-1"/>
+      <point x="108" y="0"/>
+      <point x="161" y="0" type="curve"/>
+      <point x="161" y="122" type="line"/>
+      <point x="91" y="122" type="line"/>
+      <point x="91" y="39"/>
+      <point x="80" y="35"/>
+      <point x="19" y="32" type="curve"/>
+      <point x="13" y="26"/>
+      <point x="13" y="4"/>
+    </contour>
+    <contour>
+      <point x="91" y="110" type="line"/>
+      <point x="221" y="110" type="line"/>
+      <point x="221" y="590" type="line"/>
+      <point x="91" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.9367" y="576" type="curve"/>
+      <point x="220.937" y="576" type="line"/>
+      <point x="220.937" y="627.375"/>
+      <point x="222.015" y="655.678"/>
+      <point x="224.937" y="681" type="curve"/>
+      <point x="224.937" y="691.674"/>
+      <point x="216.378" y="698"/>
+      <point x="201.937" y="698" type="curve"/>
+      <point x="172.701" y="686.306"/>
+      <point x="88.627" y="673.08"/>
+      <point x="23.9367" y="670" type="curve"/>
+      <point x="22.2367" y="664.9"/>
+      <point x="23.5081" y="643.286"/>
+      <point x="25.9367" y="636" type="curve"/>
+      <point x="78.5414" y="630.942"/>
+      <point x="90.9367" y="619.5"/>
+    </contour>
+    <contour>
+      <point x="151" y="0" type="line"/>
+      <point x="196" y="-1"/>
+      <point x="248" y="-1"/>
+      <point x="293" y="-2" type="curve"/>
+      <point x="299" y="4"/>
+      <point x="299" y="26"/>
+      <point x="293" y="32" type="curve"/>
+      <point x="232" y="35"/>
+      <point x="221" y="39"/>
+      <point x="221" y="122" type="curve"/>
+      <point x="151" y="122" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=dotlessi-6</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1b0ddd726f4102f1c4ce5f0a34fc5c028467f7ecd1ac987b48f0dd3b48447b72624a03f8288bec0f0891c382529752c3c7962aa94cdf5cf4a2bc694b821abd53</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 34</string>
+          <string>hstem 636 34</string>
+          <string>hstem 698 -20</string>
+          <string>vstem 91 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

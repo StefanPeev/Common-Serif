@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F8A" format="2">
+  <advance width="742"/>
+  <unicode hex="1F8A"/>
+  <anchor x="405.5" y="620" name="t.ring"/>
+  <anchor x="395.5" y="733" name="t.gr_UC"/>
+  <anchor x="647.5" y="10" name="b.ogonek"/>
+  <anchor x="400.5" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="uni1F0A"/>
+    <component base="uni0345" xOffset="559.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1F0A+uni0345</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

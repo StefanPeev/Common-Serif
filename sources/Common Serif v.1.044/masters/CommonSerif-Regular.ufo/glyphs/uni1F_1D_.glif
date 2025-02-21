@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F1D" format="2">
+  <advance width="835"/>
+  <unicode hex="1F1D"/>
+  <anchor x="594.5" y="10" name="b.ogonek"/>
+  <anchor x="558.5" y="-60" name="b.minus-60"/>
+  <anchor x="633.5" y="0" name="b.cedilla"/>
+  <outline>
+    <component base="Epsilon" xOffset="275.5"/>
+    <component base="uni1FDE" xOffset="-20" yOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=E</string>
+  <key>com.fontlab.recipe</key>
+  <string>=Epsilon@290,-2+uni1FDE@20,480</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

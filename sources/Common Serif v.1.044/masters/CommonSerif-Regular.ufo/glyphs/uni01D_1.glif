@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01D1" format="2">
+  <advance width="700"/>
+  <unicode hex="01D1"/>
+  <anchor x="383" y="10" name="b.ogonek"/>
+  <anchor x="343" y="-60" name="b.minus-60"/>
+  <anchor x="526" y="561" name="t.horn"/>
+  <outline>
+    <component base="O"/>
+    <component base="caron.cap" xOffset="506"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+caron.cap</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

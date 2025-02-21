@@ -3,43 +3,7 @@
   <advance width="264"/>
   <unicode hex="0140"/>
   <outline>
-    <contour>
-      <point x="95" y="122" type="line" smooth="yes"/>
-      <point x="95" y="39"/>
-      <point x="84" y="34"/>
-      <point x="23" y="31" type="curve"/>
-      <point x="17" y="25"/>
-      <point x="17" y="4"/>
-      <point x="23" y="-2" type="curve"/>
-      <point x="58" y="-1"/>
-      <point x="95" y="0"/>
-      <point x="135" y="0" type="curve" smooth="yes"/>
-      <point x="175" y="0"/>
-      <point x="213" y="-1"/>
-      <point x="246" y="-2" type="curve"/>
-      <point x="252" y="4"/>
-      <point x="252" y="25"/>
-      <point x="246" y="31" type="curve"/>
-      <point x="185" y="34"/>
-      <point x="174" y="39"/>
-      <point x="174" y="122" type="curve" smooth="yes"/>
-      <point x="174" y="583" type="line" smooth="yes"/>
-      <point x="174" y="648"/>
-      <point x="178" y="688"/>
-      <point x="178" y="688" type="curve"/>
-      <point x="178" y="695"/>
-      <point x="174" y="698"/>
-      <point x="165" y="698" type="curve"/>
-      <point x="140" y="688"/>
-      <point x="65" y="674"/>
-      <point x="25" y="671" type="curve"/>
-      <point x="23" y="663"/>
-      <point x="25" y="647"/>
-      <point x="31" y="641" type="curve"/>
-      <point x="89" y="637"/>
-      <point x="95" y="634"/>
-      <point x="95" y="559" type="curve" smooth="yes"/>
-    </contour>
+    <component base="l"/>
     <contour>
       <point x="213" y="360" type="curve" smooth="yes"/>
       <point x="213" y="336"/>
@@ -57,12 +21,14 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>05e2d95d08ef0363b5c8d178f4a8eda46716de2418ee020f49268737ec3db9bad81914818d70af190fc9274026ab1343eeb27397fe187f1a1daafd743cf0248e</string>
+    <string>w264m213,360c213,336 231,313 261,313c288,313 308,335 308,360c308,387 284,409 261,409c234,409 213,385 213,360</string>
     <key>hintSetList</key>
     <array>
       <dict>
