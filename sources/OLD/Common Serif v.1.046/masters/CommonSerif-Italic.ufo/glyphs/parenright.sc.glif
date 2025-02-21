@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.sc" format="2">
+  <advance width="295"/>
+  <outline>
+    <contour>
+      <point x="12" y="-51" type="curve"/>
+      <point x="27" y="-66" type="line"/>
+      <point x="184" y="33"/>
+      <point x="323" y="214"/>
+      <point x="323" y="409" type="curve" smooth="yes"/>
+      <point x="323" y="528"/>
+      <point x="271" y="637"/>
+      <point x="179" y="717" type="curve"/>
+      <point x="159" y="703" type="line"/>
+      <point x="222" y="629"/>
+      <point x="247" y="538"/>
+      <point x="247" y="439" type="curve" smooth="yes"/>
+      <point x="247" y="253"/>
+      <point x="159" y="70"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w295m12,-51l27,-66c184,33 323,214 323,409c323,528 271,637 179,717l159,703c222,629 247,538 247,439c247,253 159,70 12,-51</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -66 783</string>
+          <string>vstem 249 73</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

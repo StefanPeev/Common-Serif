@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="597"/>
+  <unicode hex="0166"/>
+  <outline>
+    <component base="T"/>
+    <contour>
+      <point x="322" y="321" type="line"/>
+      <point x="322" y="360" type="line"/>
+      <point x="149" y="360" type="line" smooth="yes"/>
+      <point x="140" y="360"/>
+      <point x="130" y="345"/>
+      <point x="130" y="335" type="curve" smooth="yes"/>
+      <point x="130" y="329"/>
+      <point x="133" y="321"/>
+      <point x="141" y="321" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="344" y="321" type="line"/>
+      <point x="477" y="321" type="line" smooth="yes"/>
+      <point x="489" y="321"/>
+      <point x="498" y="336"/>
+      <point x="498" y="347" type="curve" smooth="yes"/>
+      <point x="498" y="352"/>
+      <point x="495" y="360"/>
+      <point x="486" y="360" type="curve" smooth="yes"/>
+      <point x="344" y="360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fec701b87835dbddbeeb6e15aace7e92068662a654fb134b2329ffbe5a1529e4b78294430e4fe24f53815edc71bf34f631f022678513c011a98f454f5a75944b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 355 39</string>
+          <string>hstem 605 40</string>
+          <string>vstem 265 85</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

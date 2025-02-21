@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kip" format="2">
+  <advance width="637"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <component base="K" xOffset="-87.5"/>
+    <contour>
+      <point x="156.852" y="306.97" type="line"/>
+      <point x="281.052" y="306.97" type="line"/>
+      <point x="281.052" y="354.97" type="line"/>
+      <point x="156.852" y="354.97" type="line"/>
+    </contour>
+    <contour>
+      <point x="288.723" y="306.957" type="line"/>
+      <point x="444.877" y="307.031" type="line" smooth="yes"/>
+      <point x="455.865" y="307.037"/>
+      <point x="470" y="318.427"/>
+      <point x="470" y="335.882" type="curve" smooth="yes"/>
+      <point x="470" y="345.238"/>
+      <point x="466.567" y="354.97"/>
+      <point x="459.877" y="354.97" type="curve" smooth="yes"/>
+      <point x="288.723" y="354.957" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="307.492" type="curve" smooth="yes"/>
+      <point x="141.72" y="307.492" type="line"/>
+      <point x="141.853" y="354.728" type="line"/>
+      <point x="45" y="354.728" type="line" smooth="yes"/>
+      <point x="36.0155" y="354.728"/>
+      <point x="20" y="344.178"/>
+      <point x="20" y="323.475" type="curve" smooth="yes"/>
+      <point x="20" y="315.169"/>
+      <point x="23.246" y="307.492"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>K</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c46175650234bb7622f5c81dcfac4351ce809c5076de09c6e3f780801dc8531ae026f988e81e65129b1ac147d2d90ea7b64cbd15fd964c20a02127b7a3b440ed</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 306.97 48</string>
+          <string>hstem 614 33</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 18.5 85</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

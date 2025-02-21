@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="380"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <component base="dotaccent" xOffset="-2"/>
+    <component base="dotaccent" xOffset="168"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=380</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w380</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 94</string>
+          <string>vstem 58 94</string>
+          <string>vstem 398 94</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

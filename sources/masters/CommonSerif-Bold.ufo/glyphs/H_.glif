@@ -8,7 +8,7 @@
   <anchor x="414" y="-60" name="ypogegrammeni"/>
   <outline>
     <contour>
-      <point x="113" y="122" type="line" name=".sk2"/>
+      <point x="113" y="122" type="line" smooth="yes" name=".sk2"/>
       <point x="113" y="55"/>
       <point x="94" y="35"/>
       <point x="30" y="32" type="curve"/>
@@ -27,8 +27,8 @@
       <point x="336" y="32" type="curve"/>
       <point x="272" y="35"/>
       <point x="253" y="55"/>
-      <point x="253" y="122" type="curve"/>
-      <point x="253" y="523" type="line" name=".sk8"/>
+      <point x="253" y="122" type="curve" smooth="yes"/>
+      <point x="253" y="523" type="line" smooth="yes" name=".sk8"/>
       <point x="253" y="590"/>
       <point x="272" y="610"/>
       <point x="336" y="613" type="curve"/>
@@ -45,12 +45,12 @@
       <point x="20" y="641"/>
       <point x="20" y="619"/>
       <point x="30" y="613" type="curve"/>
-      <point x="94.1187" y="610.193"/>
-      <point x="113" y="589.719"/>
-      <point x="113" y="523" type="curve"/>
+      <point x="94" y="610"/>
+      <point x="113" y="590"/>
+      <point x="113" y="523" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="563" y="122" type="line" name=".sk4"/>
+      <point x="563" y="122" type="line" smooth="yes" name=".sk4"/>
       <point x="563" y="55"/>
       <point x="544" y="35"/>
       <point x="480" y="32" type="curve"/>
@@ -69,8 +69,8 @@
       <point x="786" y="32" type="curve"/>
       <point x="722" y="35"/>
       <point x="703" y="55"/>
-      <point x="703" y="122" type="curve"/>
-      <point x="703" y="523" type="line" name=".sk7"/>
+      <point x="703" y="122" type="curve" smooth="yes"/>
+      <point x="703" y="523" type="line" smooth="yes" name=".sk7"/>
       <point x="703" y="590"/>
       <point x="722" y="610"/>
       <point x="786" y="613" type="curve"/>
@@ -87,9 +87,9 @@
       <point x="470" y="641"/>
       <point x="470" y="619"/>
       <point x="480" y="613" type="curve"/>
-      <point x="544.119" y="610.193"/>
-      <point x="563" y="589.719"/>
-      <point x="563" y="523" type="curve"/>
+      <point x="544" y="610"/>
+      <point x="563" y="590"/>
+      <point x="563" y="523" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="218" y="319" type="line"/>
@@ -110,7 +110,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>614883ae8600f70308dcf7bf15b0e9bf00eefa3113cf847b39e67fa8e5d3fcf16adc1479b3c01c7107c23ecb13aec8797914b2f9d0343cc1dad2bab8a9de80ae</string>
+    <string>fb90fbdbd01e3c57c31c72670d94f17b5f8a3fc9eeab04cbfa5070260d226a02d57e58e5918c0101c833552717aaa05a3809bab5548d867ec56a82d96fc32486</string>
     <key>hintSetList</key>
     <array>
       <dict>

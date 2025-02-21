@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilontonos" format="2">
+  <advance width="783"/>
+  <unicode hex="038E"/>
+  <anchor x="476.031" y="740" name="t.gr_UC"/>
+  <anchor x="511.031" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="Upsilon" xOffset="159.031"/>
+    <component base="tonos" xOffset="-20.2525" yOffset="-19.9951"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Y</string>
+  <key>com.fontlab.recipe</key>
+  <string>=Upsilon@160,-2+tonos@10,480</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

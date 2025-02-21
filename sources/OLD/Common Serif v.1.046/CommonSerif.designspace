@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" minimum="400" default="400" tag="wght" maximum="700">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source name="Bold" familyname="Common Serif" filename="masters/CommonSerif-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </source>
+  <source name="Regular" familyname="Common Serif" filename="masters/CommonSerif-Regular.ufo" stylename="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>public.skipExportGlyphs</key>
+   <array>
+    <string>_corner._LC_lb</string>
+    <string>_corner._UC_lb</string>
+    <string>_corner._UC_rb</string>
+    <string>_corner._UC_lt</string>
+    <string>_corner._UC_rt</string>
+    <string>_cap._LC_top</string>
+   </array>
+  </dict>
+ </lib>
+ <instances>
+  <instance name="Regular" familyname="Common Serif" filename="instances/CommonSerif-Regular.ufo" stylename="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="Medium" familyname="Common Serif" filename="instances/CommonSerif-Medium.ufo" stylename="Medium">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBold" familyname="Common Serif" filename="instances/CommonSerif-SemiBold.ufo" stylename="SemiBold">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance name="Bold" familyname="Common Serif" filename="instances/CommonSerif-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

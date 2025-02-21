@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="2">
+  <advance width="272"/>
+  <unicode hex="012D"/>
+  <anchor x="124" y="500" name="top"/>
+  <anchor x="151" y="-60" name="b.minus-60"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="breve" xOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+breve</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

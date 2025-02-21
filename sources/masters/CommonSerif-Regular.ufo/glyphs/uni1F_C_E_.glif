@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1FCE" format="2">
-  <advance width="329"/>
+  <advance width="204"/>
   <unicode hex="1FCE"/>
-  <anchor x="163" y="510" name="_t.gr_LC"/>
+  <anchor x="38" y="510" name="_t.gr_LC"/>
   <outline>
-    <component base="tonos" xOffset="124.5"/>
-    <component base="uni0313" xOffset="175.299"/>
+    <component base="tonos"/>
+    <component base="uni0313" xOffset="50"/>
   </outline>
   <lib>
   <dict>
@@ -18,7 +18,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w329</string>
+    <string>w204</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -27,8 +27,8 @@
           <string>hstem 510 179</string>
           <string>hstem 617 72</string>
           <string>hstem 699 -20</string>
-          <string>vstem 36.5 104.</string>
-          <string>vstem 96.5 44.</string>
+          <string>vstem -89 104</string>
+          <string>vstem -29 44</string>
         </array>
       </dict>
     </array>

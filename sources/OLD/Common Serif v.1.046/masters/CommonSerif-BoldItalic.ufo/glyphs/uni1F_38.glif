@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F38" format="2">
+  <advance width="443"/>
+  <unicode hex="1F38"/>
+  <anchor x="342" y="10" name="b.ogonek"/>
+  <anchor x="270" y="-60" name="b.minus-60"/>
+  <anchor x="248" y="724" name="t.gr"/>
+  <outline>
+    <component base="Iota" xOffset="120"/>
+    <component base="uni0313" xOffset="414.625" yOffset="216"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I+120</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+uni0313</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

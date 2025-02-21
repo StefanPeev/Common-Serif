@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EAC" format="2">
+  <advance width="710"/>
+  <unicode hex="1EAC"/>
+  <anchor x="462" y="605" name="t.ring"/>
+  <anchor x="631" y="10" name="b.ogonek"/>
+  <anchor x="332" y="-60" name="ypogegrammeni"/>
+  <outline>
+    <component base="uni1EA0"/>
+    <component base="circumflex.cap" xOffset="606"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni1EA0+circumflex.cap</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F3D" format="2">
-  <advance width="548"/>
+  <advance width="416"/>
   <unicode hex="1F3D"/>
-  <anchor x="447" y="10" name="b.ogonek"/>
-  <anchor x="375" y="-60" name="b.minus-60"/>
+  <anchor x="315" y="10" name="b.ogonek"/>
+  <anchor x="243" y="-60" name="b.minus-60"/>
   <outline>
-    <component base="Iota" xOffset="225"/>
-    <component base="uni03140301" xOffset="271" yOffset="28"/>
+    <component base="Iota" xOffset="93"/>
+    <component base="uni03140301" xOffset="139" yOffset="28"/>
   </outline>
   <lib>
   <dict>
@@ -18,8 +18,6 @@
   <string>=I</string>
   <key>com.fontlab.recipe</key>
   <string>Iota+uni03140301</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

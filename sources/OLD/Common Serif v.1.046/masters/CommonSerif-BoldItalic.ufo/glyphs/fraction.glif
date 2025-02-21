@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="2">
+  <advance width="44"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="303.157" y="657" type="line"/>
+      <point x="-163.234" y="-10" type="line"/>
+      <point x="-122.234" y="-10" type="line"/>
+      <point x="345.157" y="657" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="657"/>
+  <guideline angle="0" x="0" y="-10"/>
+  <guideline angle="235.037" x="264" y="601"/>
+  <guideline angle="54.9786" x="-153" y="-54"/>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w44m303.16,657l-163.23,-10l-122.23,-10l345.16,657</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 601 -20</string>
+          <string>vstem -234 500</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

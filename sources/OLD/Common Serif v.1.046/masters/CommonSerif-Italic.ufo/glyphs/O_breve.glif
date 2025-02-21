@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="2">
+  <advance width="668"/>
+  <unicode hex="014E"/>
+  <anchor x="389" y="10" name="b.ogonek"/>
+  <anchor x="338" y="-60" name="b.minus-60"/>
+  <anchor x="691" y="561" name="t.horn"/>
+  <outline>
+    <component base="O"/>
+    <component base="breve.cap" xOffset="582"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+breve.cap</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

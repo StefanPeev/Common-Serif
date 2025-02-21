@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeeighths" format="2">
+  <advance width="661"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="uni00B3" xOffset="-32.6915" yOffset="-153"/>
+    <component base="fraction" xOffset="321"/>
+    <component base="uni2078" xOffset="263.883" yOffset="-464"/>
+  </outline>
+  <guideline angle="0" x="0" y="657"/>
+  <guideline angle="0" x="0" y="-4"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni00B3</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni2078</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w661</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -139 28</string>
+          <string>hstem 195 26</string>
+          <string>hstem 255 30</string>
+          <string>hstem 464 -20</string>
+          <string>hstem 575 30</string>
+          <string>hstem 601 -20</string>
+          <string>vstem 262 92</string>
+          <string>vstem 280 82</string>
+          <string>vstem 356 70</string>
+          <string>vstem 414 73</string>
+          <string>vstem 537 85</string>
+          <string>vstem 572 61</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -27,7 +27,7 @@
     </contour>
     <contour>
       <point x="-89" y="676" type="curve"/>
-      <point x="-138" y="593" type="line" smooth="yes"/>
+      <point x="-138" y="593" type="line"/>
       <point x="-140" y="589"/>
       <point x="-141" y="586"/>
       <point x="-141" y="581" type="curve" smooth="yes"/>
@@ -49,8 +49,6 @@
   <guideline angle="90" x="-248" y="0"/>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oacute" format="2">
+  <advance width="502"/>
+  <unicode hex="00F3"/>
+  <anchor x="338" y="10" name="b.ogonek"/>
+  <anchor x="250" y="-60" name="b.minus-60"/>
+  <anchor x="321" y="396" name="t.horn"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0301" xOffset="486"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni0301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni024C" format="2">
+  <advance width="591"/>
+  <unicode hex="024C"/>
+  <outline>
+    <component base="R" xOffset="-0.5"/>
+    <contour>
+      <point x="46" y="290" type="curve" smooth="yes"/>
+      <point x="136" y="290" type="line"/>
+      <point x="136" y="325" type="line"/>
+      <point x="54" y="325" type="line" smooth="yes"/>
+      <point x="45" y="325"/>
+      <point x="35" y="314"/>
+      <point x="35" y="304" type="curve" smooth="yes"/>
+      <point x="35" y="298"/>
+      <point x="38" y="290"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=R</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w591m46,290l136,290l136,325l54,325c45,325 35,314 35,304c35,298 38,290 46,290</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 31</string>
+          <string>hstem -2 33</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 290 324</string>
+          <string>hstem 290 35</string>
+          <string>hstem 291 34</string>
+          <string>hstem 325 293</string>
+          <string>hstem 645 -20</string>
+          <string>vstem 191 85</string>
+          <string>vstem 492 92</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

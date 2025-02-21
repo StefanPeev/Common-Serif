@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F18" format="2">
+  <advance width="668"/>
+  <unicode hex="1F18"/>
+  <anchor x="345" y="-60" name="b.minus-60"/>
+  <anchor x="389" y="10" name="b.cedilla"/>
+  <anchor x="441" y="10" name="b.ogonek"/>
+  <anchor x="218" y="724" name="t.gr"/>
+  <outline>
+    <component base="Epsilon" xOffset="90"/>
+    <component base="uni0313" xOffset="512.125" yOffset="216"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=E+90</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=E</string>
+  <key>com.fontlab.recipe</key>
+  <string>Epsilon+uni0313</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

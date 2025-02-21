@@ -42,13 +42,13 @@
       <point x="467.413" y="522.713" type="curve" smooth="yes"/>
       <point x="466.213" y="522.713"/>
       <point x="464.413" y="522.713"/>
-      <point x="462.613" y="522.113" type="curve" smooth="yes"/>
+      <point x="462.613" y="522.113" type="curve"/>
       <point x="458.413" y="521.513"/>
       <point x="453.613" y="520.313"/>
       <point x="447.613" y="517.913" type="curve" smooth="yes"/>
       <point x="444.613" y="516.713"/>
       <point x="441.013" y="515.513"/>
-      <point x="437.413" y="513.713" type="curve" smooth="yes"/>
+      <point x="437.413" y="513.713" type="curve"/>
       <point x="399.613" y="496.913"/>
       <point x="357.613" y="482.513"/>
       <point x="304.213" y="460.913" type="curve"/>
@@ -71,7 +71,7 @@
       <point x="336.613" y="229.913" type="line"/>
       <point x="328.813" y="195.113"/>
       <point x="313.213" y="183.713"/>
-      <point x="294.013" y="178.913" type="curve" smooth="yes"/>
+      <point x="294.013" y="178.913" type="curve"/>
       <point x="285.613" y="177.113"/>
       <point x="276.613" y="176.513"/>
       <point x="267.013" y="175.913" type="curve"/>
@@ -148,27 +148,25 @@
   <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>one_six</string>
-  <key>public.markColor</key>
-  <string>0.6,0.602,1,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9d4b00206d40fbb8d08b56e70ad26feb85d6b174a2b30404dcdb2cca486ae43c944f54dfed6754a991e62c0a5eb7089c51c20b242cc552a487cf944cb008de1d</string>
+    <string>d049e2eaa65327be6eb0ea47867c13ffccae706bce906fab4b0cd6f0b0a9767b3a414db38419f6109ba2ae8701238cc4f7278b7be94838f29fe8b335e0b1d281</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 144.18 25.2</string>
-          <string>hstem 155.51 20.4</string>
-          <string>hstem 342.78 30.</string>
-          <string>hstem 512.51 10.2</string>
-          <string>hstem 522.71 -20</string>
-          <string>vstem 260.41 214.8</string>
-          <string>vstem 443.24 72.6</string>
-          <string>vstem 617.84 78.</string>
+          <string>hstem 144 25</string>
+          <string>hstem 155 20</string>
+          <string>hstem 342 30</string>
+          <string>hstem 512 10</string>
+          <string>hstem 522 -20</string>
+          <string>vstem 260 214</string>
+          <string>vstem 443 72</string>
+          <string>vstem 617 78</string>
         </array>
       </dict>
     </array>

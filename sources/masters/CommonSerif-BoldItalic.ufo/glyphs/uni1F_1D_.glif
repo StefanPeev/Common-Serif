@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F1D" format="2">
-  <advance width="803"/>
+  <advance width="671"/>
   <unicode hex="1F1D"/>
-  <anchor x="480" y="-60" name="b.minus-60"/>
-  <anchor x="524" y="10" name="b.cedilla"/>
-  <anchor x="576" y="10" name="b.ogonek"/>
+  <anchor x="348" y="-60" name="b.minus-60"/>
+  <anchor x="392" y="10" name="b.cedilla"/>
+  <anchor x="444" y="10" name="b.ogonek"/>
   <outline>
-    <component base="Epsilon" xOffset="225"/>
-    <component base="uni03140301" xOffset="271" yOffset="28"/>
+    <component base="Epsilon" xOffset="93"/>
+    <component base="uni03140301" xOffset="139" yOffset="28"/>
   </outline>
   <lib>
   <dict>
@@ -19,8 +19,6 @@
   <string>=E</string>
   <key>com.fontlab.recipe</key>
   <string>Epsilon+uni03140301</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>

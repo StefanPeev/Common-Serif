@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1F0D" format="2">
-  <advance width="718"/>
+  <advance width="710"/>
   <unicode hex="1F0D"/>
-  <anchor x="470" y="605" name="t.ring"/>
-  <anchor x="639" y="10" name="b.ogonek"/>
-  <anchor x="360" y="-60" name="ypogegrammeni"/>
+  <anchor x="462" y="605" name="t.ring"/>
+  <anchor x="631" y="10" name="b.ogonek"/>
+  <anchor x="352" y="-60" name="ypogegrammeni"/>
   <outline>
-    <component base="Alpha" xOffset="8"/>
-    <component base="uni03140301" xOffset="264" yOffset="-38"/>
+    <component base="Alpha"/>
+    <component base="uni03140301" xOffset="256" yOffset="-38"/>
   </outline>
   <lib>
   <dict>
@@ -17,8 +17,6 @@
   <string>=A</string>
   <key>com.fontlab.recipe</key>
   <string>Alpha+uni03140301</string>
-  <key>public.markColor</key>
-  <string>0.999,1,0.6,1</string>
   </dict>
   </lib>
 </glyph>
