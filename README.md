@@ -62,21 +62,34 @@ Projects using Common Serif
 Have you made something nice with Common Serif?  
 [Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Common-Serif/discussions/categories/show-and-tell).  
   
-Local Fonts project
+Localfonts projects  
 -------------------
-
-The **Local Fonts** project consists of the following fonts:
-
-+ [Coval](https://github.com/StefanPeev/coval)
-+ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
-+ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
-+ [Perun](https://github.com/StefanPeev/Perun)
-+ [Pliska](https://github.com/StefanPeev/Pliska)
-+ [Veleka](https://github.com/StefanPeev/Veleka)
-+ [Common Sans](https://github.com/StefanPeev/Common-Sans)
-+ [Common Serif](https://github.com/StefanPeev/Common-Serif)
-+ [Repo](https://github.com/StefanPeev/Repo)
-
+  
+The primarily aim of the project **LOCALFONTS** is to extend Cyrillic in fonts published under licenses which permit modifications and derivative works by adding Cyrillic local forms (Bulgarian, Serbian, Macedonian, Ukrainian etc.).  
+The **Localfonts** project consists of the following fonts:
+  
++ [Acari Sans](https://github.com/StefanPeev/acari-sans/tree/local) 
++ [Common Sans](https://github.com/StefanPeev/Common-Sans)  
++ [Common Serif](https://github.com/StefanPeev/Common-Serif)  
++ [Coval](https://github.com/StefanPeev/coval)  
++ [Dinish](https://github.com/StefanPeev/dinish/tree/cyrillic)  
++ [Ezerovo](https://github.com/StefanPeev/Ezerovo)  
++ [Gabriela](https://github.com/StefanPeev/Gabriela)  
++ [Grazhdanskiy Shrift](https://github.com/StefanPeev/Grazhdanskiy-Shrift)  
++ [Involve](https://github.com/StefanPeev/Involve)  
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)  
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)  
++ [Listopad | Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Perun](https://github.com/StefanPeev/Perun)  
++ [Pliska](https://github.com/StefanPeev/Pliska)  
++ [Prolog | Libre Moretus](https://github.com/StefanPeev/libre-moretus/tree/prolog)  
++ [Repo](https://github.com/StefanPeev/Repo)  
++ [Scada | Cascade](https://github.com/StefanPeev/Scada-Cascade/tree/local)  
++ [Spritulo](https://github.com/StefanPeev/spritulo)  
++ [Terminalia](https://github.com/StefanPeev/Terminalia)  
++ [Veleka](https://github.com/StefanPeev/Veleka)  
+  
 Donations
 ---------
 
